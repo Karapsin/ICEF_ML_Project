@@ -45,7 +45,7 @@ for i in range(len(addresses_df)):
     print(f"searching coords for {address}")
 
     coords = get_coords(address, "address")
-    options_list = [('С', 'строение'), ('ск', 'к'), ('к', 'корпус')]
+    options_list = [('с', 'строение'), ('С', 'строение'), ('ск', 'к'), ('к', 'корпус')]
 
     for letter, replacement in options_list:
         coords = try_new_address(address, coords, letter, replacement)
@@ -64,5 +64,5 @@ addresses_df['coords'] = coords_list
          how = 'left'
   )
  .drop_duplicates()
- .to_csv("flats_data_coords.csv")
+ .to_csv("csv\\flats_data_coords.csv")
  )

@@ -1,9 +1,6 @@
 import os
 import pandas as pd
 
-pd.set_option('display.max_columns', None)
-pd.set_option('display.width', 320)
-
 files = os.listdir('../data_load')
 df = pd.read_csv(f'data_load\\{files[0]}')
 for file in files[1:]:
@@ -31,7 +28,7 @@ fixed_prices = (df[['url', 'price_per_month']]
                )
 
 #attaching fixed prices
-#filtering null adreses
+#filtering null addresses
 #saving
 outliers_urls = pd.read_csv('../csv/outliers_to_delete.csv')['url']
 (df

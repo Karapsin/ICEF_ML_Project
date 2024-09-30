@@ -3,8 +3,7 @@ import cianparser
 import pandas as pd
 import os
 
-os.chdir("../data_load")
-
+os.chdir("data_load")
 already_parsed_set = set([x.split('.csv', 1)[0] for x in os.listdir()])
 for subway_list in cianparser.list_metro_stations()['Московский']:
     for room_num in range(1, 4):

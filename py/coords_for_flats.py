@@ -64,5 +64,5 @@ addresses_df['coords'] = coords_list
          how = 'left'
   )
  .drop_duplicates()
- .to_csv("csv\\flats_data_coords.csv")
+ .to_csv("csv\\flats_data_coords.csv", index = False)
  )

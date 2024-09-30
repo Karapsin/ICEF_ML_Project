@@ -1,0 +1,60 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,ID 98103653,homeowner,https://lyubertsy.cian.ru/rent/flat/307781680/,Москва,rent,flat,9,25,1,37.0,60000,0,, Солнечная,2,Люберцы
+1,Денис Мастяев,realtor,https://lyubertsy.cian.ru/rent/flat/307777622/,Москва,rent,flat,11,23,1,40.0,45000,0,,Комсомольский проспект,18/1,Люберцы
+2,Capital Mars,real_estate_agent,https://lyubertsy.cian.ru/rent/flat/307777387/,Москва,rent,flat,5,25,1,29.0,45000,0,,Инициативная ,13,Люберцы
+3,Про Жильё,real_estate_agent,https://lyubertsy.cian.ru/rent/flat/307777367/,Москва,rent,flat,5,5,1,38.0,50000,0,,Волковская ,49,Люберцы
+4,Денис Гудынин,realtor,https://lyubertsy.cian.ru/rent/flat/307774170/,Москва,rent,flat,6,17,1,36.0,50000,0,,Красноармейская ,19,Люберцы
+5,ID 56703798,homeowner,https://www.cian.ru/rent/flat/307774160/,Москва,rent,flat,12,19,1,40.0,60000,0,Некрасовка, Ухтомского Ополчения,4,Люберцы
+6,Сергей Шабалкин,realtor,https://www.cian.ru/rent/flat/307772162/,Москва,rent,flat,4,9,1,34.0,25000,0,Некрасовка,1-я Вольская ,15К2,Люберцы
+7,ID 16757722,unknown,https://lyubertsy.cian.ru/rent/flat/307752968/,Москва,rent,flat,1,5,1,30.2,45000,0,,Октябрьский проспект,88,Люберцы
+8,Иван Музалевский,realtor,https://lyubertsy.cian.ru/rent/flat/307741001/,Москва,rent,flat,2,26,1,36.0,50000,0,, Рождественская,6,Люберцы
+9,АВАНГАРД,real_estate_agent,https://lyubertsy.cian.ru/rent/flat/307740288/,Москва,rent,flat,12,17,1,45.1,50000,0,,Октябрьский проспект,123к5,Люберцы
+10,Про Жильё,real_estate_agent,https://lyubertsy.cian.ru/rent/flat/307724374/,Москва,rent,flat,2,10,1,35.0,45000,0,, Калараш,13,Люберцы
+11,Capital Mars,real_estate_agent,https://lyubertsy.cian.ru/rent/flat/307720138/,Москва,rent,flat,20,22,1,22.0,44000,0,,Красноармейская ,19,Люберцы
+12,Парус,real_estate_agent,https://www.cian.ru/rent/flat/307719204/,Москва,rent,flat,22,25,1,46.0,60000,0,Некрасовка, Вертолетчиков,2к2,Люберцы
+13,Андрей Поймёнов,realtor,https://lyubertsy.cian.ru/rent/flat/307716510/,Москва,rent,flat,11,19,1,40.0,42000,0,, Дружбы,11/26,Люберцы
+14,Про Жильё,real_estate_agent,https://lyubertsy.cian.ru/rent/flat/307716004/,Москва,rent,flat,20,22,1,25.0,44000,0,,Красноармейская ,19,Люберцы
+15,ID 9309280,homeowner,https://www.cian.ru/rent/flat/307684881/,Москва,rent,flat,5,19,1,39.5,50000,0,Некрасовка, Ухтомского Ополчения,8,Люберцы
+16,ID 553624,realtor,https://lyubertsy.cian.ru/rent/flat/307678283/,Москва,rent,flat,6,9,1,30.0,28000,0,,Московская ,13,Люберцы
+17,Дмитрий Цыганенко,realtor,https://lyubertsy.cian.ru/rent/flat/307677861/,Москва,rent,flat,1,5,1,75.0,45000,0,,,409,Люберцы
+18,ПАРТНЕР,real_estate_agent,https://lyubertsy.cian.ru/rent/flat/307677840/,Москва,rent,flat,5,17,1,35.0,50000,0,, Камова,1к1,Люберцы
+19,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307675664/,Москва,rent,flat,22,25,1,50.0,60000,0,Некрасовка, Вертолетчиков,2к2,Люберцы
+20,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307665873/,Москва,rent,flat,10,17,1,38.0,50000,0,Некрасовка,2-я Вольская ,6,Люберцы
+21,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307664307/,Москва,rent,flat,22,25,1,47.0,57500,0,Некрасовка, Вертолетчиков,2к2,Люберцы
+22,Роман Дружинин,realtor,https://lyubertsy.cian.ru/rent/flat/307655517/,Москва,rent,flat,1,5,1,30.0,40000,0,, 3-е Почтовое Отделение,20,Люберцы
+23,Андрей Алябьев,realtor,https://lyubertsy.cian.ru/rent/flat/307635616/,Москва,rent,flat,16,19,1,36.0,45000,0,, Дружбы,7к1,Люберцы
+24,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307633783/,Москва,rent,flat,5,17,1,45.0,50000,0,Некрасовка, Ухтомского Ополчения,8,Люберцы
+25,ИНГРУПП,real_estate_agent,https://www.cian.ru/rent/flat/307633768/,Москва,rent,flat,13,14,1,40.0,30000,0,Некрасовка,1-я Вольская ,24К1,Люберцы
+26,АВАНГАРД,real_estate_agent,https://lyubertsy.cian.ru/rent/flat/307631391/,Москва,rent,flat,12,19,1,37.0,40000,0,, Вертолетная,20,Люберцы
+27,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://lyubertsy.cian.ru/rent/flat/307630927/,Москва,rent,flat,7,17,1,38.0,37000,0,,проспект Гагарина,22к2,Люберцы
+28,Яндекс Аренда,real_estate_agent,https://lyubertsy.cian.ru/rent/flat/307627764/,Москва,rent,flat,4,9,1,28.0,39000,0,, Митрофанова,17,Люберцы
+29,Мария Зайцева,realtor,https://kotelniki.cian.ru/rent/flat/307622925/,Москва,rent,flat,14,26,1,30.0,50000,0,,,1к7,Люберцы
+30,Диана Жилина,realtor,https://lyubertsy.cian.ru/rent/flat/307609974/,Москва,rent,flat,3,9,1,39.0,47000,0,, 3-я Красногорская,36,Люберцы
+31,Любовь Дерингис,realtor,https://lyubertsy.cian.ru/rent/flat/307604040/,Москва,rent,flat,5,17,1,42.3,50000,0,, Преображенская,6к2,Люберцы
+32,Циан х ПИК-Аренда,real_estate_agent,https://lyubertsy.cian.ru/rent/flat/307592404/,Москва,rent,flat,11,17,1,36.2,43900,0,, Дружбы,11/26,Люберцы
+33,EMPIRE HOME,real_estate_agent,https://lyubertsy.cian.ru/rent/flat/307545709/,Москва,rent,flat,16,19,1,30.0,33000,0,, Вертолетная,24,Люберцы
+34,Юлия Зобнина,realtor,https://www.cian.ru/rent/flat/307543410/,Москва,rent,flat,7,17,1,40.0,39500,0,Некрасовка,Некрасовская ,7,Люберцы
+35,Парус,real_estate_agent,https://www.cian.ru/rent/flat/307453161/,Москва,rent,flat,5,19,1,40.0,80000,0,Некрасовка,Покровская ,17к4,Люберцы
+36,Марина Евтушенко,realtor,https://lyubertsy.cian.ru/rent/flat/307452459/,Москва,rent,flat,6,27,1,44.0,35000,0,, Преображенская,17к1,Люберцы
+37,ID 98655682,homeowner,https://kotelniki.cian.ru/rent/flat/307381616/,Москва,rent,flat,14,17,1,38.0,45000,0,,,4,Люберцы
+38,Роман Цибульский,realtor,https://lyubertsy.cian.ru/rent/flat/307369896/,Москва,rent,flat,22,25,1,37.1,45000,0,, Солнечная,2,Люберцы
+39,ID 30389280,homeowner,https://lyubertsy.cian.ru/rent/flat/307369045/,Москва,rent,flat,8,11,1,28.0,45000,0,, Солнечная,2,Люберцы
+40,ID 79044875,homeowner,https://www.cian.ru/rent/flat/307363168/,Москва,rent,flat,10,17,1,38.0,50000,0,Некрасовка,2-я Вольская ,6,Люберцы
+41,Домклик Аренда,real_estate_agent,https://lyubertsy.cian.ru/rent/flat/307359135/,Москва,rent,flat,12,25,1,36.0,55000,0,, Солнечная,6,Люберцы
+42,ИМПЕРИЯ ЖИЛЬЯ МИА,real_estate_agent,https://www.cian.ru/rent/flat/307298783/,Москва,rent,flat,2,17,1,37.7,65000,0,Некрасовка,Покровская ,23,Люберцы
+43,Яндекс Аренда,real_estate_agent,https://lyubertsy.cian.ru/rent/flat/307185691/,Москва,rent,flat,15,17,1,43.5,56500,0,,Октябрьский проспект,145,Люберцы
+44,ID 71418785,realtor,https://www.cian.ru/rent/flat/307127497/,Москва,rent,flat,11,17,1,40.0,49000,0,Некрасовка, Лавриненко,3,Люберцы
+45,Алсу Имамудинова,realtor,https://lyubertsy.cian.ru/rent/flat/303674825/,Москва,rent,flat,16,25,1,40.0,45000,0,, Солнечная,2,Люберцы
+46,Диалог Риэлт,real_estate_agent,https://lyubertsy.cian.ru/rent/flat/299631633/,Москва,rent,flat,14,19,1,30.6,28000,0,, Камова,10к1,Люберцы
+47,Moscow Estate,real_estate_agent,https://www.cian.ru/rent/flat/298321184/,Москва,rent,flat,3,19,1,40.0,65000,0,Некрасовка,Покровская ,17к4,Люберцы
+48,ID 100032858,homeowner,https://lyubertsy.cian.ru/rent/flat/294985138/,Москва,rent,flat,14,26,1,36.0,49000,0,, Рождественская,4,Люберцы
+49,ID 21160480,realtor,https://lyubertsy.cian.ru/rent/flat/294678687/,Москва,rent,flat,15,26,1,39.0,48000,0,, Рождественская,4,Люберцы
+50,ID 12928165,realtor,https://lyubertsy.cian.ru/rent/flat/289283705/,Москва,rent,flat,5,17,1,36.5,45000,0,,проспект Гагарина,22к2,Люберцы
+51,ID 71707935,homeowner,https://lyubertsy.cian.ru/rent/flat/286312670/,Москва,rent,flat,16,17,1,50.0,70000,0,, Урицкого,16к2,Люберцы
+52,Артем Филатов,realtor,https://www.cian.ru/rent/flat/280832453/,Москва,rent,flat,6,14,1,35.0,37000,0,Некрасовка,1-я Вольская ,24К1,Люберцы
+53,ID 88056137,homeowner,https://www.cian.ru/rent/flat/278607456/,Москва,rent,flat,22,25,1,46.6,57500,0,Некрасовка, Вертолетчиков,2к2,Люберцы
+54,ID 305973,real_estate_agent,https://kotelniki.cian.ru/rent/flat/268431470/,Москва,rent,flat,5,23,1,44.0,48000,0,,проезд 2-й Покровский,4к2,Люберцы
+55,Александр Кабанов,realtor,https://lyubertsy.cian.ru/rent/flat/266117893/,Москва,rent,flat,5,17,1,38.0,42000,0,, Озерная,9,Люберцы
+56,ID 104084993,homeowner,https://lyubertsy.cian.ru/rent/flat/306064023/,Москва,rent,flat,3,4,2,42.0,38000,0,, 8 Марта,42,Лухмановская
+57,Екатерина Булгакова,realtor,https://lyubertsy.cian.ru/rent/flat/279635018/,Москва,rent,flat,3,9,2,43.0,40000,0,,Московская ,11,Люберцы
+58,CENTURY 21 Перспектива,real_estate_agent,https://lyubertsy.cian.ru/rent/flat/307459806/,Москва,rent,flat,1,9,1,28.3,40000,0,, С.П. Попова,44,Лухмановская

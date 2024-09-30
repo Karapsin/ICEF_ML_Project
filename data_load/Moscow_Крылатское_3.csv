@@ -1,0 +1,56 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,ID 12604478,realtor,https://www.cian.ru/rent/flat/307780172/,Москва,rent,flat,19,21,3,120.0,270000,0,Кунцево, Академика Павлова,24,Крылатское
+1,ID 109678686,homeowner,https://www.cian.ru/rent/flat/307739054/,Москва,rent,flat,9,33,3,78.0,120000,0,Кунцево, Академика Павлова,56к1,Крылатское
+2,ID 86320269,unknown,https://www.cian.ru/rent/flat/307729199/,Москва,rent,flat,3,17,3,75.0,110000,0,Крылатское, Крылатские Холмы,39К2,Крылатское
+3,Vertex,real_estate_agent,https://www.cian.ru/rent/flat/307716983/,Москва,rent,flat,6,17,3,80.0,100000,0,Крылатское,Рублевское шоссе,40К3,Крылатское
+4,Валерия Архипова,realtor,https://www.cian.ru/rent/flat/307707940/,Москва,rent,flat,13,28,3,61.0,140000,0,Кунцево, Академика Павлова,28,Крылатское
+5,My Hoyse,real_estate_agent,https://www.cian.ru/rent/flat/307703009/,Москва,rent,flat,19,23,3,100.0,150000,0,Крылатское,Рублевское шоссе,70к6,Крылатское
+6,Валерия Архипова,realtor,https://www.cian.ru/rent/flat/307700894/,Москва,rent,flat,16,17,3,77.0,120000,0,Крылатское,Рублевское шоссе,32,Крылатское
+7,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307696180/,Москва,rent,flat,13,28,3,50.0,140000,0,Кунцево, Академика Павлова,28,Крылатское
+8,БЕСТ на Октябрьской,real_estate_agent,https://odintsovo.cian.ru/rent/flat/307685515/,Москва,rent,flat,2,4,3,56.0,56900,0,,,,
+9,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307675356/,Москва,rent,flat,13,28,3,60.0,140000,0,Кунцево, Академика Павлова,28,Крылатское
+10,Михаил Меликов,realtor,https://www.cian.ru/rent/flat/307657490/,Москва,rent,flat,3,34,3,109.0,160000,0,Крылатское, Крылатские Холмы,37,Крылатское
+11,ID 67938053,realtor,https://www.cian.ru/rent/flat/307634899/,Москва,rent,flat,14,17,3,75.0,95000,0,Крылатское, Крылатские Холмы,39К2,Крылатское
+12,Вячеслав Исламов,realtor,https://www.cian.ru/rent/flat/307625437/,Москва,rent,flat,4,14,3,75.0,95000,0,Кунцево, Академика Павлова,27К4,Крылатское
+13,Наталья Порфенцева,realtor,https://www.cian.ru/rent/flat/307609827/,Москва,rent,flat,2,5,3,57.0,75000,0,Кунцево,Оршанская ,8К4,Крылатское
+14,ОЛИМПИК СТАР,real_estate_agent,https://www.cian.ru/rent/flat/307606597/,Москва,rent,flat,17,17,3,76.0,95000,0,Крылатское,Осенний бульвар,20К2,Крылатское
+15,ID 122036862,homeowner,https://www.cian.ru/rent/flat/307603116/,Москва,rent,flat,16,17,3,77.0,120000,0,Крылатское,Рублевское шоссе,32,Крылатское
+16,ID 179398,realtor,https://www.cian.ru/rent/flat/307598906/,Москва,rent,flat,15,40,3,110.0,200000,0,Кунцево,Рублевское шоссе,107,Крылатское
+17,Раксана Андамова,realtor,https://www.cian.ru/rent/flat/307593254/,Москва,rent,flat,19,21,3,88.0,270000,0,Кунцево,Рублевское шоссе,101,Крылатское
+18,ID 562,realtor,https://www.cian.ru/rent/flat/307590159/,Москва,rent,flat,21,22,3,82.0,110000,0,Крылатское,Осенняя ,16,Крылатское
+19,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307569587/,Москва,rent,flat,17,17,3,80.0,95000,0,Крылатское,Осенний бульвар,20К2,Крылатское
+20,Анна Долгополова,realtor,https://www.cian.ru/rent/flat/307565443/,Москва,rent,flat,5,24,3,93.0,30000,0,Крылатское,Рублевское шоссе,70к6,Крылатское
+21,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307565377/,Москва,rent,flat,17,17,3,75.0,101500,0,Крылатское,Осенний бульвар,20К2,Крылатское
+22,Unique Property,real_estate_agent,https://www.cian.ru/rent/flat/307562844/,Москва,rent,flat,17,17,3,75.0,95000,0,Крылатское,Осенний бульвар,20К2,Крылатское
+23,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307531191/,Москва,rent,flat,16,17,3,77.0,120000,0,Крылатское,Рублевское шоссе,32,Крылатское
+24,Центральный Департамент Недвижимости,real_estate_agent,https://www.cian.ru/rent/flat/307508521/,Москва,rent,flat,2,17,3,78.0,110000,0,Крылатское, Крылатские Холмы,30К4,Крылатское
+25,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307498912/,Москва,rent,flat,16,17,3,77.0,120000,0,Крылатское,Рублевское шоссе,32,Крылатское
+26,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307416823/,Москва,rent,flat,16,17,3,72.0,151500,0,Крылатское, Крылатские Холмы,35К1,Крылатское
+27,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307389918/,Москва,rent,flat,6,17,3,80.0,100000,0,Крылатское,Рублевское шоссе,40К3,Крылатское
+28,WestHills,real_estate_agent,https://www.cian.ru/rent/flat/307388653/,Москва,rent,flat,3,6,3,90.0,250000,0,Кунцево,Рублевское шоссе,101,Крылатское
+29,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307384359/,Москва,rent,flat,6,15,3,79.0,100000,0,Крылатское,Рублевское шоссе,40К3,Крылатское
+30,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307377831/,Москва,rent,flat,6,17,3,80.0,100000,0,Крылатское,Рублевское шоссе,40К3,Крылатское
+31,ID 21674,realtor,https://www.cian.ru/rent/flat/307363847/,Москва,rent,flat,10,35,3,165.0,200000,0,Крылатское, Крылатские Холмы,33к1,Крылатское
+32,OXE CAPITAL - Элитная Недвижимость,real_estate_agent,https://odintsovo.cian.ru/rent/flat/307153293/,Москва,rent,flat,4,4,3,141.0,600000,0,,,117,
+33,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307128727/,Москва,rent,flat,12,33,3,90.0,235000,0,Кунцево, Академика Павлова,56к1,Крылатское
+34,ID 12861878,homeowner,https://www.cian.ru/rent/flat/307041714/,Москва,rent,flat,12,33,3,88.0,235000,0,Кунцево, Академика Павлова,56к1,Крылатское
+35,ЦДВ Инвест,real_estate_agent,https://www.cian.ru/rent/flat/306922151/,Москва,rent,flat,7,17,3,75.0,90000,0,Крылатское,Осенний бульвар,16К2,Крылатское
+36,Триумф недвижимости,real_estate_agent,https://www.cian.ru/rent/flat/306903560/,Москва,rent,flat,12,17,3,130.0,85000,0,Крылатское,Рублевское шоссе,70к6,Крылатское
+37,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/306839090/,Москва,rent,flat,3,5,3,170.0,350000,0,Крылатское,Осенняя ,25К1,Крылатское
+38,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/306448485/,Москва,rent,flat,24,26,3,98.0,170000,0,Кунцево,Ярцевская ,24К2,Крылатское
+39,ID 59348977,realtor,https://www.cian.ru/rent/flat/306368065/,Москва,rent,flat,4,21,3,78.5,140000,0,Кунцево, Академика Павлова,24,Крылатское
+40,BARNES International Realty,real_estate_agent,https://www.cian.ru/rent/flat/306148328/,Москва,rent,flat,7,14,3,120.0,464310,0,Крылатское, Крылатские Холмы,47,Крылатское
+41,Apple Real Estate,real_estate_agent,https://odintsovo.cian.ru/rent/flat/305923263/,Москва,rent,flat,3,7,3,120.0,270000,0,,,,
+42,Chase R.E.S.,real_estate_agent,https://odintsovo.cian.ru/rent/flat/305277985/,Москва,rent,flat,3,7,3,120.0,270000,0,,,,
+43,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/304941948/,Москва,rent,flat,2,22,3,80.0,95000,0,Крылатское, Крылатские Холмы,30К8,Крылатское
+44,Мозаик Групп,real_estate_agent,https://odintsovo.cian.ru/rent/flat/304933217/,Москва,rent,flat,5,7,3,120.0,250000,0,,,,
+45,SHESHIN HOUSE,real_estate_agent,https://www.cian.ru/rent/flat/303005305/,Москва,rent,flat,20,22,3,100.0,240000,0,Кунцево,Ярцевская ,34К2,Крылатское
+46,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/302699446/,Москва,rent,flat,3,4,3,76.0,110000,0,Кунцево, Маршала Тимошенко,10,Крылатское
+47,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/299782402/,Москва,rent,flat,7,11,3,120.0,464000,0,Крылатское, Крылатские Холмы,47,Крылатское
+48,На Петровке,real_estate_agent,https://odintsovo.cian.ru/rent/flat/299731717/,Москва,rent,flat,6,6,3,273.0,1000000,0,,,,
+49,NF Group Country - ex-Knight Frank Russia,real_estate_agent,https://odintsovo.cian.ru/rent/flat/295769212/,Москва,rent,flat,6,6,3,273.0,1200000,0,,,,
+50,Стоун Бридж эстейт,real_estate_agent,https://odintsovo.cian.ru/rent/flat/291245275/,Москва,rent,flat,1,7,3,150.0,300000,0,,,,
+51,Ностальгия,real_estate_agent,https://www.cian.ru/rent/flat/289538661/,Москва,rent,flat,9,14,3,123.6,150000,0,Кунцево,Ярцевская ,27к9,Крылатское
+52,СОГЛАСИЕ,real_estate_agent,https://www.cian.ru/rent/flat/288377160/,Москва,rent,flat,2,22,3,80.0,90000,0,Крылатское, Крылатские Холмы,30К8,Крылатское
+53,АКРУС-сити,real_estate_agent,https://www.cian.ru/rent/flat/284247748/,Москва,rent,flat,13,16,3,86.0,80000,0,Кунцево,Партизанская ,36,Крылатское
+54,Мозаик Групп,real_estate_agent,https://www.cian.ru/rent/flat/284119334/,Москва,rent,flat,7,14,3,120.0,430000,0,Крылатское, Крылатские Холмы,47,Крылатское

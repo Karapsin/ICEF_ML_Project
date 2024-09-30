@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Алексей Синельников,realtor,https://balashikha.cian.ru/rent/flat/307815432/,Москва,rent,flat,2,4,3,110.0,78000,0,, Черняховского,18,Салтыковская
+1,ID 77116866,homeowner,https://balashikha.cian.ru/rent/flat/307796628/,Москва,rent,flat,2,8,3,76.0,60000,0,,проспект Ленина,32а,Салтыковская
+2,Инна Клименко,realtor,https://balashikha.cian.ru/rent/flat/307710967/,Москва,rent,flat,2,5,3,54.0,55000,0,, Белякова,16,Салтыковская
+3,Наталья Гнатюк,realtor,https://balashikha.cian.ru/rent/flat/307661397/,Москва,rent,flat,4,5,3,60.0,50000,0,,проспект Ленина,50,Салтыковская
+4,Евгения Мамаева,realtor,https://balashikha.cian.ru/rent/flat/307634848/,Москва,rent,flat,1,11,3,65.0,45000,0,,проспект Ленина,38А,Салтыковская
+5,Квартирный центр,real_estate_agent,https://balashikha.cian.ru/rent/flat/307611442/,Москва,rent,flat,14,15,3,71.0,40000,0,,Балашихинское шоссе,8к1,Салтыковская
+6,ВАШ ДОМ,real_estate_agent,https://balashikha.cian.ru/rent/flat/307609168/,Москва,rent,flat,5,17,3,76.0,60000,0,,,3,Салтыковская
+7,Ольга Сазыкина,realtor,https://balashikha.cian.ru/rent/flat/307581628/,Москва,rent,flat,13,25,3,95.0,75000,0,, Демин луг,4,Салтыковская
+8,EMPIRE HOME,real_estate_agent,https://balashikha.cian.ru/rent/flat/307544419/,Москва,rent,flat,17,17,3,100.0,80000,0,,проспект Ленина,32в,Салтыковская
+9,Яндекс Аренда,real_estate_agent,https://balashikha.cian.ru/rent/flat/307434458/,Москва,rent,flat,3,25,3,87.0,85500,0,, Демин луг,6/5,Салтыковская
+10,АВАНГАРД,real_estate_agent,https://balashikha.cian.ru/rent/flat/307396982/,Москва,rent,flat,5,17,3,110.0,80000,0,,Заречная ,32,Салтыковская
+11,ID 65838,homeowner,https://balashikha.cian.ru/rent/flat/307384000/,Москва,rent,flat,5,17,3,110.0,80000,0,,Заречная ,32,Салтыковская
+12,Региональное,real_estate_agent,https://balashikha.cian.ru/rent/flat/307270695/,Москва,rent,flat,14,22,3,97.0,80000,0,, Свердлова,65,Салтыковская
+13,Татьяна Дорогова,realtor,https://balashikha.cian.ru/rent/flat/307111683/,Москва,rent,flat,2,4,3,110.0,78000,0,, Черняховского,18,Салтыковская
+14,ID 97247318,unknown,https://balashikha.cian.ru/rent/flat/306553235/,Москва,rent,flat,5,17,3,100.9,80000,0,, 40 лет Победы,27,Салтыковская
+15,Екатерина Василькина,realtor,https://balashikha.cian.ru/rent/flat/306389262/,Москва,rent,flat,4,9,3,68.0,45000,0,,Московский бульвар,11,Салтыковская
+16,ID 120625281,homeowner,https://balashikha.cian.ru/rent/flat/306231510/,Москва,rent,flat,7,9,3,64.0,65000,0,,Солнечная ,3,Салтыковская
+17,ID 117207326,homeowner,https://balashikha.cian.ru/rent/flat/307651045/,Москва,rent,flat,5,5,2,44.9,38000,0,,проспект Ленина,52,Салтыковская
+18,ID 535615,realtor,https://balashikha.cian.ru/rent/flat/307661628/,Москва,rent,flat,1,5,2,45.0,42000,0,, Пионерская,16А,Железнодорожная
+19,ID 2753,real_estate_agent,https://balashikha.cian.ru/rent/flat/307585000/,Москва,rent,flat,5,14,2,52.0,35000,0,,,5,Салтыковская
+20,Инна Кезич,realtor,https://balashikha.cian.ru/rent/flat/307721107/,Москва,rent,flat,13,14,2,54.0,43000,0,, Лесные Поляны,5,Салтыковская
+21,ID 324439,homeowner,https://balashikha.cian.ru/rent/flat/307682096/,Москва,rent,flat,21,22,2,60.0,50000,0,,проспект Героев,8,Железнодорожная
+22,МИЭЛЬ - Офис в Железнодорожном,real_estate_agent,https://balashikha.cian.ru/rent/flat/307682350/,Москва,rent,flat,5,9,3,57.4,45000,0,, Пролетарская,3,Железнодорожная
+23,ВАШ ДОМ,real_estate_agent,https://balashikha.cian.ru/rent/flat/307444040/,Москва,rent,flat,5,5,1,33.0,38000,0,,проспект Жуковского,9,Салтыковская
+24,ЦЗН ПРОСПЕКТ МИРА,real_estate_agent,https://balashikha.cian.ru/rent/flat/307531308/,Москва,rent,flat,14,17,2,54.0,49000,0,, Летная,9,Салтыковская

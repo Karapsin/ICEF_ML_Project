@@ -1,0 +1,29 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Дмитрий Дмитриев,realtor,https://www.cian.ru/rent/flat/307738862/,Москва,rent,flat,12,13,1,36.0,90000,0,Таганский,Новоспасский переулок,5,Пролетарская
+1,Дмитрий Вологжанин,realtor,https://www.cian.ru/rent/flat/307717423/,Москва,rent,flat,9,14,1,35.4,80000,0,Таганский,Брошевский переулок,8,Пролетарская
+2,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307706575/,Москва,rent,flat,4,17,1,38.0,80000,0,Таганский,Марксистская ,9,Пролетарская
+3,Артем Худайберганов,realtor,https://www.cian.ru/rent/flat/307703256/,Москва,rent,flat,4,5,1,30.5,70000,0,Таганский,переулок Маяковского,2,Пролетарская
+4,Юлия Александрочкина,realtor,https://www.cian.ru/rent/flat/307685278/,Москва,rent,flat,17,21,1,43.1,140000,0,Даниловский, Виктора Маслова,2,Пролетарская
+5,ID 41076883,realtor,https://www.cian.ru/rent/flat/307684711/,Москва,rent,flat,11,12,1,42.0,70000,0,Южнопортовый,1-я Дубровская ,2БК2,Пролетарская
+6,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307665440/,Москва,rent,flat,9,14,1,35.0,80000,0,Таганский,Брошевский переулок,8,Пролетарская
+7,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307632085/,Москва,rent,flat,4,17,1,40.0,80000,0,Таганский,Марксистская ,9,Пролетарская
+8,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307605476/,Москва,rent,flat,2,5,1,32.0,85000,0,Даниловский, Симоновский Вал,24К2,Пролетарская
+9,Инна Небесная,realtor,https://www.cian.ru/rent/flat/307604140/,Москва,rent,flat,11,14,1,34.0,70000,0,Таганский,Брошевский переулок,4,Пролетарская
+10,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307581343/,Москва,rent,flat,1,5,1,24.0,50000,0,Таганский, Талалихина,39,Пролетарская
+11,ID 65950402,unknown,https://www.cian.ru/rent/flat/307575001/,Москва,rent,flat,6,9,1,30.1,85000,0,Даниловский,Дербеневская набережная,13/17К1,Пролетарская
+12,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307544561/,Москва,rent,flat,17,17,1,33.0,90000,0,Таганский,Марксистская ,9,Пролетарская
+13,ID 88729001,realtor,https://www.cian.ru/rent/flat/307462661/,Москва,rent,flat,1,9,1,35.0,60000,0,Даниловский, Симоновский Вал,8,Пролетарская
+14,ID 28519,realtor,https://www.cian.ru/rent/flat/307302212/,Москва,rent,flat,8,12,1,39.2,80000,0,Таганский,Таганская ,44,Пролетарская
+15,ID 67029,realtor,https://www.cian.ru/rent/flat/307275961/,Москва,rent,flat,2,5,1,30.5,49000,0,Даниловский, Симоновский Вал,20К2,Пролетарская
+16,Инвестправо,real_estate_agent,https://www.cian.ru/rent/flat/307262630/,Москва,rent,flat,8,12,1,42.0,110000,0,Даниловский,3-й Павелецкий проезд,3,Пролетарская
+17,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307210680/,Москва,rent,flat,24,29,1,46.0,141000,0,Даниловский, Виктора Маслова,2,Пролетарская
+18,ID 3182,realtor,https://www.cian.ru/rent/flat/307036277/,Москва,rent,flat,2,8,1,30.0,60000,0,Даниловский,Восточная ,2К3,Пролетарская
+19,СмениКварти.Ру,real_estate_agent,https://www.cian.ru/rent/flat/306800132/,Москва,rent,flat,1,9,1,36.0,55000,0,Южнопортовый, Симоновский Вал,17К1,Пролетарская
+20,ID 119539,homeowner,https://www.cian.ru/rent/flat/306708246/,Москва,rent,flat,17,17,1,33.4,90000,0,Таганский,Марксистская ,9,Пролетарская
+21,Александр Кузин,realtor,https://www.cian.ru/rent/flat/306231949/,Москва,rent,flat,29,29,1,42.0,130000,0,Даниловский, Виктора Маслова,2,Пролетарская
+22,ID 119976948,realtor,https://www.cian.ru/rent/flat/306185121/,Москва,rent,flat,2,12,1,38.0,80000,0,Таганский,Таганская ,44,Пролетарская
+23,Марина Морозова,realtor,https://www.cian.ru/rent/flat/306074068/,Москва,rent,flat,7,12,1,40.0,100000,0,Таганский,Малая Калитниковская ,2К2,Пролетарская
+24,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/305931038/,Москва,rent,flat,6,12,1,32.0,130000,0,Таганский,Малая Калитниковская ,2К2,Пролетарская
+25,ГОРОБМЕН,real_estate_agent,https://www.cian.ru/rent/flat/305534265/,Москва,rent,flat,7,8,1,41.0,100000,0,Даниловский,2-й Павелецкий проезд,5С1,Пролетарская
+26,ID 38956142,homeowner,https://www.cian.ru/rent/flat/300019077/,Москва,rent,flat,14,29,1,45.0,290000,0,Даниловский, Виктора Маслова,2,Пролетарская
+27,ID 35359486,homeowner,https://www.cian.ru/rent/flat/299915307/,Москва,rent,flat,19,29,1,46.0,180000,0,Даниловский, Виктора Маслова,2,Пролетарская

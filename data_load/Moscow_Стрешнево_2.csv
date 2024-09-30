@@ -1,0 +1,29 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,ЖИЛ-МЕТР,real_estate_agent,https://www.cian.ru/rent/flat/307677432/,Москва,rent,flat,8,28,2,43.6,91000,0,Щукино,Волоколамское шоссе,24к1,Стрешнево
+1,Валерия Архипова,realtor,https://www.cian.ru/rent/flat/307650472/,Москва,rent,flat,10,24,2,75.0,120000,0,Щукино,Щукинская ,2,Стрешнево
+2,Владимир Щучкин,realtor,https://www.cian.ru/rent/flat/307647037/,Москва,rent,flat,13,22,2,42.44,120000,0,Щукино,Большой Волоколамский проезд,23,Стрешнево
+3,ЖИЛ-МЕТР,real_estate_agent,https://www.cian.ru/rent/flat/307636068/,Москва,rent,flat,19,28,2,43.6,89000,0,Щукино,Волоколамское шоссе,24к1,Стрешнево
+4,Unique Property,real_estate_agent,https://www.cian.ru/rent/flat/307611626/,Москва,rent,flat,11,17,2,62.6,190000,0,Войковский,Старопетровский проезд,8,Стрешнево
+5,Михаил Прочерков,realtor,https://www.cian.ru/rent/flat/307608373/,Москва,rent,flat,28,28,2,43.0,95000,0,Щукино,Волоколамское шоссе,24к1,Стрешнево
+6,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307606196/,Москва,rent,flat,11,17,2,63.0,190000,0,Войковский,Старопетровский проезд,8,Стрешнево
+7,ID 229465,homeowner,https://www.cian.ru/rent/flat/307593398/,Москва,rent,flat,12,24,2,62.0,180000,0,Войковский,Старопетровский проезд,8,Стрешнево
+8,Яна Минка,realtor,https://www.cian.ru/rent/flat/307539563/,Москва,rent,flat,12,23,2,45.0,135000,0,Щукино,Большой Волоколамский проезд,23,Стрешнево
+9,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307405791/,Москва,rent,flat,5,5,2,41.0,55000,0,Покровское-Стрешнево,Полесский проезд,10,Стрешнево
+10,Алла Звоник,realtor,https://www.cian.ru/rent/flat/307398831/,Москва,rent,flat,7,9,2,45.0,55000,0,Войковский,Ленинградское шоссе,9К1,Стрешнево
+11,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307305431/,Москва,rent,flat,7,9,2,45.0,55000,0,Войковский,Ленинградское шоссе,9К1,Стрешнево
+12,Славянка - офис Северо-Запад,real_estate_agent,https://www.cian.ru/rent/flat/307296616/,Москва,rent,flat,5,9,2,65.0,100000,0,Войковский,Ленинградское шоссе,21,Стрешнево
+13,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307223381/,Москва,rent,flat,16,24,2,41.0,100000,0,Щукино,Волоколамское шоссе,24к1,Стрешнево
+14,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307132962/,Москва,rent,flat,10,24,2,75.0,120000,0,Щукино,Щукинская ,2,Стрешнево
+15,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307114460/,Москва,rent,flat,16,24,2,44.0,120000,0,Щукино,Волоколамское шоссе,24к1,Стрешнево
+16,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307062736/,Москва,rent,flat,10,24,2,73.0,120000,0,Щукино,Щукинская ,2,Стрешнево
+17,ID 108360579,homeowner,https://www.cian.ru/rent/flat/307060176/,Москва,rent,flat,10,24,2,75.0,120000,0,Щукино,Щукинская ,2,Стрешнево
+18,Антон Здоровенко,realtor,https://www.cian.ru/rent/flat/306853650/,Москва,rent,flat,19,28,2,43.0,99000,0,Щукино,Волоколамское шоссе,24к1,Стрешнево
+19,Этажи Москва,real_estate_agent,https://www.cian.ru/rent/flat/306581669/,Москва,rent,flat,24,28,2,44.6,110000,0,Щукино,Волоколамское шоссе,24к1,Стрешнево
+20,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/306555453/,Москва,rent,flat,10,10,2,60.0,120000,0,Сокол,Волоколамское шоссе,6,Стрешнево
+21,Бест на Речном,real_estate_agent,https://www.cian.ru/rent/flat/306271531/,Москва,rent,flat,5,16,2,70.0,75000,0,Войковский,6-й Новоподмосковный переулок,3,Стрешнево
+22,Intermark Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/306183870/,Москва,rent,flat,11,12,2,65.0,120000,0,Сокол,Волоколамское шоссе,6,Стрешнево
+23,Penny Lane Moscow,real_estate_agent,https://www.cian.ru/rent/flat/306060843/,Москва,rent,flat,10,11,2,65.0,120000,0,Сокол,Волоколамское шоссе,6,Стрешнево
+24,ID 96045029,homeowner,https://www.cian.ru/rent/flat/306051249/,Москва,rent,flat,23,28,2,45.0,110000,0,Щукино,Волоколамское шоссе,24к1,Стрешнево
+25,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/305860711/,Москва,rent,flat,10,10,2,60.0,120000,0,Сокол,Волоколамское шоссе,6,Стрешнево
+26,МИЭЛЬ,real_estate_agent,https://www.cian.ru/rent/flat/305833276/,Москва,rent,flat,10,10,2,60.0,120000,0,Сокол,Волоколамское шоссе,6,Стрешнево
+27,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/305830941/,Москва,rent,flat,11,12,2,60.0,120000,0,Сокол,Волоколамское шоссе,6,Стрешнево

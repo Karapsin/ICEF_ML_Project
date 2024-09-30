@@ -1,0 +1,63 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Этажи Москва,real_estate_agent,https://odintsovo.cian.ru/rent/flat/307777304/,Москва,rent,flat,17,25,1,33.7,51000,0,, Каштановая,9,Одинцово
+1,Дмитрий Ерохин,realtor,https://odintsovo.cian.ru/rent/flat/307775920/,Москва,rent,flat,4,12,1,36.0,43000,0,,Сосновая ,14,Одинцово
+2,Манхэттен эстейт,real_estate_agent,https://odintsovo.cian.ru/rent/flat/307773793/,Москва,rent,flat,8,17,1,48.0,45000,0,, Триумфальная,12,Одинцово
+3,ID 122194931,homeowner,https://odintsovo.cian.ru/rent/flat/307771809/,Москва,rent,flat,22,25,1,32.0,55000,0,, Каштановая,10,Одинцово
+4,Манхэттен эстейт,real_estate_agent,https://odintsovo.cian.ru/rent/flat/307769462/,Москва,rent,flat,4,12,1,36.0,43000,0,,Сосновая ,14,Одинцово
+5,ID 101264934,homeowner,https://odintsovo.cian.ru/rent/flat/307754568/,Москва,rent,flat,16,19,1,42.4,60000,0,,,,
+6,ID 18696873,homeowner,https://odintsovo.cian.ru/rent/flat/307751317/,Москва,rent,flat,2,6,1,40.0,50000,0,,,,
+7,Time Realty,real_estate_agent,https://odintsovo.cian.ru/rent/flat/307742936/,Москва,rent,flat,7,9,1,33.0,34000,0,,Северная ,62,Одинцово
+8,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://odintsovo.cian.ru/rent/flat/307741052/,Москва,rent,flat,7,9,1,32.0,35000,0,,Баковская ,2,Одинцово
+9,ID 24415371,unknown,https://odintsovo.cian.ru/rent/flat/307736636/,Москва,rent,flat,5,9,1,33.0,33000,0,,Любы Новоселовой бульвар,1к1,Одинцово
+10,ID 199692,realtor,https://odintsovo.cian.ru/rent/flat/307724060/,Москва,rent,flat,12,15,1,36.0,40000,0,Лесной Городок дп,Грибовская ,4,
+11,ID 1338190,homeowner,https://odintsovo.cian.ru/rent/flat/307723990/,Москва,rent,flat,5,9,1,38.0,40000,0,,,,
+12,МЦН,real_estate_agent,https://odintsovo.cian.ru/rent/flat/307704852/,Москва,rent,flat,21,24,1,42.0,79999,0,Новоивановское рп,бульвар Эйнштейна,5,
+13,ПАРТНЕР,real_estate_agent,https://odintsovo.cian.ru/rent/flat/307703821/,Москва,rent,flat,2,5,1,35.0,35000,0,,Можайское шоссе,27,Одинцово
+14,Антон Самойлов,realtor,https://odintsovo.cian.ru/rent/flat/307703464/,Москва,rent,flat,2,12,1,34.0,35000,0,,Северная ,6,Одинцово
+15,ID 110972270,homeowner,https://odintsovo.cian.ru/rent/flat/307700453/,Москва,rent,flat,21,24,1,41.1,80000,0,Новоивановское рп,бульвар Эйнштейна,5,
+16,Антон Самойлов,realtor,https://odintsovo.cian.ru/rent/flat/307697605/,Москва,rent,flat,1,9,1,34.0,32000,0,, Маршала Неделина,9,Одинцово
+17,ID 16227238,homeowner,https://golitsyno.cian.ru/rent/flat/307666806/,Москва,rent,flat,14,17,1,49.9,50000,0,,бульвар Генерала Ремезова,10,Одинцово
+18,ID 192503,unknown,https://odintsovo.cian.ru/rent/flat/307652165/,Москва,rent,flat,5,5,1,36.0,33000,0,,,,
+19,Миэль офис в Одинцово,real_estate_agent,https://odintsovo.cian.ru/rent/flat/307652136/,Москва,rent,flat,2,15,1,43.0,45000,0,, Гвардейская,9,Одинцово
+20,Яндекс Аренда,real_estate_agent,https://odintsovo.cian.ru/rent/flat/307633496/,Москва,rent,flat,1,9,1,40.0,44000,0,, Верхне-Пролетарская,16,Одинцово
+21,Светлана Балашова,realtor,https://odintsovo.cian.ru/rent/flat/307632978/,Москва,rent,flat,7,9,1,45.0,47000,0,Лесной Городок дп,Фасадная ,14,
+22,Елена Дмитриева,realtor,https://odintsovo.cian.ru/rent/flat/307632591/,Москва,rent,flat,4,14,1,35.0,40000,0,, Говорова,38,Одинцово
+23,Циан х ПИК-Аренда,real_estate_agent,https://odintsovo.cian.ru/rent/flat/307628162/,Москва,rent,flat,10,16,1,37.0,50600,0,,Советская ,1,Одинцово
+24,Людмила Серова,realtor,https://odintsovo.cian.ru/rent/flat/307616664/,Москва,rent,flat,10,17,1,43.0,42000,0,, Гвардейская,9,Одинцово
+25,ГОРОБМЕН,real_estate_agent,https://odintsovo.cian.ru/rent/flat/307610270/,Москва,rent,flat,5,15,1,43.3,50000,0,, Триумфальная,2,Одинцово
+26,Геннадий Малолетников,realtor,https://odintsovo.cian.ru/rent/flat/307594317/,Москва,rent,flat,17,17,1,42.5,33000,0,пос. ВНИИССОК,Рябиновая ,3,
+27,Александр Пушин,realtor,https://odintsovo.cian.ru/rent/flat/307586835/,Москва,rent,flat,17,25,1,43.3,58000,0,,Вокзальная ,31,Одинцово
+28,Вероника Кудашова,realtor,https://odintsovo.cian.ru/rent/flat/307571105/,Москва,rent,flat,1,16,1,38.0,40000,0,,бульвар Маршала Крылова,4,Одинцово
+29,Сити Недвижимость,real_estate_agent,https://odintsovo.cian.ru/rent/flat/307541371/,Москва,rent,flat,3,12,1,35.0,35000,0,, Маршала Неделина,7,Одинцово
+30,Станислав Фомин,realtor,https://odintsovo.cian.ru/rent/flat/307531419/,Москва,rent,flat,5,24,1,51.8,40000,0,,Садовая ,28,Одинцово
+31,Яндекс Аренда,real_estate_agent,https://odintsovo.cian.ru/rent/flat/307530796/,Москва,rent,flat,25,25,1,38.0,71000,0,,,1,Одинцово
+32,Никита Перекальский,realtor,https://odintsovo.cian.ru/rent/flat/307460723/,Москва,rent,flat,14,17,1,45.0,60000,0,, Триумфальная,2,Одинцово
+33,My Hoyse,real_estate_agent,https://odintsovo.cian.ru/rent/flat/307440818/,Москва,rent,flat,15,26,1,35.0,46000,0,,,7,Одинцово
+34,Манхэттен эстейт,real_estate_agent,https://odintsovo.cian.ru/rent/flat/307405221/,Москва,rent,flat,15,17,1,56.0,55000,0,пос. ВНИИССОК, Бородинская,3,
+35,ID 121835585,homeowner,https://odintsovo.cian.ru/rent/flat/307388419/,Москва,rent,flat,15,17,1,37.8,50000,0,, Говорова,52,Одинцово
+36,ID 460133,realtor,https://odintsovo.cian.ru/rent/flat/307344686/,Москва,rent,flat,10,22,1,48.0,48000,0,, Белорусская,10,Одинцово
+37,Татьяна Антонова,realtor,https://odintsovo.cian.ru/rent/flat/307343720/,Москва,rent,flat,3,6,1,65.0,80000,0,,,,
+38,ГК Недвижимость,real_estate_agent,https://krasnogorsk.cian.ru/rent/flat/306948891/,Москва,rent,flat,3,10,1,62.1,75000,0,пос. Ильинское-Усово,проезд Александра Невского,3,
+39,ID 89686131,homeowner,https://krasnogorsk.cian.ru/rent/flat/306942645/,Москва,rent,flat,3,10,1,62.1,75000,0,пос. Ильинское-Усово,проезд Александра Невского,3,
+40,ЖСС Недвижимость,real_estate_agent,https://odintsovo.cian.ru/rent/flat/306928839/,Москва,rent,flat,4,5,1,33.2,45000,0,Рублёво-Успенское шоссе,"Минское шоссе с платной трассой и другие. Также в пешей доступности находятся две ж/д станции — ""Жаворонки"" и ""Здравница"".
+
+
+
+
+
+Арт. 73272560",,
+41,Светлана Штырняева,realtor,https://odintsovo.cian.ru/rent/flat/306875763/,Москва,rent,flat,4,6,1,48.0,55000,0,,,,
+42,Манхэттен эстейт,real_estate_agent,https://odintsovo.cian.ru/rent/flat/306738034/,Москва,rent,flat,5,9,1,46.0,43000,0,пос. ВНИИССОК,Рябиновая ,3,
+43,Гелиос недвижимость,real_estate_agent,https://odintsovo.cian.ru/rent/flat/306595330/,Москва,rent,flat,8,9,1,45.0,55000,0,,,,
+44,ID 18643,realtor,https://odintsovo.cian.ru/rent/flat/306113632/,Москва,rent,flat,7,22,1,46.6,50000,0,, Белорусская,10,Одинцово
+45,ID 103522806,homeowner,https://odintsovo.cian.ru/rent/flat/305532737/,Москва,rent,flat,2,4,1,48.9,75000,0,д. Крюково, Высокая,1,
+46,EMPIRE HOME,real_estate_agent,https://odintsovo.cian.ru/rent/flat/303530009/,Москва,rent,flat,1,5,1,33.0,40000,0,,Садовая ,14,Одинцово
+47,ID 12657219,realtor,https://odintsovo.cian.ru/rent/flat/303063305/,Москва,rent,flat,2,10,1,49.8,45000,0,,,,
+48,Олеся Куртасова,realtor,https://odintsovo.cian.ru/rent/flat/303025995/,Москва,rent,flat,3,5,1,31.0,23000,0,Большие Вяземы рп, Городок-17,15,
+49,ID 101449025,homeowner,https://odintsovo.cian.ru/rent/flat/299067182/,Москва,rent,flat,2,5,1,34.0,50000,0,,,,
+50,Профессионал Недвижимость,real_estate_agent,https://krasnogorsk.cian.ru/rent/flat/294940277/,Москва,rent,flat,2,3,1,35.0,30000,0,с. Петрово-Дальнее, Озерная,15,
+51,ID 27179084,unknown,https://odintsovo.cian.ru/rent/flat/292138858/,Москва,rent,flat,4,9,1,36.2,30000,0,,,,
+52,ID 6757804,realtor,https://odintsovo.cian.ru/rent/flat/291306578/,Москва,rent,flat,2,9,1,33.1,40000,0,,Можайское шоссе,58,Одинцово
+53,ID 85560843,homeowner,https://odintsovo.cian.ru/rent/flat/289730168/,Москва,rent,flat,5,8,1,23.0,30000,0,,,,
+54,Гаяна Мелконян,realtor,https://odintsovo.cian.ru/rent/flat/281663064/,Москва,rent,flat,17,26,1,38.0,50000,0,,Северная ,9,Одинцово
+55,Татьяна Романова,realtor,https://odintsovo.cian.ru/rent/flat/264853686/,Москва,rent,flat,16,17,1,42.0,45000,0,пос. ВНИИССОК, Дениса Давыдова,11,

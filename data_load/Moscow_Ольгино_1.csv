@@ -1,0 +1,29 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Андрей Поймёнов,realtor,https://balashikha.cian.ru/rent/flat/307781551/,Москва,rent,flat,3,17,1,42.0,38000,0,, Троицкая,4,Ольгино
+1,Ирина Симаченкова,realtor,https://balashikha.cian.ru/rent/flat/307780090/,Москва,rent,flat,10,17,1,44.0,42000,0,,,3,Ольгино
+2,ID 13114295,realtor,https://balashikha.cian.ru/rent/flat/307771245/,Москва,rent,flat,10,14,1,42.0,42000,0,, Колхозная,8,Ольгино
+3,Михаил Мальцев,realtor,https://balashikha.cian.ru/rent/flat/307746280/,Москва,rent,flat,10,19,1,38.0,30000,0,, Речная,12,Ольгино
+4,ID 15997179,homeowner,https://balashikha.cian.ru/rent/flat/307746227/,Москва,rent,flat,9,17,1,39.0,37000,0,, Рождественская,7,Ольгино
+5,МОЦАР,official_representative,https://balashikha.cian.ru/rent/flat/307742234/,Москва,rent,flat,7,22,1,39.0,37000,0,,проспект Героев,3,Ольгино
+6,EstateLiga,real_estate_agent,https://balashikha.cian.ru/rent/flat/307738906/,Москва,rent,flat,13,22,1,35.0,35000,0,,шоссе Косинское,8,Ольгино
+7,ID 3746974,homeowner,https://staraya-kupavna.cian.ru/rent/flat/307735809/,Москва,rent,flat,6,18,1,42.0,35000,0,, Трудовая,19А,Ольгино
+8,Этажи Москва,real_estate_agent,https://losino-petrovskiy.cian.ru/rent/flat/307723679/,Москва,rent,flat,6,16,1,51.0,40000,0,Свердловский рп, Заречная,16,
+9,Анна Старченко,realtor,https://balashikha.cian.ru/rent/flat/307723027/,Москва,rent,flat,12,17,1,49.2,43000,0,, Жилгородок,4к1,Ольгино
+10,Елена Матвеева,realtor,https://balashikha.cian.ru/rent/flat/307716188/,Москва,rent,flat,15,18,1,38.0,32000,0,, Маяковского,30,Ольгино
+11,ID 77791480,homeowner,https://balashikha.cian.ru/rent/flat/307714133/,Москва,rent,flat,25,26,1,49.0,35000,0,,проспект Героев,10,Ольгино
+12,МИЭЛЬ - Офис в Железнодорожном,real_estate_agent,https://balashikha.cian.ru/rent/flat/307704166/,Москва,rent,flat,8,17,1,37.4,40000,0,, Жилгородок,2,Ольгино
+13,Наталья Морозова,realtor,https://staraya-kupavna.cian.ru/rent/flat/307700926/,Москва,rent,flat,8,18,1,42.0,42000,0,, Октябрьская,14А,Ольгино
+14,ОХОТНЫЙ РЯД офис Тверская,real_estate_agent,https://balashikha.cian.ru/rent/flat/307699720/,Москва,rent,flat,11,17,1,29.0,40000,0,, Пионерская,20,Ольгино
+15,ID 72629792,unknown,https://balashikha.cian.ru/rent/flat/307686857/,Москва,rent,flat,21,21,1,32.1,45000,0,,проспект Героев,18,Ольгино
+16,Ирина Дивакова,realtor,https://balashikha.cian.ru/rent/flat/307682158/,Москва,rent,flat,15,17,1,43.0,35000,0,, Твардовского,26,Ольгино
+17,ID 13626796,unknown,https://balashikha.cian.ru/rent/flat/307679715/,Москва,rent,flat,13,19,1,38.0,35000,0,, Рождественская,10,Ольгино
+18,Замоскворечье,real_estate_agent,https://balashikha.cian.ru/rent/flat/307670971/,Москва,rent,flat,16,17,1,38.0,36000,0,, Граничная,36,Ольгино
+19,ID 63664685,unknown,https://balashikha.cian.ru/rent/flat/307649857/,Москва,rent,flat,13,17,1,42.0,50000,0,, Безымянная,16,Ольгино
+20,ID 13430916,unknown,https://balashikha.cian.ru/rent/flat/307629667/,Москва,rent,flat,16,21,1,33.0,27000,0,,проспект Героев,17,Ольгино
+21,ID 93917071,realtor,https://balashikha.cian.ru/rent/flat/307625037/,Москва,rent,flat,9,23,1,31.0,30000,0,, Бояринова,23,Ольгино
+22,Абсолют Капитал Недвижимость,real_estate_agent,https://balashikha.cian.ru/rent/flat/307611992/,Москва,rent,flat,5,6,1,36.0,45000,0,, Народного ополчения,1,Ольгино
+23,ОГРК,real_estate_agent,https://balashikha.cian.ru/rent/flat/307604849/,Москва,rent,flat,2,5,1,30.6,38000,0,, Маяковского,19,Ольгино
+24,ОХОТНЫЙ РЯД офис Тверская,real_estate_agent,https://balashikha.cian.ru/rent/flat/307567793/,Москва,rent,flat,10,14,1,42.0,32000,0,,,39,Ольгино
+25,АРЕАЛ,real_estate_agent,https://lyubertsy.cian.ru/rent/flat/307562024/,Москва,rent,flat,3,4,1,35.0,28000,0,,,,
+26,На Петровке,real_estate_agent,https://balashikha.cian.ru/rent/flat/307545524/,Москва,rent,flat,11,22,1,49.2,45000,0,, Некрасова,6,Ольгино
+27,МИЭЛЬ - Офис в Железнодорожном,real_estate_agent,https://balashikha.cian.ru/rent/flat/307536017/,Москва,rent,flat,5,17,1,38.0,37000,0,, Маяковского,30,Ольгино

@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Алексей Лупарев,realtor,https://www.cian.ru/rent/flat/306800254/,Москва,rent,flat,8,22,2,52.0,107000,0,Покровское-Стрешнево,Волоколамское шоссе,71/22к1,Спартак
+1,Монолит Столица,real_estate_agent,https://www.cian.ru/rent/flat/306345739/,Москва,rent,flat,2,25,2,65.0,120000,0,Покровское-Стрешнево,Волоколамское шоссе,81/2с1,Спартак
+2,ID 58178174,unknown,https://www.cian.ru/rent/flat/306309241/,Москва,rent,flat,14,26,2,41.0,110000,0,Покровское-Стрешнево,Летная ,95Бк2,Спартак
+3,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/303971167/,Москва,rent,flat,2,25,2,57.0,110000,0,Покровское-Стрешнево,Волоколамское шоссе,81/2с2,Спартак
+4,ID 102856974,homeowner,https://www.cian.ru/rent/flat/303708568/,Москва,rent,flat,11,28,2,46.0,125000,0,Покровское-Стрешнево,Волоколамское шоссе,81/2с2,Спартак
+5,Александр Песоцкий,realtor,https://www.cian.ru/rent/flat/303230658/,Москва,rent,flat,22,22,2,33.0,95000,0,Покровское-Стрешнево,Волоколамское шоссе,71/22к3,Спартак
+6,Ольга Лапина,realtor,https://www.cian.ru/rent/flat/274613507/,Москва,rent,flat,6,20,2,67.0,85000,0,Покровское-Стрешнево, Циолковского,7,Спартак
+7,Вячеслав Цехместер,realtor,https://www.cian.ru/rent/flat/307314583/,Москва,rent,flat,12,28,2,47.0,95000,0,Щукино,Волоколамское шоссе,24к2,Стрешнево
+8,ЕГСН Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307359009/,Москва,rent,flat,2,16,2,58.0,95000,0,Хорошево-Мневники, Мневники,23,Народное Ополчение
+9,ID 100465345,homeowner,https://www.cian.ru/rent/flat/307552263/,Москва,rent,flat,3,41,3,82.0,100000,0,Хорошевский,Ленинградский проспект,37/6,Аэропорт
+10,ID 12431,realtor,https://www.cian.ru/rent/flat/306817484/,Москва,rent,flat,4,9,2,45.0,85000,0,Покровское-Стрешнево,Волоколамское шоссе,49,Спартак
+11,ID 234494,unknown,https://www.cian.ru/rent/flat/307220669/,Москва,rent,flat,10,21,2,42.0,100000,0,Головинский,Кронштадтский бульвар,9к3,Водный стадион
+12,Андрей Зарубин,realtor,https://www.cian.ru/rent/flat/306656548/,Москва,rent,flat,4,9,1,50.1,80000,0,,,1,Спартак
+13,Валерий Никишкин,realtor,https://www.cian.ru/rent/flat/307590593/,Москва,rent,flat,8,16,2,50.1,80000,0,Южное Тушино, Фабрициуса,30,Сходненская
+14,O.M.GROUP,real_estate_agent,https://www.cian.ru/rent/flat/306771010/,Москва,rent,flat,8,29,2,58.0,90000,0,Строгино, Маршала Катукова,24к6,Строгино
+15,Светлана Матасова,realtor,https://www.cian.ru/rent/flat/307381413/,Москва,rent,flat,30,32,2,42.3,100000,0,Головинский,Кронштадтский бульвар,9к2,Водный стадион
+16,МИЭЛЬ,real_estate_agent,https://www.cian.ru/rent/flat/307574551/,Москва,rent,flat,18,28,2,53.0,95000,0,Строгино, Маршала Катукова,24к4,Строгино
+17,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307564056/,Москва,rent,flat,2,14,2,50.0,100000,0,Хорошевский,2-й Хорошевский проезд,5,Беговая
+18,ID 4751,realtor,https://www.cian.ru/rent/flat/307486179/,Москва,rent,flat,4,11,2,54.8,100000,0,Щукино, Маршала Рыбалко,2к6,Панфиловская
+19,ID 26390354,homeowner,https://www.cian.ru/rent/flat/307617764/,Москва,rent,flat,2,21,1,44.0,95000,0,Покровское-Стрешнево,Волоколамское шоссе,71/8к1,Спартак
+20,Екатерина Юрченко,realtor,https://www.cian.ru/rent/flat/307123335/,Москва,rent,flat,5,5,2,58.0,80000,0,Щукино, Маршала Рыбалко,12К2,Октябрьское поле
+21,Наталья Макаева,realtor,https://www.cian.ru/rent/flat/254110679/,Москва,rent,flat,7,8,1,45.0,75000,0,Покровское-Стрешнево,Волоколамское шоссе,71к4,Спартак
+22,ID 13230,realtor,https://www.cian.ru/rent/flat/154855692/,Москва,rent,flat,10,35,2,110.0,170000,0,Щукино,Авиационная ,79Б,Щукинская
+23,Ольга Лапина,realtor,https://www.cian.ru/rent/flat/261221470/,Москва,rent,flat,9,11,1,55.0,90000,0,Щукино, Маршала Рыбалко,2к6,Панфиловская
+24,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/305749822/,Москва,rent,flat,8,9,2,63.0,160000,0,Сокол,Волоколамское шоссе,1кБ,Сокол

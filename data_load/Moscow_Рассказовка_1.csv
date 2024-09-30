@@ -1,0 +1,57 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,ПИК-Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307753650/,Москва,rent,flat,9,17,1,41.4,47500,0,,,19,Рассказовка
+1,Тамара Осипова,realtor,https://www.cian.ru/rent/flat/307752564/,Москва,rent,flat,15,19,1,38.5,55000,0,, Лаптева,8к1,Рассказовка
+2,Time Realty,real_estate_agent,https://odintsovo.cian.ru/rent/flat/307742936/,Москва,rent,flat,7,9,1,33.0,34000,0,,Северная ,62,Рассказовка
+3,ID 24415371,unknown,https://odintsovo.cian.ru/rent/flat/307736636/,Москва,rent,flat,5,9,1,33.0,33000,0,,Любы Новоселовой бульвар,1к1,Рассказовка
+4,Елена Гусарова,realtor,https://www.cian.ru/rent/flat/307724443/,Москва,rent,flat,7,25,1,44.0,46000,0,, Атласова,11,Рассказовка
+5,ID 5618,realtor,https://www.cian.ru/rent/flat/307722485/,Москва,rent,flat,9,17,1,40.0,43000,0,, Авиаконструктора Петлякова,5,Рассказовка
+6,Антон Самойлов,realtor,https://odintsovo.cian.ru/rent/flat/307703464/,Москва,rent,flat,2,12,1,34.0,35000,0,,Северная ,6,Рассказовка
+7,КОНСАЛ,real_estate_agent,https://www.cian.ru/rent/flat/307697845/,Москва,rent,flat,2,16,1,36.0,45000,0,, Омская,4,Рассказовка
+8,Татьяна Гулева,realtor,https://www.cian.ru/rent/flat/307697283/,Москва,rent,flat,16,25,1,44.4,50000,0,, Радужная,2,Рассказовка
+9,MDco,real_estate_agent,https://www.cian.ru/rent/flat/307695015/,Москва,rent,flat,7,14,1,48.0,65000,0,Ново-Переделкино,Новопеределкинская ,9,Рассказовка
+10,ID 90439500,unknown,https://www.cian.ru/rent/flat/307685553/,Москва,rent,flat,6,22,1,42.0,55000,0,, Анны Ахматовой,20,Рассказовка
+11,ID 88716647,homeowner,https://www.cian.ru/rent/flat/307677948/,Москва,rent,flat,20,22,1,30.0,65000,0,, Анны Ахматовой,11к1,Рассказовка
+12,ID 25209633,realtor,https://www.cian.ru/rent/flat/307674205/,Москва,rent,flat,14,17,1,42.0,54000,0,, Авиаконструктора Петлякова,13к1,Рассказовка
+13,ID 5722,realtor,https://www.cian.ru/rent/flat/307672105/,Москва,rent,flat,8,17,1,39.0,55000,0,, Летчика Грицевца,,Рассказовка
+14,Prime Estate,real_estate_agent,https://www.cian.ru/rent/flat/307655310/,Москва,rent,flat,12,27,1,42.0,65000,0,, Москвитина,5к1,Рассказовка
+15,Миэль офис в Одинцово,real_estate_agent,https://odintsovo.cian.ru/rent/flat/307652136/,Москва,rent,flat,2,15,1,43.0,45000,0,, Гвардейская,9,Рассказовка
+16,ID 51386155,homeowner,https://www.cian.ru/rent/flat/307645945/,Москва,rent,flat,17,23,1,26.0,65000,0,, Анны Ахматовой,11к1,Рассказовка
+17,ID 38849827,unknown,https://www.cian.ru/rent/flat/307645426/,Москва,rent,flat,14,14,1,39.0,40000,0,Ново-Переделкино, Шолохова,30,Рассказовка
+18,ID 121459433,realtor,https://www.cian.ru/rent/flat/307632469/,Москва,rent,flat,17,17,1,38.0,57000,0,Ново-Переделкино,Боровское шоссе,43К1,Рассказовка
+19,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307632088/,Москва,rent,flat,15,22,1,38.0,60000,0,Ново-Переделкино,Боровское шоссе,33К1,Рассказовка
+20,Светлана Комлева,realtor,https://www.cian.ru/rent/flat/307625364/,Москва,rent,flat,3,17,1,40.0,55000,0,Ново-Переделкино,Боровское шоссе,30,Рассказовка
+21,Людмила Серова,realtor,https://odintsovo.cian.ru/rent/flat/307616664/,Москва,rent,flat,10,17,1,43.0,42000,0,, Гвардейская,9,Рассказовка
+22,ID 21995697,unknown,https://www.cian.ru/rent/flat/307614668/,Москва,rent,flat,9,19,1,45.0,58000,0,, Летчика Ульянина,,Рассказовка
+23,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307612147/,Москва,rent,flat,17,22,1,38.0,60000,0,Ново-Переделкино,Новопеределкинская ,13К1,Рассказовка
+24,ГОРОБМЕН,real_estate_agent,https://odintsovo.cian.ru/rent/flat/307610270/,Москва,rent,flat,5,15,1,43.3,50000,0,, Триумфальная,2,Рассказовка
+25,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307606852/,Москва,rent,flat,17,22,1,40.0,60000,0,Ново-Переделкино,Боровское шоссе,33К1,Рассказовка
+26,Светлана Коваленко,realtor,https://www.cian.ru/rent/flat/307606471/,Москва,rent,flat,14,17,1,40.0,55000,0,, Летчика Ульянина,7,Рассказовка
+27,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307606362/,Москва,rent,flat,9,19,1,45.0,58000,0,, Летчика Ульянина,7,Рассказовка
+28,ID 535807,realtor,https://www.cian.ru/rent/flat/307596094/,Москва,rent,flat,8,19,1,37.8,48000,0,, Бориса Пастернака,33к2,Рассказовка
+29,Геннадий Малолетников,realtor,https://odintsovo.cian.ru/rent/flat/307594317/,Москва,rent,flat,17,17,1,42.5,33000,0,пос. ВНИИССОК,Рябиновая ,3,
+30,Этажи Москва,real_estate_agent,https://www.cian.ru/rent/flat/307582268/,Москва,rent,flat,11,22,1,59.0,80000,0,,бульвар Андрея Тарковского,11,Рассказовка
+31,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307570552/,Москва,rent,flat,2,17,1,40.0,50000,0,, Летчика Грицевца,5,Рассказовка
+32,Алия Алиева,realtor,https://www.cian.ru/rent/flat/307570311/,Москва,rent,flat,5,17,1,41.0,55000,0,Ново-Переделкино,Боровское шоссе,56,Рассказовка
+33,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307567455/,Москва,rent,flat,20,22,1,45.0,85000,0,, Анны Ахматовой,16,Рассказовка
+34,Михаил Кольба,realtor,https://www.cian.ru/rent/flat/307542959/,Москва,rent,flat,19,19,1,42.0,43000,0,, Летчика Ульянина,7А,Рассказовка
+35,ID 562,realtor,https://www.cian.ru/rent/flat/307537107/,Москва,rent,flat,2,17,1,40.0,48000,0,Ново-Переделкино,Боровское шоссе,30,Рассказовка
+36,ID 47586865,realtor,https://www.cian.ru/rent/flat/307535739/,Москва,rent,flat,8,11,1,43.0,85000,0,,бульвар Андрея Тарковского,9,Рассказовка
+37,Станислав Фомин,realtor,https://odintsovo.cian.ru/rent/flat/307531419/,Москва,rent,flat,5,24,1,51.8,40000,0,,Садовая ,28,Рассказовка
+38,Александр Ульянов,realtor,https://www.cian.ru/rent/flat/307530844/,Москва,rent,flat,5,9,1,44.8,55000,0,, Солнечная,3Ас3,Рассказовка
+39,Яндекс Аренда,real_estate_agent,https://odintsovo.cian.ru/rent/flat/307530796/,Москва,rent,flat,25,25,1,38.0,71000,0,,,1,Рассказовка
+40,ID 79394214,unknown,https://www.cian.ru/rent/flat/307507445/,Москва,rent,flat,2,20,1,36.0,48000,0,, Летчика Ульянина,4,Рассказовка
+41,Маргарита Любимова,realtor,https://www.cian.ru/rent/flat/307507224/,Москва,rent,flat,3,16,1,45.4,50000,0,, Омская,8,Рассказовка
+42,Марина Пескова,realtor,https://www.cian.ru/rent/flat/307500038/,Москва,rent,flat,5,17,1,40.0,44000,0,Ново-Переделкино,Боровское шоссе,30,Рассказовка
+43,СТОЛИЦА Департамент недвижимости,real_estate_agent,https://www.cian.ru/rent/flat/307483972/,Москва,rent,flat,13,17,1,44.0,60000,0,, Летчика Грицевца,11,Рассказовка
+44,Никита Перекальский,realtor,https://odintsovo.cian.ru/rent/flat/307460723/,Москва,rent,flat,14,17,1,45.0,60000,0,, Триумфальная,2,Рассказовка
+45,My Hoyse,real_estate_agent,https://odintsovo.cian.ru/rent/flat/307440818/,Москва,rent,flat,15,26,1,35.0,46000,0,,,7,Рассказовка
+46,ГОРОБМЕН,real_estate_agent,https://www.cian.ru/rent/flat/307438418/,Москва,rent,flat,9,17,1,38.0,48000,0,, Бориса Пастернака,31к1,Рассказовка
+47,ID 492181,homeowner,https://www.cian.ru/rent/flat/307433288/,Москва,rent,flat,8,25,1,46.0,80000,0,, Анны Ахматовой,8,Рассказовка
+48,ID 64059704,realtor,https://www.cian.ru/rent/flat/307407834/,Москва,rent,flat,9,25,1,45.5,55000,0,, Радужная,2,Рассказовка
+49,Манхэттен эстейт,real_estate_agent,https://odintsovo.cian.ru/rent/flat/307405221/,Москва,rent,flat,15,17,1,56.0,55000,0,пос. ВНИИССОК, Бородинская,3,
+50,ID 12789447,homeowner,https://www.cian.ru/rent/flat/307394886/,Москва,rent,flat,13,19,1,38.0,54000,0,, Самуила Маршака,23к1,Рассказовка
+51,ID 97371988,unknown,https://www.cian.ru/rent/flat/307368543/,Москва,rent,flat,9,17,1,38.0,55000,0,, Бориса Пастернака,15,Рассказовка
+52,ID 266055,realtor,https://www.cian.ru/rent/flat/307366860/,Москва,rent,flat,9,25,1,44.0,48000,0,, Авиаконструктора Петлякова,31,Рассказовка
+53,ID 134808,unknown,https://www.cian.ru/rent/flat/307366541/,Москва,rent,flat,6,17,1,39.0,50000,0,, Радужная,15,Рассказовка
+54,Циан х ПИК-Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307360145/,Москва,rent,flat,3,9,1,41.0,78200,0,,бульвар Андрея Тарковского,5,Рассказовка
+55,ID 460133,realtor,https://odintsovo.cian.ru/rent/flat/307344686/,Москва,rent,flat,10,22,1,48.0,48000,0,, Белорусская,10,Рассказовка

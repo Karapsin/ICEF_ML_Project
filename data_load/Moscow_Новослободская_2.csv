@@ -1,0 +1,32 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,На Петровке,real_estate_agent,https://www.cian.ru/rent/flat/307682909/,Москва,rent,flat,3,7,2,80.0,300000,0,Тверской, Фадеева,4А,Новослободская
+1,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307676888/,Москва,rent,flat,11,15,2,46.0,100000,0,Тверской,3-й Самотечный переулок,2,Новослободская
+2,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307668457/,Москва,rent,flat,7,14,2,110.0,200000,0,Тверской,1-я Миусская ,2С1,Новослободская
+3,ID 47577375,unknown,https://www.cian.ru/rent/flat/307666578/,Москва,rent,flat,6,9,2,58.0,125000,0,Тверской,Новолесная ,6А,Новослободская
+4,СТОЛИЦА Департамент недвижимости,real_estate_agent,https://www.cian.ru/rent/flat/307576555/,Москва,rent,flat,4,5,2,46.0,80000,0,Тверской,Новосущевская ,14,Новослободская
+5,ID 52843833,realtor,https://www.cian.ru/rent/flat/307570501/,Москва,rent,flat,15,15,2,50.0,120000,0,Тверской,Селезневская ,34К1,Новослободская
+6,Елена Власенкова,realtor,https://www.cian.ru/rent/flat/307519893/,Москва,rent,flat,11,15,2,46.0,100000,0,Тверской,3-й Самотечный переулок,2,Новослободская
+7,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307497179/,Москва,rent,flat,2,7,2,54.0,140000,0,Тверской,Долгоруковская ,39/6,Новослободская
+8,ID 2358,realtor,https://www.cian.ru/rent/flat/307360642/,Москва,rent,flat,3,15,2,87.6,180000,0,Тверской,4-я Тверская-Ямская ,22к2,Новослободская
+9,SENATOR,real_estate_agent,https://www.cian.ru/rent/flat/307353260/,Москва,rent,flat,3,5,2,52.0,100000,0,Тверской,Тихвинский переулок,10-12к9,Новослободская
+10,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307336316/,Москва,rent,flat,8,9,2,62.0,109000,0,Тверской, Достоевского,1/21С1,Новослободская
+11,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307247013/,Москва,rent,flat,9,15,2,83.0,185000,0,Тверской,2-й Самотечный переулок,4,Новослободская
+12,ID 113809551,homeowner,https://www.cian.ru/rent/flat/307229489/,Москва,rent,flat,9,15,2,87.0,185000,0,Тверской,2-й Самотечный переулок,4,Новослободская
+13,APARTMENTS,real_estate_agent,https://www.cian.ru/rent/flat/307107998/,Москва,rent,flat,2,15,2,49.0,100000,0,Тверской,Селезневская ,30К3,Новослободская
+14,Лоцман,real_estate_agent,https://www.cian.ru/rent/flat/307003600/,Москва,rent,flat,10,19,2,100.0,210000,0,Тверской,Краснопролетарская ,7,Новослободская
+15,ID 102432936,realtor,https://www.cian.ru/rent/flat/306923298/,Москва,rent,flat,8,10,2,54.0,138000,0,Тверской,Самотечная ,17А,Новослободская
+16,ID 403826,realtor,https://www.cian.ru/rent/flat/306187392/,Москва,rent,flat,2,7,2,54.0,140000,0,Тверской,Долгоруковская ,39/6,Новослободская
+17,Ashtons International Realty,real_estate_agent,https://www.cian.ru/rent/flat/306102249/,Москва,rent,flat,9,15,2,89.0,199000,0,Тверской,4-я Тверская-Ямская ,22к2,Новослободская
+18,Penny Lane Moscow,real_estate_agent,https://www.cian.ru/rent/flat/306061018/,Москва,rent,flat,9,15,2,89.0,199000,0,Тверской,4-я Тверская-Ямская ,22к2,Новослободская
+19,NF Group - ex-Knight Frank,real_estate_agent,https://www.cian.ru/rent/flat/306032766/,Москва,rent,flat,9,15,2,89.0,199000,0,Тверской,4-я Тверская-Ямская ,22к2,Новослободская
+20,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/305959114/,Москва,rent,flat,9,15,2,89.0,199000,0,Тверской,4-я Тверская-Ямская ,22,Новослободская
+21,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/305957472/,Москва,rent,flat,9,15,2,89.0,199000,0,Тверской,4-я Тверская-Ямская ,22к2,Новослободская
+22,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/304690347/,Москва,rent,flat,2,15,2,46.0,100000,0,Тверской,Селезневская ,30К3,Новослободская
+23,Whitewill Аренда,real_estate_agent,https://www.cian.ru/rent/flat/296556608/,Москва,rent,flat,6,10,2,70.0,550000,0,Тверской, Фадеева,4А,Новослободская
+24,Вадим Волков,realtor,https://www.cian.ru/rent/flat/285230568/,Москва,rent,flat,6,9,2,37.0,67000,0,Тверской,Перуновский переулок,4-8,Новослободская
+25,ID 41968358,realtor,https://www.cian.ru/rent/flat/264907195/,Москва,rent,flat,9,9,2,50.2,110000,0,Тверской,Тихвинский переулок,13,Новослободская
+26,Денис Михайлов,realtor,https://www.cian.ru/rent/flat/257279089/,Москва,rent,flat,6,12,2,57.0,120000,0,Тверской,Краснопролетарская ,9,Новослободская
+27,Инесса Никуличева,realtor,https://www.cian.ru/rent/flat/241094848/,Москва,rent,flat,4,9,2,70.0,150000,0,Тверской, Достоевского,1/21С1,Новослободская
+28,Михаил Иванов,realtor,https://www.cian.ru/rent/flat/307586651/,Москва,rent,flat,2,7,3,75.9,95000,0,Хамовники,переулок Сивцев Вражек,21,Смоленская
+29,Вертикаль,real_estate_agent,https://www.cian.ru/rent/flat/307656261/,Москва,rent,flat,2,8,2,40.0,90000,0,Пресненский,Большой Кондратьевский переулок,6,Белорусская
+30,Ольга Ковалева,realtor,https://www.cian.ru/rent/flat/293288088/,Москва,rent,flat,2,4,3,73.0,100000,0,Тверской,Садовая-Самотечная ,4С2,Цветной бульвар

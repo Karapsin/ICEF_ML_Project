@@ -1,0 +1,29 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,ПРОФИЛЬ,real_estate_agent,https://www.cian.ru/rent/flat/307749117/,Москва,rent,flat,2,5,2,45.0,70000,0,Ломоносовский, Панферова,16К4,Университет
+1,Александр Галикбаров,realtor,https://www.cian.ru/rent/flat/307748545/,Москва,rent,flat,4,8,2,66.3,120000,0,Гагаринский, Строителей,4К4,Университет
+2,Полина Магриева,realtor,https://www.cian.ru/rent/flat/307741693/,Москва,rent,flat,3,11,2,55.0,140000,0,Гагаринский,Университетский проспект,9,Университет
+3,Квадраты Москвы,real_estate_agent,https://www.cian.ru/rent/flat/307707300/,Москва,rent,flat,2,5,2,46.0,70000,0,Ломоносовский, Панферова,16К4,Университет
+4,Марина Неттевич,realtor,https://www.cian.ru/rent/flat/307707212/,Москва,rent,flat,3,8,2,38.0,75000,0,Ломоносовский, Крупской,4К2,Университет
+5,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307667033/,Москва,rent,flat,5,5,2,57.0,90000,0,Ломоносовский, Строителей,5К2,Университет
+6,Татьяна Перова,realtor,https://www.cian.ru/rent/flat/307661444/,Москва,rent,flat,5,16,2,54.0,105000,0,Раменки,проспект Вернадского,10к2,Университет
+7,ID 75363969,realtor,https://www.cian.ru/rent/flat/307622254/,Москва,rent,flat,2,8,2,65.0,100000,0,Ломоносовский, Крупской,4К3,Университет
+8,Светлана Прокопенко,realtor,https://www.cian.ru/rent/flat/307599481/,Москва,rent,flat,2,8,2,65.0,100000,0,Ломоносовский, Крупской,4К3,Университет
+9,ID 94841750,unknown,https://www.cian.ru/rent/flat/307591905/,Москва,rent,flat,10,22,2,70.0,210000,0,Раменки,Ломоносовский проспект,25к2,Университет
+10,Perfect Manager House,real_estate_agent,https://www.cian.ru/rent/flat/307590234/,Москва,rent,flat,13,22,2,69.0,160000,0,Ломоносовский, Вавилова,69А,Университет
+11,KAIF,real_estate_agent,https://www.cian.ru/rent/flat/307587667/,Москва,rent,flat,13,22,2,70.0,160000,0,Ломоносовский, Вавилова,69А,Университет
+12,WHITE BROKER Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307587312/,Москва,rent,flat,13,20,2,69.0,160000,0,Ломоносовский, Вавилова,69А,Университет
+13,ID 270373,realtor,https://www.cian.ru/rent/flat/307577056/,Москва,rent,flat,3,7,2,54.0,85000,0,Гагаринский,Молодежная ,6,Университет
+14,ID 7277,realtor,https://www.cian.ru/rent/flat/307572738/,Москва,rent,flat,3,8,2,55.0,90000,0,Ломоносовский, Строителей,11К1,Университет
+15,КОНСИНГО,real_estate_agent,https://www.cian.ru/rent/flat/307530418/,Москва,rent,flat,22,23,2,54.0,90000,0,Раменки,Мичуринский проспект,13к3,Университет
+16,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307501909/,Москва,rent,flat,7,8,2,65.0,150000,0,Гагаринский,Молодежная ,3,Университет
+17,ID 113816042,homeowner,https://www.cian.ru/rent/flat/307501170/,Москва,rent,flat,7,8,2,60.0,150000,0,Гагаринский,Молодежная ,3,Университет
+18,Виктория Мясникова,realtor,https://www.cian.ru/rent/flat/307497359/,Москва,rent,flat,3,8,2,59.0,95000,0,Ломоносовский,Ленинский проспект,81/2,Университет
+19,Классика,real_estate_agent,https://www.cian.ru/rent/flat/307497094/,Москва,rent,flat,1,8,2,53.0,90000,0,Гагаринский,Молодежная ,3,Университет
+20,Елена Лукьянова,realtor,https://www.cian.ru/rent/flat/307491785/,Москва,rent,flat,1,5,2,44.0,60000,0,Ломоносовский, Панферова,16К3,Университет
+21,Марина Макарова,realtor,https://www.cian.ru/rent/flat/307484079/,Москва,rent,flat,9,9,2,60.0,100000,0,Ломоносовский,Ленинский проспект,74,Университет
+22,ID 62674,realtor,https://www.cian.ru/rent/flat/307458452/,Москва,rent,flat,4,10,2,60.0,150000,0,Гагаринский,Ленинский проспект,64/2,Университет
+23,Light House Estate,real_estate_agent,https://www.cian.ru/rent/flat/307436066/,Москва,rent,flat,3,16,2,75.0,130000,0,Раменки,Мичуринский проспект,7К1,Университет
+24,Славянка,real_estate_agent,https://www.cian.ru/rent/flat/307403467/,Москва,rent,flat,7,12,2,80.0,150000,0,Раменки,Мичуринский проспект,7К1,Университет
+25,ID 17423714,homeowner,https://www.cian.ru/rent/flat/307323977/,Москва,rent,flat,5,5,2,57.0,90000,0,Ломоносовский, Строителей,5К2,Университет
+26,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307312883/,Москва,rent,flat,2,5,2,45.0,70000,0,Ломоносовский, Панферова,16К4,Университет
+27,ID 20070132,unknown,https://www.cian.ru/rent/flat/306929535/,Москва,rent,flat,3,16,2,70.0,155000,0,Раменки,Мичуринский проспект,7К1,Университет

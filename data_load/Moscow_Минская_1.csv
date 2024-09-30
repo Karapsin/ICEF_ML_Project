@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,ID 61052736,homeowner,https://www.cian.ru/rent/flat/307779831/,Москва,rent,flat,10,17,1,27.8,80000,0,Раменки,2-й Мосфильмовский переулок,21,Минская
+1,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307757445/,Москва,rent,flat,5,9,1,40.0,65000,0,Раменки, Довженко,6,Минская
+2,Penny Lane Moscow,real_estate_agent,https://www.cian.ru/rent/flat/307757357/,Москва,rent,flat,2,8,1,40.0,65000,0,Раменки,Мосфильмовская ,17/25,Минская
+3,ID 62146,realtor,https://www.cian.ru/rent/flat/307637545/,Москва,rent,flat,5,14,1,42.0,80000,0,Раменки,Мосфильмовская ,43/40,Минская
+4,Руслан Каракеян,realtor,https://www.cian.ru/rent/flat/307385076/,Москва,rent,flat,4,15,1,66.0,140000,0,Раменки,Университетский проспект,16,Минская
+5,ID 19134,realtor,https://www.cian.ru/rent/flat/307083641/,Москва,rent,flat,3,9,1,38.2,55000,0,Раменки, Довженко,6,Минская
+6,EMPIRE HOME,real_estate_agent,https://www.cian.ru/rent/flat/305751151/,Москва,rent,flat,7,8,1,47.5,60000,0,Раменки,Университетский проспект,21К1,Минская
+7,Галина Нугманова,realtor,https://www.cian.ru/rent/flat/301225232/,Москва,rent,flat,2,5,1,31.0,65000,0,Раменки,Мосфильмовская ,27,Минская
+8,ID 93921447,unknown,https://www.cian.ru/rent/flat/307658988/,Москва,rent,flat,4,5,1,32.0,50000,0,Академический, Шверника,6К1,Академическая
+9,ID 1313,realtor,https://www.cian.ru/rent/flat/307553526/,Москва,rent,flat,7,17,2,57.7,60000,0,Раменки, Раменки,7К1,Раменки
+10,Сергей Стахов,realtor,https://www.cian.ru/rent/flat/247348818/,Москва,rent,flat,9,14,2,65.0,60000,0,Фили-Давыдково,Кастанаевская ,63К2,Кунцевская
+11,Виктория Шмакова,realtor,https://www.cian.ru/rent/flat/307605586/,Москва,rent,flat,7,9,1,33.0,58000,0,Черемушки, Архитектора Власова,19К4,Новые Черёмушки
+12,ID 22699,realtor,https://www.cian.ru/rent/flat/271799247/,Москва,rent,flat,2,5,1,31.0,57000,0,Котловка,Нагорная ,38К2,Нахимовский проспект
+13,Андрей Вокин,realtor,https://www.cian.ru/rent/flat/307647164/,Москва,rent,flat,7,8,1,35.0,65000,0,Хамовники,Новодевичий проезд,4,Спортивная
+14,Олег Акулов,realtor,https://www.cian.ru/rent/flat/307527271/,Москва,rent,flat,4,5,2,50.0,50000,0,Ломоносовский, Кравченко,20,Проспект Вернадского
+15,ФОКУС,official_representative,https://www.cian.ru/rent/flat/307531852/,Москва,rent,flat,8,12,1,34.9,50000,0,Можайский, Красных Зорь,51,Рабочий посёлок
+16,ID 6068,realtor,https://www.cian.ru/rent/flat/299739719/,Москва,rent,flat,22,22,1,39.0,50000,0,Строгино,Таллинская ,30,Строгино
+17,Любовь Щербакова,realtor,https://www.cian.ru/rent/flat/307334054/,Москва,rent,flat,9,9,1,34.0,60000,0,Пресненский,Звенигородское шоссе,3АС1,Улица 1905 года
+18,ID 23956980,realtor,https://www.cian.ru/rent/flat/307625261/,Москва,rent,flat,1,5,1,33.0,65000,0,Якиманка,2-й Добрынинский переулок,5/9,Добрынинская
+19,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307494461/,Москва,rent,flat,5,5,1,33.0,50000,0,Фили-Давыдково, Алексея Свиридова,3,Кунцевская
+20,ID 3187,realtor,https://www.cian.ru/rent/flat/307669815/,Москва,rent,flat,6,9,2,42.0,50000,0,Проспект Вернадского, Лобачевского,46,Проспект Вернадского
+21,АРМ-Недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/307548023/,Москва,rent,flat,6,17,1,40.0,70000,0,Раменки,Мичуринский проспект,31К1,Раменки
+22,ID 8220,realtor,https://www.cian.ru/rent/flat/307541251/,Москва,rent,flat,2,14,1,39.0,60000,0,Замоскворечье,Люсиновская ,12,Серпуховская
+23,ID 81784885,homeowner,https://www.cian.ru/rent/flat/307635268/,Москва,rent,flat,9,9,1,34.1,50000,0,Проспект Вернадского, Лобачевского,44А,Проспект Вернадского
+24,Мой Дом - отделение Добрынинское,real_estate_agent,https://www.cian.ru/rent/flat/307414036/,Москва,rent,flat,4,6,2,54.0,90000,0,Дорогомилово,Кутузовский проспект,24,Москва-Сити

@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307686954/,Москва,rent,flat,2,9,3,59.0,85000,0,Печатники,Шоссейная ,19к2,Печатники
+1,ID 77276630,unknown,https://www.cian.ru/rent/flat/307357823/,Москва,rent,flat,8,9,3,60.0,89990,0,Печатники, Полбина,12,Печатники
+2,Татьяна Берестовская,realtor,https://www.cian.ru/rent/flat/305968493/,Москва,rent,flat,7,17,3,90.0,125000,0,Печатники, Гурьянова,2К1,Печатники
+3,Estes,real_estate_agent,https://www.cian.ru/rent/flat/307391650/,Москва,rent,flat,5,17,1,37.0,75000,0,Нагатинский затон,Коломенская набережная,12,Нагатинский Затон
+4,Дмитрий Павленко,realtor,https://www.cian.ru/rent/flat/307296897/,Москва,rent,flat,8,20,3,75.0,75000,0,Тимирязевский,Дмитровское шоссе,55,Петровско-Разумовская
+5,ID 76871139,homeowner,https://www.cian.ru/rent/flat/307264709/,Москва,rent,flat,10,17,3,77.0,85000,0,Марьино,Братиславская ,15К1,Братиславская
+6,Максим Тарасов,realtor,https://www.cian.ru/rent/flat/306692133/,Москва,rent,flat,7,25,2,71.0,73000,0,Печатники, Гурьянова,19К2,Печатники
+7,EMPIRE HOME,real_estate_agent,https://www.cian.ru/rent/flat/307674600/,Москва,rent,flat,9,16,2,52.0,67000,0,Нагатинский затон,Коломенская набережная,10,Нагатинский Затон
+8,ID 102748459,homeowner,https://www.cian.ru/rent/flat/295059770/,Москва,rent,flat,13,17,2,55.0,75000,0,Марьино,Люблинская ,118,Марьино
+9,ID 27897,realtor,https://www.cian.ru/rent/flat/307432003/,Москва,rent,flat,14,14,2,54.0,63000,0,Марьино,Поречная ,3К1,Марьино
+10,ЦЗН ПРОСПЕКТ МИРА,real_estate_agent,https://www.cian.ru/rent/flat/307460022/,Москва,rent,flat,2,16,3,80.0,80000,0,Митино,Пятницкое шоссе,36,Пятницкое шоссе
+11,ID 17228670,realtor,https://www.cian.ru/rent/flat/306953819/,Москва,rent,flat,11,12,2,50.1,65000,0,Печатники, Кухмистерова,11,Печатники
+12,ID 12717079,realtor,https://www.cian.ru/rent/flat/307538658/,Москва,rent,flat,1,12,2,49.0,75000,0,Нагатинский затон, Речников,36,Кленовый бульвар
+13,Магазин квартир,real_estate_agent,https://www.cian.ru/rent/flat/307561673/,Москва,rent,flat,12,12,2,50.0,60000,0,Люблино,Белореченская ,21,Люблино
+14,Елена Абрамова,realtor,https://www.cian.ru/rent/flat/296267694/,Москва,rent,flat,4,14,2,55.7,70000,0,Марьино,Поречная ,3К1,Марьино
+15,ID 107003209,homeowner,https://www.cian.ru/rent/flat/307429684/,Москва,rent,flat,21,25,2,55.8,75000,0,Марьино, Перерва,55,Братиславская
+16,Антонио Фернандес,realtor,https://www.cian.ru/rent/flat/171594463/,Москва,rent,flat,10,12,1,35.0,70000,0,Нагатинский затон,Затонная ,14К2,Кленовый бульвар
+17,Натэлла Кнежевич,realtor,https://www.cian.ru/rent/flat/307619075/,Москва,rent,flat,3,9,2,45.0,58000,0,Печатники, Кухмистерова,14,Люблино
+18,ПИК-Аренда,real_estate_agent,https://www.cian.ru/rent/flat/306951377/,Москва,rent,flat,12,25,2,60.4,73000,0,Люблино,Люблинская ,74к3,Перерва
+19,ID 16054678,homeowner,https://www.cian.ru/rent/flat/307290738/,Москва,rent,flat,6,14,2,54.0,75000,0,Люблино,Люблинская ,72Ак2,Депо
+20,Светлана Крамлих,realtor,https://www.cian.ru/rent/flat/307109780/,Москва,rent,flat,8,21,3,72.0,87000,0,Кузьминки,Волгоградский проспект,84К1,Кузьминки
+21,Central-arenda,real_estate_agent,https://www.cian.ru/rent/flat/291299261/,Москва,rent,flat,7,14,3,78.0,70000,0,Соколиная гора, 5-я Соколиной Горы,18К2,Шоссе Энтузиастов
+22,One Life,real_estate_agent,https://www.cian.ru/rent/flat/307266645/,Москва,rent,flat,3,8,2,52.8,75000,0,Южнопортовый,7-я Кожуховская ,20а,Дубровка
+23,EstateLiga,real_estate_agent,https://www.cian.ru/rent/flat/307341462/,Москва,rent,flat,4,11,2,69.0,80000,0,Южнопортовый,Велозаводская ,11/1,Автозаводская
+24,САМОЛЕТ ПЛЮС,real_estate_agent,https://www.cian.ru/rent/flat/307433413/,Москва,rent,flat,4,16,2,50.7,63000,0,Люблино,Ставропольская ,32,Люблино

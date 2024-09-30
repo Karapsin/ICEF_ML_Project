@@ -1,0 +1,53 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,ID 121214110,real_estate_agent,https://www.cian.ru/rent/flat/307726992/,Москва,rent,flat,8,14,2,54.0,85000,0,Коптево, Приорова,30,Войковская
+1,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307724971/,Москва,rent,flat,5,12,2,55.0,70000,0,Войковский, Клары Цеткин,25К2,Войковская
+2,LIFE ESTATE,real_estate_agent,https://www.cian.ru/rent/flat/307723993/,Москва,rent,flat,3,5,2,45.0,50000,0,Войковский, Адмирала Макарова,19К1,Войковская
+3,ID 2288866,realtor,https://www.cian.ru/rent/flat/307702505/,Москва,rent,flat,5,8,2,60.2,90000,0,Сокол,Ленинградское шоссе,3С1,Войковская
+4,Наталья Васина,realtor,https://www.cian.ru/rent/flat/307702157/,Москва,rent,flat,6,14,2,48.0,83000,0,Коптево,Новопетровская ,14,Войковская
+5,ID 108146113,realtor,https://www.cian.ru/rent/flat/307694595/,Москва,rent,flat,5,16,2,60.0,90000,0,Сокол,Ленинградское шоссе,3к1,Войковская
+6,ЖИЛ-МЕТР,real_estate_agent,https://www.cian.ru/rent/flat/307677432/,Москва,rent,flat,8,28,2,43.6,91000,0,Щукино,Волоколамское шоссе,24к1,Войковская
+7,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307668811/,Москва,rent,flat,7,8,2,75.0,145000,0,Войковский,Ленинградское шоссе,50,Войковская
+8,ИскИн,real_estate_agent,https://www.cian.ru/rent/flat/307657030/,Москва,rent,flat,5,12,2,55.0,70000,0,Войковский, Клары Цеткин,25К2,Войковская
+9,Владимир Щучкин,realtor,https://www.cian.ru/rent/flat/307647037/,Москва,rent,flat,13,22,2,42.44,120000,0,Щукино,Большой Волоколамский проезд,23,Войковская
+10,ЖИЛ-МЕТР,real_estate_agent,https://www.cian.ru/rent/flat/307636068/,Москва,rent,flat,19,28,2,43.6,89000,0,Щукино,Волоколамское шоссе,24к1,Войковская
+11,Unique Property,real_estate_agent,https://www.cian.ru/rent/flat/307611626/,Москва,rent,flat,11,17,2,62.6,190000,0,Войковский,Старопетровский проезд,8,Войковская
+12,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307606196/,Москва,rent,flat,11,17,2,63.0,190000,0,Войковский,Старопетровский проезд,8,Войковская
+13,ID 229465,homeowner,https://www.cian.ru/rent/flat/307593398/,Москва,rent,flat,12,24,2,62.0,180000,0,Войковский,Старопетровский проезд,8,Войковская
+14,Яна Минка,realtor,https://www.cian.ru/rent/flat/307539563/,Москва,rent,flat,12,23,2,45.0,135000,0,Щукино,Большой Волоколамский проезд,23,Войковская
+15,ID 73175441,unknown,https://www.cian.ru/rent/flat/307501956/,Москва,rent,flat,3,5,2,40.9,78000,0,Войковский,Ленинградское шоссе,48К1,Войковская
+16,RENT_BAND,real_estate_agent,https://www.cian.ru/rent/flat/307415959/,Москва,rent,flat,7,8,2,75.0,145000,0,Войковский,Ленинградское шоссе,50,Войковская
+17,ГЦН +,real_estate_agent,https://www.cian.ru/rent/flat/307334065/,Москва,rent,flat,3,14,2,67.0,80000,0,Коптево, Космонавта Волкова,29К1,Войковская
+18,Вячеслав Цехместер,realtor,https://www.cian.ru/rent/flat/307314583/,Москва,rent,flat,12,28,2,47.0,95000,0,Щукино,Волоколамское шоссе,24к2,Войковская
+19,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307305431/,Москва,rent,flat,7,9,2,45.0,55000,0,Войковский,Ленинградское шоссе,9К1,Войковская
+20,Славянка - офис Северо-Запад,real_estate_agent,https://www.cian.ru/rent/flat/307296616/,Москва,rent,flat,5,9,2,65.0,100000,0,Войковский,Ленинградское шоссе,21,Войковская
+21,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307223381/,Москва,rent,flat,16,24,2,41.0,120000,0,Щукино,Волоколамское шоссе,24к1,Войковская
+22,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307114460/,Москва,rent,flat,16,24,2,44.0,120000,0,Щукино,Волоколамское шоссе,24к1,Войковская
+23,Ирада Кадиева,realtor,https://www.cian.ru/rent/flat/306871812/,Москва,rent,flat,9,30,2,63.0,180000,0,Войковский, Адмирала Макарова,6А,Войковская
+24,Антон Здоровенко,realtor,https://www.cian.ru/rent/flat/306853650/,Москва,rent,flat,19,28,2,43.0,99000,0,Щукино,Волоколамское шоссе,24к1,Войковская
+25,ID 234792,real_estate_agent,https://www.cian.ru/rent/flat/306839675/,Москва,rent,flat,3,19,2,61.0,95000,0,Войковский,5-й Войковский проезд,18С1,Войковская
+26,Этажи Москва,real_estate_agent,https://www.cian.ru/rent/flat/306581669/,Москва,rent,flat,24,28,2,44.6,110000,0,Щукино,Волоколамское шоссе,24к1,Войковская
+27,Бест на Речном,real_estate_agent,https://www.cian.ru/rent/flat/306271531/,Москва,rent,flat,5,16,2,70.0,75000,0,Войковский,6-й Новоподмосковный переулок,3,Войковская
+28,ID 96045029,homeowner,https://www.cian.ru/rent/flat/306051249/,Москва,rent,flat,23,28,2,45.0,110000,0,Щукино,Волоколамское шоссе,24к1,Войковская
+29,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/305813963/,Москва,rent,flat,2,5,2,56.0,90000,0,Войковский, Адмирала Макарова,21,Войковская
+30,ID 47081741,homeowner,https://www.cian.ru/rent/flat/304750702/,Москва,rent,flat,5,5,2,40.2,75000,0,Войковский, Космонавта Волкова,15К1,Войковская
+31,Иван Музалевский,realtor,https://www.cian.ru/rent/flat/302123949/,Москва,rent,flat,3,5,2,40.9,62000,0,Коптево, Приорова,22,Войковская
+32,ID 15110248,homeowner,https://www.cian.ru/rent/flat/300012030/,Москва,rent,flat,6,7,2,58.4,75000,0,Коптево, Космонавта Волкова,25/2,Войковская
+33,ID 7470900,realtor,https://www.cian.ru/rent/flat/293295389/,Москва,rent,flat,19,28,2,58.0,108000,0,Щукино,Волоколамское шоссе,24к1,Войковская
+34,ID 14262,realtor,https://www.cian.ru/rent/flat/286286009/,Москва,rent,flat,9,17,2,63.0,70000,0,Войковский,Нарвская ,1Ак2,Войковская
+35,ID 85338515,homeowner,https://www.cian.ru/rent/flat/272444996/,Москва,rent,flat,8,14,2,52.0,85000,0,Коптево, Приорова,30,Войковская
+36,Ян Кальян,realtor,https://www.cian.ru/rent/flat/267365508/,Москва,rent,flat,6,7,2,60.0,70000,0,Войковский,5-й Войковский проезд,10,Войковская
+37,ID 78552985,homeowner,https://www.cian.ru/rent/flat/298283218/,Москва,rent,flat,8,9,2,45.0,69000,0,Сокол,Песчаный переулок,20К1,Панфиловская
+38,ID 11982,real_estate_agent,https://www.cian.ru/rent/flat/307138942/,Москва,rent,flat,8,9,2,63.2,80000,0,Сокол,Ленинградский проспект,75к1,Сокол
+39,ID 100465345,homeowner,https://www.cian.ru/rent/flat/307552263/,Москва,rent,flat,3,41,3,82.0,100000,0,Хорошевский,Ленинградский проспект,37/6,Аэропорт
+40,МИЭЛЬ,real_estate_agent,https://www.cian.ru/rent/flat/307609956/,Москва,rent,flat,9,11,2,56.0,80000,0,Беговой,Беговая ,7,Беговая
+41,ID 121154463,homeowner,https://www.cian.ru/rent/flat/306816695/,Москва,rent,flat,5,5,3,54.9,89000,0,Аэропорт,Авиационный переулок,4,Аэропорт
+42,ID 25425826,homeowner,https://www.cian.ru/rent/flat/288179324/,Москва,rent,flat,3,9,2,41.0,79000,0,Аэропорт,Красноармейская ,9,Аэропорт
+43,ID 57245889,homeowner,https://www.cian.ru/rent/flat/304065965/,Москва,rent,flat,6,14,2,53.0,78000,0,Беговой,Беговая ,6К2,Беговая
+44,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/306679176/,Москва,rent,flat,8,10,2,38.0,80000,0,Савеловский,Петровско-Разумовский проезд,5,Петровский Парк
+45,ID 93983385,homeowner,https://www.cian.ru/rent/flat/307345529/,Москва,rent,flat,1,9,2,40.0,65000,0,Левобережный,Ленинградское шоссе,112к3,Беломорская
+46,ID 21001,realtor,https://www.cian.ru/rent/flat/307536905/,Москва,rent,flat,7,8,2,63.0,80000,0,Сокол, Алабяна,10К6,Панфиловская
+47,ID 64974135,homeowner,https://www.cian.ru/rent/flat/247668003/,Москва,rent,flat,13,22,2,62.0,82000,0,Филевский парк,Филевский бульвар,41,Фили
+48,Елена Владимировна  Ратич,realtor,https://www.cian.ru/rent/flat/306858646/,Москва,rent,flat,4,17,1,35.0,70000,0,Войковский,Ленинградское шоссе,29,Войковская
+49,ID 234494,unknown,https://www.cian.ru/rent/flat/307220669/,Москва,rent,flat,10,21,2,42.0,100000,0,Головинский,Кронштадтский бульвар,9к3,Водный стадион
+50,MagAppArt,real_estate_agent,https://www.cian.ru/rent/flat/155763993/,Москва,rent,flat,3,5,2,55.0,80000,0,Аэропорт,Малый Коптевский проезд,4,Красный Балтиец
+51,ID 467657,real_estate_agent,https://www.cian.ru/rent/flat/237509795/,Москва,rent,flat,26,26,2,45.0,90000,0,Головинский,Кронштадтский бульвар,6к4,Водный стадион

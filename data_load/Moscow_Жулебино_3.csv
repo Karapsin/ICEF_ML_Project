@@ -1,0 +1,29 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,ID 121214110,real_estate_agent,https://www.cian.ru/rent/flat/307785412/,Москва,rent,flat,4,12,3,82.0,80000,0,Выхино-Жулебино,Жулебинский бульвар,28К1,Жулебино
+1,ID 25097728,realtor,https://kotelniki.cian.ru/rent/flat/307778215/,Москва,rent,flat,31,36,3,70.0,85000,0,, Сосновая,5,Жулебино
+2,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307755536/,Москва,rent,flat,4,12,3,82.0,80000,0,Выхино-Жулебино,Жулебинский бульвар,28К1,Жулебино
+3,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307706167/,Москва,rent,flat,7,14,3,80.0,90000,0,Выхино-Жулебино, Генерала Кузнецова,12,Жулебино
+4,Екатерина Дрозд,realtor,https://dzerzhinsky.cian.ru/rent/flat/307697906/,Москва,rent,flat,4,9,3,55.0,65000,0,,Томилинская ,18,Жулебино
+5,АЛЬФА,real_estate_agent,https://lyubertsy.cian.ru/rent/flat/307675593/,Москва,rent,flat,10,12,3,100.0,110000,0,,Октябрьский проспект,18к2,Жулебино
+6,ID 88800920,unknown,https://lyubertsy.cian.ru/rent/flat/307655929/,Москва,rent,flat,3,17,3,83.0,100000,0,, 3-е Почтовое Отделение,55,Жулебино
+7,Руслан Кощуг,realtor,https://lyubertsy.cian.ru/rent/flat/307615341/,Москва,rent,flat,15,17,3,78.0,45000,0,,,,
+8,Нью Сити,real_estate_agent,https://www.cian.ru/rent/flat/307592392/,Москва,rent,flat,6,14,3,90.0,80000,0,Выхино-Жулебино,Самаркандский Бульвар 137А кв-л,к11,Жулебино
+9,АЛЬЯНС Недвижимость,real_estate_agent,https://lyubertsy.cian.ru/rent/flat/307541886/,Москва,rent,flat,15,17,3,90.0,100000,0,, Кирова,1,Жулебино
+10,Замоскворечье,real_estate_agent,https://kotelniki.cian.ru/rent/flat/307500088/,Москва,rent,flat,12,16,3,68.0,90000,0,,,27,Жулебино
+11,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307498898/,Москва,rent,flat,4,12,3,81.0,80000,0,Выхино-Жулебино,Жулебинский бульвар,28К1,Жулебино
+12,Андрей Алябьев,realtor,https://www.cian.ru/rent/flat/307458036/,Москва,rent,flat,7,14,3,75.0,90000,0,Выхино-Жулебино, Генерала Кузнецова,12,Жулебино
+13,Людмила Мартынова,realtor,https://kotelniki.cian.ru/rent/flat/307396325/,Москва,rent,flat,17,25,3,76.0,90000,0,, Сосновая,2к1,Жулебино
+14,СИТИ ГРУПП,real_estate_agent,https://lyubertsy.cian.ru/rent/flat/307247350/,Москва,rent,flat,11,18,3,75.0,49990,0,,,,
+15,ID 107204190,homeowner,https://lyubertsy.cian.ru/rent/flat/307053288/,Москва,rent,flat,15,17,3,78.0,80000,0,, 3-е Почтовое Отделение,72,Жулебино
+16,ID 21825897,realtor,https://lyubertsy.cian.ru/rent/flat/306956755/,Москва,rent,flat,2,14,3,85.0,100000,0,,Октябрьский проспект,10к1,Жулебино
+17,Столичный Проспект,real_estate_agent,https://www.cian.ru/rent/flat/306938338/,Москва,rent,flat,14,16,3,130.0,100000,0,Выхино-Жулебино, Маршала Полубоярова,20,Жулебино
+18,Елена Теплякова,realtor,https://www.cian.ru/rent/flat/306855677/,Москва,rent,flat,1,9,3,65.0,60000,0,Выхино-Жулебино,Ферганский проезд,3К2,Жулебино
+19,Мой Дом - отделение Добрынинское,real_estate_agent,https://lyubertsy.cian.ru/rent/flat/306607494/,Москва,rent,flat,13,19,3,82.0,80000,0,, 3-е Почтовое Отделение,42,Жулебино
+20,ID 120726390,homeowner,https://kotelniki.cian.ru/rent/flat/306235130/,Москва,rent,flat,14,32,3,82.0,90000,0,, Сосновая,5,Жулебино
+21,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/306154124/,Москва,rent,flat,7,14,3,75.0,90000,0,Выхино-Жулебино, Генерала Кузнецова,12,Жулебино
+22,ID 120069795,homeowner,https://kotelniki.cian.ru/rent/flat/305655911/,Москва,rent,flat,13,17,3,89.7,120000,0,, Кузьминская,17,Жулебино
+23,Stanislav Abramov,realtor,https://kotelniki.cian.ru/rent/flat/305550129/,Москва,rent,flat,23,33,3,60.0,85000,0,, Сосновая,5к1,Жулебино
+24,CENTURY 21 Перспектива,real_estate_agent,https://lyubertsy.cian.ru/rent/flat/305420320/,Москва,rent,flat,14,17,3,80.0,65000,0,, 3-е Почтовое Отделение,9,Жулебино
+25,ID 10990907,realtor,https://lyubertsy.cian.ru/rent/flat/302959332/,Москва,rent,flat,3,9,3,54.0,50000,0,,Московская ,15,Жулебино
+26,Ольга Николаевна Чванова,realtor,https://lyubertsy.cian.ru/rent/flat/300779570/,Москва,rent,flat,12,26,3,56.0,65000,0,, Летчика Ларюшина,10,Жулебино
+27,Capital Mars,real_estate_agent,https://kotelniki.cian.ru/rent/flat/300501525/,Москва,rent,flat,18,19,3,105.0,100000,0,, Строителей,1,Жулебино

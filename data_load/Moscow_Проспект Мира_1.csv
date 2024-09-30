@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,ID 122193970,homeowner,https://www.cian.ru/rent/flat/307740945/,Москва,rent,flat,4,10,1,40.0,130000,0,Мещанский,Малая Сухаревская площадь,3,Проспект Мира
+1,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307661338/,Москва,rent,flat,6,14,1,45.0,75000,0,Мещанский,Большая Переяславская ,6К1,Проспект Мира
+2,ID 230003,realtor,https://www.cian.ru/rent/flat/307574827/,Москва,rent,flat,6,16,1,34.8,80000,0,Мещанский, Гиляровского,59,Проспект Мира
+3,ID 101998357,unknown,https://www.cian.ru/rent/flat/307549223/,Москва,rent,flat,8,9,1,33.0,110000,0,Мещанский,Большая Переяславская ,15,Проспект Мира
+4,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307537446/,Москва,rent,flat,1,4,1,30.0,110000,0,Мещанский,переулок Васнецова,11К2,Проспект Мира
+5,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307207030/,Москва,rent,flat,9,16,1,45.0,100000,0,Мещанский,Олимпийский проспект,22,Проспект Мира
+6,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307145437/,Москва,rent,flat,3,4,1,23.0,90000,0,Мещанский,Средняя Переяславская ,27С1,Проспект Мира
+7,Александр Беловъ,realtor,https://www.cian.ru/rent/flat/306828443/,Москва,rent,flat,10,14,1,66.0,150000,0,Мещанский, Гиляровского,50,Проспект Мира
+8,Оптима МСК,official_representative,https://www.cian.ru/rent/flat/306457074/,Москва,rent,flat,2,4,1,38.7,250000,0,Мещанский,Олимпийский проспект,12,Проспект Мира
+9,ID 115106089,homeowner,https://www.cian.ru/rent/flat/300526672/,Москва,rent,flat,4,9,1,36.0,70000,0,Мещанский,Астраханский переулок,5,Проспект Мира
+10,Марина Морозова,realtor,https://www.cian.ru/rent/flat/297798627/,Москва,rent,flat,12,14,1,40.0,110000,0,Мещанский,Ботанический переулок,11,Проспект Мира
+11,ID 109013674,homeowner,https://www.cian.ru/rent/flat/297497530/,Москва,rent,flat,4,10,1,32.0,80000,0,Мещанский,Малая Сухаревская площадь,3,Проспект Мира
+12,Дворянское гнездо,real_estate_agent,https://www.cian.ru/rent/flat/297041241/,Москва,rent,flat,6,12,1,75.0,200000,0,Мещанский,Ботанический переулок,5,Проспект Мира
+13,LaRichesse,real_estate_agent,https://www.cian.ru/rent/flat/295221533/,Москва,rent,flat,6,12,1,60.0,180000,0,Мещанский,Ботанический переулок,5,Проспект Мира
+14,Дворянское гнездо,real_estate_agent,https://www.cian.ru/rent/flat/285042764/,Москва,rent,flat,6,12,1,60.0,180000,0,Мещанский,Ботанический переулок,5,Проспект Мира
+15,ID 61971563,homeowner,https://www.cian.ru/rent/flat/307458356/,Москва,rent,flat,3,22,1,40.0,65000,0,Алексеевский,Староалексеевская ,3,Алексеевская
+16,ID 11630609,homeowner,https://www.cian.ru/rent/flat/299551839/,Москва,rent,flat,1,5,1,31.0,70000,0,Марьина роща, Сущевский Вал,67,Марьина Роща
+17,ID 122008115,realtor,https://www.cian.ru/rent/flat/307575538/,Москва,rent,flat,1,6,1,42.3,55000,0,Марьина роща,площадь Борьбы,13,Достоевская
+18,СТОЛИЦА Департамент недвижимости,real_estate_agent,https://www.cian.ru/rent/flat/307576555/,Москва,rent,flat,4,5,2,46.0,80000,0,Тверской,Новосущевская ,14,Достоевская
+19,Вадим Волков,realtor,https://www.cian.ru/rent/flat/285230568/,Москва,rent,flat,6,9,2,37.0,67000,0,Тверской,Перуновский переулок,4-8,Менделеевская
+20,ID 25297749,homeowner,https://www.cian.ru/rent/flat/268445594/,Москва,rent,flat,11,16,1,35.0,75000,0,Бабушкинский,Печорская ,3,Бабушкинская
+21,Золотой ключ,real_estate_agent,https://www.cian.ru/rent/flat/307534474/,Москва,rent,flat,11,12,2,38.0,70000,0,Мещанский,Капельский переулок,3,Проспект Мира
+22,ID 49550815,realtor,https://www.cian.ru/rent/flat/300352634/,Москва,rent,flat,21,22,1,44.0,65000,0,Алексеевский,Маломосковская ,21К3,ВДНХ
+23,Моя Недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/250969698/,Москва,rent,flat,5,8,1,38.0,65000,0,Преображенское,Большая Черкизовская ,4К1,Преображенская площадь
+24,Оксана Оксименко,realtor,https://www.cian.ru/rent/flat/245122430/,Москва,rent,flat,8,9,2,45.0,77000,0,Останкинский,проспект Мира,97,Алексеевская

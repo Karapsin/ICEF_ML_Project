@@ -1,0 +1,54 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,ID 43816358,realtor,https://solnechnogorsk.cian.ru/rent/flat/307781689/,Москва,rent,flat,6,19,2,67.2,50000,0,,,,
+1,ID 66992708,unknown,https://www.cian.ru/rent/flat/307781536/,Москва,rent,flat,3,22,2,51.0,50000,0,Силино,Зеленоград,к1003,Фирсановская
+2,ID 89638764,homeowner,https://solnechnogorsk.cian.ru/rent/flat/307778649/,Москва,rent,flat,15,15,2,78.0,65000,0,Андреевка рп, Староандреевская,43к1,
+3,ДИАЛОГ ГАРАНТ,real_estate_agent,https://www.cian.ru/rent/flat/307773178/,Москва,rent,flat,5,14,2,52.0,50000,0,Савёлки,Зеленоград,к504,Фирсановская
+4,ID 62250072,realtor,https://www.cian.ru/rent/flat/307767679/,Москва,rent,flat,12,14,2,52.0,42000,0,Крюково,Зеленоград,к1418,Фирсановская
+5,ОХОТНЫЙ РЯД офис Тверская,real_estate_agent,https://www.cian.ru/rent/flat/307758746/,Москва,rent,flat,14,17,2,60.0,60000,0,Матушкино,Зеленоград,к438,Фирсановская
+6,KINS Group,real_estate_agent,https://www.cian.ru/rent/flat/307753206/,Москва,rent,flat,2,14,2,38.5,55000,0,Крюково,Зеленоград,к1818,Фирсановская
+7,Светлана Ермакова,realtor,https://www.cian.ru/rent/flat/307707215/,Москва,rent,flat,11,17,2,39.0,55000,0,Крюково,проспект Георгиевский,33к5,Фирсановская
+8,EMPIRE HOME,real_estate_agent,https://khimki.cian.ru/rent/flat/307680727/,Москва,rent,flat,7,17,2,71.0,60000,0,,Первомайская ,49,Фирсановская
+9,Людмила Афанасьева,realtor,https://www.cian.ru/rent/flat/307678519/,Москва,rent,flat,6,9,2,46.0,40000,0,Савёлки,Зеленоград,к301А,Фирсановская
+10,Александр Евдокимов,realtor,https://www.cian.ru/rent/flat/307663370/,Москва,rent,flat,10,12,2,50.0,35000,0,Силино,Панфиловский проспект,к1004,Фирсановская
+11,Наталья Левина,realtor,https://www.cian.ru/rent/flat/307661742/,Москва,rent,flat,3,5,2,41.1,45000,0,Крюково, Крупской,2,Фирсановская
+12,Домклик Аренда,real_estate_agent,https://khimki.cian.ru/rent/flat/307632606/,Москва,rent,flat,1,4,2,38.9,38500,0,,,,
+13,ID 82789237,realtor,https://www.cian.ru/rent/flat/307616909/,Москва,rent,flat,7,17,2,52.0,50000,0,Крюково,Зеленоград,к1626,Фирсановская
+14,Сабина Гахраманова,realtor,https://www.cian.ru/rent/flat/307611472/,Москва,rent,flat,10,12,2,52.0,55000,0,Силино,Зеленоград,к1204,Фирсановская
+15,ПИК-Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307604294/,Москва,rent,flat,13,25,2,61.0,83300,0,Крюково,проспект Георгиевский,37к2,Фирсановская
+16,ID 398662,realtor,https://solnechnogorsk.cian.ru/rent/flat/307592939/,Москва,rent,flat,17,17,2,52.3,55000,0,,,,
+17,EMPIRE HOME,real_estate_agent,https://khimki.cian.ru/rent/flat/307570918/,Москва,rent,flat,11,17,2,60.0,35000,0,,,,
+18,ID 13334639,realtor,https://solnechnogorsk.cian.ru/rent/flat/307563318/,Москва,rent,flat,3,4,2,44.0,59000,0,,,,
+19,Василий Солдаткин,realtor,https://www.cian.ru/rent/flat/307550293/,Москва,rent,flat,8,9,2,45.0,50000,0,Старое Крюково,Зеленоград,к918,Фирсановская
+20,Катерина Бородина,realtor,https://www.cian.ru/rent/flat/307476825/,Москва,rent,flat,9,14,2,60.0,60000,0,Матушкино,Зеленоград,к418,Фирсановская
+21,ПОМИДОР-Недвижимость,real_estate_agent,https://solnechnogorsk.cian.ru/rent/flat/307440882/,Москва,rent,flat,2,5,2,44.3,30000,0,д. Ложки,Центральная ,5,
+22,ID 80761309,homeowner,https://www.cian.ru/rent/flat/307423416/,Москва,rent,flat,12,12,2,54.0,45000,0,Крюково,Зеленоград,к1462,Фирсановская
+23,Хороший Дом,real_estate_agent,https://www.cian.ru/rent/flat/307407695/,Москва,rent,flat,17,17,2,55.8,50000,0,Крюково,Зеленоград,к1639,Фирсановская
+24,Комфорт,real_estate_agent,https://khimki.cian.ru/rent/flat/307402323/,Москва,rent,flat,15,17,2,60.0,40000,0,,,,
+25,Анастасия Лебедева,realtor,https://solnechnogorsk.cian.ru/rent/flat/307395826/,Москва,rent,flat,4,17,2,60.0,40000,0,д. Голубое,проезд Тверецкий,16к3,
+26,ID 62261696,unknown,https://solnechnogorsk.cian.ru/rent/flat/307261346/,Москва,rent,flat,4,5,2,46.0,28000,0,д. Ложки,Центральная ,1,
+27,Мария Щетинина,realtor,https://solnechnogorsk.cian.ru/rent/flat/307197711/,Москва,rent,flat,7,14,2,54.0,30000,0,,,,
+28,ФЛЭТ Зеленоград,real_estate_agent,https://www.cian.ru/rent/flat/307146279/,Москва,rent,flat,8,17,2,56.0,47000,0,Матушкино,Центральный проспект,к402,Фирсановская
+29,ID 43475409,realtor,https://khimki.cian.ru/rent/flat/307144849/,Москва,rent,flat,15,18,2,53.4,55000,0,,,,
+30,Андрей Алябьев,realtor,https://khimki.cian.ru/rent/flat/307092538/,Москва,rent,flat,2,14,2,42.0,50000,0,Велтон Парк Новая Сходня мкр, Некрасова,8,
+31,ID 83787697,unknown,https://solnechnogorsk.cian.ru/rent/flat/307063843/,Москва,rent,flat,11,16,2,51.84,40000,0,,,,
+32,ID 71681862,unknown,https://khimki.cian.ru/rent/flat/307059390/,Москва,rent,flat,11,18,2,48.0,55000,0,д. Подолино, Дачная,9,
+33,Светлана Лапицкая,realtor,https://solnechnogorsk.cian.ru/rent/flat/306422830/,Москва,rent,flat,16,26,2,49.0,42000,0,д. Голубое,проезд Сургутский,1к3,
+34,ID 89075014,homeowner,https://www.cian.ru/rent/flat/306401506/,Москва,rent,flat,6,16,2,42.0,120000,0,Матушкино,Зеленоград,к449,Фирсановская
+35,ID 85376241,homeowner,https://www.cian.ru/rent/flat/306354438/,Москва,rent,flat,16,16,2,45.4,65000,0,Крюково,проспект Георгиевский,37к1,Фирсановская
+36,Финист,real_estate_agent,https://solnechnogorsk.cian.ru/rent/flat/306100436/,Москва,rent,flat,15,17,2,60.0,40000,0,,,,
+37,Карина Онисковец,realtor,https://www.cian.ru/rent/flat/305841766/,Москва,rent,flat,15,25,2,46.0,70000,0,Крюково,проспект Георгиевский,27к1,Фирсановская
+38,ID 13688741,homeowner,https://solnechnogorsk.cian.ru/rent/flat/305838156/,Москва,rent,flat,14,18,2,48.0,65000,0,д. Голубое, Трехсвятская,6,
+39,ID 516273,unknown,https://www.cian.ru/rent/flat/298704817/,Москва,rent,flat,10,14,2,52.3,60000,0,Матушкино,Зеленоград,к248,Фирсановская
+40,ID 13992617,unknown,https://solnechnogorsk.cian.ru/rent/flat/286575004/,Москва,rent,flat,17,17,2,72.0,40000,0,д. Голубое,проезд Тверецкий,16к2,
+41,ID 13334639,realtor,https://solnechnogorsk.cian.ru/rent/flat/286428603/,Москва,rent,flat,1,3,2,53.0,59000,0,,,,
+42,ID 52307391,realtor,https://www.cian.ru/rent/flat/283972972/,Москва,rent,flat,10,10,2,55.8,45000,0,Крюково,Зеленоград,к1645,Фирсановская
+43,Ирина Бортникова,realtor,https://www.cian.ru/rent/flat/280446170/,Москва,rent,flat,16,17,2,52.0,55000,0,Крюково,Зеленоград,к2005,Фирсановская
+44,Олег Алябьев,realtor,https://www.cian.ru/rent/flat/279191076/,Москва,rent,flat,6,12,2,47.0,50000,0,Крюково,Зеленоград,к2014,Фирсановская
+45,Наталья Саблина,realtor,https://www.cian.ru/rent/flat/279171669/,Москва,rent,flat,2,12,2,60.0,90000,0,Савёлки,Зеленоград,к354,Фирсановская
+46,ID 814927,unknown,https://solnechnogorsk.cian.ru/rent/flat/270651386/,Москва,rent,flat,6,12,2,60.0,60000,0,Андреевка рп, Жилинская,27к5,
+47,ID 467657,real_estate_agent,https://www.cian.ru/rent/flat/245506249/,Москва,rent,flat,4,14,2,55.0,70000,0,Савёлки,Зеленоград,к303,Фирсановская
+48,Роман Евдокимов,realtor,https://www.cian.ru/rent/flat/221273699/,Москва,rent,flat,13,14,2,50.0,47000,0,Крюково,Зеленоград,к1645,Фирсановская
+49,ID 16066,real_estate_agent,https://solnechnogorsk.cian.ru/rent/flat/195113791/,Москва,rent,flat,14,20,2,43.0,40000,0,,,,
+50,Егор Колмогоров,realtor,https://khimki.cian.ru/rent/flat/288261546/,Москва,rent,flat,5,5,1,30.0,45000,0,, Энгельса,16,Химки
+51,ФЛЭТ Зеленоград,real_estate_agent,https://khimki.cian.ru/rent/flat/307381994/,Москва,rent,flat,17,17,1,39.0,42000,0,,Железнодорожная ,33к1,Фирсановская
+52,Павел Черкашин,realtor,https://khimki.cian.ru/rent/flat/307627441/,Москва,rent,flat,3,9,2,45.0,48000,0,,Юбилейный проспект,40,Химки

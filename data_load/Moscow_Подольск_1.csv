@@ -1,0 +1,54 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Павел Борисов,realtor,https://podolsk.cian.ru/rent/flat/307778605/,Москва,rent,flat,4,12,1,48.0,42000,0,,Колхозная ,18,Подольск
+1,Сергей Макаров,realtor,https://podolsk.cian.ru/rent/flat/307740417/,Москва,rent,flat,4,6,1,37.0,35000,0,, Симферопольская,4,Подольск
+2,ID 84946977,homeowner,https://podolsk.cian.ru/rent/flat/307740151/,Москва,rent,flat,7,17,1,38.0,32000,0,,Юбилейная ,13а,Подольск
+3,Павел Борисов,realtor,https://podolsk.cian.ru/rent/flat/307732301/,Москва,rent,flat,3,14,1,40.0,40000,0,,бульвар Бородинский,5,Подольск
+4,ГОРОБМЕН,real_estate_agent,https://podolsk.cian.ru/rent/flat/307724046/,Москва,rent,flat,1,9,1,33.0,35000,0,,Огородная ,3,Подольск
+5,Оксана Гимишян,realtor,https://domodedovo.cian.ru/rent/flat/307723366/,Москва,rent,flat,2,19,1,46.0,34000,0,, Курыжова,18,Подольск
+6,ID 925,realtor,https://domodedovo.cian.ru/rent/flat/307716525/,Москва,rent,flat,3,10,1,40.0,35000,0,, Кирова,7/1,Подольск
+7,ID 52792831,unknown,https://domodedovo.cian.ru/rent/flat/307698535/,Москва,rent,flat,3,9,1,52.9,50000,0,,Кутузовский проезд,17/1,Подольск
+8,PORTAL ESTATE,real_estate_agent,https://podolsk.cian.ru/rent/flat/307697969/,Москва,rent,flat,5,5,1,34.7,30000,0,, Ватутина,26/8,Подольск
+9,ID 14046670,homeowner,https://domodedovo.cian.ru/rent/flat/307665631/,Москва,rent,flat,16,19,1,40.0,45000,0,, Советская,50,Подольск
+10,Александр Киреев,realtor,https://domodedovo.cian.ru/rent/flat/307650863/,Москва,rent,flat,10,17,1,40.0,30000,0,с. Домодедово,бульвар Строителей,3,
+11,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://domodedovo.cian.ru/rent/flat/307650572/,Москва,rent,flat,3,5,1,43.0,35000,0,,Каширское шоссе,29,Подольск
+12,ID 43132535,homeowner,https://domodedovo.cian.ru/rent/flat/307630255/,Москва,rent,flat,7,17,1,34.4,35000,0,, Курыжова,1к1,Подольск
+13,ID 10999699,unknown,https://domodedovo.cian.ru/rent/flat/307619103/,Москва,rent,flat,10,17,1,44.0,35000,0,, Овражная,1к2,Подольск
+14,PARTNER-ESTATE,real_estate_agent,https://domodedovo.cian.ru/rent/flat/307604693/,Москва,rent,flat,12,17,1,38.0,45000,0,, Курыжова,7к3,Подольск
+15,Вячеслав Лукьянов,realtor,https://domodedovo.cian.ru/rent/flat/307590061/,Москва,rent,flat,13,19,1,41.0,38000,0,, Советская,50,Подольск
+16,АДВЕКС,real_estate_agent,https://domodedovo.cian.ru/rent/flat/307578435/,Москва,rent,flat,5,17,1,45.0,38000,0,, Северная,4,Подольск
+17,БЕСТ на Проспекте Мира,real_estate_agent,https://domodedovo.cian.ru/rent/flat/307561068/,Москва,rent,flat,5,18,1,35.0,32000,0,с. Домодедово, Творчества,5,
+18,ID 114331413,homeowner,https://podolsk.cian.ru/rent/flat/307550564/,Москва,rent,flat,12,17,1,47.0,60000,0,,Народная ,23,Подольск
+19,Евгения Сауткина,realtor,https://podolsk.cian.ru/rent/flat/307531278/,Москва,rent,flat,4,17,1,46.0,46000,0,, Большая Серпуховская,14в,Подольск
+20,ID 19425961,unknown,https://podolsk.cian.ru/rent/flat/307523567/,Москва,rent,flat,17,17,1,45.0,50000,0,,Юбилейная ,2а,Подольск
+21,Светлана Кожевникова,realtor,https://podolsk.cian.ru/rent/flat/307492486/,Москва,rent,flat,1,2,1,16.0,20000,0,с. Покров, Заовражная,104,
+22,Ирина Беленькая,realtor,https://domodedovo.cian.ru/rent/flat/307366408/,Москва,rent,flat,9,17,1,42.0,35000,0,, Курыжова,7,Подольск
+23,Домклик Аренда,real_estate_agent,https://domodedovo.cian.ru/rent/flat/307362109/,Москва,rent,flat,3,17,1,37.0,35000,0,, Современников,4,Подольск
+24,Елена Гарбалы,realtor,https://podolsk.cian.ru/rent/flat/307352793/,Москва,rent,flat,2,5,1,30.0,40000,0,, Дружбы,36,Подольск
+25,ID 95675392,unknown,https://domodedovo.cian.ru/rent/flat/307228391/,Москва,rent,flat,16,17,1,40.0,50000,0,, Кирова,17к1,Подольск
+26,ID 6984952,realtor,https://podolsk.cian.ru/rent/flat/306849628/,Москва,rent,flat,2,15,1,38.0,35000,0,,Парадный проезд,12,Подольск
+27,EMPIRE HOME,real_estate_agent,https://podolsk.cian.ru/rent/flat/306706886/,Москва,rent,flat,2,10,1,33.0,50000,0,,Тепличная ,7,Подольск
+28,ID 10918986,realtor,https://domodedovo.cian.ru/rent/flat/306653873/,Москва,rent,flat,3,15,1,37.0,35000,0,, Кирова,7к1,Подольск
+29,ID 121087386,homeowner,https://domodedovo.cian.ru/rent/flat/306579095/,Москва,rent,flat,11,17,1,42.0,40000,0,, Текстильщиков,31,Подольск
+30,ID 95961284,homeowner,https://podolsk.cian.ru/rent/flat/304379186/,Москва,rent,flat,1,3,1,30.7,25000,0,,,,
+31,Виктория Колотовкина,realtor,https://podolsk.cian.ru/rent/flat/303093288/,Москва,rent,flat,14,17,1,43.1,39000,0,, Барамзиной,3к1,Подольск
+32,ID 260519,homeowner,https://domodedovo.cian.ru/rent/flat/302688808/,Москва,rent,flat,11,15,1,38.0,43000,0,, Лунная,1,Подольск
+33,АльфаЮр-Хелп,real_estate_agent,https://podolsk.cian.ru/rent/flat/302590124/,Москва,rent,flat,4,14,1,43.0,29000,0,,проспект Ленина,8а,Подольск
+34,ID 112143265,homeowner,https://domodedovo.cian.ru/rent/flat/302315783/,Москва,rent,flat,14,17,1,42.0,30000,0,, Лунная,25к3,Подольск
+35,Алина  Пиркасумова,realtor,https://domodedovo.cian.ru/rent/flat/296596140/,Москва,rent,flat,9,17,1,35.0,45000,0,, Курыжова,9,Подольск
+36,ЛИДЕР,real_estate_agent,https://domodedovo.cian.ru/rent/flat/294001944/,Москва,rent,flat,13,17,1,42.0,30000,0,, Лунная,25к2,Подольск
+37,ID 13049711,real_estate_agent,https://podolsk.cian.ru/rent/flat/290191524/,Москва,rent,flat,5,17,1,48.0,45000,0,,Быковская ,6/1,Подольск
+38,ID 73226238,homeowner,https://podolsk.cian.ru/rent/flat/289402376/,Москва,rent,flat,3,17,1,44.0,44000,0,, Веллинга,11,Подольск
+39,ID 104430285,realtor,https://podolsk.cian.ru/rent/flat/288989826/,Москва,rent,flat,4,4,1,31.0,42000,0,,Пионерская ,16,Подольск
+40,Ирина  Глазунова,realtor,https://domodedovo.cian.ru/rent/flat/284589376/,Москва,rent,flat,10,18,1,40.0,35000,0,с. Домодедово,бульвар Строителей,2,
+41,ID 92780242,homeowner,https://domodedovo.cian.ru/rent/flat/283477977/,Москва,rent,flat,3,11,1,54.0,45000,0,, Лунная,25,Подольск
+42,Весна,real_estate_agent,https://podolsk.cian.ru/rent/flat/278885509/,Москва,rent,flat,3,17,1,41.0,45000,0,,Пионерская ,15к2,Подольск
+43,Гаяна Мелконян,realtor,https://podolsk.cian.ru/rent/flat/275684303/,Москва,rent,flat,6,14,1,31.2,35000,0,, Давыдова,5,Подольск
+44,ID 74961,homeowner,https://podolsk.cian.ru/rent/flat/272221402/,Москва,rent,flat,8,23,1,43.0,45000,0,пос. Сосновый Бор, Объездная Дорога,2,
+45,Ольга Закомолдина,realtor,https://podolsk.cian.ru/rent/flat/262925926/,Москва,rent,flat,1,5,1,35.0,35000,0,,,,
+46,ID 32052282,homeowner,https://domodedovo.cian.ru/rent/flat/211766936/,Москва,rent,flat,7,9,1,38.0,35000,0,, Коломийца,8к1,Подольск
+47,Александр Тюкалов,realtor,https://podolsk.cian.ru/rent/flat/162289256/,Москва,rent,flat,11,18,1,43.0,35000,0,, 43-й Армии,21,Подольск
+48,Светлана Грязнова,realtor,https://podolsk.cian.ru/rent/flat/157133970/,Москва,rent,flat,1,5,1,34.0,30000,0,,Красногвардейский бульвар,15,Подольск
+49,ГОРОБМЕН,real_estate_agent,https://vidnoye.cian.ru/rent/flat/307614367/,Москва,rent,flat,13,17,1,42.0,35000,0,Дрожжино рп,шоссе Новое,10к2,
+50,ID 378737,unknown,https://chekhov.cian.ru/rent/flat/307539645/,Москва,rent,flat,4,5,2,44.0,23000,0,Чехов,Московская ,86,
+51,ID 98258614,homeowner,https://vidnoye.cian.ru/rent/flat/307674221/,Москва,rent,flat,14,24,1,28.0,35000,0,Южная Битца ЖК,бульвар Южный,5,
+52,ID 517999,unknown,https://podolsk.cian.ru/rent/flat/276798284/,Москва,rent,flat,2,2,1,32.0,27000,0,, Левитана,4,Силикатная

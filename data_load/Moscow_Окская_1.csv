@@ -1,0 +1,29 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Сергей Павлов,realtor,https://www.cian.ru/rent/flat/307755957/,Москва,rent,flat,5,17,1,42.0,70000,0,Рязанский, Михайлова,30Ак4,Окская
+1,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307742570/,Москва,rent,flat,8,33,1,25.0,55000,0,Рязанский, Михайлова,30Ак2,Окская
+2,ID 4999,realtor,https://www.cian.ru/rent/flat/307727057/,Москва,rent,flat,17,30,1,33.0,80000,0,Рязанский,Окская ,7А,Окская
+3,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307723016/,Москва,rent,flat,1,5,1,32.0,45000,0,Кузьминки,Волгоградский проспект,131К3,Окская
+4,MDco,real_estate_agent,https://www.cian.ru/rent/flat/307716219/,Москва,rent,flat,6,33,1,28.0,70000,0,Рязанский, Михайлова,30Ак1,Окская
+5,ID 9964,realtor,https://www.cian.ru/rent/flat/307699528/,Москва,rent,flat,9,16,1,40.0,45000,0,Рязанский, Академика Скрябина,16к1,Окская
+6,МИЭЛЬ,real_estate_agent,https://www.cian.ru/rent/flat/307653819/,Москва,rent,flat,3,5,1,30.0,45000,0,Кузьминки,Волгоградский проспект,147/5К1,Окская
+7,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307651333/,Москва,rent,flat,3,33,1,37.0,90000,0,Рязанский, Михайлова,30Ак2,Окская
+8,ID 52726,unknown,https://www.cian.ru/rent/flat/307649967/,Москва,rent,flat,15,17,1,39.0,45000,0,Рязанский,Мещерский переулок,6К2,Окская
+9,ID 287994,unknown,https://www.cian.ru/rent/flat/307638648/,Москва,rent,flat,3,9,1,32.2,50000,0,Рязанский, Федора Полетаева,19К2,Окская
+10,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307634967/,Москва,rent,flat,2,33,1,30.0,63000,0,Рязанский, Михайлова,30Ак2,Окская
+11,Елизавета Романова,realtor,https://www.cian.ru/rent/flat/307633480/,Москва,rent,flat,1,6,1,14.7,45000,0,Вешняки,аллея Первой Маевки,15с3,Окская
+12,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307632113/,Москва,rent,flat,2,5,1,45.0,50000,0,Кузьминки,Волгоградский проспект,131К2,Окская
+13,ID 32403,real_estate_agent,https://www.cian.ru/rent/flat/307625208/,Москва,rent,flat,5,9,1,36.0,45000,0,Рязанский, Федора Полетаева,21К2,Окская
+14,BOND недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/307534867/,Москва,rent,flat,3,33,1,36.0,90000,0,Рязанский, Михайлова,30Ак2,Окская
+15,ID 55274520,official_representative,https://www.cian.ru/rent/flat/307524475/,Москва,rent,flat,14,33,1,38.0,70000,0,Рязанский, Михайлова,30Ак4,Окская
+16,Этажи Москва,real_estate_agent,https://www.cian.ru/rent/flat/307504969/,Москва,rent,flat,3,33,1,37.0,75000,0,Рязанский, Михайлова,30Ак2,Окская
+17,ЕГСН Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307489051/,Москва,rent,flat,4,9,1,35.0,40000,0,Кузьминки, Федора Полетаева,32К5,Окская
+18,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307433448/,Москва,rent,flat,13,15,1,37.0,60000,0,Рязанский, Михайлова,39,Окская
+19,Елена Лагутина,realtor,https://www.cian.ru/rent/flat/307400567/,Москва,rent,flat,10,12,1,36.0,50000,0,Рязанский,Зарайская ,51К1,Окская
+20,Евгений Андреев,realtor,https://www.cian.ru/rent/flat/307387050/,Москва,rent,flat,18,30,1,40.2,65000,0,Рязанский, Михайлова,30Ак1,Окская
+21,ID 88463561,realtor,https://www.cian.ru/rent/flat/307369755/,Москва,rent,flat,1,5,1,32.0,45000,0,Рязанский, Федора Полетаева,5К2,Окская
+22,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307362969/,Москва,rent,flat,5,32,1,24.0,70000,0,Рязанский, Михайлова,30Ак2,Окская
+23,ID 47414316,homeowner,https://www.cian.ru/rent/flat/307277471/,Москва,rent,flat,31,33,1,39.2,80000,0,Рязанский, Михайлова,30Ак2,Окская
+24,ID 84553139,unknown,https://www.cian.ru/rent/flat/307149929/,Москва,rent,flat,3,5,1,32.0,41000,0,Рязанский,Яснополянская ,3К1,Окская
+25,ПИК-Аренда,real_estate_agent,https://www.cian.ru/rent/flat/306901449/,Москва,rent,flat,23,33,1,46.3,85300,0,Рязанский, Михайлова,30Ак6,Окская
+26,ИНГРУПП,real_estate_agent,https://www.cian.ru/rent/flat/306717045/,Москва,rent,flat,13,20,1,39.0,75000,0,Рязанский, Михайлова,31А,Окская
+27,Парус,real_estate_agent,https://www.cian.ru/rent/flat/306603860/,Москва,rent,flat,23,33,1,47.0,100000,0,Рязанский, Михайлова,30Ак6,Окская

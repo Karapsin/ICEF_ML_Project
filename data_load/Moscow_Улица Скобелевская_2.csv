@@ -1,0 +1,29 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307711327/,Москва,rent,flat,14,23,2,60.0,68000,0,Южное Бутово,бульвар Адмирала Ушакова,2,Улица Скобелевская
+1,Las Vegas,real_estate_agent,https://www.cian.ru/rent/flat/307707864/,Москва,rent,flat,2,9,2,45.0,120000,0,Северное Бутово,бульвар Дмитрия Донского,17,Улица Скобелевская
+2,ID 65031701,realtor,https://www.cian.ru/rent/flat/307706148/,Москва,rent,flat,14,14,2,84.0,110000,0,, Эдварда Грига,5,Улица Скобелевская
+3,ID 19629440,homeowner,https://vidnoye.cian.ru/rent/flat/307689443/,Москва,rent,flat,11,17,2,52.0,80000,0,,,,
+4,Циан х ПИК-Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307665467/,Москва,rent,flat,13,14,2,39.0,60700,0,, Потаповская Роща,20к1,Улица Скобелевская
+5,Халида Бабаджанова,realtor,https://www.cian.ru/rent/flat/307658642/,Москва,rent,flat,6,17,2,70.0,80000,0,, Эдварда Грига,15,Улица Скобелевская
+6,Татьяна Хакимзанова,realtor,https://www.cian.ru/rent/flat/307638725/,Москва,rent,flat,4,16,2,56.0,80000,0,, Потаповская Роща,20к1,Улица Скобелевская
+7,MOTYLEK - департамент недвижимости,real_estate_agent,https://www.cian.ru/rent/flat/307634316/,Москва,rent,flat,7,17,2,52.0,70000,0,Южное Бутово,Варшавское шоссе,282к1,Улица Скобелевская
+8,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307611527/,Москва,rent,flat,4,16,2,42.0,60000,0,Южное Бутово,Краснолиманская ,29,Улица Скобелевская
+9,На Петровке,real_estate_agent,https://www.cian.ru/rent/flat/307547791/,Москва,rent,flat,4,14,2,50.0,60000,0,Южное Бутово,Старонародная ,2,Улица Скобелевская
+10,Парус,real_estate_agent,https://www.cian.ru/rent/flat/307459489/,Москва,rent,flat,9,16,2,46.0,90000,0,, Потаповская Роща,20к1,Улица Скобелевская
+11,Сфера Недвижимости,real_estate_agent,https://www.cian.ru/rent/flat/307426970/,Москва,rent,flat,5,17,2,55.0,85000,0,,бульвар Скандинавский,19,Улица Скобелевская
+12,ID 10897169,unknown,https://www.cian.ru/rent/flat/307369841/,Москва,rent,flat,12,14,2,53.0,60000,0,Южное Бутово,Веневская ,1,Улица Скобелевская
+13,ID 111881038,realtor,https://www.cian.ru/rent/flat/307215551/,Москва,rent,flat,4,8,2,43.6,70000,0,, Эдварда Грига,17,Улица Скобелевская
+14,Павел Конорев,realtor,https://www.cian.ru/rent/flat/307201648/,Москва,rent,flat,5,17,2,50.6,65000,0,Южное Бутово,бульвар Адмирала Ушакова,11,Улица Скобелевская
+15,ID 41650714,homeowner,https://www.cian.ru/rent/flat/307152443/,Москва,rent,flat,9,16,2,46.0,90000,0,, Потаповская Роща,20к1,Улица Скобелевская
+16,EstateLiga,real_estate_agent,https://www.cian.ru/rent/flat/307114911/,Москва,rent,flat,10,13,2,56.3,75000,0,, Эдварда Грига,15,Улица Скобелевская
+17,ID 344391,realtor,https://www.cian.ru/rent/flat/307113025/,Москва,rent,flat,4,14,2,53.0,60000,0,Южное Бутово,Старонародная ,2,Улица Скобелевская
+18,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307035120/,Москва,rent,flat,3,16,2,59.0,84000,0,, Эдварда Грига,16к2,Улица Скобелевская
+19,ПИК-Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307007810/,Москва,rent,flat,12,17,2,50.8,54900,0,Южное Бутово,Варшавское шоссе,282к1,Улица Скобелевская
+20,Александр Никоноров,realtor,https://www.cian.ru/rent/flat/306697803/,Москва,rent,flat,16,16,2,67.0,80000,0,Южное Бутово, Поляны,5Ак1,Улица Скобелевская
+21,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/306655898/,Москва,rent,flat,10,14,2,54.0,60000,0,Южное Бутово,Скобелевская ,32,Улица Скобелевская
+22,МГСН,real_estate_agent,https://www.cian.ru/rent/flat/306269667/,Москва,rent,flat,8,8,2,55.0,77000,0,, Эдварда Грига,17,Улица Скобелевская
+23,Самолет Плюс,real_estate_agent,https://www.cian.ru/rent/flat/306265112/,Москва,rent,flat,3,5,2,45.0,72000,0,Южное Бутово,1-я Мелитопольская ,28,Улица Скобелевская
+24,Елена Кульпина,realtor,https://www.cian.ru/rent/flat/306010009/,Москва,rent,flat,11,16,2,62.0,80000,0,, Потаповская Роща,24к2,Улица Скобелевская
+25,ID 450563,unknown,https://www.cian.ru/rent/flat/299517702/,Москва,rent,flat,8,16,2,39.0,59000,0,, Потаповская Роща,20к1,Улица Скобелевская
+26,ID 113606530,homeowner,https://www.cian.ru/rent/flat/298902788/,Москва,rent,flat,7,8,2,43.0,75000,0,, Эдварда Грига,17,Улица Скобелевская
+27,ID 152125,realtor,https://www.cian.ru/rent/flat/297593712/,Москва,rent,flat,15,15,2,60.0,120000,0,Северное Бутово,Феодосийская ,7к5,Улица Скобелевская

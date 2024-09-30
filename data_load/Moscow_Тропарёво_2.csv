@@ -1,0 +1,29 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307747338/,Москва,rent,flat,2,9,2,44.0,60000,0,Теплый Стан, Академика Варги,2,Тропарёво
+1,Квадраты Москвы,real_estate_agent,https://www.cian.ru/rent/flat/307745771/,Москва,rent,flat,8,13,2,54.0,70000,0,Тропарево-Никулино, 26 Бакинских Комиссаров,3к3,Тропарёво
+2,ID 90076478,homeowner,https://www.cian.ru/rent/flat/307739217/,Москва,rent,flat,10,17,2,54.6,110000,0,Тропарево-Никулино, Академика Анохина,26К4,Тропарёво
+3,Вадим Гурин,realtor,https://www.cian.ru/rent/flat/307735945/,Москва,rent,flat,14,29,2,75.0,85000,0,Теплый Стан,Ленинский проспект,131,Тропарёво
+4,Premium Realty,real_estate_agent,https://www.cian.ru/rent/flat/307722033/,Москва,rent,flat,8,10,2,56.3,150000,0,Тропарево-Никулино,проспект Вернадского,94к5,Тропарёво
+5,Павел Понурин,realtor,https://www.cian.ru/rent/flat/307705898/,Москва,rent,flat,16,16,2,54.0,85000,0,Тропарево-Никулино, Академика Анохина,38К1,Тропарёво
+6,ID 77335959,realtor,https://www.cian.ru/rent/flat/307705524/,Москва,rent,flat,11,14,2,55.3,100000,0,Обручевский, Саморы Машела,4К5,Тропарёво
+7,ID 26530,realtor,https://www.cian.ru/rent/flat/307701926/,Москва,rent,flat,2,29,2,75.0,79000,0,Теплый Стан,Ленинский проспект,123,Тропарёво
+8,Perfect Manager House,real_estate_agent,https://www.cian.ru/rent/flat/307683071/,Москва,rent,flat,14,17,2,55.0,100000,0,Тропарево-Никулино, Академика Анохина,46К3,Тропарёво
+9,ID 21797337,unknown,https://www.cian.ru/rent/flat/307658254/,Москва,rent,flat,4,9,2,44.9,70000,0,Тропарево-Никулино,проспект Вернадского,123,Тропарёво
+10,ID 17542,realtor,https://www.cian.ru/rent/flat/307656544/,Москва,rent,flat,9,9,2,45.0,70000,0,Тропарево-Никулино, 26 Бакинских Комиссаров,1к2,Тропарёво
+11,ID 24684,realtor,https://www.cian.ru/rent/flat/307650180/,Москва,rent,flat,3,16,2,49.5,95000,0,Тропарево-Никулино, Академика Анохина,44,Тропарёво
+12,Perfect Manager House,real_estate_agent,https://www.cian.ru/rent/flat/307641048/,Москва,rent,flat,14,17,2,55.0,100000,0,Тропарево-Никулино, Академика Анохина,46К3,Тропарёво
+13,Парус,real_estate_agent,https://www.cian.ru/rent/flat/307606862/,Москва,rent,flat,7,21,2,21.0,90000,0,Тропарево-Никулино,Ленинский проспект,158,Тропарёво
+14,Владимир Насонов,realtor,https://www.cian.ru/rent/flat/307554648/,Москва,rent,flat,5,16,2,55.0,75000,0,Теплый Стан,Ленинский проспект,135К1,Тропарёво
+15,Виктория Борисова,realtor,https://www.cian.ru/rent/flat/307521630/,Москва,rent,flat,5,22,2,80.0,250000,0,Тропарево-Никулино,проспект Вернадского,92,Тропарёво
+16,Марина Филиппова,realtor,https://www.cian.ru/rent/flat/307461221/,Москва,rent,flat,6,16,2,56.0,65000,0,Тропарево-Никулино,Ленинский проспект,156,Тропарёво
+17,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307443974/,Москва,rent,flat,10,17,2,58.0,110000,0,Тропарево-Никулино, Академика Анохина,26К4,Тропарёво
+18,СТОЛИЦА Департамент недвижимости,real_estate_agent,https://www.cian.ru/rent/flat/307436007/,Москва,rent,flat,10,17,2,56.4,110000,0,Тропарево-Никулино, Академика Анохина,26К4,Тропарёво
+19,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307433616/,Москва,rent,flat,10,17,2,55.0,110000,0,Тропарево-Никулино, Академика Анохина,26К4,Тропарёво
+20,ГОРОБМЕН,real_estate_agent,https://www.cian.ru/rent/flat/307346176/,Москва,rent,flat,14,21,2,82.0,140000,0,Тропарево-Никулино, Академика Анохина,66,Тропарёво
+21,Владис,real_estate_agent,https://www.cian.ru/rent/flat/307320513/,Москва,rent,flat,8,16,2,54.0,70000,0,Теплый Стан,Ленинский проспект,123К1,Тропарёво
+22,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307254823/,Москва,rent,flat,11,24,2,38.0,120000,0,Тропарево-Никулино,Ленинский проспект,158,Тропарёво
+23,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307251948/,Москва,rent,flat,8,15,2,55.0,150000,0,Тропарево-Никулино,проспект Вернадского,94к5,Тропарёво
+24,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307225096/,Москва,rent,flat,14,16,2,55.0,100000,0,Тропарево-Никулино, Академика Анохина,46К3,Тропарёво
+25,Landis,real_estate_agent,https://www.cian.ru/rent/flat/307212359/,Москва,rent,flat,5,16,2,70.0,110000,0,Обручевский, Островитянова,5К3,Тропарёво
+26,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307038516/,Москва,rent,flat,5,22,2,69.0,255000,0,Тропарево-Никулино,проспект Вернадского,92,Тропарёво
+27,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/306999082/,Москва,rent,flat,10,17,2,56.0,110000,0,Тропарево-Никулино, Академика Анохина,26К4,Тропарёво

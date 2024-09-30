@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,ID 10494970,realtor,https://www.cian.ru/rent/flat/307742926/,Москва,rent,flat,3,5,2,50.0,55000,0,Косино-Ухтомский,Оренбургская ,17,Косино
+1,ID 122099712,homeowner,https://kotelniki.cian.ru/rent/flat/307651435/,Москва,rent,flat,18,24,2,74.0,75000,0,, Сосновая,2,Косино
+2,Capital Mars,real_estate_agent,https://kotelniki.cian.ru/rent/flat/307611102/,Москва,rent,flat,18,24,2,74.0,75000,0,, Сосновая,2,Косино
+3,Парус,real_estate_agent,https://kotelniki.cian.ru/rent/flat/307313638/,Москва,rent,flat,18,24,2,74.0,75000,0,, Сосновая,2,Косино
+4,MOTYLEK - департамент недвижимости,real_estate_agent,https://www.cian.ru/rent/flat/307214415/,Москва,rent,flat,9,17,2,55.0,50000,0,Выхино-Жулебино,Привольная ,9К1,Косино
+5,ID 324090,realtor,https://kotelniki.cian.ru/rent/flat/306771478/,Москва,rent,flat,3,23,2,64.7,70000,0,, Строителей,1,Косино
+6,МИРА,real_estate_agent,https://lyubertsy.cian.ru/rent/flat/303429857/,Москва,rent,flat,12,25,2,60.0,51000,0,, 3-е Почтовое Отделение,65,Косино
+7,ID 43782748,homeowner,https://www.cian.ru/rent/flat/219375339/,Москва,rent,flat,12,14,2,56.0,75000,0,Выхино-Жулебино,Лермонтовский проспект,10К1,Косино
+8,ID 10981982,homeowner,https://www.cian.ru/rent/flat/165531554/,Москва,rent,flat,7,18,2,58.5,80000,0,Выхино-Жулебино,Пронская ,9К1,Косино
+9,ID 95802747,homeowner,https://lyubertsy.cian.ru/rent/flat/278189315/,Москва,rent,flat,21,25,1,34.0,55000,0,, Летчика Ларюшина,12,Котельники
+10,Светлана Исаченкова,realtor,https://lyubertsy.cian.ru/rent/flat/307609257/,Москва,rent,flat,9,17,1,49.8,48000,0,,Октябрьский проспект,18к1,Ухтомская
+11,Анастасия Васильева,realtor,https://lyubertsy.cian.ru/rent/flat/307415695/,Москва,rent,flat,7,26,2,37.5,65000,0,, Летчика Ларюшина,18,Котельники
+12,ID 71667113,unknown,https://lyubertsy.cian.ru/rent/flat/296674189/,Москва,rent,flat,12,25,2,52.0,65000,0,, Летчика Ларюшина,6к2,Котельники
+13,ID 53005653,realtor,https://lyubertsy.cian.ru/rent/flat/306181098/,Москва,rent,flat,2,5,2,39.5,45000,0,, 3-е Почтовое Отделение,24,Котельники
+14,ID 441097,realtor,https://lyubertsy.cian.ru/rent/flat/291759931/,Москва,rent,flat,2,22,1,43.0,45000,0,,Октябрьский проспект,20к2,Жулебино
+15,Татьяна Берестовская,realtor,https://lyubertsy.cian.ru/rent/flat/307259030/,Москва,rent,flat,3,5,2,47.0,48000,0,, Кирова,26,Люберцы
+16,ВИТА,real_estate_agent,https://dzerzhinsky.cian.ru/rent/flat/307460055/,Москва,rent,flat,9,18,1,45.0,45000,0,, Доркина,6,Котельники
+17,ID 54035403,homeowner,https://lyubertsy.cian.ru/rent/flat/307581302/,Москва,rent,flat,2,5,3,59.0,50000,0,, С.П. Попова,10,Люберцы
+18,CENTURY 21 Перспектива,real_estate_agent,https://lyubertsy.cian.ru/rent/flat/305420320/,Москва,rent,flat,14,17,3,80.0,65000,0,, 3-е Почтовое Отделение,9,Люберцы
+19,Грануш Айрапетян,realtor,https://lyubertsy.cian.ru/rent/flat/199497848/,Москва,rent,flat,5,20,1,44.3,53000,0,,Октябрьский проспект,1к1,Косино
+20,ПИК-Аренда,real_estate_agent,https://lyubertsy.cian.ru/rent/flat/307221129/,Москва,rent,flat,3,25,2,35.3,55000,0,, 8 Марта,12к2,Ухтомская
+21,ID 98734857,realtor,https://lyubertsy.cian.ru/rent/flat/307654008/,Москва,rent,flat,3,5,2,44.2,45000,0,, Кирова,41,Люберцы
+22,ID 32266,realtor,https://lyubertsy.cian.ru/rent/flat/307294394/,Москва,rent,flat,11,14,2,71.0,53000,0,, Авиаторов,2к1,Котельники
+23,Анна Гроголь,realtor,https://kotelniki.cian.ru/rent/flat/307529635/,Москва,rent,flat,15,25,1,33.0,65000,0,, Сосновая,2к1,Котельники
+24,Ирина Григорьева,realtor,https://lyubertsy.cian.ru/rent/flat/307370113/,Москва,rent,flat,11,25,1,30.0,50000,0,, Летчика Ларюшина,2,Котельники

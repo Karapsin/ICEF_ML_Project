@@ -1,0 +1,29 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307773232/,Москва,rent,flat,11,22,3,70.0,80000,0,,Родниковая ,30к3,Саларьево
+1,ID 68066911,realtor,https://www.cian.ru/rent/flat/307773087/,Москва,rent,flat,2,9,3,66.0,70000,0,, Героя России Соломатина,11,Саларьево
+2,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307715400/,Москва,rent,flat,24,25,3,65.0,115000,0,, Саларьевская,8к3,Саларьево
+3,GARUDA РИЭЛТИ,real_estate_agent,https://www.cian.ru/rent/flat/307693870/,Москва,rent,flat,5,10,3,60.0,135000,0,, Инженера Кнорре,7к2,Саларьево
+4,ГОРОБМЕН,real_estate_agent,https://www.cian.ru/rent/flat/307625091/,Москва,rent,flat,20,24,3,111.6,150000,0,Теплый Стан,Ленинский проспект,137К1,Саларьево
+5,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307619541/,Москва,rent,flat,2,22,3,75.0,90000,0,,Родниковая ,30к2,Саларьево
+6,My Hoyse,real_estate_agent,https://www.cian.ru/rent/flat/307614421/,Москва,rent,flat,2,22,3,75.0,90000,0,,Родниковая ,30к2,Саларьево
+7,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307609954/,Москва,rent,flat,14,16,3,100.0,120000,0,, Большое Понизовье,5,Саларьево
+8,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307607385/,Москва,rent,flat,24,25,3,90.0,200000,0,, Саларьевская,8к1,Саларьево
+9,PARTNER-ESTATE,real_estate_agent,https://www.cian.ru/rent/flat/307599831/,Москва,rent,flat,2,14,3,70.0,75000,0,, Харлампиева,50к1,Саларьево
+10,ID 16185765,realtor,https://www.cian.ru/rent/flat/307592042/,Москва,rent,flat,13,26,3,65.0,110000,0,, Саларьевская,8к2,Саларьево
+11,ID 118477563,realtor,https://www.cian.ru/rent/flat/307590538/,Москва,rent,flat,11,15,3,54.7,80000,0,, Саларьевская,9,Саларьево
+12,ID 890569,real_estate_agent,https://www.cian.ru/rent/flat/307580429/,Москва,rent,flat,1,6,3,70.2,70000,0,, Жемчужная,1к2,Саларьево
+13,ГОРОБМЕН,real_estate_agent,https://www.cian.ru/rent/flat/307565883/,Москва,rent,flat,2,3,3,78.9,60000,0,, Генерала Трошева,20,Саларьево
+14,ID 106901554,unknown,https://www.cian.ru/rent/flat/307564346/,Москва,rent,flat,15,16,3,59.6,95000,0,,,,Саларьево
+15,ID 106901554,unknown,https://www.cian.ru/rent/flat/307545652/,Москва,rent,flat,16,16,3,59.4,95000,0,,,,Саларьево
+16,ОХОТНЫЙ РЯД офис Тверская,real_estate_agent,https://www.cian.ru/rent/flat/307540784/,Москва,rent,flat,14,16,3,64.0,85000,0,, Лобановский Лес,13,Саларьево
+17,My Hoyse,real_estate_agent,https://www.cian.ru/rent/flat/307529710/,Москва,rent,flat,5,10,3,60.0,135000,0,, Инженера Кнорре,7к2,Саларьево
+18,Елена Куракова,realtor,https://www.cian.ru/rent/flat/307480718/,Москва,rent,flat,2,22,3,74.0,120000,0,,Родниковая ,30к1,Саларьево
+19,Яна Булякова,realtor,https://www.cian.ru/rent/flat/307460782/,Москва,rent,flat,14,17,3,90.0,150000,0,, Большое Понизовье,5,Саларьево
+20,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307416908/,Москва,rent,flat,11,16,3,60.0,90000,0,,,,Саларьево
+21,Вера Сенина,realtor,https://www.cian.ru/rent/flat/307403996/,Москва,rent,flat,12,22,3,80.0,130000,0,, Картмазовские Пруды,2к1,Саларьево
+22,Анна Тюрина,realtor,https://www.cian.ru/rent/flat/307313992/,Москва,rent,flat,20,22,3,63.0,99900,0,,Родниковая ,30к2,Саларьево
+23,Favorite City,real_estate_agent,https://www.cian.ru/rent/flat/307297224/,Москва,rent,flat,12,22,3,85.0,115000,0,, Картмазовские Пруды,2к3,Саларьево
+24,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307141836/,Москва,rent,flat,5,19,3,80.0,110000,0,,,к2.4,Саларьево
+25,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307045123/,Москва,rent,flat,17,17,3,52.0,130500,0,, Красулинская,22,Саларьево
+26,Далгат Атаев,realtor,https://www.cian.ru/rent/flat/306832398/,Москва,rent,flat,10,17,3,52.3,120000,0,, Лобановский Лес,13,Саларьево
+27,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/306694429/,Москва,rent,flat,8,15,3,84.0,147000,0,, Малое Понизовье,3,Саларьево

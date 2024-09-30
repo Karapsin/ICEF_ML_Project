@@ -1,0 +1,50 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Светлана Жукова,realtor,https://www.cian.ru/rent/flat/307743268/,Москва,rent,flat,3,25,1,45.0,60000,0,Кунцево,№ 100 кв-л,1к1,Строгино
+1,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307720628/,Москва,rent,flat,5,9,1,36.0,70000,0,Строгино, Маршала Катукова,6К2,Строгино
+2,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307676682/,Москва,rent,flat,5,9,1,36.0,70000,0,Строгино, Маршала Катукова,6К2,Строгино
+3,ГАРАНТ,real_estate_agent,https://www.cian.ru/rent/flat/307673427/,Москва,rent,flat,3,17,1,36.0,52000,0,Строгино, Исаковского,33К4,Строгино
+4,Этажи Москва,real_estate_agent,https://krasnogorsk.cian.ru/rent/flat/307662872/,Москва,rent,flat,24,32,1,36.0,50000,0,, Липовой Рощи,6к1,Строгино
+5,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307651970/,Москва,rent,flat,5,9,1,36.0,70000,0,Строгино, Маршала Катукова,6К2,Строгино
+6,Dream City,real_estate_agent,https://www.cian.ru/rent/flat/307649164/,Москва,rent,flat,4,16,1,40.0,65000,0,Строгино, Исаковского,29К3,Строгино
+7,ID 121963482,homeowner,https://www.cian.ru/rent/flat/307528050/,Москва,rent,flat,2,15,1,39.4,68000,0,Кунцево,№ 100 кв-л,1к1,Строгино
+8,Сергей Дудин,realtor,https://www.cian.ru/rent/flat/307523831/,Москва,rent,flat,3,9,1,33.0,48000,0,Строгино, Исаковского,22К1,Строгино
+9,Яндекс Аренда,real_estate_agent,https://krasnogorsk.cian.ru/rent/flat/307478378/,Москва,rent,flat,7,32,1,35.0,65000,0,, Липовой Рощи,2к1,Строгино
+10,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307454857/,Москва,rent,flat,25,25,1,33.0,69000,0,Кунцево,№ 100 кв-л,1к3,Строгино
+11,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307444650/,Москва,rent,flat,7,9,1,32.0,90000,0,Строгино, Маршала Катукова,11К2,Строгино
+12,ПИК-Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307401590/,Москва,rent,flat,2,25,1,29.0,52000,0,Кунцево,№ 100 кв-л,1к1,Строгино
+13,ID 121820285,homeowner,https://www.cian.ru/rent/flat/307370494/,Москва,rent,flat,8,17,1,37.6,72000,0,Строгино, Исаковского,33К1,Строгино
+14,ID 5419,realtor,https://www.cian.ru/rent/flat/307369620/,Москва,rent,flat,6,12,1,39.0,70000,0,Строгино,Строгинский бульвар,26К3,Строгино
+15,Геометрия,real_estate_agent,https://krasnogorsk.cian.ru/rent/flat/307306010/,Москва,rent,flat,9,35,1,40.8,60000,0,, Липовой Рощи,2к1,Строгино
+16,Сердце Столицы,real_estate_agent,https://krasnogorsk.cian.ru/rent/flat/307254906/,Москва,rent,flat,27,32,1,35.0,60000,0,, Липовой Рощи,4к4,Строгино
+17,ID 120553992,homeowner,https://www.cian.ru/rent/flat/307109705/,Москва,rent,flat,13,22,1,40.0,75000,0,Строгино, Твардовского,18К5,Строгино
+18,МИЭЛЬ,real_estate_agent,https://www.cian.ru/rent/flat/306927541/,Москва,rent,flat,12,12,1,39.0,50000,0,Строгино, Исаковского,2К2,Строгино
+19,Парк-Недвижимость,real_estate_agent,https://odintsovo.cian.ru/rent/flat/306778808/,Москва,rent,flat,1,5,1,31.0,25000,0,,,,
+20,ФРИДОМ,real_estate_agent,https://www.cian.ru/rent/flat/304940887/,Москва,rent,flat,16,16,1,39.0,63000,0,Строгино, Твардовского,23,Строгино
+21,ID 21616,realtor,https://www.cian.ru/rent/flat/302839929/,Москва,rent,flat,11,16,1,36.0,60000,0,Кунцево,№ 100 кв-л,1к1,Строгино
+22,Михаил Стрельников,realtor,https://krasnogorsk.cian.ru/rent/flat/302061983/,Москва,rent,flat,24,32,1,32.4,65000,0,, Липовой Рощи,4к4,Строгино
+23,ID 6068,realtor,https://www.cian.ru/rent/flat/299739719/,Москва,rent,flat,22,22,1,39.0,50000,0,Строгино,Таллинская ,30,Строгино
+24,ID 14499992,homeowner,https://www.cian.ru/rent/flat/294615930/,Москва,rent,flat,25,25,1,33.2,69000,0,Кунцево,№ 100 кв-л,1к2,Строгино
+25,ID 4569,official_representative,https://www.cian.ru/rent/flat/291880283/,Москва,rent,flat,1,12,1,28.0,56000,0,Строгино, Маршала Катукова,25К1,Строгино
+26,ID 89084422,real_estate_agent,https://www.cian.ru/rent/flat/290313833/,Москва,rent,flat,11,12,1,40.0,60000,0,Строгино,Таллинская ,9К4,Строгино
+27,ID 4569,official_representative,https://www.cian.ru/rent/flat/273981857/,Москва,rent,flat,1,12,1,26.0,56000,0,Строгино, Маршала Катукова,25К1,Строгино
+28,Майя Исмаилова,realtor,https://www.cian.ru/rent/flat/167324956/,Москва,rent,flat,1,16,1,40.0,60000,0,Строгино, Маршала Катукова,9К1,Строгино
+29,Ольга Аптовцова,realtor,https://www.cian.ru/rent/flat/162364901/,Москва,rent,flat,22,22,1,37.0,47000,0,Строгино,Таллинская ,30,Строгино
+30,Real Estate Law Services,real_estate_agent,https://www.cian.ru/rent/flat/279776597/,Москва,rent,flat,3,5,1,14.0,38000,0,Хорошево-Мневники,бульвар Генерала Карбышева,19К5,Народное Ополчение
+31,ФОКУС,official_representative,https://www.cian.ru/rent/flat/307531852/,Москва,rent,flat,8,12,1,34.9,50000,0,Можайский, Красных Зорь,51,Рабочий посёлок
+32,ID 11281744,realtor,https://www.cian.ru/rent/flat/217491574/,Москва,rent,flat,6,16,1,35.0,55000,0,Хорошево-Мневники, Мневники,13К1,Народное Ополчение
+33,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307494461/,Москва,rent,flat,5,5,1,33.0,50000,0,Фили-Давыдково, Алексея Свиридова,3,Кунцевская
+34,ID 106985975,homeowner,https://www.cian.ru/rent/flat/306863750/,Москва,rent,flat,1,9,1,22.0,50000,0,Щукино, Расплетина,3К2,Октябрьское поле
+35,ID 309085,realtor,https://www.cian.ru/rent/flat/275766035/,Москва,rent,flat,21,22,1,40.0,55000,0,Крылатское,Осенняя ,16,Крылатское
+36,МГН-495,real_estate_agent,https://www.cian.ru/rent/flat/307649731/,Москва,rent,flat,3,16,1,38.0,60000,0,Бутырский, Яблочкова,43А,Петровско-Разумовская
+37,Наталия Миронова,realtor,https://www.cian.ru/rent/flat/307509909/,Москва,rent,flat,3,14,2,39.0,54000,0,Хорошево-Мневники, Маршала Тухачевского,25К2,Народное Ополчение
+38,ID 57471694,unknown,https://www.cian.ru/rent/flat/301801057/,Москва,rent,flat,12,17,1,39.0,55000,0,Филевский парк, Василисы Кожиной,14К2,Багратионовская
+39,ID 50570,realtor,https://www.cian.ru/rent/flat/307652272/,Москва,rent,flat,8,14,1,37.8,60000,0,Митино,Митинская ,49,Пятницкое шоссе
+40,Оксана Новикова,realtor,https://www.cian.ru/rent/flat/307633520/,Москва,rent,flat,19,24,1,40.1,70000,0,Хорошево-Мневники, Маршала Тухачевского,49,Народное Ополчение
+41,ID 146309,realtor,https://www.cian.ru/rent/flat/297860709/,Москва,rent,flat,6,9,2,45.0,67000,0,Строгино, Исаковского,24К1,Строгино
+42,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307405791/,Москва,rent,flat,5,5,2,41.0,55000,0,Покровское-Стрешнево,Полесский проезд,10,Щукинская
+43,Неон Сити,real_estate_agent,https://www.cian.ru/rent/flat/307497512/,Москва,rent,flat,4,17,2,53.4,55000,0,Митино,Митинская ,57,Пятницкое шоссе
+44,ID 21526,realtor,https://www.cian.ru/rent/flat/289467468/,Москва,rent,flat,3,8,1,35.0,65000,0,Аэропорт, Усиевича,1,Аэропорт
+45,Вячеслав Гордеев,realtor,https://www.cian.ru/rent/flat/307472540/,Москва,rent,flat,6,17,1,38.0,50000,0,Хорошево-Мневники, Народного Ополчения,7К3,Народное Ополчение
+46,Асмик Алиханян,realtor,https://www.cian.ru/rent/flat/289707370/,Москва,rent,flat,5,9,1,34.0,40000,0,Орехово-Борисово Южное,Ореховый бульвар,10К1,Домодедовская
+47,ID 20233064,unknown,https://www.cian.ru/rent/flat/307633469/,Москва,rent,flat,7,17,2,65.0,67000,0,Кунцево,Молодогвардейская ,34,Молодёжная
+48,Центральная Академия Недвижимости,real_estate_agent,https://www.cian.ru/rent/flat/300114193/,Москва,rent,flat,9,9,2,45.0,54000,0,Хорошево-Мневники, Маршала Тухачевского,26К1,Народное Ополчение

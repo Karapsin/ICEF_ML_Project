@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Столичный Проспект,real_estate_agent,https://www.cian.ru/rent/flat/307736987/,Москва,rent,flat,6,9,2,45.0,70000,0,Текстильщики,Грайвороновская ,16К3,Текстильщики
+1,Валентин Подколзин,realtor,https://www.cian.ru/rent/flat/307727065/,Москва,rent,flat,6,9,2,47.0,60000,0,Текстильщики,Волжский бульвар,4К2,Текстильщики
+2,ID 253390,realtor,https://www.cian.ru/rent/flat/307308213/,Москва,rent,flat,1,9,2,53.0,70000,0,Текстильщики,Саратовская ,5К2,Текстильщики
+3,Гранд Сервис Недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/306565217/,Москва,rent,flat,17,25,2,75.0,100000,0,Рязанский, Васильцовский Стан,9,Текстильщики
+4,ID 23334781,realtor,https://www.cian.ru/rent/flat/305368856/,Москва,rent,flat,9,9,2,46.0,70000,0,Текстильщики,Люблинская ,5К3,Текстильщики
+5,ID 294922,realtor,https://www.cian.ru/rent/flat/208580291/,Москва,rent,flat,12,16,2,80.0,80000,0,Текстильщики,Саратовская ,3к4,Текстильщики
+6,Моя Недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/266816134/,Москва,rent,flat,8,12,1,37.0,54000,0,Текстильщики,Волжский бульвар,20А,Текстильщики
+7,Мария Майорова,realtor,https://www.cian.ru/rent/flat/307234748/,Москва,rent,flat,5,12,1,35.0,50000,0,Текстильщики,Грайвороновская ,16К1,Текстильщики
+8,Елена Стометова,realtor,https://www.cian.ru/rent/flat/307561705/,Москва,rent,flat,3,9,2,45.0,60000,0,Марьино,Новочеркасский бульвар,9,Курьяново
+9,Максим Тарасов,realtor,https://www.cian.ru/rent/flat/306692133/,Москва,rent,flat,7,25,2,71.0,73000,0,Печатники, Гурьянова,19К2,Печатники
+10,EMPIRE HOME,real_estate_agent,https://www.cian.ru/rent/flat/307674600/,Москва,rent,flat,9,16,2,52.0,70000,0,Нагатинский затон,Коломенская набережная,10,Нагатинский Затон
+11,Владислав Заименко,realtor,https://www.cian.ru/rent/flat/307588001/,Москва,rent,flat,8,15,2,52.0,70000,0,Царицыно,Пролетарский проспект,25,Кантемировская
+12,ID 102748459,homeowner,https://www.cian.ru/rent/flat/295059770/,Москва,rent,flat,13,17,2,55.0,75000,0,Марьино,Люблинская ,118,Марьино
+13,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307430191/,Москва,rent,flat,8,14,2,60.0,75000,0,Выхино-Жулебино, Генерала Кузнецова,23,Жулебино
+14,Михаил Бендик,realtor,https://www.cian.ru/rent/flat/307357414/,Москва,rent,flat,1,9,2,45.0,50000,0,Вешняки,Снайперская ,12,Выхино
+15,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307651926/,Москва,rent,flat,3,7,1,20.0,55000,0,Печатники,Волгоградский проспект,45,Текстильщики
+16,ID 27897,realtor,https://www.cian.ru/rent/flat/307432003/,Москва,rent,flat,14,14,2,54.0,63000,0,Марьино,Поречная ,3К1,Марьино
+17,ID 168882,realtor,https://www.cian.ru/rent/flat/307657140/,Москва,rent,flat,5,9,2,38.0,65000,0,Кузьминки, Федора Полетаева,10,Окская
+18,Елена Льянова,realtor,https://www.cian.ru/rent/flat/307635726/,Москва,rent,flat,6,9,2,43.0,65000,0,Кузьминки,Есенинский бульвар,1/26К1,Кузьминки
+19,ID 17228670,realtor,https://www.cian.ru/rent/flat/306953819/,Москва,rent,flat,11,12,2,50.1,65000,0,Печатники, Кухмистерова,11,Люблино
+20,Александр Ефремов,realtor,https://www.cian.ru/rent/flat/307362852/,Москва,rent,flat,5,5,2,44.0,50000,0,Кузьминки, Юных Ленинцев,117К2,Кузьминки
+21,Магазин квартир,real_estate_agent,https://www.cian.ru/rent/flat/307561673/,Москва,rent,flat,12,12,2,50.0,60000,0,Люблино,Белореченская ,21,Люблино
+22,Елена Абрамова,realtor,https://www.cian.ru/rent/flat/296267694/,Москва,rent,flat,4,14,2,55.7,70000,0,Марьино,Поречная ,3К1,Марьино
+23,ID 107003209,homeowner,https://www.cian.ru/rent/flat/307429684/,Москва,rent,flat,21,25,2,55.8,75000,0,Марьино, Перерва,55,Братиславская
+24,ID 12614,realtor,https://www.cian.ru/rent/flat/307385331/,Москва,rent,flat,9,9,2,40.0,55000,0,Кузьминки, Федора Полетаева,10,Окская

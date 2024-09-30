@@ -1,0 +1,29 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,ID 3470,real_estate_agent,https://vidnoye.cian.ru/rent/flat/307773860/,Москва,rent,flat,16,19,3,78.0,55000,0,, Березовая,18,Царицыно
+1,ID 181694,real_estate_agent,https://vidnoye.cian.ru/rent/flat/307750895/,Москва,rent,flat,6,18,3,80.0,90000,0,, Завидная,9,Царицыно
+2,ГОРОБМЕН,real_estate_agent,https://www.cian.ru/rent/flat/307739884/,Москва,rent,flat,6,9,3,49.2,65000,0,Царицыно,Севанская ,8,Царицыно
+3,Ирина Гурьянова,realtor,https://vidnoye.cian.ru/rent/flat/307736151/,Москва,rent,flat,9,9,3,60.0,58000,0,,проспект Ленинского Комсомола,37,Царицыно
+4,ID 96904360,homeowner,https://www.cian.ru/rent/flat/307723057/,Москва,rent,flat,14,20,3,89.0,150000,0,Бирюлево Восточное,6-я Радиальная ,7/1к1,Царицыно
+5,ID 20284898,unknown,https://www.cian.ru/rent/flat/307697604/,Москва,rent,flat,10,12,3,62.7,55000,0,Бирюлево Восточное,Липецкая ,24К2,Царицыно
+6,Наталья Пивцайкина,realtor,https://vidnoye.cian.ru/rent/flat/307678639/,Москва,rent,flat,2,18,3,71.0,55000,0,, Ольховая,11,Царицыно
+7,Максим Бавин,realtor,https://www.cian.ru/rent/flat/307654749/,Москва,rent,flat,1,17,3,73.0,70000,0,Москворечье-Сабурово,Кантемировская ,22К1,Царицыно
+8,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307652594/,Москва,rent,flat,4,9,3,60.0,80000,0,Бирюлево Восточное,Бирюлевская ,21К1,Царицыно
+9,ID 78507768,unknown,https://vidnoye.cian.ru/rent/flat/307638272/,Москва,rent,flat,17,17,3,76.0,68000,0,, Завидная,18,Царицыно
+10,ID 13523133,homeowner,https://www.cian.ru/rent/flat/307631483/,Москва,rent,flat,4,9,3,60.0,80000,0,Бирюлево Восточное,Бирюлевская ,21К1,Царицыно
+11,MOTYLEK - департамент недвижимости,real_estate_agent,https://www.cian.ru/rent/flat/307610539/,Москва,rent,flat,13,33,3,85.0,85000,0,Царицыно,Кавказский бульвар,51к2,Царицыно
+12,My Hoyse,real_estate_agent,https://www.cian.ru/rent/flat/307607873/,Москва,rent,flat,5,17,3,87.0,90000,0,Бирюлево Восточное,6-я Радиальная ,5к3,Царицыно
+13,My Hoyse,real_estate_agent,https://www.cian.ru/rent/flat/307606936/,Москва,rent,flat,7,32,3,90.0,130000,0,Царицыно,Кавказский бульвар,51к2,Царицыно
+14,ID 117778273,homeowner,https://www.cian.ru/rent/flat/307593202/,Москва,rent,flat,2,9,3,60.0,65000,0,Бирюлево Восточное,Бирюлевская ,5К1,Царицыно
+15,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307581356/,Москва,rent,flat,5,17,3,88.0,90000,0,Бирюлево Восточное,6-я Радиальная ,5к3,Царицыно
+16,ID 21618,realtor,https://www.cian.ru/rent/flat/307493145/,Москва,rent,flat,8,9,3,52.0,60000,0,Бирюлево Восточное,Донбасская ,4,Царицыно
+17,МАРТЪ,real_estate_agent,https://www.cian.ru/rent/flat/307492904/,Москва,rent,flat,5,9,3,50.0,63000,0,Бирюлево Восточное,Загорьевский проезд,9,Царицыно
+18,Юлия Алимова,realtor,https://www.cian.ru/rent/flat/307445511/,Москва,rent,flat,2,17,3,116.0,180000,0,Бирюлево Восточное,6-я Радиальная ,5к2,Царицыно
+19,Наталья Нечаева,realtor,https://vidnoye.cian.ru/rent/flat/307412790/,Москва,rent,flat,2,9,3,76.0,60000,0,,,3,Царицыно
+20,Светлана Биличенко,realtor,https://www.cian.ru/rent/flat/307275545/,Москва,rent,flat,10,16,3,85.0,100000,0,Царицыно,Бакинская ,25,Царицыно
+21,ID 504514,realtor,https://www.cian.ru/rent/flat/307221177/,Москва,rent,flat,4,9,3,59.4,80000,0,Царицыно,Севанская ,17,Царицыно
+22,Мой Дом - отделение Добрынинское,real_estate_agent,https://www.cian.ru/rent/flat/307073490/,Москва,rent,flat,5,24,3,85.0,100000,0,Царицыно,Кантемировская ,45,Царицыно
+23,Анна Гаджиева,realtor,https://vidnoye.cian.ru/rent/flat/306806744/,Москва,rent,flat,1,9,3,87.0,35000,0,,бульвар Дивный,16,Царицыно
+24,EMPIRE HOME,real_estate_agent,https://www.cian.ru/rent/flat/306693542/,Москва,rent,flat,13,18,3,83.0,30000,0,Бирюлево Восточное,6-я Радиальная ,7/6к3,Царицыно
+25,ID 78507768,unknown,https://vidnoye.cian.ru/rent/flat/306655117/,Москва,rent,flat,4,12,3,68.0,50000,0,,Центральная ,15,Царицыно
+26,Room Tour,real_estate_agent,https://www.cian.ru/rent/flat/306607699/,Москва,rent,flat,11,16,3,74.0,90000,0,Бирюлево Восточное,Липецкая ,30,Царицыно
+27,ID 20593521,unknown,https://vidnoye.cian.ru/rent/flat/306525950/,Москва,rent,flat,4,12,3,68.0,55000,0,,Центральная ,15,Царицыно

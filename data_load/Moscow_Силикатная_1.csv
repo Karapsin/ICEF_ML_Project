@@ -1,0 +1,52 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Павел Борисов,realtor,https://podolsk.cian.ru/rent/flat/307778605/,Москва,rent,flat,4,12,1,48.0,42000,0,,Колхозная ,18,Силикатная
+1,Сергей Макаров,realtor,https://podolsk.cian.ru/rent/flat/307740417/,Москва,rent,flat,4,6,1,37.0,35000,0,, Симферопольская,4,Силикатная
+2,ID 84946977,homeowner,https://podolsk.cian.ru/rent/flat/307740151/,Москва,rent,flat,7,17,1,38.0,32000,0,,Юбилейная ,13а,Силикатная
+3,Павел Борисов,realtor,https://podolsk.cian.ru/rent/flat/307732301/,Москва,rent,flat,3,14,1,40.0,40000,0,,бульвар Бородинский,5,Силикатная
+4,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307724158/,Москва,rent,flat,8,22,1,40.0,40000,0,, Барышевская Роща,18,Силикатная
+5,ГОРОБМЕН,real_estate_agent,https://podolsk.cian.ru/rent/flat/307724046/,Москва,rent,flat,1,9,1,33.0,35000,0,,Огородная ,3,Силикатная
+6,PORTAL ESTATE,real_estate_agent,https://podolsk.cian.ru/rent/flat/307697969/,Москва,rent,flat,5,5,1,34.7,30000,0,, Ватутина,26/8,Силикатная
+7,Самолет Плюс Москва,real_estate_agent,https://www.cian.ru/rent/flat/307674664/,Москва,rent,flat,2,14,1,32.8,50000,0,, Красовского,2к2,Силикатная
+8,ID 275415,realtor,https://www.cian.ru/rent/flat/307647260/,Москва,rent,flat,14,14,1,40.0,40000,0,Южное Бутово, Брусилова,7,Силикатная
+9,Домклик Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307631814/,Москва,rent,flat,5,12,1,22.0,45300,0,, Уточкина,7к1,Силикатная
+10,Екатерина Рылькова,realtor,https://www.cian.ru/rent/flat/307611734/,Москва,rent,flat,2,15,1,36.0,40000,0,, Логинова,7к2,Силикатная
+11,ID 95338,realtor,https://www.cian.ru/rent/flat/307606181/,Москва,rent,flat,8,17,1,40.4,40000,0,, Барышевская Роща,24,Силикатная
+12,Татьяна Кольцова,realtor,https://www.cian.ru/rent/flat/307571618/,Москва,rent,flat,2,5,1,35.0,35000,0,,,19,Силикатная
+13,EstateLiga,real_estate_agent,https://www.cian.ru/rent/flat/307567421/,Москва,rent,flat,6,12,1,37.0,40000,0,, Уточкина,8к1,Силикатная
+14,ID 114331413,homeowner,https://podolsk.cian.ru/rent/flat/307550564/,Москва,rent,flat,12,17,1,47.0,60000,0,,Народная ,23,Силикатная
+15,Евгения Сауткина,realtor,https://podolsk.cian.ru/rent/flat/307531278/,Москва,rent,flat,4,17,1,46.0,46000,0,, Большая Серпуховская,14в,Силикатная
+16,ID 19425961,unknown,https://podolsk.cian.ru/rent/flat/307523567/,Москва,rent,flat,17,17,1,45.0,50000,0,,Юбилейная ,2а,Силикатная
+17,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307407720/,Москва,rent,flat,4,14,1,40.0,60000,0,, Логинова,1к2,Силикатная
+18,Елена Гарбалы,realtor,https://podolsk.cian.ru/rent/flat/307352793/,Москва,rent,flat,2,5,1,30.0,40000,0,, Дружбы,36,Силикатная
+19,ID 116971336,homeowner,https://www.cian.ru/rent/flat/307298098/,Москва,rent,flat,11,13,1,34.6,35000,0,,шоссе Рязановское,31к2,Силикатная
+20,ID 2959486,realtor,https://www.cian.ru/rent/flat/307273986/,Москва,rent,flat,5,11,1,35.0,43000,0,, Уточкина,8к2,Силикатная
+21,ID 51322758,unknown,https://www.cian.ru/rent/flat/307091553/,Москва,rent,flat,12,23,1,47.3,45000,0,, Барышевская Роща,18,Силикатная
+22,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307057331/,Москва,rent,flat,10,12,1,33.0,62000,0,, Уточкина,5к1,Силикатная
+23,ID 6984952,realtor,https://podolsk.cian.ru/rent/flat/306849628/,Москва,rent,flat,2,15,1,38.0,35000,0,,Парадный проезд,12,Силикатная
+24,EMPIRE HOME,real_estate_agent,https://podolsk.cian.ru/rent/flat/306706886/,Москва,rent,flat,2,10,1,33.0,50000,0,,Тепличная ,7,Силикатная
+25,ID 95961284,homeowner,https://podolsk.cian.ru/rent/flat/304379186/,Москва,rent,flat,1,3,1,30.7,25000,0,,,,
+26,Виктория Колотовкина,realtor,https://podolsk.cian.ru/rent/flat/303093288/,Москва,rent,flat,14,17,1,43.1,39000,0,, Барамзиной,3к1,Силикатная
+27,АльфаЮр-Хелп,real_estate_agent,https://podolsk.cian.ru/rent/flat/302590124/,Москва,rent,flat,4,14,1,43.0,29000,0,,проспект Ленина,8а,Силикатная
+28,ID 77272259,homeowner,https://www.cian.ru/rent/flat/290951893/,Москва,rent,flat,12,13,1,37.0,40000,0,,шоссе Рязановское,31к2,Силикатная
+29,ID 95976875,homeowner,https://www.cian.ru/rent/flat/290416204/,Москва,rent,flat,5,13,1,34.6,40000,0,,шоссе Рязановское,31к2,Силикатная
+30,ID 13049711,real_estate_agent,https://podolsk.cian.ru/rent/flat/290191524/,Москва,rent,flat,5,17,1,48.0,45000,0,,Быковская ,6/1,Силикатная
+31,ID 73226238,homeowner,https://podolsk.cian.ru/rent/flat/289402376/,Москва,rent,flat,3,17,1,44.0,44000,0,, Веллинга,11,Силикатная
+32,ID 104430285,realtor,https://podolsk.cian.ru/rent/flat/288989826/,Москва,rent,flat,4,4,1,31.0,42000,0,,Пионерская ,16,Силикатная
+33,ID 12230898,realtor,https://www.cian.ru/rent/flat/287353738/,Москва,rent,flat,4,9,1,33.0,32999,0,,шоссе Остафьевское,14к1,Силикатная
+34,ID 19629440,homeowner,https://www.cian.ru/rent/flat/282022300/,Москва,rent,flat,5,14,1,29.03,50000,0,, Логинова,7к2,Силикатная
+35,Весна,real_estate_agent,https://podolsk.cian.ru/rent/flat/278885509/,Москва,rent,flat,3,17,1,41.0,45000,0,,Пионерская ,15к2,Силикатная
+36,ID 517999,unknown,https://podolsk.cian.ru/rent/flat/276798284/,Москва,rent,flat,2,2,1,32.0,27000,0,, Левитана,4,Силикатная
+37,Гаяна Мелконян,realtor,https://podolsk.cian.ru/rent/flat/275684303/,Москва,rent,flat,6,14,1,31.2,35000,0,, Давыдова,5,Силикатная
+38,ID 74961,homeowner,https://podolsk.cian.ru/rent/flat/272221402/,Москва,rent,flat,8,23,1,43.0,45000,0,пос. Сосновый Бор, Объездная Дорога,2,
+39,ID 66281523,homeowner,https://www.cian.ru/rent/flat/272102922/,Москва,rent,flat,4,22,1,40.5,42000,0,, Барышевская Роща,22,Силикатная
+40,Ольга Закомолдина,realtor,https://podolsk.cian.ru/rent/flat/262925926/,Москва,rent,flat,1,5,1,35.0,35000,0,,,,
+41,ID 60442161,realtor,https://www.cian.ru/rent/flat/260829930/,Москва,rent,flat,9,14,1,38.0,42000,0,,шоссе Остафьевское,14к1,Силикатная
+42,Елена Круглова,realtor,https://www.cian.ru/rent/flat/259362080/,Москва,rent,flat,7,14,1,37.0,37000,0,,шоссе Остафьевское,14к3,Силикатная
+43,ID 344391,realtor,https://www.cian.ru/rent/flat/257019480/,Москва,rent,flat,9,22,1,43.0,35000,0,, Барышевская Роща,10,Силикатная
+44,Татьяна Попова,realtor,https://www.cian.ru/rent/flat/230063170/,Москва,rent,flat,8,16,1,40.0,38000,0,, Барышевская Роща,26,Силикатная
+45,Александр Тюкалов,realtor,https://podolsk.cian.ru/rent/flat/162289256/,Москва,rent,flat,11,18,1,43.0,35000,0,, 43-й Армии,21,Силикатная
+46,Светлана Грязнова,realtor,https://podolsk.cian.ru/rent/flat/157133970/,Москва,rent,flat,1,5,1,34.0,30000,0,,Красногвардейский бульвар,15,Силикатная
+47,ID 114183110,homeowner,https://chekhov.cian.ru/rent/flat/300727367/,Москва,rent,flat,6,9,1,32.8,36000,0,Чехов, Дружбы,16,
+48,PORTAL ESTATE,real_estate_agent,https://podolsk.cian.ru/rent/flat/307152563/,Москва,rent,flat,5,9,-1,11.0,20000,0,,Мраморная ,3,Силикатная
+49,Павел Борисов,realtor,https://podolsk.cian.ru/rent/flat/307355819/,Москва,rent,flat,3,18,2,65.0,44000,0,, Кольцевая,3,Силикатная
+50,ID 378737,unknown,https://chekhov.cian.ru/rent/flat/307539645/,Москва,rent,flat,4,5,2,44.0,23000,0,Чехов,Московская ,86,

@@ -1,0 +1,57 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Яндекс Аренда,real_estate_agent,https://vidnoye.cian.ru/rent/flat/307729139/,Москва,rent,flat,1,3,2,58.0,42000,0,, Павла Федоровича Гаевского,16А,Домодедовская
+1,Елена Соломенцева,realtor,https://vidnoye.cian.ru/rent/flat/307728922/,Москва,rent,flat,13,18,2,55.0,49000,0,д. Мисайлово,шоссе Пригородное,7,
+2,Лана Бубнова,realtor,https://vidnoye.cian.ru/rent/flat/307726747/,Москва,rent,flat,14,17,2,55.0,50000,0,Пригород Лесное мкр, Луговая,4,
+3,ID 122176703,homeowner,https://domodedovo.cian.ru/rent/flat/307724380/,Москва,rent,flat,10,16,2,53.0,40000,0,, Лунная,13,Домодедовская
+4,Елена Лапшина,realtor,https://vidnoye.cian.ru/rent/flat/307723846/,Москва,rent,flat,3,5,2,44.0,45000,0,,Советская ,54,Домодедовская
+5,Светлана Мордвинова,realtor,https://www.cian.ru/rent/flat/307721980/,Москва,rent,flat,4,9,2,45.0,57000,0,Зябликово,Ореховый проезд,31,Домодедовская
+6,ID 76692024,homeowner,https://www.cian.ru/rent/flat/307717507/,Москва,rent,flat,8,9,2,45.1,60000,0,Орехово-Борисово Южное,Воронежская ,8К3,Домодедовская
+7,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307713206/,Москва,rent,flat,2,9,2,45.0,99999,0,Орехово-Борисово Южное,Воронежская ,8К4,Домодедовская
+8,ID 55856284,homeowner,https://www.cian.ru/rent/flat/307706366/,Москва,rent,flat,7,25,2,65.0,75000,0,Орехово-Борисово Южное, Генерала Белова,28к2,Домодедовская
+9,Александр Киреев,realtor,https://domodedovo.cian.ru/rent/flat/307704143/,Москва,rent,flat,11,17,2,60.0,50000,0,с. Домодедово, Творчества,5к1,
+10,Ольга Авдонина,realtor,https://domodedovo.cian.ru/rent/flat/307691970/,Москва,rent,flat,15,17,2,65.0,50000,0,, Кирова,17к1,Домодедовская
+11,ID 46989435,realtor,https://www.cian.ru/rent/flat/307686873/,Москва,rent,flat,7,16,2,54.0,60000,0,Орехово-Борисово Южное, Генерала Белова,45К1,Домодедовская
+12,Елена Дружинина,realtor,https://www.cian.ru/rent/flat/307684791/,Москва,rent,flat,3,9,2,44.0,65000,0,Орехово-Борисово Северное,Каширское шоссе,102К2,Домодедовская
+13,Мурад Рзаев,realtor,https://vidnoye.cian.ru/rent/flat/307674742/,Москва,rent,flat,11,19,2,60.0,60000,0,, Березовая,14,Домодедовская
+14,ID 80189031,homeowner,https://vidnoye.cian.ru/rent/flat/307672561/,Москва,rent,flat,5,17,2,42.1,46000,0,,,,
+15,Сергей Бондарев,realtor,https://www.cian.ru/rent/flat/307662747/,Москва,rent,flat,7,9,2,45.0,75000,0,Орехово-Борисово Южное,Домодедовская ,33,Домодедовская
+16,ID 57640508,unknown,https://vidnoye.cian.ru/rent/flat/307661600/,Москва,rent,flat,9,17,2,57.0,52000,0,,бульвар Зеленые аллеи,14,Домодедовская
+17,Арика,real_estate_agent,https://vidnoye.cian.ru/rent/flat/307648129/,Москва,rent,flat,1,3,2,70.0,100000,0,,,,
+18,Антон Пронин,realtor,https://vidnoye.cian.ru/rent/flat/307646162/,Москва,rent,flat,15,18,2,54.0,40000,0,д. Мисайлово,шоссе Пригородное,5,
+19,ID 74592860,homeowner,https://www.cian.ru/rent/flat/307639362/,Москва,rent,flat,2,16,2,52.0,65000,0,Бирюлево Восточное,Михневский проезд,10,Домодедовская
+20,Лана Бубнова,realtor,https://vidnoye.cian.ru/rent/flat/307629651/,Москва,rent,flat,11,17,2,68.0,73000,0,,,,
+21,Александра Глотова,realtor,https://vidnoye.cian.ru/rent/flat/307628699/,Москва,rent,flat,5,17,2,68.5,59000,0,,бульвар Зеленые аллеи,12,Домодедовская
+22,ID 82850,realtor,https://www.cian.ru/rent/flat/307625995/,Москва,rent,flat,4,17,2,57.0,70000,0,Орехово-Борисово Северное, Маршала Захарова,12К3,Домодедовская
+23,Анастасия Саломатина,realtor,https://domodedovo.cian.ru/rent/flat/307613128/,Москва,rent,flat,7,17,2,65.0,55000,0,, Гагарина,63,Домодедовская
+24,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307608399/,Москва,rent,flat,2,9,2,45.0,100000,0,Орехово-Борисово Южное,Воронежская ,8К4,Домодедовская
+25,Кристина Жигулина,realtor,https://www.cian.ru/rent/flat/307607182/,Москва,rent,flat,5,50,2,60.0,70000,0,Бирюлево Восточное,Михневская ,8,Домодедовская
+26,ID 142796,realtor,https://domodedovo.cian.ru/rent/flat/307606827/,Москва,rent,flat,2,5,2,43.0,30000,0,, Гагарина,55/1,Домодедовская
+27,Игорь Королёв,realtor,https://domodedovo.cian.ru/rent/flat/307587784/,Москва,rent,flat,14,18,2,55.0,50000,0,с. Домодедово, Творчества,1,
+28,София Талыбова,realtor,https://vidnoye.cian.ru/rent/flat/307062595/,Москва,rent,flat,11,17,2,68.0,60000,0,, Завидная,16,Домодедовская
+29,Ирина Андреева,realtor,https://www.cian.ru/rent/flat/306954703/,Москва,rent,flat,2,9,2,49.0,75000,0,Орехово-Борисово Северное,Домодедовская ,7К2,Домодедовская
+30,ID 96093125,homeowner,https://www.cian.ru/rent/flat/306904503/,Москва,rent,flat,4,12,2,50.0,63000,0,Орехово-Борисово Южное,Ясеневая ,28,Домодедовская
+31,Самолет Плюс Москва,real_estate_agent,https://vidnoye.cian.ru/rent/flat/306887556/,Москва,rent,flat,3,17,2,34.6,45000,0,д. Мисайлово,бульвар Молодежный,11с1,
+32,ID 12431,realtor,https://vidnoye.cian.ru/rent/flat/306865767/,Москва,rent,flat,11,18,2,64.0,50000,0,, Ольховая,4,Домодедовская
+33,Яндекс Аренда,real_estate_agent,https://vidnoye.cian.ru/rent/flat/306857864/,Москва,rent,flat,11,17,2,37.0,38500,0,д. Коробово, Авиаторов,5,
+34,Алексей Лупарев,realtor,https://www.cian.ru/rent/flat/306840354/,Москва,rent,flat,1,17,2,53.0,82000,0,Орехово-Борисово Северное, Маршала Захарова,10К1,Домодедовская
+35,Ринат Аюпов,realtor,https://vidnoye.cian.ru/rent/flat/306772375/,Москва,rent,flat,7,17,2,35.0,37000,0,д. Мисайлово, Имени Л.И. Гоман,10,
+36,ID 10722809,homeowner,https://www.cian.ru/rent/flat/306525773/,Москва,rent,flat,4,11,2,68.0,79000,0,Орехово-Борисово Южное, Генерала Белова,28к1,Домодедовская
+37,ID 120725910,homeowner,https://www.cian.ru/rent/flat/306488777/,Москва,rent,flat,10,12,2,47.0,70000,0,Зябликово,Ореховый проезд,35К1,Домодедовская
+38,Елена Марченко,realtor,https://www.cian.ru/rent/flat/306480890/,Москва,rent,flat,8,17,2,54.0,60000,0,Бирюлево Восточное,Липецкая ,17К1,Домодедовская
+39,ID 12504,realtor,https://vidnoye.cian.ru/rent/flat/305966253/,Москва,rent,flat,6,17,2,45.0,55000,0,д. Мисайлово, Имени Л.И. Гоман,8,
+40,ID 62914528,homeowner,https://vidnoye.cian.ru/rent/flat/305918757/,Москва,rent,flat,12,17,2,50.0,55000,0,д. Коробово, Авиаторов,5,
+41,ID 107641596,unknown,https://domodedovo.cian.ru/rent/flat/305854420/,Москва,rent,flat,9,9,2,56.0,55000,0,, Гагарина,48,Домодедовская
+42,ID 120282436,homeowner,https://vidnoye.cian.ru/rent/flat/305822047/,Москва,rent,flat,8,12,2,45.0,33000,0,,Советский проезд,7,Домодедовская
+43,ID 20968527,homeowner,https://www.cian.ru/rent/flat/305819036/,Москва,rent,flat,3,25,2,65.0,90000,0,Орехово-Борисово Южное, Генерала Белова,28к1,Домодедовская
+44,Ярослав Бибиков,realtor,https://www.cian.ru/rent/flat/305556086/,Москва,rent,flat,12,18,2,65.0,119990,0,Орехово-Борисово Южное,Каширское шоссе,65К1,Домодедовская
+45,ID 91546937,unknown,https://domodedovo.cian.ru/rent/flat/305177485/,Москва,rent,flat,13,17,2,52.0,55000,0,с. Ям, Мезенцева,13,
+46,Роман Туляков,realtor,https://vidnoye.cian.ru/rent/flat/305016866/,Москва,rent,flat,14,17,2,50.0,45000,0,,проезд Битцевский,11,Домодедовская
+47,Геннадий Ренин,realtor,https://vidnoye.cian.ru/rent/flat/304941990/,Москва,rent,flat,3,5,2,58.0,40000,0,,проспект Ленинского Комсомола,58,Домодедовская
+48,ID 13721,realtor,https://vidnoye.cian.ru/rent/flat/304560529/,Москва,rent,flat,13,17,2,54.0,55000,0,д. Коробово, Авиаторов,5,
+49,ID 16231,realtor,https://vidnoye.cian.ru/rent/flat/302397906/,Москва,rent,flat,16,17,2,53.8,48000,0,д. Коробово, Авиаторов,5,
+50,ID 20257520,homeowner,https://vidnoye.cian.ru/rent/flat/301819456/,Москва,rent,flat,9,17,2,35.7,43000,0,д. Коробово, Авиаторов,1,
+51,ID 54932988,homeowner,https://domodedovo.cian.ru/rent/flat/301815442/,Москва,rent,flat,9,18,2,64.0,60000,0,, Кирова,17к1,Домодедовская
+52,ID 63355926,homeowner,https://vidnoye.cian.ru/rent/flat/300650147/,Москва,rent,flat,16,17,2,54.0,55000,0,д. Коробово, Авиаторов,4,
+53,ID 21663,realtor,https://vidnoye.cian.ru/rent/flat/300160818/,Москва,rent,flat,5,9,2,60.0,40000,0,с. Молоково,бульвар Ново-Молоковский,8,
+54,Оксана Горшнева,realtor,https://www.cian.ru/rent/flat/294817505/,Москва,rent,flat,1,9,2,53.0,70000,0,Орехово-Борисово Южное,Ясеневая ,8к1,Домодедовская
+55,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://vidnoye.cian.ru/rent/flat/293983096/,Москва,rent,flat,2,12,2,50.0,40000,0,,Советский проезд,1,Домодедовская

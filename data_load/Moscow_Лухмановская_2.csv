@@ -1,0 +1,29 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Александр Балабанов,realtor,https://lyubertsy.cian.ru/rent/flat/307779763/,Москва,rent,flat,17,17,2,40.0,40000,0,, Барыкина,1/2,Лухмановская
+1,ID 1375,realtor,https://lyubertsy.cian.ru/rent/flat/307779563/,Москва,rent,flat,9,17,2,63.0,70000,0,, Весенняя,14,Лухмановская
+2,RentMSK,real_estate_agent,https://www.cian.ru/rent/flat/307779086/,Москва,rent,flat,2,14,2,60.0,63000,0,Косино-Ухтомский, Рудневка,25,Лухмановская
+3,HONEST HOME,real_estate_agent,https://lyubertsy.cian.ru/rent/flat/307771748/,Москва,rent,flat,2,5,2,50.0,43000,0,д. Марусино, Заречная,33к2,
+4,EMPIRE HOME,real_estate_agent,https://lyubertsy.cian.ru/rent/flat/307767387/,Москва,rent,flat,2,5,2,49.3,45000,0,д. Марусино, Заречная,33к2,
+5,Парус,real_estate_agent,https://www.cian.ru/rent/flat/307767258/,Москва,rent,flat,13,19,2,62.0,100000,0,Некрасовка, Вертолетчиков,4к1,Лухмановская
+6,EMPIRE HOME,real_estate_agent,https://www.cian.ru/rent/flat/307755457/,Москва,rent,flat,13,19,2,62.0,100000,0,Некрасовка, Вертолетчиков,4к1,Лухмановская
+7,Комфорт,real_estate_agent,https://www.cian.ru/rent/flat/307752383/,Москва,rent,flat,5,19,2,60.0,55000,0,Некрасовка, Ухтомского Ополчения,8,Лухмановская
+8,Яндекс Аренда,real_estate_agent,https://lyubertsy.cian.ru/rent/flat/307745144/,Москва,rent,flat,17,17,2,56.0,65000,0,, Камова,5к2,Лухмановская
+9,Инга Тодуа,realtor,https://lyubertsy.cian.ru/rent/flat/307744463/,Москва,rent,flat,14,20,2,55.0,55000,0,, Барыкина,2,Лухмановская
+10,EstateLiga,real_estate_agent,https://lyubertsy.cian.ru/rent/flat/307738905/,Москва,rent,flat,6,17,2,61.0,70000,0,, Весенняя,14,Лухмановская
+11,Яндекс Аренда,real_estate_agent,https://lyubertsy.cian.ru/rent/flat/307729140/,Москва,rent,flat,16,17,2,54.0,76000,0,,проезд Некрасовский,8,Лухмановская
+12,МД-НЕДВИЖИМОСТЬ,real_estate_agent,https://www.cian.ru/rent/flat/307729107/,Москва,rent,flat,13,17,2,60.0,65000,0,Косино-Ухтомский,Лухмановская ,24,Лухмановская
+13,Столичный Проспект,real_estate_agent,https://lyubertsy.cian.ru/rent/flat/307718354/,Москва,rent,flat,4,5,2,50.0,50000,0,,Красногорская ,21к3,Лухмановская
+14,ID 107229951,homeowner,https://www.cian.ru/rent/flat/307710921/,Москва,rent,flat,8,12,2,58.6,70000,0,Косино-Ухтомский,Святоозерская ,14,Лухмановская
+15,Диана Жилина,realtor,https://lyubertsy.cian.ru/rent/flat/307690243/,Москва,rent,flat,4,5,2,53.0,43000,0,,Коммунистическая ,3,Лухмановская
+16,ID 90287067,homeowner,https://lyubertsy.cian.ru/rent/flat/307685892/,Москва,rent,flat,5,9,2,43.0,65000,0,, Побратимов,17,Лухмановская
+17,ID 89414531,realtor,https://lyubertsy.cian.ru/rent/flat/307677321/,Москва,rent,flat,2,18,2,54.9,60000,0,, Юности,7,Лухмановская
+18,ID 14441,realtor,https://www.cian.ru/rent/flat/307673671/,Москва,rent,flat,3,17,2,58.0,55000,0,Некрасовка, Вертолетчиков,4к8,Лухмановская
+19,ID 92211103,homeowner,https://www.cian.ru/rent/flat/307661907/,Москва,rent,flat,10,21,2,50.0,70000,0,Некрасовка,Рождественская ,31,Лухмановская
+20,EstateLiga,real_estate_agent,https://lyubertsy.cian.ru/rent/flat/307659189/,Москва,rent,flat,16,17,2,59.2,49000,0,, Юности,9,Лухмановская
+21,ID 72329732,realtor,https://www.cian.ru/rent/flat/307658673/,Москва,rent,flat,5,14,2,78.0,70000,0,Косино-Ухтомский,Салтыковская ,6/1к5,Лухмановская
+22,Алена Свиридова,realtor,https://www.cian.ru/rent/flat/307654662/,Москва,rent,flat,19,27,2,62.0,80000,0,Некрасовка, Недорубова,3,Лухмановская
+23,ID 2087,realtor,https://www.cian.ru/rent/flat/307649765/,Москва,rent,flat,7,24,2,62.0,65000,0,Косино-Ухтомский,Лухмановская ,22,Лухмановская
+24,EMPIRE HOME,real_estate_agent,https://lyubertsy.cian.ru/rent/flat/307635884/,Москва,rent,flat,10,17,2,35.0,55000,0,, Озерная,2,Лухмановская
+25,Яндекс Аренда,real_estate_agent,https://lyubertsy.cian.ru/rent/flat/307631788/,Москва,rent,flat,12,25,2,35.0,71000,0,, Весенняя,10,Лухмановская
+26,Надежда Семыкина,realtor,https://www.cian.ru/rent/flat/307628557/,Москва,rent,flat,8,26,2,60.0,55000,0,Некрасовка, Вертолетчиков,2Ак2,Лухмановская
+27,Ahmadulin Estate,real_estate_agent,https://lyubertsy.cian.ru/rent/flat/307618345/,Москва,rent,flat,6,16,2,42.0,49999,0,,проезд Некрасовский,11,Лухмановская

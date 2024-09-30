@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Манхэттен эстейт,real_estate_agent,https://www.cian.ru/rent/flat/307740977/,Москва,rent,flat,9,14,1,35.6,45000,0,, Аэростатная,6к4,Санино
+1,Самолет Плюс,real_estate_agent,https://www.cian.ru/rent/flat/307605946/,Москва,rent,flat,14,14,1,42.86,50000,0,, Аэростатная,6к4,Санино
+2,ID 76568311,homeowner,https://www.cian.ru/rent/flat/307536936/,Москва,rent,flat,7,14,1,33.43,47000,0,, Аэростатная,6к4,Санино
+3,ID 87353316,homeowner,https://www.cian.ru/rent/flat/307346618/,Москва,rent,flat,8,15,1,36.3,47000,0,, Стожарова,11,Санино
+4,МИЭЛЬ,real_estate_agent,https://www.cian.ru/rent/flat/307261073/,Москва,rent,flat,2,4,1,35.0,35000,0,, Центральная,12к1,Санино
+5,Владис,real_estate_agent,https://www.cian.ru/rent/flat/306997798/,Москва,rent,flat,5,14,1,35.5,39900,0,, Аэростатная,6к4,Санино
+6,Агентство недвижимости Елены Апостоловой,real_estate_agent,https://krasnoznamensk.cian.ru/rent/flat/306966991/,Москва,rent,flat,17,21,1,48.4,40000,0,,Минская ,7,Санино
+7,ID 52070827,homeowner,https://www.cian.ru/rent/flat/306802543/,Москва,rent,flat,9,15,1,36.0,42000,0,, Стожарова,11,Санино
+8,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/306410585/,Москва,rent,flat,8,15,1,36.0,50000,0,, Стожарова,11,Санино
+9,ID 12815580,unknown,https://naro-fominsk.cian.ru/rent/flat/305314464/,Москва,rent,flat,2,5,1,40.0,25000,0,,,,
+10,ID 378436,homeowner,https://www.cian.ru/rent/flat/304884342/,Москва,rent,flat,2,4,1,45.0,50000,0,Новая Москва, Школьная,13к2,Санино
+11,ID 20602186,homeowner,https://www.cian.ru/rent/flat/292590294/,Москва,rent,flat,7,9,1,43.0,35000,0,, Семена Гордого,1,Санино
+12,ID 861193,realtor,https://www.cian.ru/rent/flat/254397001/,Москва,rent,flat,1,2,1,25.0,32000,0,, Гагарина,,Санино
+13,Михаил Кольба,realtor,https://www.cian.ru/rent/flat/307542959/,Москва,rent,flat,19,19,1,42.0,43000,0,, Летчика Ульянина,7А,Пыхтино
+14,ID 6763918,homeowner,https://www.cian.ru/rent/flat/182935015/,Москва,rent,flat,6,17,1,38.0,45000,0,, Бориса Пастернака,7,Рассказовка
+15,ID 10825752,homeowner,https://www.cian.ru/rent/flat/280002311/,Москва,rent,flat,1,1,1,22.0,36000,0,,,5с1,Аэропорт Внуково
+16,ID 79753856,homeowner,https://www.cian.ru/rent/flat/307452933/,Москва,rent,flat,3,5,1,31.0,40000,0,Богородское,Бойцовая ,10К9,Бульвар Рокоссовского
+17,ID 104001452,homeowner,https://www.cian.ru/rent/flat/307231553/,Москва,rent,flat,9,16,1,34.2,40000,0,Бабушкинский,Печорская ,11,Бабушкинская
+18,Марина Белова,realtor,https://www.cian.ru/rent/flat/306402356/,Москва,rent,flat,9,9,2,36.0,50000,0,, Усадебный Парк,3,Филатов Луг
+19,Reliz Студия недвижимости,real_estate_agent,https://www.cian.ru/rent/flat/306307362/,Москва,rent,flat,2,3,-1,34.0,30000,0,,,36,Румянцево
+20,RedHillsEstate,real_estate_agent,https://www.cian.ru/rent/flat/307567176/,Москва,rent,flat,15,16,1,23.0,40000,0,, Гренадерская,9к1,Ольховая
+21,ID 88901276,homeowner,https://www.cian.ru/rent/flat/307596853/,Москва,rent,flat,5,12,-1,27.7,43000,0,, Харлампиева,44,Филатов Луг
+22,Александр Бялик,realtor,https://www.cian.ru/rent/flat/307586691/,Москва,rent,flat,3,4,2,54.0,55000,0,, Жемчужная,1к2,Филатов Луг
+23,МГАН,real_estate_agent,https://www.cian.ru/rent/flat/307645511/,Москва,rent,flat,13,25,2,63.0,40000,0,, Авиаконструктора Петлякова,31,Пыхтино
+24,ID 12971082,homeowner,https://www.cian.ru/rent/flat/297413990/,Москва,rent,flat,3,4,1,30.0,60000,0,, Жемчужная,1к9,Филатов Луг

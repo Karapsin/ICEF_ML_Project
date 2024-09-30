@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,ID 767221,real_estate_agent,https://podolsk.cian.ru/rent/flat/307541351/,Москва,rent,flat,7,16,2,67.0,50000,0,,Тепличная ,6,Остафьево
+1,ID 118375392,homeowner,https://www.cian.ru/rent/flat/307461032/,Москва,rent,flat,17,18,2,65.0,60000,0,,,5,Остафьево
+2,ID 15272,realtor,https://www.cian.ru/rent/flat/307416859/,Москва,rent,flat,7,21,2,57.0,52000,0,,,9,Остафьево
+3,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/306821709/,Москва,rent,flat,6,12,2,71.0,50000,0,, Гореловская,3,Остафьево
+4,ID 91217103,unknown,https://www.cian.ru/rent/flat/306558850/,Москва,rent,flat,3,20,2,60.0,60000,0,,,4,Остафьево
+5,ID 260853,realtor,https://www.cian.ru/rent/flat/306105322/,Москва,rent,flat,10,15,2,37.0,45000,0,, Уточкина,5к2,Остафьево
+6,ID 120560889,homeowner,https://www.cian.ru/rent/flat/306087660/,Москва,rent,flat,6,12,2,71.0,50000,0,, Гореловская,3,Остафьево
+7,ID 121240212,homeowner,https://www.cian.ru/rent/flat/306771725/,Москва,rent,flat,7,24,2,50.9,25000,0,Черемушки,Нахимовский проспект,31к3,Профсоюзная
+8,Марина Белова,realtor,https://www.cian.ru/rent/flat/306402356/,Москва,rent,flat,9,9,2,36.0,50000,0,, Усадебный Парк,3,Филатов Луг
+9,ID 118024453,homeowner,https://www.cian.ru/rent/flat/307640512/,Москва,rent,flat,2,16,2,54.0,43000,0,Ивановское,Малый Купавенский проезд,3,Новогиреево
+10,Александр Бялик,realtor,https://www.cian.ru/rent/flat/307586691/,Москва,rent,flat,3,4,2,54.0,55000,0,, Жемчужная,1к2,Филатов Луг
+11,ID 80761309,homeowner,https://www.cian.ru/rent/flat/307423416/,Москва,rent,flat,12,12,2,54.0,45000,0,Крюково,Зеленоград,к1462,Зеленоград — Крюково
+12,ID 287994,unknown,https://www.cian.ru/rent/flat/304543825/,Москва,rent,flat,3,3,1,42.0,45000,0,, Березовая,11к1,Филатов Луг
+13,ПИК-Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307007810/,Москва,rent,flat,12,17,2,50.8,54900,0,Южное Бутово,Варшавское шоссе,282к1,Бульвар Дмитрия Донского
+14,СТОЛИЦА Департамент недвижимости,real_estate_agent,https://www.cian.ru/rent/flat/307497307/,Москва,rent,flat,2,3,3,81.0,45000,0,,,36,Филатов Луг
+15,ID 85745033,homeowner,https://www.cian.ru/rent/flat/270709183/,Москва,rent,flat,13,16,2,50.9,50000,0,Нижегородский,Смирновская ,5,Калитники
+16,ID 41040929,homeowner,https://www.cian.ru/rent/flat/303044283/,Москва,rent,flat,10,14,3,59.3,60000,0,, Стожарова,5,Крёкшино
+17,ID 99408691,homeowner,https://www.cian.ru/rent/flat/306423482/,Москва,rent,flat,8,14,2,36.6,48000,0,, Стожарова,11,Санино
+18,Светлана Биличенко,realtor,https://www.cian.ru/rent/flat/307385357/,Москва,rent,flat,9,9,2,42.0,47000,0,Печатники,Шоссейная ,37,Депо
+19,DREAM HOUSE,real_estate_agent,https://www.cian.ru/rent/flat/307582390/,Москва,rent,flat,3,3,2,52.0,35000,0,, Вышгородская,14,Апрелевка
+20,СТОЛИЦА Департамент недвижимости,real_estate_agent,https://www.cian.ru/rent/flat/307046864/,Москва,rent,flat,11,16,2,50.0,60000,0,Гольяново,Камчатская ,3,Щёлковская
+21,ID 92569743,homeowner,https://www.cian.ru/rent/flat/307585469/,Москва,rent,flat,6,13,3,60.0,60000,0,, Летчика Грицевца,,Пыхтино
+22,ID 370585,realtor,https://www.cian.ru/rent/flat/307310153/,Москва,rent,flat,9,10,2,56.0,58000,0,Южное Бутово, Адмирала Лазарева,74,Бунинская аллея
+23,Самолет плюс Троицк,real_estate_agent,https://www.cian.ru/rent/flat/307273441/,Москва,rent,flat,4,14,2,70.0,65000,0,, Александры Монаховой,5к2,Ольховая
+24,ЕВРОНЕДВИЖИМОСТЬ на Павелецкой,real_estate_agent,https://www.cian.ru/rent/flat/306541269/,Москва,rent,flat,13,15,1,30.0,39000,0,, Уточкина,5к2,Остафьево

@@ -1,0 +1,58 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,ReaMos,real_estate_agent,https://www.cian.ru/rent/flat/307750497/,Москва,rent,flat,18,32,1,32.0,70000,0,Гольяново,Амурская ,2к2,Черкизовская
+1,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307746991/,Москва,rent,flat,10,33,1,42.0,80000,0,Гольяново,Амурская ,2к2,Черкизовская
+2,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307745625/,Москва,rent,flat,24,33,1,20.0,68000,0,Гольяново,Амурская ,2к2,Черкизовская
+3,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307743842/,Москва,rent,flat,14,24,1,20.0,60000,0,Соколиная гора,Окружной проезд,10Б,Черкизовская
+4,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307740425/,Москва,rent,flat,3,39,1,20.0,55000,0,Гольяново,Амурская ,1Ак5,Черкизовская
+5,ID 89770341,homeowner,https://www.cian.ru/rent/flat/307728861/,Москва,rent,flat,7,8,1,41.7,65000,0,Соколиная гора,Окружной проезд,15,Черкизовская
+6,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307723020/,Москва,rent,flat,4,39,1,18.0,60000,0,Гольяново,Амурская ,1Ак3,Черкизовская
+7,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307715396/,Москва,rent,flat,19,35,1,20.0,60000,0,Гольяново,Амурская ,1Ак1,Черкизовская
+8,Паскаль,real_estate_agent,https://www.cian.ru/rent/flat/307715226/,Москва,rent,flat,2,26,1,25.0,75000,0,Соколиная гора,Окружной проезд,10Б,Черкизовская
+9,WHITE BROKER Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307714742/,Москва,rent,flat,5,24,1,56.0,90000,0,Метрогородок,Тагильская ,вл5с13,Черкизовская
+10,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307706403/,Москва,rent,flat,24,39,1,40.0,90000,0,Гольяново,Амурская ,1Ак4,Черкизовская
+11,Ирина Ищенко,realtor,https://www.cian.ru/rent/flat/307702256/,Москва,rent,flat,18,31,1,35.42,70000,0,Богородское,Тюменский проезд,3к1,Черкизовская
+12,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307700293/,Москва,rent,flat,5,10,1,40.0,70000,0,Преображенское, Хромова,3,Черкизовская
+13,ID 79992702,homeowner,https://www.cian.ru/rent/flat/307679728/,Москва,rent,flat,10,33,1,40.0,82000,0,Гольяново,Амурская ,2к2,Черкизовская
+14,ID 122121703,realtor,https://www.cian.ru/rent/flat/307679270/,Москва,rent,flat,20,30,1,45.0,85000,0,Богородское,бульвар Маршала Рокоссовского,6к1,Черкизовская
+15,Business Leader,real_estate_agent,https://www.cian.ru/rent/flat/307678385/,Москва,rent,flat,22,30,1,50.0,68000,0,Богородское,бульвар Маршала Рокоссовского,6к1,Черкизовская
+16,ID 96485322,homeowner,https://www.cian.ru/rent/flat/307671872/,Москва,rent,flat,13,24,1,38.9,75000,0,Метрогородок,Тагильская ,4В,Черкизовская
+17,ID 73141273,homeowner,https://www.cian.ru/rent/flat/307652870/,Москва,rent,flat,30,38,1,40.0,105000,0,Гольяново,Амурская ,1Ак5,Черкизовская
+18,ID 44046798,homeowner,https://www.cian.ru/rent/flat/307636126/,Москва,rent,flat,7,24,1,37.5,77000,0,Метрогородок,Тагильская ,4В,Черкизовская
+19,Паскаль,real_estate_agent,https://www.cian.ru/rent/flat/307623407/,Москва,rent,flat,2,24,1,25.0,70000,0,Соколиная гора,Окружной проезд,10Б,Черкизовская
+20,ID 113733768,homeowner,https://www.cian.ru/rent/flat/307614027/,Москва,rent,flat,6,23,1,31.3,70000,0,Богородское,Тюменский проезд,3к8,Черкизовская
+21,ПИК-Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307607533/,Москва,rent,flat,2,33,1,25.5,65000,0,Гольяново,Амурская ,2к2,Черкизовская
+22,ID 92085377,realtor,https://www.cian.ru/rent/flat/307605628/,Москва,rent,flat,18,25,1,29.6,70000,0,Гольяново,Амурская ,2к2,Черкизовская
+23,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307605473/,Москва,rent,flat,6,10,1,30.0,69000,0,Преображенское, Хромова,3,Черкизовская
+24,МосГарант,real_estate_agent,https://www.cian.ru/rent/flat/307585139/,Москва,rent,flat,3,30,1,47.0,75000,0,Богородское,бульвар Маршала Рокоссовского,6к1,Черкизовская
+25,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307539394/,Москва,rent,flat,30,40,1,40.0,105000,0,Гольяново,Амурская ,1Ак5,Черкизовская
+26,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307531109/,Москва,rent,flat,30,40,1,40.0,105000,0,Гольяново,Амурская ,1Ак5,Черкизовская
+27,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307486991/,Москва,rent,flat,29,33,1,32.0,80000,0,Гольяново,Амурская ,2к2,Черкизовская
+28,ID 14032,realtor,https://www.cian.ru/rent/flat/307485261/,Москва,rent,flat,17,17,1,38.0,45000,0,Измайлово,Измайловский проезд,15,Черкизовская
+29,ID 79753856,homeowner,https://www.cian.ru/rent/flat/307452933/,Москва,rent,flat,3,5,1,31.0,40000,0,Богородское,Бойцовая ,10К9,Черкизовская
+30,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307435042/,Москва,rent,flat,2,24,1,25.0,70000,0,Соколиная гора,Окружной проезд,10Б,Черкизовская
+31,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307433458/,Москва,rent,flat,6,9,1,30.0,55000,0,Преображенское,Большая Черкизовская ,11,Черкизовская
+32,ID 119293030,homeowner,https://www.cian.ru/rent/flat/307408934/,Москва,rent,flat,38,39,1,40.0,95000,0,Гольяново,Амурская ,1Ак5,Черкизовская
+33,Мой Дом - отделение Добрынинское,real_estate_agent,https://www.cian.ru/rent/flat/307393691/,Москва,rent,flat,10,14,1,40.0,50000,0,Северное Измайлово,Сиреневый бульвар,1К4,Черкизовская
+34,ID 101224495,homeowner,https://www.cian.ru/rent/flat/307384387/,Москва,rent,flat,12,39,1,38.6,80000,0,Гольяново,Амурская ,1Ак4,Черкизовская
+35,Юрий Ким,realtor,https://www.cian.ru/rent/flat/307371169/,Москва,rent,flat,12,25,1,37.0,55000,0,Гольяново,Амурская ,1Ак4,Черкизовская
+36,ID 696374,realtor,https://www.cian.ru/rent/flat/307226353/,Москва,rent,flat,20,25,1,36.0,75000,0,Гольяново,Амурская ,2к2,Черкизовская
+37,Владис,real_estate_agent,https://www.cian.ru/rent/flat/307151972/,Москва,rent,flat,1,13,1,55.0,230000,0,Преображенское,Краснобогатырская ,90С1,Черкизовская
+38,ID 352156,unknown,https://www.cian.ru/rent/flat/307132040/,Москва,rent,flat,5,23,1,40.0,75000,0,Богородское,Тюменский проезд,3к8,Черкизовская
+39,ID 9671122,realtor,https://www.cian.ru/rent/flat/307042101/,Москва,rent,flat,3,5,1,31.0,45000,0,Северное Измайлово,Никитинская ,31,Черкизовская
+40,ПИК-Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307018338/,Москва,rent,flat,19,33,1,32.0,90000,0,Гольяново,Амурская ,2к2,Черкизовская
+41,ROOMS Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/306594558/,Москва,rent,flat,10,12,1,36.0,75000,0,Преображенское,Знаменская ,38К1,Черкизовская
+42,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/306560357/,Москва,rent,flat,4,14,1,37.0,65000,0,Преображенское,Просторная ,14К1,Черкизовская
+43,ID 13371650,homeowner,https://www.cian.ru/rent/flat/306400508/,Москва,rent,flat,24,39,1,40.0,90000,0,Гольяново,Амурская ,1Ак4,Черкизовская
+44,ID 61871814,homeowner,https://www.cian.ru/rent/flat/306127704/,Москва,rent,flat,14,33,1,42.0,95000,0,Гольяново,Амурская ,2Ак3,Черкизовская
+45,ПИК-Аренда,real_estate_agent,https://www.cian.ru/rent/flat/305730240/,Москва,rent,flat,16,33,1,19.6,68900,0,Гольяново,Амурская ,2Ак2,Черкизовская
+46,ID 56664465,unknown,https://www.cian.ru/rent/flat/298679425/,Москва,rent,flat,11,33,1,42.0,80000,0,Гольяново,Амурская ,2Ак3,Черкизовская
+47,Ольга Иванова,realtor,https://www.cian.ru/rent/flat/292486343/,Москва,rent,flat,4,5,1,32.0,65000,0,Богородское,4-я Гражданская ,43К5,Черкизовская
+48,ID 80637117,homeowner,https://www.cian.ru/rent/flat/278916282/,Москва,rent,flat,4,14,1,35.7,68000,0,Преображенское,Просторная ,14К1,Черкизовская
+49,ID 637607,realtor,https://www.cian.ru/rent/flat/276990220/,Москва,rent,flat,5,5,1,33.0,52000,0,Богородское,Открытое шоссе,1К10,Черкизовская
+50,FOX ESTATE,real_estate_agent,https://www.cian.ru/rent/flat/272173602/,Москва,rent,flat,5,7,1,36.0,85000,0,Богородское,Тюменский проезд,3к2,Черкизовская
+51,Моя Недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/250969698/,Москва,rent,flat,5,8,1,38.0,65000,0,Преображенское,Большая Черкизовская ,4К1,Черкизовская
+52,Людмила Атаманова,realtor,https://www.cian.ru/rent/flat/246116452/,Москва,rent,flat,3,5,1,38.0,68000,0,Гольяново,Амурская ,1Ак4,Черкизовская
+53,Максим Манцуров,realtor,https://www.cian.ru/rent/flat/183015411/,Москва,rent,flat,5,10,1,40.0,70000,0,Преображенское, Хромова,3,Черкизовская
+54,ID 12586229,homeowner,https://www.cian.ru/rent/flat/268197091/,Москва,rent,flat,2,39,1,30.0,55000,0,Гольяново,Амурская ,1Ак5,Черкизовская
+55,ID 108449429,homeowner,https://www.cian.ru/rent/flat/307585718/,Москва,rent,flat,4,5,1,32.0,50000,0,Преображенское,Суворовская ,24,Преображенская площадь
+56,ID 73362477,unknown,https://www.cian.ru/rent/flat/307606844/,Москва,rent,flat,3,25,1,35.0,69000,0,Метрогородок,Тагильская ,2к1,Бульвар Рокоссовского

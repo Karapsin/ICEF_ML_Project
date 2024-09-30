@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Елена Маранова,realtor,https://www.cian.ru/rent/flat/307716655/,Москва,rent,flat,3,8,2,54.0,130000,0,Арбат,Большой Николопесковский переулок,12,Александровский сад
+1,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307217776/,Москва,rent,flat,5,6,2,100.0,350000,0,Пресненский,Мерзляковский переулок,13,Александровский сад
+2,Дмитрий Рублев,realtor,https://www.cian.ru/rent/flat/306932614/,Москва,rent,flat,5,7,2,55.4,140000,0,Пресненский,Никитский бульвар,12,Александровский сад
+3,ID 84179812,realtor,https://www.cian.ru/rent/flat/305383389/,Москва,rent,flat,3,5,2,70.0,185000,0,Пресненский,Калашный переулок,7,Александровский сад
+4,Сергей Головин,realtor,https://www.cian.ru/rent/flat/301280492/,Москва,rent,flat,6,7,2,60.0,150000,0,Арбат,Никитский бульвар,5,Александровский сад
+5,Олег Кочнев,realtor,https://www.cian.ru/rent/flat/306897340/,Москва,rent,flat,3,12,2,53.0,145000,0,Хамовники,Большая Пироговская ,53-55,Спортивная
+6,ID 16276255,unknown,https://www.cian.ru/rent/flat/307538535/,Москва,rent,flat,3,4,1,45.0,128000,0,Басманный,Старосадский переулок,10С1,Китай-город
+7,Intermark Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307521524/,Москва,rent,flat,14,16,3,88.0,200000,0,Хамовники,Малый Власьевский переулок,3к1,Кропоткинская
+8,ID 24419,real_estate_agent,https://www.cian.ru/rent/flat/307470965/,Москва,rent,flat,4,8,2,46.0,150000,0,Хамовники,переулок Сивцев Вражек,15/25,Кропоткинская
+9,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307397815/,Москва,rent,flat,4,7,3,86.0,200000,0,Хамовники,Фрунзенская набережная,32,Фрунзенская
+10,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307126701/,Москва,rent,flat,21,24,2,67.0,160000,0,Таганский,Котельническая набережная,1/15кБ,Китай-город
+11,Easy Estate,real_estate_agent,https://www.cian.ru/rent/flat/307387142/,Москва,rent,flat,4,5,3,150.0,200000,0,Хамовники,Лопухинский переулок,1АС2,Кропоткинская
+12,ID 44635371,homeowner,https://www.cian.ru/rent/flat/293542836/,Москва,rent,flat,3,8,2,57.0,140000,0,Хамовники, Хамовнический Вал,28,Спортивная
+13,Дипломат,real_estate_agent,https://www.cian.ru/rent/flat/307131445/,Москва,rent,flat,6,6,2,52.0,130000,0,Пресненский,Большой Патриарший переулок,10,Маяковская
+14,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307447111/,Москва,rent,flat,5,6,2,55.0,175000,0,Тверской,Тверская ,6С5,Охотный ряд
+15,Надежда Карпенкова,realtor,https://www.cian.ru/rent/flat/307412052/,Москва,rent,flat,2,7,2,55.0,165000,0,Хамовники,Смоленская-Сенная площадь,27С1,Смоленская
+16,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307210998/,Москва,rent,flat,7,10,2,70.0,145000,0,Пресненский,Ермолаевский переулок,18А,Маяковская
+17,PANDA ESTATE,real_estate_agent,https://www.cian.ru/rent/flat/305572564/,Москва,rent,flat,6,6,2,60.0,140000,0,Пресненский,Богословский переулок,5,Тверская
+18,ID 713083,realtor,https://www.cian.ru/rent/flat/153653945/,Москва,rent,flat,10,13,1,45.0,150000,0,Хамовники,Гагаринский переулок,21,Кропоткинская
+19,ID 87484330,homeowner,https://www.cian.ru/rent/flat/293720088/,Москва,rent,flat,3,3,3,77.0,187000,0,Басманный, Покровка,14/2С1,Чистые пруды
+20,ID 99704473,realtor,https://www.cian.ru/rent/flat/306122988/,Москва,rent,flat,6,8,2,94.8,160000,0,Тверской,Тверская ,4,Охотный ряд
+21,ЕГСН Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307314879/,Москва,rent,flat,4,8,2,75.0,140000,0,Тверской,Тверская ,4,Охотный ряд
+22,Monumental Group,real_estate_agent,https://www.cian.ru/rent/flat/307602200/,Москва,rent,flat,6,10,2,65.0,170000,0,Якиманка, Малая Полянка,2,Полянка
+23,ID 97814080,realtor,https://www.cian.ru/rent/flat/307627263/,Москва,rent,flat,8,9,3,85.5,250000,0,Пресненский, Спиридоновка,22/2,Пушкинская
+24,Суламит-НГС,real_estate_agent,https://www.cian.ru/rent/flat/307573431/,Москва,rent,flat,4,4,1,24.0,110000,0,Тверской, Петровка,17С2,Театральная

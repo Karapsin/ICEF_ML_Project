@@ -1,0 +1,29 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307745612/,Москва,rent,flat,9,14,3,78.0,110000,0,Южное Тушино,Сходненская ,6к1,Планерная
+1,Chotky realty,real_estate_agent,https://www.cian.ru/rent/flat/307743813/,Москва,rent,flat,5,5,3,60.0,65000,0,Северное Тушино,Химкинский бульвар,16К5,Планерная
+2,ID 20604,real_estate_agent,https://www.cian.ru/rent/flat/307698474/,Москва,rent,flat,4,9,3,60.0,75000,0,Северное Тушино, Фомичевой,16К2,Планерная
+3,Алексей Самойлов,realtor,https://www.cian.ru/rent/flat/307633709/,Москва,rent,flat,9,9,3,56.0,80000,0,Южное Тушино,бульвар Яна Райниса,19К2,Планерная
+4,ID 523711,homeowner,https://khimki.cian.ru/rent/flat/307630437/,Москва,rent,flat,4,5,3,83.2,70000,0,, Ивановская,2к2,Планерная
+5,Елена Теплова,realtor,https://krasnogorsk.cian.ru/rent/flat/307616912/,Москва,rent,flat,2,3,3,55.0,70000,0,д. Гаврилково, 27-й Квартал,22,
+6,Олимп,real_estate_agent,https://www.cian.ru/rent/flat/307592333/,Москва,rent,flat,5,5,3,96.0,110000,0,Куркино,Куркинское шоссе,36,Планерная
+7,ID 62134887,realtor,https://www.cian.ru/rent/flat/307411322/,Москва,rent,flat,2,9,3,76.0,70000,0,Куркино,Ландышевая ,14К1,Планерная
+8,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307403667/,Москва,rent,flat,6,9,3,114.0,150000,0,Куркино,Ландышевая ,14К3,Планерная
+9,ID 279895,realtor,https://krasnogorsk.cian.ru/rent/flat/307362098/,Москва,rent,flat,7,17,3,53.3,85000,0,д. Путилково, Вольная,3,
+10,Екатерина Лугова,realtor,https://krasnogorsk.cian.ru/rent/flat/307340138/,Москва,rent,flat,11,27,3,75.0,70000,0,д. Путилково, Сходненская,1,
+11,Владимир Фетискин,realtor,https://khimki.cian.ru/rent/flat/307220526/,Москва,rent,flat,2,25,3,78.0,70000,0,,Молодежная ,70,Планерная
+12,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307196157/,Москва,rent,flat,1,9,3,65.0,110000,0,Южное Тушино, Фабрициуса,20,Планерная
+13,Ольга Петрова,realtor,https://www.cian.ru/rent/flat/307187752/,Москва,rent,flat,4,9,3,52.0,67000,0,Северное Тушино,Туристская ,10,Планерная
+14,Столичная Недвижимость.,real_estate_agent,https://khimki.cian.ru/rent/flat/307136049/,Москва,rent,flat,13,25,3,76.3,70000,0,,Молодежная ,74,Планерная
+15,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/306513122/,Москва,rent,flat,9,14,3,80.0,110000,0,Южное Тушино,Сходненская ,6к1,Планерная
+16,ID 77971688,homeowner,https://www.cian.ru/rent/flat/306327381/,Москва,rent,flat,9,14,3,78.0,110000,0,Южное Тушино,Сходненская ,6к1,Планерная
+17,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/306322361/,Москва,rent,flat,9,9,3,59.0,120000,0,Северное Тушино,Туристская ,20К2,Планерная
+18,ЦАН,real_estate_agent,https://khimki.cian.ru/rent/flat/306278749/,Москва,rent,flat,14,27,3,101.0,99000,0,, Лавочкина,25,Планерная
+19,ID 103009353,unknown,https://www.cian.ru/rent/flat/306233801/,Москва,rent,flat,9,9,3,59.3,130000,0,Северное Тушино,Туристская ,20К2,Планерная
+20,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/306073575/,Москва,rent,flat,7,12,3,69.0,65000,0,Северное Тушино, Фомичевой,8К2,Планерная
+21,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/305863527/,Москва,rent,flat,11,18,3,115.0,100000,0,Куркино,Соколово-Мещерская ,31,Планерная
+22,ID 828022,homeowner,https://www.cian.ru/rent/flat/305829139/,Москва,rent,flat,7,12,3,60.0,70000,0,Северное Тушино, Фомичевой,8К2,Планерная
+23,ID 15775681,homeowner,https://www.cian.ru/rent/flat/305815112/,Москва,rent,flat,11,18,3,130.2,100000,0,Куркино,Соколово-Мещерская ,31,Планерная
+24,Смузи Эстейт,real_estate_agent,https://krasnogorsk.cian.ru/rent/flat/305093967/,Москва,rent,flat,4,10,3,76.0,80000,0,д. Путилково, Вольная,1,
+25,Яндекс Аренда,real_estate_agent,https://khimki.cian.ru/rent/flat/304396592/,Москва,rent,flat,23,25,3,110.0,157500,0,,Юбилейный проспект,66д,Планерная
+26,ID 12206273,homeowner,https://www.cian.ru/rent/flat/300293513/,Москва,rent,flat,7,9,3,58.5,75000,0,Северное Тушино,Планерная ,12К4,Планерная
+27,ID 106123519,homeowner,https://www.cian.ru/rent/flat/297823691/,Москва,rent,flat,2,16,3,64.3,80000,0,Южное Тушино,проезд Донелайтиса,14,Планерная

@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,ID 52579453,homeowner,https://www.cian.ru/rent/flat/307781835/,Москва,rent,flat,8,12,2,45.6,55000,0,Бирюлево Восточное,Бирюлевская ,11К2,Покровское
+1,Сергей Соловьев,realtor,https://www.cian.ru/rent/flat/307724836/,Москва,rent,flat,22,24,2,65.0,29000,0,Бирюлево Восточное,6-я Радиальная ,7/1к2,Покровское
+2,Алексей Павлюков,realtor,https://www.cian.ru/rent/flat/307625300/,Москва,rent,flat,4,12,2,45.8,60000,0,Чертаново Южное,3-й Дорожный проезд,7К2,Покровское
+3,Вячеслав Трушин,realtor,https://www.cian.ru/rent/flat/307477745/,Москва,rent,flat,10,12,2,46.0,70000,0,Чертаново Южное,Дорожная ,20К3,Покровское
+4,Денис Пронин,realtor,https://www.cian.ru/rent/flat/307476953/,Москва,rent,flat,11,17,2,68.0,80000,0,Бирюлево Восточное,6-я Радиальная ,5к4,Покровское
+5,ID 121890453,homeowner,https://www.cian.ru/rent/flat/307457757/,Москва,rent,flat,7,14,2,52.0,60000,0,Бирюлево Западное,Востряковский проезд,15К2,Покровское
+6,EMPIRE HOME,real_estate_agent,https://www.cian.ru/rent/flat/307063729/,Москва,rent,flat,12,20,2,65.0,90000,0,Бирюлево Восточное,6-я Радиальная ,7/1к1,Покровское
+7,EMPIRE HOME,real_estate_agent,https://www.cian.ru/rent/flat/306696311/,Москва,rent,flat,8,9,2,30.0,55000,0,Бирюлево Западное,Востряковский проезд,5К2,Покровское
+8,EMPIRE HOME,real_estate_agent,https://www.cian.ru/rent/flat/303074291/,Москва,rent,flat,11,12,2,47.0,75000,0,Чертаново Южное,3-й Дорожный проезд,4К2,Покровское
+9,ЕГСН Аренда,real_estate_agent,https://www.cian.ru/rent/flat/302172252/,Москва,rent,flat,9,24,1,40.0,55000,0,Бирюлево Восточное,6-я Радиальная ,7/1к2,Царицыно
+10,Сити Недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/307107899/,Москва,rent,flat,6,9,2,48.0,50000,0,Орехово-Борисово Южное,Ореховый бульвар,12К2,Домодедовская
+11,ID 17267044,homeowner,https://www.cian.ru/rent/flat/232711796/,Москва,rent,flat,5,9,2,45.0,60000,0,Зябликово,Кустанайская ,6К3,Шипиловская
+12,ПИК-Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307007810/,Москва,rent,flat,12,17,2,50.8,54900,0,Южное Бутово,Варшавское шоссе,282к1,Бульвар Дмитрия Донского
+13,ID 12204,realtor,https://www.cian.ru/rent/flat/306750599/,Москва,rent,flat,3,5,2,44.0,49000,0,Зюзино, Каховка,13К5,Каховская
+14,Антон Осмелкин,realtor,https://www.cian.ru/rent/flat/299983236/,Москва,rent,flat,8,12,2,40.0,55000,0,Черемушки,Херсонская ,29,Зюзино
+15,Александр Долгов,realtor,https://www.cian.ru/rent/flat/277797504/,Москва,rent,flat,4,5,2,43.0,65000,0,Нагорный,Варшавское шоссе,52/2,Нахимовский проспект
+16,Елена Кондратенко,realtor,https://www.cian.ru/rent/flat/267379173/,Москва,rent,flat,1,9,2,37.2,65000,0,Зюзино,Болотниковская ,21К1,Каховская
+17,ID 39235,unknown,https://www.cian.ru/rent/flat/307610679/,Москва,rent,flat,5,5,2,44.0,50000,0,Нагорный,Черноморский бульвар,5К2,Чертановская
+18,EMPIRE HOME,real_estate_agent,https://www.cian.ru/rent/flat/306693542/,Москва,rent,flat,13,18,3,83.0,30000,0,Бирюлево Восточное,6-я Радиальная ,7/6к3,Покровское
+19,ID 121944706,homeowner,https://www.cian.ru/rent/flat/307508989/,Москва,rent,flat,11,12,2,46.1,57000,0,Бирюлево Западное,Медынская ,5К2,Пражская
+20,Дмитрий Вартанов,realtor,https://www.cian.ru/rent/flat/307535480/,Москва,rent,flat,2,5,2,42.0,60000,0,Нагорный,Черноморский бульвар,5К1,Чертановская
+21,ID 117778273,homeowner,https://www.cian.ru/rent/flat/307593202/,Москва,rent,flat,2,9,3,60.0,65000,0,Бирюлево Восточное,Бирюлевская ,5К1,Царицыно
+22,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307577090/,Москва,rent,flat,8,9,3,75.0,60000,0,Южное Бутово,Южнобутовская ,84,Бунинская аллея
+23,Иван Заугаров,realtor,https://www.cian.ru/rent/flat/307475593/,Москва,rent,flat,8,14,2,55.0,60000,0,Южное Бутово, Адмирала Руднева,12,Улица Горчакова
+24,Любовь Каргалева,realtor,https://www.cian.ru/rent/flat/277134239/,Москва,rent,flat,7,9,2,45.0,45000,0,Чертаново Южное,Чертановская ,58К2,Улица Академика Янгеля

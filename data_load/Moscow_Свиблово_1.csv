@@ -1,0 +1,57 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,ID 27948,real_estate_agent,https://mytishchi.cian.ru/rent/flat/307745064/,Москва,rent,flat,3,5,1,33.1,40000,0,,Новомытищинский проспект,50/10,Свиблово
+1,Павел Васин,realtor,https://www.cian.ru/rent/flat/307740149/,Москва,rent,flat,4,9,1,35.0,35000,0,Лосиноостровский,Челюскинская ,10К1,Свиблово
+2,Паскаль,real_estate_agent,https://www.cian.ru/rent/flat/307738515/,Москва,rent,flat,3,12,1,39.0,60000,0,Южное Медведково,Заповедная ,4,Свиблово
+3,BDC,real_estate_agent,https://www.cian.ru/rent/flat/307727244/,Москва,rent,flat,3,12,1,40.0,60000,0,Южное Медведково,Заповедная ,4,Свиблово
+4,Сергей Комбаров,realtor,https://www.cian.ru/rent/flat/307726968/,Москва,rent,flat,6,19,1,29.0,50000,0,Северное Медведково,Широкая ,30,Свиблово
+5,ID 106243903,homeowner,https://mytishchi.cian.ru/rent/flat/307724397/,Москва,rent,flat,9,17,1,32.5,45000,0,, Стрельбище Динамо,10,Свиблово
+6,Яндекс Аренда,real_estate_agent,https://mytishchi.cian.ru/rent/flat/307723404/,Москва,rent,flat,14,17,1,35.0,46000,0,, Стрельбище Динамо,10,Свиблово
+7,Про Жильё,real_estate_agent,https://mytishchi.cian.ru/rent/flat/307722507/,Москва,rent,flat,6,17,1,35.0,45000,0,, Борисовка,8А,Свиблово
+8,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307721226/,Москва,rent,flat,5,9,1,30.0,50000,0,Ярославский, Вешних Вод,8к1,Свиблово
+9,Агентство Решения Жилищных Вопросов,real_estate_agent,https://mytishchi.cian.ru/rent/flat/307709528/,Москва,rent,flat,11,17,1,32.0,44000,0,,переулок 1-й Стрелковый,1,Свиблово
+10,ID 27634,realtor,https://www.cian.ru/rent/flat/307709211/,Москва,rent,flat,9,9,1,35.0,55000,0,Северное Медведково,проезд Шокальского,34,Свиблово
+11,ПАРТНЕР,real_estate_agent,https://www.cian.ru/rent/flat/307706860/,Москва,rent,flat,10,12,1,40.0,65000,0,Южное Медведково, Молодцова,1А,Свиблово
+12,Ирина Лискина,realtor,https://www.cian.ru/rent/flat/307705403/,Москва,rent,flat,30,33,1,41.0,75000,0,Южное Медведково,Полярная ,25к2,Свиблово
+13,iRealty,real_estate_agent,https://www.cian.ru/rent/flat/307695713/,Москва,rent,flat,20,22,1,38.0,68000,0,Ярославский, Красная Сосна,3,Свиблово
+14,Д-Эстейт,real_estate_agent,https://www.cian.ru/rent/flat/307693034/,Москва,rent,flat,10,17,1,37.4,63000,0,Бабушкинский, Чичерина,12/2,Свиблово
+15,Golden Key,real_estate_agent,https://www.cian.ru/rent/flat/307686646/,Москва,rent,flat,1,4,1,33.0,45000,0,Бабушкинский, Менжинского,15К2,Свиблово
+16,ID 98253909,homeowner,https://mytishchi.cian.ru/rent/flat/307684252/,Москва,rent,flat,8,17,1,34.0,45000,0,, Стрельбище Динамо,10,Свиблово
+17,Дом+,real_estate_agent,https://mytishchi.cian.ru/rent/flat/307683057/,Москва,rent,flat,12,17,1,31.0,40000,0,,переулок 1-й Стрелковый,3,Свиблово
+18,НАСЛЕДИЕ,real_estate_agent,https://mytishchi.cian.ru/rent/flat/307680893/,Москва,rent,flat,4,18,1,38.0,43000,0,, Воронина,14,Свиблово
+19,АПРИОРИ ЭСТЕЙТ,real_estate_agent,https://mytishchi.cian.ru/rent/flat/307679757/,Москва,rent,flat,3,17,1,46.0,53000,0,, Воровского,1,Свиблово
+20,ID 13996074,unknown,https://www.cian.ru/rent/flat/307675638/,Москва,rent,flat,17,25,1,32.0,85000,0,Бабушкинский,Кольская ,8к2,Свиблово
+21,ID 49487,realtor,https://www.cian.ru/rent/flat/307675138/,Москва,rent,flat,5,17,1,37.6,50000,0,Южное Медведково,проезд Шокальского,11,Свиблово
+22,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307670019/,Москва,rent,flat,13,23,1,25.0,65000,0,Ярославский, Красная Сосна,3,Свиблово
+23,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307669543/,Москва,rent,flat,5,25,1,24.0,55000,0,Южное Медведково,Полярная ,27к4,Свиблово
+24,ID 21982140,homeowner,https://www.cian.ru/rent/flat/307668262/,Москва,rent,flat,10,17,1,40.0,50000,0,Лосиноостровский,Стартовая ,11,Свиблово
+25,ID 55279720,unknown,https://www.cian.ru/rent/flat/307665556/,Москва,rent,flat,8,17,1,38.0,55000,0,Свиблово,проезд Берингов,3,Свиблово
+26,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307658444/,Москва,rent,flat,5,18,1,25.0,55000,0,Южное Медведково,Полярная ,27к4,Свиблово
+27,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307653848/,Москва,rent,flat,15,17,1,40.0,39000,0,Южное Медведково, Молодцова,23К2,Свиблово
+28,ID 38204,realtor,https://mytishchi.cian.ru/rent/flat/307639315/,Москва,rent,flat,13,17,1,31.7,38000,0,, Стрельбище Динамо,10,Свиблово
+29,Наталья Горелова,realtor,https://www.cian.ru/rent/flat/307636545/,Москва,rent,flat,15,17,1,39.7,60000,0,Южное Медведково,проезд Дежнева,22к4,Свиблово
+30,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307630721/,Москва,rent,flat,12,18,1,35.0,70000,0,Останкинский,Березовая аллея,19к2,Свиблово
+31,ID 2203,realtor,https://www.cian.ru/rent/flat/307628575/,Москва,rent,flat,6,12,1,34.6,55000,0,Северное Медведково,Студеный проезд,36,Свиблово
+32,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307627939/,Москва,rent,flat,13,20,1,25.0,65000,0,Ярославский, Красная Сосна,3,Свиблово
+33,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307626269/,Москва,rent,flat,5,5,1,32.0,45000,0,Свиблово, Амундсена,14,Свиблово
+34,Гюзель Аникина,realtor,https://www.cian.ru/rent/flat/307617977/,Москва,rent,flat,8,9,1,35.0,48000,0,Бабушкинский,Ленская ,3,Свиблово
+35,ID 36783,homeowner,https://mytishchi.cian.ru/rent/flat/307616391/,Москва,rent,flat,17,18,1,50.4,62000,0,, Веры Волошиной,37,Свиблово
+36,Паскаль,real_estate_agent,https://www.cian.ru/rent/flat/307614387/,Москва,rent,flat,11,18,1,40.0,80000,0,Останкинский,Сельскохозяйственная ,37,Свиблово
+37,ID 112559938,homeowner,https://mytishchi.cian.ru/rent/flat/307610254/,Москва,rent,flat,13,17,1,33.0,50000,0,,переулок 1-й Стрелковый,3,Свиблово
+38,Андрей Слободский,realtor,https://mytishchi.cian.ru/rent/flat/307607443/,Москва,rent,flat,11,17,1,35.0,45000,0,,переулок 1-й Стрелковый,3,Свиблово
+39,Арбат-Н,real_estate_agent,https://www.cian.ru/rent/flat/307605307/,Москва,rent,flat,6,21,1,36.0,50000,0,Лосиноостровский,Тайнинская ,9к1,Свиблово
+40,ID 122038964,homeowner,https://mytishchi.cian.ru/rent/flat/307604340/,Москва,rent,flat,11,17,1,32.0,44000,0,,переулок 1-й Стрелковый,1,Свиблово
+41,ID 56608287,realtor,https://mytishchi.cian.ru/rent/flat/307598440/,Москва,rent,flat,8,17,1,23.5,35000,0,, Стрельбище Динамо,10,Свиблово
+42,Александр Александров,realtor,https://www.cian.ru/rent/flat/307596361/,Москва,rent,flat,6,19,1,40.0,55000,0,Южное Медведково,проезд Дежнева,26,Свиблово
+43,ID 122024776,homeowner,https://mytishchi.cian.ru/rent/flat/307593971/,Москва,rent,flat,3,9,1,36.2,45000,0,, Мира,35,Свиблово
+44,ПИК-Аренда,real_estate_agent,https://mytishchi.cian.ru/rent/flat/307592833/,Москва,rent,flat,6,25,1,41.0,43500,0,, Борисовка,28А,Свиблово
+45,Руслан Салманов,realtor,https://www.cian.ru/rent/flat/307584413/,Москва,rent,flat,14,24,1,40.0,90000,0,Свиблово,Лазоревый проезд,1Ак2,Свиблово
+46,Сити Недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/307578645/,Москва,rent,flat,1,3,1,32.0,30000,0,Ярославский, Егора Абакумова,3,Свиблово
+47,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307569395/,Москва,rent,flat,6,8,1,30.0,65000,0,Лосиноостровский, Коминтерна,15,Свиблово
+48,ПИК-Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307552196/,Москва,rent,flat,5,24,1,37.1,84800,0,Останкинский,Сельскохозяйственная ,39,Свиблово
+49,ID 1325,realtor,https://www.cian.ru/rent/flat/307551274/,Москва,rent,flat,6,17,1,40.8,60000,0,Южное Медведково,проезд Дежнева,22к4,Свиблово
+50,Владис,real_estate_agent,https://www.cian.ru/rent/flat/307548090/,Москва,rent,flat,17,22,1,32.1,70000,0,Ярославский, Красная Сосна,3А,Свиблово
+51,ID 72952063,unknown,https://www.cian.ru/rent/flat/307545547/,Москва,rent,flat,1,16,1,36.0,47990,0,Южное Медведково,Заповедная ,28,Свиблово
+52,ГК Недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/307544739/,Москва,rent,flat,13,14,1,38.0,55000,0,Свиблово,проезд Нансена,6К3,Свиблово
+53,Цитадель,real_estate_agent,https://mytishchi.cian.ru/rent/flat/307523072/,Москва,rent,flat,15,17,1,30.2,44000,0,, Стрельбище Динамо,10,Свиблово
+54,ID 17350858,realtor,https://mytishchi.cian.ru/rent/flat/307506678/,Москва,rent,flat,8,25,1,42.0,40000,0,, Борисовка,28,Свиблово
+55,Александр Богданов,realtor,https://www.cian.ru/rent/flat/307506069/,Москва,rent,flat,14,14,1,38.0,59000,0,Северное Медведково,проезд Шокальского,37К1,Свиблово

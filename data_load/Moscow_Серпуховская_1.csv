@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,ID 111180900,homeowner,https://www.cian.ru/rent/flat/307737592/,Москва,rent,flat,5,9,1,33.0,100000,0,Замоскворечье,6-й Монетчиковский переулок,15/17,Серпуховская
+1,ID 23956980,realtor,https://www.cian.ru/rent/flat/307625261/,Москва,rent,flat,1,5,1,33.0,65000,0,Якиманка,2-й Добрынинский переулок,5/9,Серпуховская
+2,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307546230/,Москва,rent,flat,4,9,1,35.0,60000,0,Даниловский,Дубининская ,65К3,Серпуховская
+3,Самолет Плюс Москва,real_estate_agent,https://www.cian.ru/rent/flat/307542818/,Москва,rent,flat,4,9,1,31.0,59990,0,Даниловский,Дубининская ,65К3,Серпуховская
+4,ID 8220,realtor,https://www.cian.ru/rent/flat/307541251/,Москва,rent,flat,2,14,1,39.0,60000,0,Замоскворечье,Люсиновская ,12,Серпуховская
+5,ID 7181668,unknown,https://www.cian.ru/rent/flat/307453422/,Москва,rent,flat,7,12,1,41.0,95000,0,Замоскворечье,Валовая ,21К125,Серпуховская
+6,Тимур Гарипов,realtor,https://www.cian.ru/rent/flat/307447396/,Москва,rent,flat,8,9,1,33.0,75000,0,Даниловский,Дубининская ,65К2,Серпуховская
+7,Михаил Мальцев,realtor,https://www.cian.ru/rent/flat/307347237/,Москва,rent,flat,7,9,1,33.5,75000,0,Якиманка, Шаболовка,25К1,Серпуховская
+8,ID 50513,realtor,https://www.cian.ru/rent/flat/307308337/,Москва,rent,flat,4,9,1,35.0,62000,0,Замоскворечье,6-й Монетчиковский переулок,15/17,Серпуховская
+9,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307244140/,Москва,rent,flat,2,48,1,36.0,140000,0,Даниловский,Дубининская ,59А,Серпуховская
+10,ID 14766,realtor,https://www.cian.ru/rent/flat/307082476/,Москва,rent,flat,3,14,1,39.2,80000,0,Замоскворечье,Люсиновская ,6,Серпуховская
+11,ID 661323,unknown,https://www.cian.ru/rent/flat/306961524/,Москва,rent,flat,2,48,1,36.0,140000,0,Даниловский,Дубининская ,59А,Серпуховская
+12,Delta estate,real_estate_agent,https://www.cian.ru/rent/flat/306780448/,Москва,rent,flat,2,2,1,33.0,115000,0,Даниловский,Холодильный переулок,2,Серпуховская
+13,ПИК-Аренда,real_estate_agent,https://www.cian.ru/rent/flat/305389629/,Москва,rent,flat,6,14,1,34.0,135300,0,Замоскворечье,Большой Строченовский переулок,9,Серпуховская
+14,ID 29738035,unknown,https://www.cian.ru/rent/flat/302853156/,Москва,rent,flat,6,14,1,35.9,70000,0,Даниловский,Дубининская ,84,Серпуховская
+15,Игорь Шергин,realtor,https://www.cian.ru/rent/flat/268632627/,Москва,rent,flat,4,7,1,40.0,140000,0,Замоскворечье,Шлюзовая набережная,2А,Серпуховская
+16,ID 13043607,realtor,https://www.cian.ru/rent/flat/257629492/,Москва,rent,flat,4,9,1,32.0,80000,0,Замоскворечье,Дубининская ,6С1,Серпуховская
+17,ID 122008115,realtor,https://www.cian.ru/rent/flat/307575538/,Москва,rent,flat,1,6,1,42.3,55000,0,Марьина роща,площадь Борьбы,13,Достоевская
+18,Андрей Вокин,realtor,https://www.cian.ru/rent/flat/307647164/,Москва,rent,flat,7,8,1,35.0,65000,0,Хамовники,Новодевичий проезд,4,Спортивная
+19,Любовь Щербакова,realtor,https://www.cian.ru/rent/flat/307334054/,Москва,rent,flat,9,9,1,34.0,60000,0,Пресненский,Звенигородское шоссе,3АС1,Улица 1905 года
+20,СТОЛИЦА Департамент недвижимости,real_estate_agent,https://www.cian.ru/rent/flat/307576555/,Москва,rent,flat,4,5,2,46.0,80000,0,Тверской,Новосущевская ,14,Достоевская
+21,Золотой ключ,real_estate_agent,https://www.cian.ru/rent/flat/307534474/,Москва,rent,flat,11,12,2,38.0,70000,0,Мещанский,Капельский переулок,3,Проспект Мира
+22,Геннадий Гаина,realtor,https://www.cian.ru/rent/flat/251289983/,Москва,rent,flat,3,9,1,38.0,60000,0,Гагаринский, Вавилова,54К2,Академическая
+23,ID 53162893,realtor,https://www.cian.ru/rent/flat/240605830/,Москва,rent,flat,5,9,1,32.5,66000,0,Якиманка,Донская ,17,Шаболовская
+24,ID 69392442,homeowner,https://www.cian.ru/rent/flat/251955241/,Москва,rent,flat,6,8,1,40.0,80000,0,Басманный, Земляной Вал,39/1С1,Чкаловская

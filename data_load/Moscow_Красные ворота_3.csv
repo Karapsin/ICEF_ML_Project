@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Феликс Альберт,realtor,https://www.cian.ru/rent/flat/307773313/,Москва,rent,flat,3,6,3,64.0,150000,0,Басманный, Машкова,2/13С1,Красные ворота
+1,Homeprice,real_estate_agent,https://www.cian.ru/rent/flat/307674590/,Москва,rent,flat,5,5,3,70.0,145000,0,Басманный,Басманный тупик,6АС2,Красные ворота
+2,Тимур Илалов,realtor,https://www.cian.ru/rent/flat/307414203/,Москва,rent,flat,7,7,3,88.0,130000,0,Басманный,Садовая-Черногрязская ,11/2,Красные ворота
+3,ID 46363554,unknown,https://www.cian.ru/rent/flat/307358587/,Москва,rent,flat,6,6,3,100.0,195000,0,Басманный,Старая Басманная ,12С5,Красные ворота
+4,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307302493/,Москва,rent,flat,14,19,3,90.0,290000,0,Красносельский,переулок Докучаев,2с3,Красные ворота
+5,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/306602754/,Москва,rent,flat,3,5,3,93.0,200000,0,Басманный, Жуковского,5А,Красные ворота
+6,ID 33155410,homeowner,https://www.cian.ru/rent/flat/306152473/,Москва,rent,flat,3,5,3,93.0,200000,0,Басманный, Жуковского,5А,Красные ворота
+7,Артем Андреев,realtor,https://www.cian.ru/rent/flat/306135198/,Москва,rent,flat,5,6,3,100.0,200000,0,Красносельский,Новорязанская ,16/11С1,Красные ворота
+8,ID 681577,homeowner,https://www.cian.ru/rent/flat/232263370/,Москва,rent,flat,1,5,3,72.0,188888,0,Басманный, Макаренко,5С1а,Красные ворота
+9,Intermark Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307521524/,Москва,rent,flat,14,16,3,88.0,200000,0,Хамовники,Малый Власьевский переулок,3к1,Кропоткинская
+10,Easy Estate,real_estate_agent,https://www.cian.ru/rent/flat/307387142/,Москва,rent,flat,4,5,3,150.0,200000,0,Хамовники,Лопухинский переулок,1АС2,Кропоткинская
+11,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/303632194/,Москва,rent,flat,5,5,3,65.2,130000,0,Замоскворечье,Пятницкая ,28,Третьяковская
+12,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307126701/,Москва,rent,flat,21,24,2,67.0,160000,0,Таганский,Котельническая набережная,1/15кБ,Китай-город
+13,Самолет Плюс Москва,real_estate_agent,https://www.cian.ru/rent/flat/307540550/,Москва,rent,flat,4,5,4,110.0,180000,0,Хамовники,переулок Померанцев,9,Парк Культуры
+14,Maroom,real_estate_agent,https://www.cian.ru/rent/flat/305653509/,Москва,rent,flat,5,5,4,136.9,194000,0,Арбат,Гоголевский бульвар,23,Кропоткинская
+15,ID 99623,homeowner,https://www.cian.ru/rent/flat/307592111/,Москва,rent,flat,2,7,3,120.0,150000,0,Тверской,Старопименовский переулок,14,Пушкинская
+16,ID 36706777,real_estate_agent,https://www.cian.ru/rent/flat/307041346/,Москва,rent,flat,2,8,3,75.0,120000,0,Басманный, Земляной Вал,24/32,Курская
+17,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307344850/,Москва,rent,flat,3,3,3,62.0,143000,0,Мещанский,переулок Пушкарев,20/17,Сухаревская
+18,Лоцман,real_estate_agent,https://www.cian.ru/rent/flat/301257391/,Москва,rent,flat,3,5,2,75.0,145000,0,Пресненский,Вознесенский переулок,16/4,Тверская
+19,Елена Кобзон,realtor,https://www.cian.ru/rent/flat/307244199/,Москва,rent,flat,2,15,4,110.0,180000,0,Мещанский, Гиляровского,7,Сухаревская
+20,Татьяна Антипова,realtor,https://www.cian.ru/rent/flat/302155046/,Москва,rent,flat,2,13,3,62.0,130000,0,Замоскворечье,Новокузнецкая ,13С1,Новокузнецкая
+21,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/304131642/,Москва,rent,flat,4,4,5,190.0,220000,0,Басманный,переулок Лялин,7/2С1,Курская
+22,Левченко-реалти,real_estate_agent,https://www.cian.ru/rent/flat/307402144/,Москва,rent,flat,4,16,4,92.2,130000,0,Академический, Шверника,3К1,Академическая
+23,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307210998/,Москва,rent,flat,7,10,2,70.0,145000,0,Пресненский,Ермолаевский переулок,18А,Маяковская
+24,ИП Исмаилов А. А.,real_estate_agent,https://www.cian.ru/rent/flat/307589179/,Москва,rent,flat,4,8,3,60.0,160000,0,Басманный,Потаповский переулок,9,Чистые пруды

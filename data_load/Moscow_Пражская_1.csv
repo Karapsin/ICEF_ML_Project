@@ -1,0 +1,29 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307740802/,Москва,rent,flat,7,9,1,40.0,62000,0,Чертаново Южное, Подольских Курсантов,6К1,Пражская
+1,Андрей Парамзин,realtor,https://www.cian.ru/rent/flat/307724097/,Москва,rent,flat,5,9,1,33.0,40000,0,Чертаново Центральное, Красного Маяка,11К5,Пражская
+2,Столичная Недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/307719714/,Москва,rent,flat,3,12,1,34.0,42000,0,Чертаново Южное,3-й Дорожный проезд,5К2,Пражская
+3,Екатерина Штерн,realtor,https://www.cian.ru/rent/flat/307718911/,Москва,rent,flat,6,24,1,40.0,45000,0,Бирюлево Восточное,Ягодная ,4,Пражская
+4,Георгий Иванов,realtor,https://www.cian.ru/rent/flat/307717006/,Москва,rent,flat,10,14,1,42.0,63000,0,Чертаново Северное,Чертановская ,7К2,Пражская
+5,EMPIRE HOME,real_estate_agent,https://www.cian.ru/rent/flat/307716965/,Москва,rent,flat,4,16,1,36.8,45000,0,Чертаново Центральное,Днепропетровская ,19К1,Пражская
+6,ПАРТНЕР,real_estate_agent,https://www.cian.ru/rent/flat/307715031/,Москва,rent,flat,4,16,1,36.8,45000,0,Чертаново Центральное,Днепропетровская ,19К1,Пражская
+7,Ольга Туманова,realtor,https://www.cian.ru/rent/flat/307713038/,Москва,rent,flat,1,9,1,31.0,45000,0,Чертаново Южное,Чертановская ,64К3,Пражская
+8,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307704942/,Москва,rent,flat,6,12,1,36.0,60000,0,Бирюлево Восточное,Липецкая ,8,Пражская
+9,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307704860/,Москва,rent,flat,13,15,1,44.0,60000,0,Бирюлево Восточное,6-я Радиальная ,3к5,Пражская
+10,Валерия Левина,realtor,https://www.cian.ru/rent/flat/307693995/,Москва,rent,flat,3,9,1,33.0,40000,0,Бирюлево Восточное,Бирюлевская ,5К2,Пражская
+11,Наталья Романова,realtor,https://www.cian.ru/rent/flat/307686176/,Москва,rent,flat,11,12,1,39.0,46000,0,Бирюлево Восточное,Загорьевский проезд,5К1,Пражская
+12,Мой Дом - отделение Добрынинское,real_estate_agent,https://www.cian.ru/rent/flat/307677966/,Москва,rent,flat,3,11,1,44.0,55000,0,Бирюлево Восточное,6-я Радиальная ,3к6,Пражская
+13,Мегаквартал,real_estate_agent,https://www.cian.ru/rent/flat/307672685/,Москва,rent,flat,10,14,1,39.0,50000,0,Чертаново Южное,Чертановская ,54К1,Пражская
+14,Олеся Кежаева,realtor,https://www.cian.ru/rent/flat/307669846/,Москва,rent,flat,10,12,1,32.0,35000,0,Бирюлево Восточное,Педагогическая ,8,Пражская
+15,ID 106339463,homeowner,https://www.cian.ru/rent/flat/307631909/,Москва,rent,flat,2,12,1,31.6,55000,0,Чертаново Южное,Кировоградская ,44К2,Пражская
+16,ID 21230,realtor,https://www.cian.ru/rent/flat/307629380/,Москва,rent,flat,1,12,1,37.5,45000,0,Бирюлево Восточное,Липецкая ,8,Пражская
+17,ID 67885223,homeowner,https://www.cian.ru/rent/flat/307505408/,Москва,rent,flat,2,9,1,33.2,50000,0,Бирюлево Восточное,Бирюлевская ,31К3,Пражская
+18,Виталий Микава,realtor,https://www.cian.ru/rent/flat/307492836/,Москва,rent,flat,5,12,1,40.0,50000,0,Чертаново Южное, Академика Янгеля,14К4,Пражская
+19,ID 44699056,unknown,https://www.cian.ru/rent/flat/307491694/,Москва,rent,flat,7,9,1,42.0,60000,0,Чертаново Южное,Чертановская ,58К2,Пражская
+20,ID 88729001,realtor,https://www.cian.ru/rent/flat/307486251/,Москва,rent,flat,18,22,1,40.0,55000,0,Чертаново Южное,Чертановская ,66к5,Пражская
+21,ID 104260919,homeowner,https://www.cian.ru/rent/flat/307485055/,Москва,rent,flat,10,14,1,40.0,60000,0,Бирюлево Восточное,Донбасская ,5,Пражская
+22,ID 32403,real_estate_agent,https://www.cian.ru/rent/flat/307458436/,Москва,rent,flat,3,11,1,44.0,55000,0,Бирюлево Восточное,6-я Радиальная ,3к6,Пражская
+23,МИЭЛЬ,real_estate_agent,https://www.cian.ru/rent/flat/307385603/,Москва,rent,flat,12,14,1,40.0,46000,0,Бирюлево Западное,Харьковская ,4К1,Пражская
+24,Мой Дом - отделение Добрынинское,real_estate_agent,https://www.cian.ru/rent/flat/307347841/,Москва,rent,flat,5,9,1,32.0,50000,0,Чертаново Центральное, Красного Маяка,13К5,Пражская
+25,Солнечная Вилла,real_estate_agent,https://www.cian.ru/rent/flat/307287492/,Москва,rent,flat,4,9,1,32.5,50000,0,Бирюлево Западное,Булатниковская ,3К1,Пражская
+26,ID 460133,realtor,https://www.cian.ru/rent/flat/307257823/,Москва,rent,flat,4,12,1,40.0,55000,0,Чертаново Южное, Академика Янгеля,14К4,Пражская
+27,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307205795/,Москва,rent,flat,5,9,1,33.0,55000,0,Чертаново Центральное,Днепропетровская ,31,Пражская

@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307773325/,Москва,rent,flat,10,24,3,60.0,120000,0,Западное Дегунино,Дмитровское шоссе,71А,Лихоборы
+1,ID 122180516,realtor,https://www.cian.ru/rent/flat/307728823/,Москва,rent,flat,4,33,3,52.0,120000,0,Западное Дегунино, Летчика Осканова,6,Лихоборы
+2,Первый Московский Дом Недвижимости,real_estate_agent,https://www.cian.ru/rent/flat/307338145/,Москва,rent,flat,10,24,3,60.0,100000,0,Западное Дегунино,Дмитровское шоссе,71А,Лихоборы
+3,ID 14063,realtor,https://www.cian.ru/rent/flat/307130869/,Москва,rent,flat,23,24,3,79.0,150000,0,Западное Дегунино,Дмитровское шоссе,71А,Лихоборы
+4,ID 19282208,homeowner,https://www.cian.ru/rent/flat/295863733/,Москва,rent,flat,7,18,3,75.0,100000,0,Коптево,Большая Академическая ,75К2,Лихоборы
+5,Дарья Румянцева,realtor,https://www.cian.ru/rent/flat/307632693/,Москва,rent,flat,2,5,3,68.0,110000,0,Савеловский,1-я Хуторская ,2К2,Дмитровская
+6,ID 21239956,realtor,https://www.cian.ru/rent/flat/307570941/,Москва,rent,flat,20,41,4,100.0,100000,0,Раменки,1-й Сетуньский проезд,8,Кутузовская
+7,Дмитрий Павленко,realtor,https://www.cian.ru/rent/flat/307296897/,Москва,rent,flat,8,20,3,75.0,75000,0,Тимирязевский,Дмитровское шоссе,55,Петровско-Разумовская
+8,Максим Костромин,realtor,https://www.cian.ru/rent/flat/307301864/,Москва,rent,flat,3,5,4,100.0,100000,0,Щукино, Маршала Рыбалко,1,Октябрьское поле
+9,Инна Дударева,realtor,https://www.cian.ru/rent/flat/307550638/,Москва,rent,flat,6,19,3,52.0,100000,0,Тимирязевский,проезд 1-й Нижнелихоборский,1,Окружная
+10,ID 106808303,homeowner,https://www.cian.ru/rent/flat/307606053/,Москва,rent,flat,5,18,3,75.0,74000,0,Северное Медведково, Грекова,14к1,Медведково
+11,ID 100465345,homeowner,https://www.cian.ru/rent/flat/307552263/,Москва,rent,flat,3,41,3,82.0,150000,0,Хорошевский,Ленинградский проспект,37/6,Аэропорт
+12,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307287657/,Москва,rent,flat,1,12,3,63.0,117500,0,Пресненский, Малая Грузинская,33,Белорусская
+13,СТОЛИЦА Департамент недвижимости,real_estate_agent,https://www.cian.ru/rent/flat/307674470/,Москва,rent,flat,7,20,3,50.0,95000,0,Останкинский,Березовая аллея,19к4,Ботанический сад
+14,Сермус Макс,real_estate_agent,https://www.cian.ru/rent/flat/307639196/,Москва,rent,flat,1,5,3,77.0,98000,0,Фили-Давыдково, Герасима Курина,8К1,Славянский бульвар
+15,ID 106564716,homeowner,https://www.cian.ru/rent/flat/307708633/,Москва,rent,flat,14,17,3,72.4,85000,0,Восточное Дегунино,Дубнинская ,17К2,Верхние Лихоборы
+16,Монолит,real_estate_agent,https://www.cian.ru/rent/flat/263677575/,Москва,rent,flat,5,12,2,75.0,100000,0,Бутырский, Милашенкова,1,Улица Милашенкова
+17,ID 21374,realtor,https://www.cian.ru/rent/flat/307624604/,Москва,rent,flat,5,22,3,63.0,110000,0,Головинский,Кронштадтский бульвар,9к3,Водный стадион
+18,WHITE BROKER Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307617512/,Москва,rent,flat,2,11,3,69.0,125000,0,Дорогомилово,Кутузовский проспект,4/2,Киевская
+19,Ла Терра,real_estate_agent,https://www.cian.ru/rent/flat/304875527/,Москва,rent,flat,4,6,3,81.0,90000,0,Хорошевский, Зорге,6к3,Полежаевская
+20,МЕГАПОЛИС ЭСТЕЙТ,real_estate_agent,https://www.cian.ru/rent/flat/298464590/,Москва,rent,flat,34,43,3,99.8,140000,0,Хорошевский,Хорошевское шоссе,16к2,Беговая
+21,ID 80171119,unknown,https://www.cian.ru/rent/flat/307538896/,Москва,rent,flat,1,8,3,82.0,120000,0,Тимирязевский,Дмитровский проезд,8,Дмитровская
+22,ID 19272554,unknown,https://www.cian.ru/rent/flat/307386811/,Москва,rent,flat,15,30,3,103.2,150000,0,Тимирязевский,Астрадамский проезд,4Ак1,Гражданская
+23,ID 43459945,homeowner,https://www.cian.ru/rent/flat/305340766/,Москва,rent,flat,7,10,3,83.0,110000,0,Тверской,Самотечная ,17А,Достоевская
+24,WHITE BROKER Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307390375/,Москва,rent,flat,4,17,2,50.0,95000,0,Останкинский,Березовая аллея,19к3,Ботанический сад

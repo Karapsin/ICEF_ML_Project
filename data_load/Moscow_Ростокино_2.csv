@@ -1,0 +1,29 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Про Жильё,real_estate_agent,https://mytishchi.cian.ru/rent/flat/307725116/,Москва,rent,flat,2,2,2,35.0,44000,0,,переулок 9-й Ленинский,2,Ростокино
+1,ID 52794570,homeowner,https://www.cian.ru/rent/flat/307718460/,Москва,rent,flat,54,59,2,59.7,125000,0,Ростокино,проспект Мира,188Бк3,Ростокино
+2,ID 55786996,realtor,https://korolev.cian.ru/rent/flat/307718082/,Москва,rent,flat,12,17,2,60.0,40000,0,,Пионерская ,30к6,Ростокино
+3,ID 58675321,realtor,https://korolev.cian.ru/rent/flat/307705793/,Москва,rent,flat,2,16,2,56.0,50000,0,,проспект Космонавтов,1а,Ростокино
+4,СТОЛИЦА Департамент недвижимости,real_estate_agent,https://korolev.cian.ru/rent/flat/307703647/,Москва,rent,flat,5,6,2,60.0,70000,0,, Горького,33,Ростокино
+5,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307655581/,Москва,rent,flat,54,59,2,60.0,125000,0,Ростокино,проспект Мира,188Бк3,Ростокино
+6,ID 51473085,homeowner,https://www.cian.ru/rent/flat/307637569/,Москва,rent,flat,11,16,2,50.8,95000,0,Ростокино,проспект Мира,163,Ростокино
+7,Юлия Соколова,realtor,https://www.cian.ru/rent/flat/307592998/,Москва,rent,flat,8,12,2,38.0,75000,0,Ростокино,проезд Кадомцева,19,Ростокино
+8,МИЭЛЬ,real_estate_agent,https://korolev.cian.ru/rent/flat/307574559/,Москва,rent,flat,9,9,2,37.0,35000,0,, Грабина,22,Ростокино
+9,АЖС-недвижимость,real_estate_agent,https://mytishchi.cian.ru/rent/flat/307569010/,Москва,rent,flat,2,5,2,46.0,40000,0,, 1-я Институтская,4,Ростокино
+10,ID 109504445,homeowner,https://korolev.cian.ru/rent/flat/307545582/,Москва,rent,flat,5,5,2,55.0,55000,0,, Героев Курсантов,12,Ростокино
+11,Ирина Мартемьянова,realtor,https://korolev.cian.ru/rent/flat/307524538/,Москва,rent,flat,7,10,2,60.0,48000,0,,Подлесная ,2,Ростокино
+12,ID 63172261,homeowner,https://korolev.cian.ru/rent/flat/307519769/,Москва,rent,flat,10,17,2,43.0,50000,0,, Горького,47,Ростокино
+13,ID 24613309,homeowner,https://korolev.cian.ru/rent/flat/307367272/,Москва,rent,flat,4,5,2,45.8,27000,0,, Чапаева,1а,Ростокино
+14,ID 38770921,homeowner,https://korolev.cian.ru/rent/flat/307361374/,Москва,rent,flat,17,17,2,64.0,65000,0,, Горького,12б,Ростокино
+15,Сергей Медведев,realtor,https://korolev.cian.ru/rent/flat/307321752/,Москва,rent,flat,15,25,2,66.0,60000,0,,проспект Королева,5д,Ростокино
+16,ID 85711283,realtor,https://www.cian.ru/rent/flat/307260793/,Москва,rent,flat,10,16,2,55.0,95000,0,Ростокино,проспект Мира,163,Ростокино
+17,Ирина Жилина,realtor,https://korolev.cian.ru/rent/flat/307207230/,Москва,rent,flat,8,9,2,47.1,44000,0,,проспект Королева,22,Ростокино
+18,Деловой центр Дом,real_estate_agent,https://korolev.cian.ru/rent/flat/307102927/,Москва,rent,flat,10,15,2,71.0,60000,0,, Исаева,3бк1,Ростокино
+19,Людмила Трофимова,realtor,https://www.cian.ru/rent/flat/306599374/,Москва,rent,flat,11,23,2,62.0,85000,0,Ярославский, Красная Сосна,3А,Ростокино
+20,Роман Войницкий,realtor,https://www.cian.ru/rent/flat/306391549/,Москва,rent,flat,4,5,2,43.4,60000,0,Ростокино,проспект Мира,179А,Ростокино
+21,ID 74638678,homeowner,https://korolev.cian.ru/rent/flat/303439563/,Москва,rent,flat,4,5,2,50.5,29000,0,, Нестеренко,4/4,Ростокино
+22,ID 85759446,realtor,https://korolev.cian.ru/rent/flat/302423463/,Москва,rent,flat,19,25,2,46.8,47000,0,,Пушкинская ,21,Ростокино
+23,ID 9243772,homeowner,https://www.cian.ru/rent/flat/295592489/,Москва,rent,flat,10,12,2,45.0,85000,0,Ростокино,проспект Мира,188,Ростокино
+24,Ольга Протченко,realtor,https://mytishchi.cian.ru/rent/flat/271311714/,Москва,rent,flat,4,17,2,65.0,65000,0,, 2-я Институтская,26,Ростокино
+25,Дмитрий Корольков,realtor,https://mytishchi.cian.ru/rent/flat/307438041/,Москва,rent,flat,6,9,1,32.0,35000,0,, Терешковой,21к2,Медведково
+26,Квартирный центр,real_estate_agent,https://mytishchi.cian.ru/rent/flat/296486871/,Москва,rent,flat,7,9,1,34.0,36000,0,,Олимпийский проспект,4,Медведково
+27,ID 53724812,homeowner,https://korolev.cian.ru/rent/flat/307107137/,Москва,rent,flat,10,17,1,42.2,35000,0,, Академика Легостаева,8,Медведково

@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Яндекс Аренда,real_estate_agent,https://dolgoprudny.cian.ru/rent/flat/307776918/,Москва,rent,flat,4,5,2,48.0,52500,0,,Тимирязевская ,4,Шереметьевская
+1,МРИЭЛТОР - офис Отрадное,real_estate_agent,https://lobnya.cian.ru/rent/flat/307757287/,Москва,rent,flat,2,5,2,45.0,50000,0,, Маяковского,6,Шереметьевская
+2,Надежда Феоктистова,realtor,https://lobnya.cian.ru/rent/flat/307727682/,Москва,rent,flat,9,14,2,60.0,50000,0,, Калинина,21,Шереметьевская
+3,ID 89676645,unknown,https://lobnya.cian.ru/rent/flat/307706550/,Москва,rent,flat,8,10,2,45.0,45000,0,, Ленина,16,Шереметьевская
+4,Классика,real_estate_agent,https://khimki.cian.ru/rent/flat/307705025/,Москва,rent,flat,3,9,2,45.0,50000,0,, Генерала Дьяконова,4,Шереметьевская
+5,ID 28417538,realtor,https://dolgoprudny.cian.ru/rent/flat/307680575/,Москва,rent,flat,12,18,2,55.3,60000,0,,Набережная ,33,Шереметьевская
+6,ID 518348,unknown,https://dolgoprudny.cian.ru/rent/flat/307665785/,Москва,rent,flat,11,17,2,58.0,65000,0,,Новое шоссе,10,Шереметьевская
+7,Яндекс Аренда,real_estate_agent,https://dmitrov.cian.ru/rent/flat/307661563/,Москва,rent,flat,2,5,2,48.0,39000,0,,,,
+8,Александр Рюмцев,realtor,https://lobnya.cian.ru/rent/flat/307608228/,Москва,rent,flat,16,16,2,63.0,52000,0,, Пушкина,6,Шереметьевская
+9,ID 71843527,homeowner,https://lobnya.cian.ru/rent/flat/307449317/,Москва,rent,flat,21,24,2,57.0,50000,0,,Центральная ,8,Шереметьевская
+10,Инна Колесник,realtor,https://lobnya.cian.ru/rent/flat/307139253/,Москва,rent,flat,2,5,2,45.0,43000,0,, Калинина,12,Шереметьевская
+11,ID 78325373,homeowner,https://mytishchi.cian.ru/rent/flat/306074619/,Москва,rent,flat,3,4,2,65.0,55000,0,д. Сухарево, Егорова,,
+12,Юлия Кутепова,realtor,https://khimki.cian.ru/rent/flat/306061982/,Москва,rent,flat,1,9,2,65.0,15000,0,, Береговая,1А,Шереметьевская
+13,ID 16314669,homeowner,https://khimki.cian.ru/rent/flat/302547412/,Москва,rent,flat,7,9,2,53.0,70000,0,, Летчика Ивана Федорова,5,Шереметьевская
+14,Leto Estate,real_estate_agent,https://mytishchi.cian.ru/rent/flat/301221095/,Москва,rent,flat,1,3,2,130.0,250000,0,д. Румянцево, Центральная,1,
+15,ID 58780286,homeowner,https://dolgoprudny.cian.ru/rent/flat/294177311/,Москва,rent,flat,10,19,2,55.0,60000,0,,Набережная ,29к1,Шереметьевская
+16,ID 44015918,homeowner,https://mytishchi.cian.ru/rent/flat/282195436/,Москва,rent,flat,3,6,2,65.0,90000,0,д. Грибки, Адмиральская,6с1,
+17,Меркурий,real_estate_agent,https://dolgoprudny.cian.ru/rent/flat/307651061/,Москва,rent,flat,10,16,1,45.0,40000,0,,Лихачевское шоссе,6к4,Долгопрудная
+18,ID 86211378,homeowner,https://dolgoprudny.cian.ru/rent/flat/292359560/,Москва,rent,flat,22,24,1,26.0,40000,0,,Парковая ,52,Водники
+19,ID 13465034,homeowner,https://dolgoprudny.cian.ru/rent/flat/307394297/,Москва,rent,flat,22,23,1,25.0,47000,0,,Парковая ,52,Водники
+20,Самолет плюс - Москва,real_estate_agent,https://dolgoprudny.cian.ru/rent/flat/307668168/,Москва,rent,flat,15,22,2,57.0,40000,0,,Набережная ,27,Водники
+21,ID 96317670,homeowner,https://dolgoprudny.cian.ru/rent/flat/307638139/,Москва,rent,flat,17,17,1,53.0,40000,0,,Лихачевский проспект,68к4,Долгопрудная
+22,ID 15770953,homeowner,https://dolgoprudny.cian.ru/rent/flat/307584889/,Москва,rent,flat,16,23,-1,24.0,43000,0,,Парковая ,54,Долгопрудная
+23,ID 122109532,homeowner,https://dolgoprudny.cian.ru/rent/flat/307664538/,Москва,rent,flat,12,17,1,32.9,40000,0,,Молодежная ,4,Долгопрудная
+24,Евгений Мартынов,realtor,https://khimki.cian.ru/rent/flat/307625332/,Москва,rent,flat,3,12,2,61.0,47000,0,, Жаринова,15,Подрезково

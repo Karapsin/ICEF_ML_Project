@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,ИНГРУПП,real_estate_agent,https://balashikha.cian.ru/rent/flat/307783040/,Москва,rent,flat,5,5,2,45.0,38000,0,, Юлиуса Фучика,2к6,Кучино
+1,EMPIRE HOME,real_estate_agent,https://balashikha.cian.ru/rent/flat/307781865/,Москва,rent,flat,1,5,2,46.0,38000,0,, Смельчак,8,Кучино
+2,Инна Кезич,realtor,https://balashikha.cian.ru/rent/flat/307721107/,Москва,rent,flat,13,14,2,54.0,43000,0,, Лесные Поляны,5,Кучино
+3,ID 17752250,unknown,https://balashikha.cian.ru/rent/flat/307712646/,Москва,rent,flat,6,17,2,57.0,47000,0,, Граничная,16,Кучино
+4,ID 324439,homeowner,https://balashikha.cian.ru/rent/flat/307682096/,Москва,rent,flat,21,22,2,60.0,50000,0,,проспект Героев,8,Кучино
+5,Надежда Мудрик,realtor,https://balashikha.cian.ru/rent/flat/307676780/,Москва,rent,flat,10,10,2,67.0,43000,0,, Адмирала Горшкова,11,Кучино
+6,Региональное,real_estate_agent,https://balashikha.cian.ru/rent/flat/307675938/,Москва,rent,flat,4,17,2,62.0,50000,0,,Солнечная ,21,Кучино
+7,ID 535615,realtor,https://balashikha.cian.ru/rent/flat/307661628/,Москва,rent,flat,1,5,2,45.0,42000,0,, Пионерская,16А,Кучино
+8,ID 98027866,homeowner,https://balashikha.cian.ru/rent/flat/307636079/,Москва,rent,flat,19,23,2,36.44,47000,0,, Бояринова,23,Кучино
+9,Самолет плюс Балашиха,real_estate_agent,https://balashikha.cian.ru/rent/flat/307592057/,Москва,rent,flat,17,17,2,48.0,50000,0,, Юбилейная,4к4,Кучино
+10,Наталия Щербакова,realtor,https://balashikha.cian.ru/rent/flat/307587750/,Москва,rent,flat,10,10,2,60.0,48000,0,, Советская,18,Кучино
+11,ID 2753,real_estate_agent,https://balashikha.cian.ru/rent/flat/307585000/,Москва,rent,flat,5,14,2,52.0,35000,0,,,5,Кучино
+12,EstateLiga,real_estate_agent,https://balashikha.cian.ru/rent/flat/307440667/,Москва,rent,flat,10,17,2,65.0,60000,0,,Солнечная ,20,Кучино
+13,Ян Онуфриенко,realtor,https://elektrougli.cian.ru/rent/flat/307321225/,Москва,rent,flat,1,5,2,48.0,35000,0,, Школьная,45А,Кучино
+14,Людмила Красовская,realtor,https://balashikha.cian.ru/rent/flat/307248957/,Москва,rent,flat,2,9,2,48.0,35000,0,, Пионерская,1,Кучино
+15,ВАШ ДОМ,real_estate_agent,https://balashikha.cian.ru/rent/flat/306656416/,Москва,rent,flat,2,9,2,65.0,41000,0,, Адмирала Нахимова,16,Кучино
+16,МИЭЛЬ,real_estate_agent,https://elektrougli.cian.ru/rent/flat/306604291/,Москва,rent,flat,8,12,2,54.0,29000,0,, Школьная,55,Кучино
+17,ГОРОБМЕН,real_estate_agent,https://balashikha.cian.ru/rent/flat/306572585/,Москва,rent,flat,21,22,2,57.8,48000,0,,шоссе Косинское,2,Кучино
+18,Анна Глушук,realtor,https://noginsk.cian.ru/rent/flat/302694689/,Москва,rent,flat,2,13,2,52.0,40000,0,д. Щемилово, Орлова,26,
+19,ID 59049978,unknown,https://balashikha.cian.ru/rent/flat/300291054/,Москва,rent,flat,17,17,2,60.0,50000,0,, Струве,3к1,Кучино
+20,ID 72114736,homeowner,https://balashikha.cian.ru/rent/flat/297354811/,Москва,rent,flat,14,17,2,72.0,52000,0,, Автозаводская,4к2,Кучино
+21,ТЕРЕМГРАД,real_estate_agent,https://balashikha.cian.ru/rent/flat/204535589/,Москва,rent,flat,5,17,2,80.0,70000,0,, Троицкая,3,Кучино
+22,ID 32213,realtor,https://balashikha.cian.ru/rent/flat/194168769/,Москва,rent,flat,10,22,2,60.0,48000,0,,проспект Героев,7,Кучино
+23,ID 13430916,unknown,https://balashikha.cian.ru/rent/flat/307629667/,Москва,rent,flat,16,21,1,33.0,27000,0,,проспект Героев,17,Железнодорожная
+24,ID 93262431,homeowner,https://balashikha.cian.ru/rent/flat/291701698/,Москва,rent,flat,8,18,1,32.0,33000,0,, Калинина,18,Железнодорожная

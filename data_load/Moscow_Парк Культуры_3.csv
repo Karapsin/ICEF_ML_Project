@@ -1,0 +1,57 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,МОСКВА СИТИ,real_estate_agent,https://www.cian.ru/rent/flat/307772275/,Москва,rent,flat,4,10,3,155.0,750000,0,Хамовники, Льва Толстого,23к1,Парк Культуры
+1,Марина Дыба,realtor,https://www.cian.ru/rent/flat/307764936/,Москва,rent,flat,6,6,3,90.0,170000,0,Хамовники,2-й Неопалимовский переулок,11,Парк Культуры
+2,МОСКВА СИТИ,real_estate_agent,https://www.cian.ru/rent/flat/307744760/,Москва,rent,flat,5,8,3,160.0,1000000,0,Хамовники,переулок Хилков,1,Парк Культуры
+3,Юлия Демидова,realtor,https://www.cian.ru/rent/flat/307721193/,Москва,rent,flat,3,6,3,86.0,490000,0,Хамовники, Льва Толстого,23к1,Парк Культуры
+4,Дворянское гнездо,real_estate_agent,https://www.cian.ru/rent/flat/307717632/,Москва,rent,flat,5,5,3,52.4,150000,0,Хамовники,Большой Левшинский переулок,17,Парк Культуры
+5,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307707180/,Москва,rent,flat,8,8,3,120.0,250000,0,Хамовники,Смоленский бульвар,22/14,Парк Культуры
+6,Intermark Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307614681/,Москва,rent,flat,9,9,3,101.0,280000,0,Хамовники,Фрунзенская набережная,36/2,Парк Культуры
+7,ID 15481,realtor,https://www.cian.ru/rent/flat/307563567/,Москва,rent,flat,3,16,3,116.0,280000,0,Хамовники,Ружейный переулок,3,Парк Культуры
+8,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307537956/,Москва,rent,flat,7,12,3,62.0,210000,0,Хамовники,Ростовская набережная,5,Парк Культуры
+9,Вертикаль,real_estate_agent,https://www.cian.ru/rent/flat/307536851/,Москва,rent,flat,2,5,3,88.0,200000,0,Хамовники, Плющиха,26/2,Парк Культуры
+10,Chase R.E.S.,real_estate_agent,https://www.cian.ru/rent/flat/307446963/,Москва,rent,flat,3,5,3,105.0,300000,0,Хамовники,Курсовой переулок,8/2,Парк Культуры
+11,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307397815/,Москва,rent,flat,4,7,3,86.0,200000,0,Хамовники,Фрунзенская набережная,32,Парк Культуры
+12,Easy Estate,real_estate_agent,https://www.cian.ru/rent/flat/307387142/,Москва,rent,flat,4,5,3,150.0,200000,0,Хамовники,Лопухинский переулок,1АС2,Парк Культуры
+13,Las Vegas,real_estate_agent,https://www.cian.ru/rent/flat/307345490/,Москва,rent,flat,8,14,3,148.0,520000,0,Хамовники,2-я Фрунзенская ,12,Парк Культуры
+14,Эверест,real_estate_agent,https://www.cian.ru/rent/flat/307339330/,Москва,rent,flat,1,5,3,65.3,150000,0,Хамовники,переулок Пуговишников,16,Парк Культуры
+15,ID 88729001,realtor,https://www.cian.ru/rent/flat/307252431/,Москва,rent,flat,6,9,3,70.0,130000,0,Хамовники,Фрунзенская набережная,28,Парк Культуры
+16,Trust Realty,real_estate_agent,https://www.cian.ru/rent/flat/307233426/,Москва,rent,flat,1,3,3,163.0,800000,0,Хамовники,2-й Зачатьевский переулок,13,Парк Культуры
+17,МОСКВА СИТИ,real_estate_agent,https://www.cian.ru/rent/flat/307040729/,Москва,rent,flat,4,8,3,234.0,1000000,0,Хамовники,переулок Хилков,1,Парк Культуры
+18,ID 115957293,homeowner,https://www.cian.ru/rent/flat/306904346/,Москва,rent,flat,2,12,3,148.0,650000,0,Хамовники,2-я Фрунзенская ,8,Парк Культуры
+19,Penny Lane Moscow,real_estate_agent,https://www.cian.ru/rent/flat/306868849/,Москва,rent,flat,3,4,3,105.0,300000,0,Хамовники,Курсовой переулок,8/2,Парк Культуры
+20,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/306858397/,Москва,rent,flat,1,4,3,163.0,800000,0,Хамовники,2-й Зачатьевский переулок,13,Парк Культуры
+21,Whitewill Аренда,real_estate_agent,https://www.cian.ru/rent/flat/306602694/,Москва,rent,flat,1,3,3,163.0,800000,0,Хамовники,2-й Зачатьевский переулок,13,Парк Культуры
+22,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/306595896/,Москва,rent,flat,3,5,3,105.0,300000,0,Хамовники,Курсовой переулок,8/2,Парк Культуры
+23,Penny Lane Moscow,real_estate_agent,https://www.cian.ru/rent/flat/306502701/,Москва,rent,flat,9,10,3,101.0,250000,0,Хамовники,Фрунзенская набережная,36/2,Парк Культуры
+24,ID 82886242,homeowner,https://www.cian.ru/rent/flat/306468019/,Москва,rent,flat,6,8,3,57.4,200000,0,Хамовники,Зубовский бульвар,16-20С1,Парк Культуры
+25,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/306421595/,Москва,rent,flat,9,10,3,98.0,280000,0,Хамовники,Фрунзенская набережная,36/2,Парк Культуры
+26,ID 117463929,homeowner,https://www.cian.ru/rent/flat/306411491/,Москва,rent,flat,6,14,3,141.0,550000,0,Хамовники,2-я Фрунзенская ,12,Парк Культуры
+27,Trust Realty,real_estate_agent,https://www.cian.ru/rent/flat/306382815/,Москва,rent,flat,5,9,3,190.0,600000,0,Хамовники, Остоженка,25,Парк Культуры
+28,WHITE BROKER Аренда,real_estate_agent,https://www.cian.ru/rent/flat/306156172/,Москва,rent,flat,6,6,3,124.0,280000,0,Хамовники,переулок Плотников,2/8,Парк Культуры
+29,Whitewill Аренда,real_estate_agent,https://www.cian.ru/rent/flat/306110276/,Москва,rent,flat,5,8,3,156.0,1000000,0,Хамовники,переулок Хилков,1,Парк Культуры
+30,Intermark Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/306086045/,Москва,rent,flat,1,3,3,163.0,800000,0,Хамовники,2-й Зачатьевский переулок,13,Парк Культуры
+31,Penny Lane Moscow,real_estate_agent,https://www.cian.ru/rent/flat/306061289/,Москва,rent,flat,6,14,3,141.0,550000,0,Хамовники,2-я Фрунзенская ,12,Парк Культуры
+32,Penny Lane Moscow,real_estate_agent,https://www.cian.ru/rent/flat/306061280/,Москва,rent,flat,5,8,3,156.0,1000000,0,Хамовники,переулок Хилков,1,Парк Культуры
+33,Penny Lane Moscow,real_estate_agent,https://www.cian.ru/rent/flat/306060868/,Москва,rent,flat,2,4,3,130.0,350000,0,Хамовники,Курсовой переулок,8/2,Парк Культуры
+34,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/305842266/,Москва,rent,flat,5,8,3,156.0,1000000,0,Хамовники,переулок Хилков,1,Парк Культуры
+35,ID 51233,realtor,https://www.cian.ru/rent/flat/305837711/,Москва,rent,flat,6,9,3,109.0,180000,0,Хамовники,Денежный переулок,22,Парк Культуры
+36,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/305787811/,Москва,rent,flat,7,12,3,62.0,210000,0,Хамовники,Ростовская набережная,5,Парк Культуры
+37,Whitewill Аренда,real_estate_agent,https://www.cian.ru/rent/flat/305773252/,Москва,rent,flat,6,8,3,104.0,400000,0,Хамовники,Оболенский переулок,9К1,Парк Культуры
+38,Капиталъ-Недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/305376231/,Москва,rent,flat,6,14,3,141.0,550000,0,Хамовники,2-я Фрунзенская ,12,Парк Культуры
+39,Аврора Проперти,real_estate_agent,https://www.cian.ru/rent/flat/305266397/,Москва,rent,flat,1,4,3,162.8,800000,0,Хамовники,2-й Зачатьевский переулок,13,Парк Культуры
+40,Whitewill Аренда,real_estate_agent,https://www.cian.ru/rent/flat/304862030/,Москва,rent,flat,3,6,3,145.0,1400000,0,Хамовники,Курсовой переулок,10/1,Парк Культуры
+41,Trust Realty,real_estate_agent,https://www.cian.ru/rent/flat/304447288/,Москва,rent,flat,4,6,3,175.0,350000,0,Хамовники, Бурденко,10,Парк Культуры
+42,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/304429762/,Москва,rent,flat,4,6,3,175.0,350000,0,Хамовники, Бурденко,10,Парк Культуры
+43,Славянский Двор Остоженка,real_estate_agent,https://www.cian.ru/rent/flat/304380880/,Москва,rent,flat,6,14,3,141.0,550000,0,Хамовники,2-я Фрунзенская ,12,Парк Культуры
+44,Валерия Архипова,realtor,https://www.cian.ru/rent/flat/304307662/,Москва,rent,flat,6,14,3,141.0,550000,0,Хамовники,2-я Фрунзенская ,12,Парк Культуры
+45,ID 204086,unknown,https://www.cian.ru/rent/flat/303901298/,Москва,rent,flat,10,11,3,101.0,160000,0,Хамовники,1-я Фрунзенская ,6,Парк Культуры
+46,Point Estate Город,real_estate_agent,https://www.cian.ru/rent/flat/303114864/,Москва,rent,flat,3,5,3,128.0,350000,0,Хамовники,Курсовой переулок,8/2,Парк Культуры
+47,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/303025125/,Москва,rent,flat,6,14,3,141.0,550000,0,Хамовники,2-я Фрунзенская ,12,Парк Культуры
+48,Intermark Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/302905402/,Москва,rent,flat,2,5,3,132.0,350000,0,Хамовники,Курсовой переулок,8/2,Парк Культуры
+49,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/302773575/,Москва,rent,flat,2,5,3,85.0,200000,0,Хамовники, Плющиха,26/2,Парк Культуры
+50,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/302449658/,Москва,rent,flat,2,5,3,130.0,350000,0,Хамовники,Курсовой переулок,8/2,Парк Культуры
+51,ID 15585234,homeowner,https://www.cian.ru/rent/flat/301825151/,Москва,rent,flat,7,12,3,62.0,210000,0,Хамовники,Ростовская набережная,5,Парк Культуры
+52,Славянский Двор Остоженка,real_estate_agent,https://www.cian.ru/rent/flat/301763924/,Москва,rent,flat,5,6,3,190.0,1392932,0,Хамовники,1-й Зачатьевский переулок,8С9,Парк Культуры
+53,VISTA Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/295936571/,Москва,rent,flat,2,5,3,130.0,350000,0,Хамовники,Курсовой переулок,8/2,Парк Культуры
+54,ID 680919,realtor,https://www.cian.ru/rent/flat/291574329/,Москва,rent,flat,7,7,3,90.0,200000,0,Хамовники,переулок Померанцев,10-12,Парк Культуры
+55,Тимур Данилян,realtor,https://www.cian.ru/rent/flat/288623421/,Москва,rent,flat,3,9,3,75.0,129000,0,Арбат,Смоленская ,10,Парк Культуры

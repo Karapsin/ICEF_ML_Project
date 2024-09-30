@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Дмитрий Аверьянов,realtor,https://www.cian.ru/rent/flat/307671507/,Москва,rent,flat,24,25,2,43.0,100000,0,Бутырский, Милашенкова,1,Улица Милашенкова
+1,Мария Рахметова,realtor,https://www.cian.ru/rent/flat/307612026/,Москва,rent,flat,3,24,2,46.0,100000,0,Бутырский, Фонвизина,18,Улица Милашенкова
+2,ID 69398662,unknown,https://www.cian.ru/rent/flat/307549680/,Москва,rent,flat,15,22,2,58.2,75000,0,Марфино, Кашенкин Луг,6к2,Улица Милашенкова
+3,Виктория Родионова,realtor,https://www.cian.ru/rent/flat/307523299/,Москва,rent,flat,10,12,2,42.0,110000,0,Бутырский, Гончарова,7,Улица Милашенкова
+4,Сергей Музыченко,realtor,https://www.cian.ru/rent/flat/307402489/,Москва,rent,flat,21,27,2,90.0,170000,0,Тимирязевский,Дмитровское шоссе,13,Улица Милашенкова
+5,К.Н. ВАШ ДОМ,real_estate_agent,https://www.cian.ru/rent/flat/307314718/,Москва,rent,flat,12,14,2,60.0,90000,0,Бутырский, Милашенкова,16,Улица Милашенкова
+6,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307252869/,Москва,rent,flat,14,23,2,90.0,125000,0,Бутырский, Яблочкова,16,Улица Милашенкова
+7,ID 62253,homeowner,https://www.cian.ru/rent/flat/307126965/,Москва,rent,flat,14,23,2,90.0,125000,0,Бутырский, Яблочкова,16,Улица Милашенкова
+8,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307037059/,Москва,rent,flat,2,23,2,51.5,80000,0,Бутырский, Фонвизина,7А,Улица Милашенкова
+9,Олег Ляпин,realtor,https://www.cian.ru/rent/flat/306754515/,Москва,rent,flat,3,5,2,100.0,130000,0,Бутырский, Гончарова,17АК3,Улица Милашенкова
+10,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/306306533/,Москва,rent,flat,14,23,2,90.0,125000,0,Бутырский, Яблочкова,16,Улица Милашенкова
+11,ID 59150,unknown,https://www.cian.ru/rent/flat/303222570/,Москва,rent,flat,31,32,2,67.0,120000,0,Бутырский, Руставели,14,Улица Милашенкова
+12,ID 224125,realtor,https://www.cian.ru/rent/flat/292730261/,Москва,rent,flat,3,12,2,45.0,70000,0,Бутырский, Гончарова,7,Улица Милашенкова
+13,Марина Погуляй,realtor,https://www.cian.ru/rent/flat/285850224/,Москва,rent,flat,10,24,2,55.0,110000,0,Бутырский, Фонвизина,18,Улица Милашенкова
+14,Монолит,real_estate_agent,https://www.cian.ru/rent/flat/263677575/,Москва,rent,flat,5,12,2,75.0,100000,0,Бутырский, Милашенкова,1,Улица Милашенкова
+15,АСВ-недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/196589924/,Москва,rent,flat,14,22,2,60.0,170000,0,Тимирязевский,Дмитровское шоссе,13,Улица Милашенкова
+16,СТОЛИЦА Департамент недвижимости,real_estate_agent,https://www.cian.ru/rent/flat/307576555/,Москва,rent,flat,4,5,2,46.0,80000,0,Тверской,Новосущевская ,14,Достоевская
+17,Илья Солдатенков,realtor,https://www.cian.ru/rent/flat/196194658/,Москва,rent,flat,14,17,2,54.0,75000,0,Алексеевский,3-я Мытищинская ,3к2,Алексеевская
+18,ID 122006073,homeowner,https://www.cian.ru/rent/flat/307572528/,Москва,rent,flat,11,12,2,38.0,89000,0,Алексеевский,Ярославская ,4К1,ВДНХ
+19,I AM ESTATE,real_estate_agent,https://www.cian.ru/rent/flat/307637562/,Москва,rent,flat,2,5,3,75.0,85000,0,Тимирязевский,Астрадамская ,1К3,Гражданская
+20,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/306679176/,Москва,rent,flat,8,10,2,38.0,80000,0,Савеловский,Петровско-Разумовский проезд,5,Петровский Парк
+21,ID 61405844,homeowner,https://www.cian.ru/rent/flat/307471937/,Москва,rent,flat,5,14,2,56.0,95000,0,Марьина роща,Октябрьская ,37,Марьина Роща
+22,ID 12891199,homeowner,https://www.cian.ru/rent/flat/279189652/,Москва,rent,flat,5,16,2,56.0,80000,0,Бабушкинский,Ленская ,23,Бабушкинская
+23,ID 50705217,homeowner,https://www.cian.ru/rent/flat/307322711/,Москва,rent,flat,12,12,1,35.2,85000,0,Тимирязевский, Вучетича,19,Гражданская
+24,Елена Иванова,realtor,https://www.cian.ru/rent/flat/306372495/,Москва,rent,flat,4,9,2,50.0,70000,0,Тимирязевский,Дмитровское шоссе,33К1,Петровско-Разумовская

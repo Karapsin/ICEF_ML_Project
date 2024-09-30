@@ -1,0 +1,52 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307716301/,Москва,rent,flat,6,20,1,30.0,65000,0,Даниловский,проспект Лихачева,12к2,Автозаводская
+1,Елена Стометова,realtor,https://www.cian.ru/rent/flat/307687750/,Москва,rent,flat,8,10,1,40.0,60000,0,Нагатино-Садовники,Нагатинская набережная,20К2,Автозаводская
+2,Юлия Александрочкина,realtor,https://www.cian.ru/rent/flat/307685278/,Москва,rent,flat,17,21,1,43.1,140000,0,Даниловский, Виктора Маслова,2,Автозаводская
+3,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307672606/,Москва,rent,flat,2,24,1,30.0,75000,0,Даниловский,Автозаводская ,23Бк2,Автозаводская
+4,Александр Гайдуков,realtor,https://www.cian.ru/rent/flat/307659205/,Москва,rent,flat,2,9,1,38.0,50000,0,Южнопортовый, Петра Романова,1,Автозаводская
+5,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307657226/,Москва,rent,flat,4,9,1,30.0,60000,0,Нагатинский затон,проспект Андропова,33К2,Автозаводская
+6,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307653193/,Москва,rent,flat,6,20,1,30.0,70000,0,Даниловский,проспект Лихачева,12к2,Автозаводская
+7,ID 234792,real_estate_agent,https://www.cian.ru/rent/flat/307650017/,Москва,rent,flat,6,20,1,26.0,69000,0,Даниловский,проспект Лихачева,12к1,Автозаводская
+8,Ирина Ляликова,realtor,https://www.cian.ru/rent/flat/307628260/,Москва,rent,flat,15,24,1,30.0,89900,0,Даниловский,проспект Андропова,10,Автозаводская
+9,ID 102999917,unknown,https://www.cian.ru/rent/flat/307627422/,Москва,rent,flat,12,16,1,46.0,90000,0,Даниловский,Автозаводская ,23С120,Автозаводская
+10,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307610299/,Москва,rent,flat,8,13,1,49.0,120000,0,Южнопортовый,6-я Кожуховская ,11К2,Автозаводская
+11,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307605476/,Москва,rent,flat,2,5,1,32.0,85000,0,Даниловский, Симоновский Вал,24К2,Автозаводская
+12,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307605417/,Москва,rent,flat,14,17,1,40.0,70000,0,Южнопортовый, Трофимова,32К1,Автозаводская
+13,ID 11284301,homeowner,https://www.cian.ru/rent/flat/307578806/,Москва,rent,flat,4,25,1,43.4,110000,0,Даниловский,Автозаводская ,23Бк2,Автозаводская
+14,MFC Capital,real_estate_agent,https://www.cian.ru/rent/flat/307564438/,Москва,rent,flat,11,16,1,39.0,120000,0,Даниловский, Архитектора Щусева,4к2,Автозаводская
+15,Три Ступени,real_estate_agent,https://www.cian.ru/rent/flat/307525027/,Москва,rent,flat,11,30,1,40.0,80000,0,Южнопортовый, 1-я Машиностроения,10,Автозаводская
+16,Парус,real_estate_agent,https://www.cian.ru/rent/flat/307481433/,Москва,rent,flat,5,6,1,46.0,110000,0,Даниловский, Архитектора Щусева,2к1,Автозаводская
+17,ID 94714520,unknown,https://www.cian.ru/rent/flat/307478789/,Москва,rent,flat,11,16,1,41.0,95000,0,Даниловский,Автозаводская ,23С120,Автозаводская
+18,Елена Закора,realtor,https://www.cian.ru/rent/flat/307345481/,Москва,rent,flat,3,4,1,30.0,53000,0,Даниловский,Автозаводская ,23С928,Автозаводская
+19,ID 51429155,realtor,https://www.cian.ru/rent/flat/307308152/,Москва,rent,flat,22,24,1,30.0,110000,0,Даниловский,проспект Андропова,10,Автозаводская
+20,ID 584903,homeowner,https://www.cian.ru/rent/flat/307286467/,Москва,rent,flat,5,14,1,32.0,95000,0,Даниловский,проспект Лихачева,16к4,Автозаводская
+21,ID 67029,realtor,https://www.cian.ru/rent/flat/307275961/,Москва,rent,flat,2,5,1,30.5,49000,0,Даниловский, Симоновский Вал,20К2,Автозаводская
+22,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307210680/,Москва,rent,flat,24,29,1,46.0,141000,0,Даниловский, Виктора Маслова,2,Автозаводская
+23,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307128460/,Москва,rent,flat,15,21,1,26.0,100000,0,Даниловский,проспект Андропова,10,Автозаводская
+24,EstateLiga,real_estate_agent,https://www.cian.ru/rent/flat/307107749/,Москва,rent,flat,8,16,1,40.4,125000,0,Даниловский, Архитектора Щусева,5к2,Автозаводская
+25,ID 121513117,homeowner,https://www.cian.ru/rent/flat/307061201/,Москва,rent,flat,8,13,1,50.0,105000,0,Южнопортовый,6-я Кожуховская ,11К2,Автозаводская
+26,Just Estate,real_estate_agent,https://www.cian.ru/rent/flat/307039109/,Москва,rent,flat,18,24,1,45.0,115000,0,Даниловский,Автозаводская ,23Бк2,Автозаводская
+27,ID 3182,realtor,https://www.cian.ru/rent/flat/307036277/,Москва,rent,flat,2,8,1,30.0,60000,0,Даниловский,Восточная ,2К3,Автозаводская
+28,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/306938613/,Москва,rent,flat,15,21,1,26.0,90000,0,Даниловский,проспект Андропова,10,Автозаводская
+29,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/306923677/,Москва,rent,flat,18,26,1,50.0,100000,0,Даниловский,Автозаводская ,23Бк2,Автозаводская
+30,Парус,real_estate_agent,https://www.cian.ru/rent/flat/306834956/,Москва,rent,flat,14,14,1,40.0,85000,0,Южнопортовый,5-я Кожуховская ,14К1,Автозаводская
+31,СмениКварти.Ру,real_estate_agent,https://www.cian.ru/rent/flat/306800132/,Москва,rent,flat,1,9,1,36.0,55000,0,Южнопортовый, Симоновский Вал,17К1,Автозаводская
+32,BELFORT,real_estate_agent,https://www.cian.ru/rent/flat/306797795/,Москва,rent,flat,12,15,1,46.0,140000,0,Даниловский,проспект Лихачева,18к6,Автозаводская
+33,White Lion,real_estate_agent,https://www.cian.ru/rent/flat/306691602/,Москва,rent,flat,15,16,1,25.0,65000,0,Даниловский,Автозаводская ,23С120,Автозаводская
+34,EstateLiga,real_estate_agent,https://www.cian.ru/rent/flat/306537910/,Москва,rent,flat,4,13,1,38.0,100000,0,Даниловский, Родченко,2,Автозаводская
+35,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/306523407/,Москва,rent,flat,18,24,1,43.4,109000,0,Даниловский,Автозаводская ,23Бк2,Автозаводская
+36,Дмитрий Жаров,realtor,https://www.cian.ru/rent/flat/306397951/,Москва,rent,flat,4,17,1,42.0,95000,0,Даниловский,проспект Лихачева,18к1,Автозаводская
+37,ID 120882345,homeowner,https://www.cian.ru/rent/flat/306389007/,Москва,rent,flat,7,8,1,30.8,55000,0,Южнопортовый, Трофимова,15,Автозаводская
+38,Александр Кузин,realtor,https://www.cian.ru/rent/flat/306231949/,Москва,rent,flat,29,29,1,42.0,130000,0,Даниловский, Виктора Маслова,2,Автозаводская
+39,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/306082567/,Москва,rent,flat,5,9,1,41.0,68000,0,Даниловский, Трофимова,6Б,Автозаводская
+40,ID 59357686,unknown,https://www.cian.ru/rent/flat/306008718/,Москва,rent,flat,5,16,1,38.0,125000,0,Даниловский, Архитектора Щусева,5к1,Автозаводская
+41,ID 38956142,homeowner,https://www.cian.ru/rent/flat/300019077/,Москва,rent,flat,14,29,1,45.0,290000,0,Даниловский, Виктора Маслова,2,Автозаводская
+42,ID 35359486,homeowner,https://www.cian.ru/rent/flat/299915307/,Москва,rent,flat,19,29,1,46.0,180000,0,Даниловский, Виктора Маслова,2,Автозаводская
+43,ID 45422946,homeowner,https://www.cian.ru/rent/flat/298915868/,Москва,rent,flat,3,15,1,39.0,90000,0,Даниловский, Архитектора Щусева,1,Автозаводская
+44,Людмила Белозорова-Анисимова,realtor,https://www.cian.ru/rent/flat/294931225/,Москва,rent,flat,7,9,1,32.0,55000,0,Южнопортовый, 2-я Машиностроения,9,Автозаводская
+45,ID 90533658,homeowner,https://www.cian.ru/rent/flat/292402450/,Москва,rent,flat,13,15,1,38.2,110000,0,Даниловский,Автозаводская ,23С120,Автозаводская
+46,White Lion,real_estate_agent,https://www.cian.ru/rent/flat/286685643/,Москва,rent,flat,14,15,1,25.0,70000,0,Даниловский,Автозаводская ,23С120,Автозаводская
+47,White Lion,real_estate_agent,https://www.cian.ru/rent/flat/285386041/,Москва,rent,flat,11,16,1,25.0,70000,0,Даниловский,Автозаводская ,23С120,Автозаводская
+48,Самолет Плюс на Большой Тульской,real_estate_agent,https://www.cian.ru/rent/flat/283244826/,Москва,rent,flat,3,24,1,42.8,85000,0,Даниловский,Автозаводская ,23Бк2,Автозаводская
+49,Nakvartire,real_estate_agent,https://www.cian.ru/rent/flat/282116438/,Москва,rent,flat,12,16,1,22.0,74800,0,Даниловский,Автозаводская ,23С120,Автозаводская
+50,Ирина Манукян,realtor,https://www.cian.ru/rent/flat/307604336/,Москва,rent,flat,3,9,1,33.0,45000,0,Нагатинский затон,Якорная ,9,Кленовый бульвар

@@ -1,0 +1,29 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307748701/,Москва,rent,flat,13,15,2,46.0,160000,0,Раменки,Винницкая ,8к4,Ломоносовский проспект
+1,Полина Магриева,realtor,https://www.cian.ru/rent/flat/307741693/,Москва,rent,flat,3,11,2,55.0,140000,0,Гагаринский,Университетский проспект,9,Ломоносовский проспект
+2,Арбат Престиж,real_estate_agent,https://www.cian.ru/rent/flat/307722279/,Москва,rent,flat,2,17,2,54.0,160000,0,Раменки,Мосфильмовская ,70к7,Ломоносовский проспект
+3,Las Vegas,real_estate_agent,https://www.cian.ru/rent/flat/307713169/,Москва,rent,flat,16,29,2,70.0,257000,0,Раменки,Мосфильмовская ,74Б,Ломоносовский проспект
+4,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307701690/,Москва,rent,flat,8,8,2,75.0,140000,0,Раменки, Пырьева,4К1,Ломоносовский проспект
+5,На Петровке,real_estate_agent,https://www.cian.ru/rent/flat/307699646/,Москва,rent,flat,2,7,2,50.0,205000,0,Раменки,Воробьевское шоссе,4С1,Ломоносовский проспект
+6,Premium Realty,real_estate_agent,https://www.cian.ru/rent/flat/307664526/,Москва,rent,flat,10,13,2,74.6,220000,0,Раменки,Винницкая ,8к1,Ломоносовский проспект
+7,ID 94905965,realtor,https://www.cian.ru/rent/flat/307612090/,Москва,rent,flat,7,21,2,84.0,220000,0,Раменки,Мосфильмовская ,88к4с1,Ломоносовский проспект
+8,ID 94841750,unknown,https://www.cian.ru/rent/flat/307591905/,Москва,rent,flat,10,22,2,70.0,210000,0,Раменки,Ломоносовский проспект,25к2,Ломоносовский проспект
+9,ID 270373,realtor,https://www.cian.ru/rent/flat/307577056/,Москва,rent,flat,3,7,2,54.0,85000,0,Гагаринский,Молодежная ,6,Ломоносовский проспект
+10,ID 7277,realtor,https://www.cian.ru/rent/flat/307572738/,Москва,rent,flat,3,8,2,55.0,90000,0,Ломоносовский, Строителей,11К1,Ломоносовский проспект
+11,Этажи Москва,real_estate_agent,https://www.cian.ru/rent/flat/307544757/,Москва,rent,flat,4,28,2,81.6,250000,0,Раменки,Винницкая ,8к2,Ломоносовский проспект
+12,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307539918/,Москва,rent,flat,17,21,2,84.0,300000,0,Раменки,Мосфильмовская ,88к4с2,Ломоносовский проспект
+13,WHITE BROKER Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307537188/,Москва,rent,flat,22,25,2,84.0,150000,0,Раменки,Мичуринский проспект,26,Ломоносовский проспект
+14,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307536920/,Москва,rent,flat,2,17,2,55.0,160000,0,Раменки,Мосфильмовская ,70к7,Ломоносовский проспект
+15,Денис Ложкин,realtor,https://www.cian.ru/rent/flat/307534724/,Москва,rent,flat,22,25,2,84.0,150000,0,Раменки,Мичуринский проспект,26,Ломоносовский проспект
+16,Оксана Сурова,realtor,https://www.cian.ru/rent/flat/307530571/,Москва,rent,flat,15,21,2,52.0,140000,0,Раменки,Мосфильмовская ,88к7,Ломоносовский проспект
+17,КОНСИНГО,real_estate_agent,https://www.cian.ru/rent/flat/307530418/,Москва,rent,flat,22,23,2,54.0,90000,0,Раменки,Мичуринский проспект,13к3,Ломоносовский проспект
+18,Century 21,real_estate_agent,https://www.cian.ru/rent/flat/307511161/,Москва,rent,flat,11,15,2,95.0,200000,0,Раменки,Университетский проспект,16,Ломоносовский проспект
+19,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307501909/,Москва,rent,flat,7,8,2,65.0,150000,0,Гагаринский,Молодежная ,3,Ломоносовский проспект
+20,ID 113816042,homeowner,https://www.cian.ru/rent/flat/307501170/,Москва,rent,flat,7,8,2,60.0,150000,0,Гагаринский,Молодежная ,3,Ломоносовский проспект
+21,Классика,real_estate_agent,https://www.cian.ru/rent/flat/307497094/,Москва,rent,flat,1,8,2,53.0,90000,0,Гагаринский,Молодежная ,3,Ломоносовский проспект
+22,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307495491/,Москва,rent,flat,11,53,2,110.0,175000,0,Раменки,Мосфильмовская ,8,Ломоносовский проспект
+23,ID 121381230,homeowner,https://www.cian.ru/rent/flat/307491888/,Москва,rent,flat,11,53,2,110.0,175000,0,Раменки,Мосфильмовская ,8,Ломоносовский проспект
+24,ID 90018376,unknown,https://www.cian.ru/rent/flat/307475901/,Москва,rent,flat,14,23,2,83.0,140000,0,Раменки,Мичуринский проспект,34,Ломоносовский проспект
+25,Парус,real_estate_agent,https://www.cian.ru/rent/flat/307459882/,Москва,rent,flat,11,17,2,75.0,180000,0,Раменки,Мичуринский проспект,7,Ломоносовский проспект
+26,PARTNER-ESTATE,real_estate_agent,https://www.cian.ru/rent/flat/307452869/,Москва,rent,flat,3,17,2,75.0,130000,0,Раменки,Мичуринский проспект,7,Ломоносовский проспект
+27,ID 90529564,homeowner,https://www.cian.ru/rent/flat/307444061/,Москва,rent,flat,3,22,2,70.0,170000,0,Раменки,Минская ,1ГК1,Ломоносовский проспект

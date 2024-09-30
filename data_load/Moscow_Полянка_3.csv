@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Intermark Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/305740359/,Москва,rent,flat,7,8,3,211.0,550000,0,Якиманка,2-й Казачий переулок,4С1,Полянка
+1,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/304384334/,Москва,rent,flat,8,8,3,96.0,220000,0,Якиманка,Лаврушинский переулок,17С2,Полянка
+2,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/303632194/,Москва,rent,flat,5,5,3,65.2,130000,0,Замоскворечье,Пятницкая ,28,Полянка
+3,HOUSE MALL - Городская недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/281836793/,Москва,rent,flat,7,12,3,110.0,300000,0,Якиманка, Серафимовича,2,Полянка
+4,ID 413058,realtor,https://www.cian.ru/rent/flat/269275295/,Москва,rent,flat,4,8,3,118.0,400000,0,Якиманка,2-й Казачий переулок,4С1,Полянка
+5,Ashtons International Realty,real_estate_agent,https://www.cian.ru/rent/flat/264776814/,Москва,rent,flat,11,12,3,155.0,270000,0,Замоскворечье,Климентовский переулок,2,Полянка
+6,Selenahome,real_estate_agent,https://www.cian.ru/rent/flat/262065167/,Москва,rent,flat,3,8,3,108.0,280000,0,Якиманка,Малый Толмачевский переулок,8С1,Полянка
+7,Moscow Estate,real_estate_agent,https://www.cian.ru/rent/flat/216595198/,Москва,rent,flat,3,8,3,107.0,280000,0,Якиманка,Малый Толмачевский переулок,8С1,Полянка
+8,Intermark Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307521524/,Москва,rent,flat,14,16,3,88.0,200000,0,Хамовники,Малый Власьевский переулок,3к1,Кропоткинская
+9,Easy Estate,real_estate_agent,https://www.cian.ru/rent/flat/307387142/,Москва,rent,flat,4,5,3,150.0,200000,0,Хамовники,Лопухинский переулок,1АС2,Кропоткинская
+10,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307399457/,Москва,rent,flat,3,11,4,164.0,230000,0,Пресненский,Большой Тишинский переулок,38С1,Улица 1905 года
+11,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307397815/,Москва,rent,flat,4,7,3,86.0,200000,0,Хамовники,Фрунзенская набережная,32,Фрунзенская
+12,ID 392452,official_representative,https://www.cian.ru/rent/flat/228417815/,Москва,rent,flat,7,9,3,87.0,299000,0,Хамовники,Саввинская набережная,3,Киевская
+13,Дворянское гнездо,real_estate_agent,https://www.cian.ru/rent/flat/307255105/,Москва,rent,flat,5,7,4,150.0,300000,0,Арбат,Кривоарбатский переулок,16/22,Смоленская
+14,Trust Realty,real_estate_agent,https://www.cian.ru/rent/flat/307278457/,Москва,rent,flat,4,7,3,78.0,190000,0,Тверской,Старопименовский переулок,4С1,Маяковская
+15,Алла Кривова,realtor,https://www.cian.ru/rent/flat/307476421/,Москва,rent,flat,7,9,3,78.0,200000,0,Пресненский,Малый Патриарший переулок,5С1,Маяковская
+16,Alfa Forum Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/306778572/,Москва,rent,flat,4,18,3,105.0,180000,0,Якиманка, Шаболовка,10к1,Октябрьская
+17,ID 47837650,realtor,https://www.cian.ru/rent/flat/305463491/,Москва,rent,flat,7,7,4,110.0,250000,0,Хамовники,Фрунзенская набережная,12,Парк Культуры
+18,Monumental Group,real_estate_agent,https://www.cian.ru/rent/flat/307602200/,Москва,rent,flat,6,10,2,65.0,170000,0,Якиманка, Малая Полянка,2,Полянка
+19,Penny Lane Moscow,real_estate_agent,https://www.cian.ru/rent/flat/307403520/,Москва,rent,flat,6,6,4,270.0,500000,0,Хамовники,Малый Могильцевский переулок,4Б,Кропоткинская
+20,Екатерина Абдулмянова,realtor,https://www.cian.ru/rent/flat/307459712/,Москва,rent,flat,4,11,3,80.0,250000,0,Хамовники,Фрунзенская набережная,38/1,Фрунзенская
+21,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/306595896/,Москва,rent,flat,3,5,3,105.0,300000,0,Хамовники,Курсовой переулок,8/2,Кропоткинская
+22,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307066760/,Москва,rent,flat,2,6,5,150.0,300000,0,Хамовники,Малый Власьевский переулок,14/23,Кропоткинская
+23,МЕЗОН,real_estate_agent,https://www.cian.ru/rent/flat/306338216/,Москва,rent,flat,3,6,3,120.0,270000,0,Гагаринский,Андреевская набережная,1К1,Ленинский проспект
+24,Сергей Гончарко,realtor,https://www.cian.ru/rent/flat/261009258/,Москва,rent,flat,2,5,4,100.0,220000,0,Пресненский,Мерзляковский переулок,13,Арбатская

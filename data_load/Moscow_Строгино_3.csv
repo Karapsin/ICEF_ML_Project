@@ -1,0 +1,32 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,My Hoyse,real_estate_agent,https://krasnogorsk.cian.ru/rent/flat/307810840/,Москва,rent,flat,19,32,3,60.0,75000,0,, Липовой Рощи,4к4,Строгино
+1,Андрей Мосякин,realtor,https://www.cian.ru/rent/flat/307731507/,Москва,rent,flat,8,16,3,75.0,75000,0,Строгино, Исаковского,4К2,Строгино
+2,ID 121802023,homeowner,https://www.cian.ru/rent/flat/307664211/,Москва,rent,flat,9,14,3,72.0,90000,0,Строгино, Исаковского,31,Строгино
+3,Марина Сударева,realtor,https://www.cian.ru/rent/flat/307654785/,Москва,rent,flat,6,16,3,75.5,95000,0,Строгино, Кулакова,2К1,Строгино
+4,ЦДВ Инвест,real_estate_agent,https://www.cian.ru/rent/flat/307628444/,Москва,rent,flat,8,17,3,80.0,100000,0,Строгино, Твардовского,3К1,Строгино
+5,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307587327/,Москва,rent,flat,12,12,3,65.0,85000,0,Строгино, Твардовского,21К2,Строгино
+6,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307573531/,Москва,rent,flat,12,12,3,65.0,85000,0,Строгино, Твардовского,21К2,Строгино
+7,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307522693/,Москва,rent,flat,3,9,3,60.0,80000,0,Строгино, Исаковского,12К2,Строгино
+8,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307442338/,Москва,rent,flat,12,12,3,65.0,85000,0,Строгино, Твардовского,21К2,Строгино
+9,ID 231375,unknown,https://krasnogorsk.cian.ru/rent/flat/307440959/,Москва,rent,flat,6,32,3,74.4,75000,0,, Липовой Рощи,4к3,Строгино
+10,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307335003/,Москва,rent,flat,8,9,3,72.0,90000,0,Строгино, Исаковского,12К2,Строгино
+11,Ай Кью Проекты,real_estate_agent,https://krasnogorsk.cian.ru/rent/flat/307260466/,Москва,rent,flat,35,35,3,78.0,100000,0,, Липовой Рощи,2к2,Строгино
+12,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307056144/,Москва,rent,flat,3,9,3,60.0,80000,0,Строгино, Исаковского,12К2,Строгино
+13,ID 16063272,homeowner,https://www.cian.ru/rent/flat/306966185/,Москва,rent,flat,14,22,3,75.0,135000,0,Строгино,Строгинский бульвар,30,Строгино
+14,Ирина Игонина,realtor,https://www.cian.ru/rent/flat/306940871/,Москва,rent,flat,16,22,3,78.6,145000,0,Строгино,Строгинский бульвар,4,Строгино
+15,Капитал,real_estate_agent,https://www.cian.ru/rent/flat/306881677/,Москва,rent,flat,22,29,3,110.0,250000,0,Строгино, Маршала Катукова,24к6,Строгино
+16,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/306654643/,Москва,rent,flat,25,37,3,120.0,170000,0,Строгино, Исаковского,39К1,Строгино
+17,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/306653791/,Москва,rent,flat,13,22,3,85.0,150000,0,Строгино,Неманский проезд,13К1,Строгино
+18,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/306595296/,Москва,rent,flat,13,22,3,90.0,150000,0,Строгино,Неманский проезд,13К1,Строгино
+19,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/306558102/,Москва,rent,flat,13,22,3,78.0,160000,0,Строгино,Неманский проезд,13К1,Строгино
+20,Архитектура и дизайн,real_estate_agent,https://www.cian.ru/rent/flat/301294025/,Москва,rent,flat,10,25,3,79.0,90000,0,Кунцево,№ 100 кв-л,1к2,Строгино
+21,ID 69398876,unknown,https://www.cian.ru/rent/flat/301246258/,Москва,rent,flat,3,9,3,60.0,80000,0,Строгино, Исаковского,12К2,Строгино
+22,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/301157157/,Москва,rent,flat,17,28,3,126.0,200000,0,Строгино, Маршала Катукова,24к5,Строгино
+23,Суламит-НГС,real_estate_agent,https://www.cian.ru/rent/flat/301133763/,Москва,rent,flat,13,22,3,85.0,150000,0,Строгино,Неманский проезд,13К1,Строгино
+24,My Hoyse,real_estate_agent,https://www.cian.ru/rent/flat/300661050/,Москва,rent,flat,17,29,3,126.0,190000,0,Строгино, Маршала Катукова,24к5,Строгино
+25,ID 50387557,realtor,https://www.cian.ru/rent/flat/299236762/,Москва,rent,flat,6,12,3,75.0,75000,0,Строгино,Неманский проезд,11,Строгино
+26,ID 102580728,homeowner,https://www.cian.ru/rent/flat/292330265/,Москва,rent,flat,2,25,3,83.0,95000,0,Кунцево,№ 100 кв-л,1к2,Строгино
+27,ID 223852,realtor,https://www.cian.ru/rent/flat/230751342/,Москва,rent,flat,12,12,3,65.0,85000,0,Строгино, Твардовского,21К2,Строгино
+28,ID 72244063,unknown,https://www.cian.ru/rent/flat/307550272/,Москва,rent,flat,16,17,2,58.0,80000,0,Крылатское,Осенний бульвар,5К1,Крылатское
+29,Виктор Смолич,realtor,https://www.cian.ru/rent/flat/307636448/,Москва,rent,flat,4,14,4,110.0,140000,0,Крылатское,Осенняя ,2,Крылатское
+30,Максим Костромин,realtor,https://www.cian.ru/rent/flat/307301864/,Москва,rent,flat,3,5,4,100.0,100000,0,Щукино, Маршала Рыбалко,1,Октябрьское поле

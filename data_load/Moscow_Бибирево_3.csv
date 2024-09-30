@@ -1,0 +1,29 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,ID 6395,realtor,https://www.cian.ru/rent/flat/307778167/,Москва,rent,flat,8,9,3,54.0,80000,0,Бибирево,Белозерская ,17Б,Бибирево
+1,ДИАЛЬ-НЕДВИЖИМОСТЬ,real_estate_agent,https://www.cian.ru/rent/flat/307776763/,Москва,rent,flat,4,12,3,62.8,70000,0,Бибирево,Белозерская ,1А,Бибирево
+2,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307776250/,Москва,rent,flat,14,14,3,78.0,100000,0,Северное Медведково, Грекова,5,Бибирево
+3,Фирдуси Гевондян,realtor,https://www.cian.ru/rent/flat/307756460/,Москва,rent,flat,6,12,3,90.0,95000,0,Отрадное, Бестужевых,12,Бибирево
+4,ПАРТНЕР,real_estate_agent,https://www.cian.ru/rent/flat/307752566/,Москва,rent,flat,14,17,3,85.0,95000,0,Северное Медведково, Грекова,5,Бибирево
+5,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307744672/,Москва,rent,flat,4,22,3,75.0,65000,0,Алтуфьевский,Инженерная ,8А,Бибирево
+6,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307744494/,Москва,rent,flat,14,17,3,80.0,90000,0,Северное Медведково, Грекова,5,Бибирево
+7,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307741163/,Москва,rent,flat,11,12,3,65.0,80000,0,Северное Медведково,Полярная ,36,Бибирево
+8,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307738173/,Москва,rent,flat,5,16,3,66.0,90000,0,Бибирево, Плещеева,13,Бибирево
+9,ID 16814580,unknown,https://www.cian.ru/rent/flat/307722892/,Москва,rent,flat,5,16,3,64.1,90000,0,Бибирево, Плещеева,13,Бибирево
+10,Парус,real_estate_agent,https://www.cian.ru/rent/flat/307702918/,Москва,rent,flat,9,20,3,70.0,85000,0,Лианозово,Новгородская ,5к1,Бибирево
+11,ID 271650,realtor,https://www.cian.ru/rent/flat/307680192/,Москва,rent,flat,11,14,3,69.0,75000,0,Северное Медведково,Студеный проезд,11,Бибирево
+12,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307677960/,Москва,rent,flat,10,12,3,65.0,100000,0,Алтуфьевский,Алтуфьевское шоссе,58А,Бибирево
+13,Наталья Шеле,realtor,https://www.cian.ru/rent/flat/307636816/,Москва,rent,flat,4,12,3,61.4,90000,0,Алтуфьевский,Бибиревская ,17В,Бибирево
+14,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307635029/,Москва,rent,flat,22,24,3,60.0,110000,0,Отрадное, Римского-Корсакова,11к4,Бибирево
+15,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307622862/,Москва,rent,flat,10,12,3,66.0,100000,0,Алтуфьевский,Алтуфьевское шоссе,58А,Бибирево
+16,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307614133/,Москва,rent,flat,10,12,3,65.0,100000,0,Алтуфьевский,Алтуфьевское шоссе,58А,Бибирево
+17,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307606932/,Москва,rent,flat,22,24,3,56.0,110000,0,Отрадное, Римского-Корсакова,11к4,Бибирево
+18,ID 106808303,homeowner,https://www.cian.ru/rent/flat/307606053/,Москва,rent,flat,5,18,3,75.0,74000,0,Северное Медведково, Грекова,14к1,Бибирево
+19,ID 106286471,homeowner,https://www.cian.ru/rent/flat/307604777/,Москва,rent,flat,10,12,3,65.0,100000,0,Алтуфьевский,Алтуфьевское шоссе,58А,Бибирево
+20,ID 25983,realtor,https://www.cian.ru/rent/flat/307602645/,Москва,rent,flat,4,12,3,64.0,80000,0,Бибирево, Плещеева,22,Бибирево
+21,ID 36577735,homeowner,https://www.cian.ru/rent/flat/307593263/,Москва,rent,flat,22,24,3,56.0,110000,0,Отрадное, Римского-Корсакова,11к4,Бибирево
+22,Антон Осмелкин,realtor,https://www.cian.ru/rent/flat/307530536/,Москва,rent,flat,4,9,3,60.0,70000,0,Отрадное, Бестужевых,17Б,Бибирево
+23,Тимур Сарвари,realtor,https://www.cian.ru/rent/flat/307387536/,Москва,rent,flat,9,16,3,74.0,95000,0,Бибирево,Шенкурский проезд,11,Бибирево
+24,Циан х ПИК-Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307358638/,Москва,rent,flat,3,9,3,60.4,70000,0,Бибирево, Корнейчука,47,Бибирево
+25,Инна Харитончик,realtor,https://www.cian.ru/rent/flat/307321701/,Москва,rent,flat,7,9,3,60.0,80000,0,Отрадное,Северный бульвар,17,Бибирево
+26,Елена Воротынова,realtor,https://www.cian.ru/rent/flat/307316010/,Москва,rent,flat,4,9,3,58.0,80000,0,Северное Медведково,Широкая ,16,Бибирево
+27,ID 17539193,homeowner,https://www.cian.ru/rent/flat/307038696/,Москва,rent,flat,10,18,3,85.0,122000,0,Отрадное,Юрловский проезд,21,Бибирево

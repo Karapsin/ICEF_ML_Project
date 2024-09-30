@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,ID 49162143,realtor,https://www.cian.ru/rent/flat/307747411/,Москва,rent,flat,19,22,1,40.0,70000,0,Можайский,Сколковское шоссе,30,Сетунь
+1,ID 122141069,homeowner,https://odintsovo.cian.ru/rent/flat/307743651/,Москва,rent,flat,6,17,1,37.8,45000,0,с. Немчиновка, Связистов,7,
+2,ID 48134993,unknown,https://www.cian.ru/rent/flat/307725632/,Москва,rent,flat,2,4,1,38.0,50000,0,Кунцево, Боженко,12К1,Сетунь
+3,Престиж,real_estate_agent,https://odintsovo.cian.ru/rent/flat/307706678/,Москва,rent,flat,7,34,1,25.0,60000,0,Новоивановское рп,Можайское шоссе,54,
+4,Престиж,real_estate_agent,https://odintsovo.cian.ru/rent/flat/307706362/,Москва,rent,flat,12,34,1,25.0,60000,0,Новоивановское рп,Можайское шоссе,54,
+5,ОХОТНЫЙ РЯД офис Тверская,real_estate_agent,https://odintsovo.cian.ru/rent/flat/307702248/,Москва,rent,flat,9,10,1,75.0,135000,0,Заречье рп, Каштановая,6,
+6,Елена Зуева,realtor,https://www.cian.ru/rent/flat/307693820/,Москва,rent,flat,1,17,1,15.0,35000,0,Можайский,Витебская ,3К1,Сетунь
+7,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307675125/,Москва,rent,flat,1,15,1,15.0,35000,0,Можайский,Витебская ,3К1,Сетунь
+8,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307613839/,Москва,rent,flat,6,8,1,42.0,90000,0,Можайский, Гришина,16,Сетунь
+9,Миэль,real_estate_agent,https://odintsovo.cian.ru/rent/flat/307610166/,Москва,rent,flat,32,34,1,45.0,75000,0,Новоивановское рп,Можайское шоссе,54,
+10,ID 202164,realtor,https://www.cian.ru/rent/flat/307529815/,Москва,rent,flat,14,14,1,40.0,60000,0,Можайский,Сколковское шоссе,32к1,Сетунь
+11,Качанова и партнеры,real_estate_agent,https://www.cian.ru/rent/flat/307457751/,Москва,rent,flat,2,5,1,33.0,60000,0,Кунцево,Ярцевская ,11К3,Сетунь
+12,Анна Кравцова,realtor,https://www.cian.ru/rent/flat/307427137/,Москва,rent,flat,9,12,1,41.1,75000,0,Можайский,Сколковское шоссе,40к1,Сетунь
+13,Яндекс Аренда,real_estate_agent,https://odintsovo.cian.ru/rent/flat/307254372/,Москва,rent,flat,7,17,1,37.0,82000,0,Новоивановское рп, Западная,85,
+14,КС-Риэлти,real_estate_agent,https://www.cian.ru/rent/flat/307205771/,Москва,rent,flat,12,12,1,35.0,53000,0,Можайский,Сколковское шоссе,16,Сетунь
+15,ID 46989435,realtor,https://www.cian.ru/rent/flat/307185557/,Москва,rent,flat,14,16,1,40.0,58000,0,Можайский,Вяземская ,12к1,Сетунь
+16,ID 13647888,realtor,https://www.cian.ru/rent/flat/307057804/,Москва,rent,flat,3,4,1,35.0,55000,0,Кунцево,Ярцевская ,7,Сетунь
+17,Самолет Плюс МСК Ленинский проспект,real_estate_agent,https://odintsovo.cian.ru/rent/flat/304786457/,Москва,rent,flat,5,9,1,36.0,73000,0,Заречье рп,Луговая ,6к1,
+18,Антон Пелипенко,realtor,https://www.cian.ru/rent/flat/301611711/,Москва,rent,flat,1,14,1,40.0,85000,0,Кунцево,Ярцевская ,4К2,Сетунь
+19,ID 49132532,unknown,https://www.cian.ru/rent/flat/298504830/,Москва,rent,flat,2,5,1,25.0,56000,0,Кунцево,Ярцевская ,13,Сетунь
+20,ID 12828603,homeowner,https://odintsovo.cian.ru/rent/flat/293668703/,Москва,rent,flat,1,1,1,40.0,55000,0,Новоивановское рп,Амбулаторная ,62,
+21,ID 663571,homeowner,https://www.cian.ru/rent/flat/279795633/,Москва,rent,flat,8,14,1,40.0,60000,0,Можайский,Беловежская ,13,Сетунь
+22,Сергей Стахов,realtor,https://www.cian.ru/rent/flat/247348818/,Москва,rent,flat,9,14,2,65.0,60000,0,Фили-Давыдково,Кастанаевская ,63К2,Кунцевская
+23,ФОКУС,official_representative,https://www.cian.ru/rent/flat/307531852/,Москва,rent,flat,8,12,1,34.9,50000,0,Можайский, Красных Зорь,51,Рабочий посёлок
+24,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307494461/,Москва,rent,flat,5,5,1,33.0,50000,0,Фили-Давыдково, Алексея Свиридова,3,Кунцевская

@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,ID 70960362,unknown,https://www.cian.ru/rent/flat/307828280/,Москва,rent,flat,6,12,3,65.0,100000,0,Бескудниковский,Бескудниковский бульвар,55К3,Селигерская
+1,ID 106564716,homeowner,https://www.cian.ru/rent/flat/307708633/,Москва,rent,flat,14,17,3,72.4,85000,0,Восточное Дегунино,Дубнинская ,17К2,Селигерская
+2,ID 121781223,homeowner,https://www.cian.ru/rent/flat/307700565/,Москва,rent,flat,2,20,3,50.0,70000,0,Западное Дегунино,Базовская ,15Бк1,Селигерская
+3,Андрей Смирнов,realtor,https://www.cian.ru/rent/flat/307686075/,Москва,rent,flat,18,24,3,60.0,170000,0,Дмитровский,Дмитровское шоссе,107к3,Селигерская
+4,ID 72172578,homeowner,https://www.cian.ru/rent/flat/307685695/,Москва,rent,flat,18,24,3,60.0,170000,0,Дмитровский,Дмитровское шоссе,107к1,Селигерская
+5,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307675480/,Москва,rent,flat,4,9,3,65.0,105000,0,Восточное Дегунино, 800-летия Москвы,7К1,Селигерская
+6,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307673351/,Москва,rent,flat,4,9,3,65.0,105000,0,Восточное Дегунино, 800-летия Москвы,7К1,Селигерская
+7,Perfect Manager House,real_estate_agent,https://www.cian.ru/rent/flat/307651875/,Москва,rent,flat,18,24,3,60.0,170000,0,Дмитровский,Дмитровское шоссе,107к1,Селигерская
+8,ID 112006502,homeowner,https://www.cian.ru/rent/flat/307618343/,Москва,rent,flat,8,17,3,76.0,80000,0,Западное Дегунино, Ивана Сусанина,6К2,Селигерская
+9,Ольга Дзкуя,realtor,https://www.cian.ru/rent/flat/307603371/,Москва,rent,flat,10,16,3,91.2,90000,0,Западное Дегунино,Путейская ,2,Селигерская
+10,Столичный Проспект,real_estate_agent,https://www.cian.ru/rent/flat/307505297/,Москва,rent,flat,18,22,3,84.0,90000,0,Бескудниковский,Дубнинская ,27К2,Селигерская
+11,ID 80762158,homeowner,https://www.cian.ru/rent/flat/306767379/,Москва,rent,flat,5,17,3,78.0,160000,0,Западное Дегунино,Базовская ,15к6,Селигерская
+12,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/306730885/,Москва,rent,flat,18,18,3,72.0,99999,0,Западное Дегунино, Ивана Сусанина,8К1,Селигерская
+13,ID 16104,realtor,https://www.cian.ru/rent/flat/306574422/,Москва,rent,flat,18,22,3,83.0,90000,0,Бескудниковский,Дубнинская ,27К2,Селигерская
+14,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/306463709/,Москва,rent,flat,18,18,3,75.0,105000,0,Западное Дегунино, Ивана Сусанина,8К1,Селигерская
+15,ID 989410,realtor,https://www.cian.ru/rent/flat/305812392/,Москва,rent,flat,8,9,3,60.0,80000,0,Западное Дегунино,Коровинское шоссе,11К1,Селигерская
+16,ЭТАЛОН,real_estate_agent,https://www.cian.ru/rent/flat/281299648/,Москва,rent,flat,2,9,3,60.0,68000,0,Дмитровский, Софьи Ковалевской,2К1,Селигерская
+17,ID 38359273,homeowner,https://www.cian.ru/rent/flat/278140526/,Москва,rent,flat,18,18,3,72.0,99999,0,Западное Дегунино, Ивана Сусанина,8К1,Селигерская
+18,Наталия Бутова,realtor,https://www.cian.ru/rent/flat/258175007/,Москва,rent,flat,6,14,3,74.0,75000,0,Западное Дегунино, Ивана Сусанина,6К3,Селигерская
+19,Татьяна Викентьева,realtor,https://www.cian.ru/rent/flat/307686238/,Москва,rent,flat,3,12,2,47.0,65000,0,Восточное Дегунино,Дубнинская ,20К1,Селигерская
+20,Дарья Румянцева,realtor,https://www.cian.ru/rent/flat/307632693/,Москва,rent,flat,2,5,3,68.0,110000,0,Савеловский,1-я Хуторская ,2К2,Дмитровская
+21,ПИК-Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307391475/,Москва,rent,flat,7,20,2,49.8,70000,0,Западное Дегунино,Базовская ,15Бк1,Селигерская
+22,ID 20604,real_estate_agent,https://www.cian.ru/rent/flat/307698474/,Москва,rent,flat,4,9,3,60.0,75000,0,Северное Тушино, Фомичевой,16К2,Планерная
+23,Дмитрий Павленко,realtor,https://www.cian.ru/rent/flat/307296897/,Москва,rent,flat,8,20,3,75.0,75000,0,Тимирязевский,Дмитровское шоссе,55,Петровско-Разумовская
+24,Инна Дударева,realtor,https://www.cian.ru/rent/flat/307550638/,Москва,rent,flat,6,19,3,52.0,100000,0,Тимирязевский,проезд 1-й Нижнелихоборский,1,Окружная

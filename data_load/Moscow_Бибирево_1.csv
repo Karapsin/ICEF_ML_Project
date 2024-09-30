@@ -1,0 +1,52 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Лилия Ильина,realtor,https://www.cian.ru/rent/flat/307728969/,Москва,rent,flat,11,12,1,38.9,50000,0,Бибирево,Мурановская ,6,Бибирево
+1,MOTYLEK - департамент недвижимости,real_estate_agent,https://www.cian.ru/rent/flat/307722891/,Москва,rent,flat,1,18,1,38.0,50000,0,Северное Медведково,Полярная ,42К1,Бибирево
+2,AURELIA,real_estate_agent,https://www.cian.ru/rent/flat/307722317/,Москва,rent,flat,20,22,1,44.0,75000,0,Отрадное, Римского-Корсакова,11к5,Бибирево
+3,АВАНГАРД,real_estate_agent,https://www.cian.ru/rent/flat/307721164/,Москва,rent,flat,6,16,1,38.0,40000,0,Бибирево, Лескова,17,Бибирево
+4,На Петровке,real_estate_agent,https://www.cian.ru/rent/flat/307715653/,Москва,rent,flat,7,16,1,36.0,55000,0,Алтуфьевский,Бибиревская ,7К2,Бибирево
+5,GardenGoldRealty,real_estate_agent,https://www.cian.ru/rent/flat/307708132/,Москва,rent,flat,6,9,1,35.0,50000,0,Бибирево, Корнейчука,46,Бибирево
+6,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307704865/,Москва,rent,flat,3,9,1,35.0,60000,0,Алтуфьевский,проезд Черского,7,Бибирево
+7,ID 16652,realtor,https://www.cian.ru/rent/flat/307699203/,Москва,rent,flat,10,12,1,39.1,60000,0,Бибирево, Плещеева,18,Бибирево
+8,Ольга Титова,realtor,https://www.cian.ru/rent/flat/307693638/,Москва,rent,flat,8,17,1,35.0,80000,0,Северное Медведково, Грекова,5,Бибирево
+9,ID 47643263,realtor,https://www.cian.ru/rent/flat/307680098/,Москва,rent,flat,1,22,1,40.0,55000,0,Бибирево,Алтуфьевское шоссе,92,Бибирево
+10,ID 62156,realtor,https://www.cian.ru/rent/flat/307669665/,Москва,rent,flat,16,25,1,38.0,55000,0,Северное Медведково,Студеный проезд,14,Бибирево
+11,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307669543/,Москва,rent,flat,5,25,1,24.0,55000,0,Южное Медведково,Полярная ,27к4,Бибирево
+12,ID 3182,realtor,https://mytishchi.cian.ru/rent/flat/307668677/,Москва,rent,flat,5,17,1,33.0,55000,0,Датский квартал ЖК, Полковника Романова,5,
+13,Дмитрий Егоров,realtor,https://www.cian.ru/rent/flat/307662678/,Москва,rent,flat,16,17,1,36.7,65000,0,Отрадное,Юрловский проезд,14к2,Бибирево
+14,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307658444/,Москва,rent,flat,5,18,1,25.0,55000,0,Южное Медведково,Полярная ,27к4,Бибирево
+15,MOTYLEK - департамент недвижимости,real_estate_agent,https://mytishchi.cian.ru/rent/flat/307656118/,Москва,rent,flat,4,22,1,38.5,50000,0,Датский квартал ЖК, Полковника Романова,11,
+16,Лабецкий Недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/307627386/,Москва,rent,flat,9,20,1,40.8,65000,0,Алтуфьевский,Бибиревская ,4А,Бибирево
+17,EMPIRE HOME,real_estate_agent,https://www.cian.ru/rent/flat/307615765/,Москва,rent,flat,1,9,1,37.0,60000,0,Отрадное, Бестужевых,27А,Бибирево
+18,ПИК-Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307609276/,Москва,rent,flat,3,23,1,33.7,58000,0,Южное Медведково,Полярная ,27к3,Бибирево
+19,Виктория Геннадьевна Иванова,realtor,https://www.cian.ru/rent/flat/307585102/,Москва,rent,flat,1,12,1,39.0,70000,0,Бибирево,Мурановская ,21А,Бибирево
+20,МИЭЛЬ,real_estate_agent,https://www.cian.ru/rent/flat/307531715/,Москва,rent,flat,1,9,1,26.0,58000,0,Отрадное, Бестужевых,12Г,Бибирево
+21,ID 121837992,homeowner,https://mytishchi.cian.ru/rent/flat/307528014/,Москва,rent,flat,17,22,1,37.2,50000,0,Датский квартал ЖК, Полковника Романова,5,
+22,ПЕРСОНА,real_estate_agent,https://www.cian.ru/rent/flat/307464604/,Москва,rent,flat,10,22,1,40.0,60000,0,Бибирево,Алтуфьевское шоссе,92,Бибирево
+23,МИЭЛЬ,real_estate_agent,https://www.cian.ru/rent/flat/307385602/,Москва,rent,flat,1,16,1,36.0,47000,0,Бибирево,Белозерская ,17,Бибирево
+24,ID 20840374,homeowner,https://www.cian.ru/rent/flat/307268272/,Москва,rent,flat,1,9,1,39.0,65000,0,Бибирево, Коненкова,11В,Бибирево
+25,Green house realty,real_estate_agent,https://www.cian.ru/rent/flat/307257923/,Москва,rent,flat,8,14,1,38.0,55000,0,Северное Медведково, Грекова,18К4,Бибирево
+26,Татьяна Берестовская,realtor,https://www.cian.ru/rent/flat/307234925/,Москва,rent,flat,2,9,1,37.0,50000,0,Бибирево, Лескова,25,Бибирево
+27,ID 94297116,unknown,https://mytishchi.cian.ru/rent/flat/307093504/,Москва,rent,flat,17,17,1,40.0,55000,0,Датский квартал ЖК, Полковника Романова,11,
+28,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307061029/,Москва,rent,flat,24,25,1,48.0,47000,0,Южное Медведково, Молодцова,31К2,Бибирево
+29,Александра Игнатьева,realtor,https://www.cian.ru/rent/flat/306962745/,Москва,rent,flat,6,8,1,38.0,75000,0,Бибирево, Корнейчука,27,Бибирево
+30,ID 60173454,realtor,https://www.cian.ru/rent/flat/306501314/,Москва,rent,flat,3,16,1,38.0,56000,0,Бибирево,Мелиховская ,4,Бибирево
+31,Елена Вирясова,realtor,https://www.cian.ru/rent/flat/289556563/,Москва,rent,flat,5,25,1,38.0,55000,0,Северное Медведково,Студеный проезд,2К1,Бибирево
+32,CRE,real_estate_agent,https://www.cian.ru/rent/flat/269112246/,Москва,rent,flat,8,17,1,39.0,40000,0,Северное Медведково,Студеный проезд,2К1,Бибирево
+33,ID 20180,realtor,https://www.cian.ru/rent/flat/249865417/,Москва,rent,flat,4,14,1,35.0,55000,0,Бибирево, Корнейчука,22,Бибирево
+34,ID 45102034,unknown,https://www.cian.ru/rent/flat/248305178/,Москва,rent,flat,2,5,1,33.0,31000,0,Алтуфьевский,Путевой проезд,10,Бибирево
+35,ID 104001452,homeowner,https://www.cian.ru/rent/flat/307231553/,Москва,rent,flat,9,16,1,34.2,40000,0,Бабушкинский,Печорская ,11,Бабушкинская
+36,ID 122045706,homeowner,https://www.cian.ru/rent/flat/307612045/,Москва,rent,flat,2,14,1,38.9,50000,0,Ярославский,Палехская ,21,Медведково
+37,СТОЛИЦА. Москва и МО,real_estate_agent,https://www.cian.ru/rent/flat/307431187/,Москва,rent,flat,4,17,1,38.0,38000,0,Северный,9-я Северная линия,1К1,Физтех
+38,ID 17743955,homeowner,https://www.cian.ru/rent/flat/241008355/,Москва,rent,flat,5,5,1,20.0,50000,0,Марфино,Гостиничная ,10К5,Окружная
+39,ОХОТНЫЙ РЯД офис Тверская,real_estate_agent,https://www.cian.ru/rent/flat/307573511/,Москва,rent,flat,9,9,1,32.0,45000,0,Свиблово, Седова,4К2,Свиблово
+40,ID 25297749,homeowner,https://www.cian.ru/rent/flat/268445594/,Москва,rent,flat,11,16,1,35.0,75000,0,Бабушкинский,Печорская ,3,Бабушкинская
+41,ID 65031701,realtor,https://www.cian.ru/rent/flat/277044565/,Москва,rent,flat,5,5,1,35.0,45000,0,Бабушкинский, Летчика Бабушкина,6,Свиблово
+42,ID 864,realtor,https://www.cian.ru/rent/flat/241759044/,Москва,rent,flat,5,12,1,39.0,40000,0,Лианозово,Новгородская ,34,Алтуфьево
+43,Светлана Губарькова,realtor,https://www.cian.ru/rent/flat/293609976/,Москва,rent,flat,3,9,2,45.0,45000,0,Северное Медведково,Полярная ,26К2,Медведково
+44,Евгений Горновой,realtor,https://www.cian.ru/rent/flat/307543322/,Москва,rent,flat,5,9,2,43.0,60000,0,Бибирево, Лескова,6А,Бибирево
+45,ID 110179555,homeowner,https://www.cian.ru/rent/flat/306705663/,Москва,rent,flat,1,14,1,34.9,52000,0,Северное Медведково,проезд Шокальского,55к1,Медведково
+46,Андрей Самарцев,realtor,https://www.cian.ru/rent/flat/233262055/,Москва,rent,flat,4,17,1,38.0,55000,0,Ростокино,Будайский проезд,9,Ростокино
+47,MARNIS-GROUP,real_estate_agent,https://www.cian.ru/rent/flat/290909514/,Москва,rent,flat,6,9,1,32.0,42000,0,Свиблово,проезд Русанова,35,Свиблово
+48,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307626269/,Москва,rent,flat,5,5,1,32.0,45000,0,Свиблово, Амундсена,14,Свиблово
+49,HOUSE MALL - Городская недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/307258885/,Москва,rent,flat,19,33,1,42.0,65000,0,Южное Медведково,Полярная ,25к2,Медведково
+50,RealtyMSK офис-ЦАО,real_estate_agent,https://www.cian.ru/rent/flat/243491784/,Москва,rent,flat,1,12,2,48.0,55000,0,Северное Медведково,Полярная ,42,Бибирево

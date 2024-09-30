@@ -1,0 +1,31 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307775294/,Москва,rent,flat,4,9,1,38.0,50000,0,Черемушки,Перекопская ,22к1,Зюзино
+1,ID 57425382,realtor,https://www.cian.ru/rent/flat/307773200/,Москва,rent,flat,7,17,1,46.0,75000,0,Черемушки, Наметкина,13к2,Зюзино
+2,ID 57010733,realtor,https://www.cian.ru/rent/flat/307741359/,Москва,rent,flat,1,9,1,32.5,55000,0,Черемушки,Перекопская ,30к1,Зюзино
+3,Территория дела,real_estate_agent,https://www.cian.ru/rent/flat/307740595/,Москва,rent,flat,10,16,1,34.5,55000,0,Зюзино,Херсонская ,12К4,Зюзино
+4,ID 52837390,realtor,https://www.cian.ru/rent/flat/307722934/,Москва,rent,flat,1,12,1,35.1,60000,0,Зюзино,Большая Юшуньская ,16,Зюзино
+5,Мария Бобкова,realtor,https://www.cian.ru/rent/flat/307721009/,Москва,rent,flat,1,9,1,35.1,60000,0,Черемушки,Перекопская ,24,Зюзино
+6,ID 268994,realtor,https://www.cian.ru/rent/flat/307709100/,Москва,rent,flat,1,5,1,34.0,60000,0,Зюзино,Керченская ,3к1,Зюзино
+7,ID 81428441,homeowner,https://www.cian.ru/rent/flat/307708855/,Москва,rent,flat,3,14,1,36.0,70000,0,Зюзино,Одесская ,14к4А,Зюзино
+8,ID 124884,realtor,https://www.cian.ru/rent/flat/307694131/,Москва,rent,flat,18,27,1,45.0,110000,0,Черемушки,Нахимовский проспект,31к3,Зюзино
+9,ID 46344,realtor,https://www.cian.ru/rent/flat/307610337/,Москва,rent,flat,17,17,1,37.9,63000,0,Черемушки, Цюрупы,12К6,Зюзино
+10,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307606933/,Москва,rent,flat,1,5,1,36.0,60000,0,Зюзино,Болотниковская ,46К1,Зюзино
+11,Ольга Муковенкова,realtor,https://www.cian.ru/rent/flat/307585461/,Москва,rent,flat,15,16,1,34.5,52000,0,Черемушки, Обручева,65/54,Зюзино
+12,Самолет Плюс Тушино,real_estate_agent,https://www.cian.ru/rent/flat/307547279/,Москва,rent,flat,32,32,1,44.0,120000,0,Черемушки,Херсонская ,43к5,Зюзино
+13,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307545360/,Москва,rent,flat,7,9,1,32.0,80000,0,Черемушки, Цюрупы,4,Зюзино
+14,Георгий Черемский,realtor,https://www.cian.ru/rent/flat/307340532/,Москва,rent,flat,7,25,1,46.0,95000,0,Черемушки,Нахимовский проспект,31к3,Зюзино
+15,Изумрудный город,real_estate_agent,https://www.cian.ru/rent/flat/307289150/,Москва,rent,flat,9,17,1,45.0,100000,0,Черемушки,Нахимовский проспект,31к3,Зюзино
+16,Enkelman Development,real_estate_agent,https://www.cian.ru/rent/flat/307226393/,Москва,rent,flat,29,32,1,63.5,140000,0,Черемушки, Наметкина,18,Зюзино
+17,Мой Дом - отделение Добрынинское,real_estate_agent,https://www.cian.ru/rent/flat/307101235/,Москва,rent,flat,12,17,1,38.0,60000,0,Черемушки,Новочеремушкинская ,57к2,Зюзино
+18,Елена Радзевская,realtor,https://www.cian.ru/rent/flat/306736348/,Москва,rent,flat,16,18,1,49.3,97000,0,Черемушки,Нахимовский проспект,31к3,Зюзино
+19,ID 53348823,unknown,https://www.cian.ru/rent/flat/306603753/,Москва,rent,flat,30,32,1,45.0,110000,0,Черемушки,Херсонская ,43к5,Зюзино
+20,ODream,real_estate_agent,https://www.cian.ru/rent/flat/306545182/,Москва,rent,flat,6,23,1,40.0,145000,0,Черемушки,Нахимовский проспект,31к3,Зюзино
+21,Олег Акулов,realtor,https://www.cian.ru/rent/flat/306068981/,Москва,rent,flat,17,18,1,45.0,90000,0,Черемушки,Нахимовский проспект,31к3,Зюзино
+22,Олег Акулов,realtor,https://www.cian.ru/rent/flat/306068509/,Москва,rent,flat,15,25,1,45.0,90000,0,Черемушки,Нахимовский проспект,31к3,Зюзино
+23,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/302954381/,Москва,rent,flat,5,5,1,30.0,75000,0,Черемушки,Херсонская ,36К5,Зюзино
+24,Елена Иванова,realtor,https://www.cian.ru/rent/flat/296705915/,Москва,rent,flat,12,19,1,43.0,125000,0,Черемушки,Нахимовский проспект,31к3,Зюзино
+25,Квадраты Москвы,real_estate_agent,https://www.cian.ru/rent/flat/293954667/,Москва,rent,flat,15,20,1,43.0,95000,0,Черемушки,Нахимовский проспект,31к3,Зюзино
+26,ID 22448,realtor,https://www.cian.ru/rent/flat/239623027/,Москва,rent,flat,11,17,1,38.0,65000,0,Черемушки,Новочеремушкинская ,57к2,Зюзино
+27,Виктория Шмакова,realtor,https://www.cian.ru/rent/flat/307605586/,Москва,rent,flat,7,9,1,33.0,58000,0,Черемушки, Архитектора Власова,19К4,Новые Черёмушки
+28,ID 22699,realtor,https://www.cian.ru/rent/flat/271799247/,Москва,rent,flat,2,5,1,31.0,57000,0,Котловка,Нагорная ,38К2,Нахимовский проспект
+29,Александр Лебедев,realtor,https://www.cian.ru/rent/flat/306773111/,Москва,rent,flat,5,9,1,32.0,46000,0,Котловка,Нахимовский проспект,14,Нахимовский проспект

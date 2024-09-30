@@ -1,0 +1,30 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307725702/,Москва,rent,flat,3,8,2,45.0,120000,0,Гагаринский, Вавилова,46,Ленинский проспект
+1,ID 98855841,unknown,https://www.cian.ru/rent/flat/307724888/,Москва,rent,flat,3,8,2,45.0,120000,0,Гагаринский, Вавилова,46,Ленинский проспект
+2,ID 12965,realtor,https://www.cian.ru/rent/flat/307724359/,Москва,rent,flat,8,9,2,49.0,120000,0,Гагаринский,Ленинский проспект,34/1,Ленинский проспект
+3,Инвестправо,real_estate_agent,https://www.cian.ru/rent/flat/307617033/,Москва,rent,flat,3,9,2,37.1,68000,0,Донской, Орджоникидзе,6К2,Ленинский проспект
+4,ID 31213480,homeowner,https://www.cian.ru/rent/flat/307593266/,Москва,rent,flat,13,19,2,54.0,165000,0,Даниловский, Серпуховский Вал,21к4,Ленинский проспект
+5,ID 23288,unknown,https://www.cian.ru/rent/flat/307592572/,Москва,rent,flat,4,12,2,54.1,175000,0,Донской,Ленинский проспект,37,Ленинский проспект
+6,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307547705/,Москва,rent,flat,12,12,2,67.0,130500,0,Академический, Ивана Бабушкина,9,Ленинский проспект
+7,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307436380/,Москва,rent,flat,2,9,2,45.0,110000,0,Донской, Стасовой,10К3,Ленинский проспект
+8,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307433583/,Москва,rent,flat,2,9,2,40.0,100000,0,Донской, Стасовой,10К3,Ленинский проспект
+9,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307426456/,Москва,rent,flat,11,15,2,95.0,300000,0,Донской, Вавилова,4,Ленинский проспект
+10,ID 16366,realtor,https://www.cian.ru/rent/flat/307415359/,Москва,rent,flat,4,8,2,53.0,150000,0,Донской,Ленинский проспект,30,Ленинский проспект
+11,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307358412/,Москва,rent,flat,5,9,2,58.0,135000,0,Гагаринский, Косыгина,13,Ленинский проспект
+12,РИЭЛТ ХАУС,real_estate_agent,https://www.cian.ru/rent/flat/307255352/,Москва,rent,flat,13,17,2,55.0,170000,0,Даниловский, Серпуховский Вал,21к1,Ленинский проспект
+13,Century 21 Street Realty,real_estate_agent,https://www.cian.ru/rent/flat/307254538/,Москва,rent,flat,5,13,2,54.0,179999,0,Донской,4-й Верхний Михайловский проезд,1,Ленинский проспект
+14,ID 71826,realtor,https://www.cian.ru/rent/flat/307243275/,Москва,rent,flat,4,5,2,44.0,66000,0,Даниловский, Татищева,17,Ленинский проспект
+15,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307043939/,Москва,rent,flat,3,6,2,68.0,183000,0,Донской,2-й Донской проезд,5,Ленинский проспект
+16,Флэт Линк,real_estate_agent,https://www.cian.ru/rent/flat/306903111/,Москва,rent,flat,5,9,2,58.0,135000,0,Гагаринский, Косыгина,13,Ленинский проспект
+17,Светлана Константинова,realtor,https://www.cian.ru/rent/flat/306372899/,Москва,rent,flat,4,12,2,61.0,85000,0,Гагаринский, Вавилова,48,Ленинский проспект
+18,Point Estate Город,real_estate_agent,https://www.cian.ru/rent/flat/306034462/,Москва,rent,flat,11,14,2,95.0,300000,0,Донской, Вавилова,4,Ленинский проспект
+19,ID 116465485,homeowner,https://www.cian.ru/rent/flat/305722739/,Москва,rent,flat,3,8,2,58.0,150000,0,Донской,Ленинский проспект,30,Ленинский проспект
+20,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/305691614/,Москва,rent,flat,11,15,2,95.0,300000,0,Донской, Вавилова,4,Ленинский проспект
+21,Trust Realty,real_estate_agent,https://www.cian.ru/rent/flat/305156325/,Москва,rent,flat,11,15,2,95.0,300000,0,Донской, Вавилова,4,Ленинский проспект
+22,Артем Андреев,realtor,https://www.cian.ru/rent/flat/305046635/,Москва,rent,flat,11,15,2,95.0,300000,0,Донской, Вавилова,4,Ленинский проспект
+23,ID 11593464,realtor,https://www.cian.ru/rent/flat/304972016/,Москва,rent,flat,9,17,2,60.0,85000,0,Академический,проспект 60-летия Октября,19,Ленинский проспект
+24,Times Properties,real_estate_agent,https://www.cian.ru/rent/flat/301854380/,Москва,rent,flat,4,18,2,85.0,150000,0,Академический, Дмитрия Ульянова,6к1,Ленинский проспект
+25,ID 101776928,homeowner,https://www.cian.ru/rent/flat/296048389/,Москва,rent,flat,4,9,2,50.0,90000,0,Гагаринский,Ленинский проспект,32,Ленинский проспект
+26,ID 492493,realtor,https://www.cian.ru/rent/flat/285385551/,Москва,rent,flat,4,15,2,65.0,185000,0,Донской, Вавилова,4,Ленинский проспект
+27,ID 23288059,homeowner,https://www.cian.ru/rent/flat/277291259/,Москва,rent,flat,34,37,2,55.0,250000,0,Академический,проспект 60-летия Октября,17,Ленинский проспект
+28,ID 154790,real_estate_agent,https://www.cian.ru/rent/flat/307736940/,Москва,rent,flat,4,5,2,45.0,70000,0,Академический, Ферсмана,7,Ленинский проспект

@@ -1,0 +1,25 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,МРИЭЛТОР - офис Отрадное,real_estate_agent,https://lobnya.cian.ru/rent/flat/307757287/,Москва,rent,flat,2,5,2,45.0,50000,0,, Маяковского,6,Лобня
+1,Татьяна Пичурина,realtor,https://lobnya.cian.ru/rent/flat/307744177/,Москва,rent,flat,6,9,2,54.6,45000,0,, Чайковского,17к1,Лобня
+2,Надежда Феоктистова,realtor,https://lobnya.cian.ru/rent/flat/307727682/,Москва,rent,flat,9,14,2,60.0,50000,0,, Калинина,21,Лобня
+3,ID 89676645,unknown,https://lobnya.cian.ru/rent/flat/307706550/,Москва,rent,flat,8,10,2,45.0,45000,0,, Ленина,16,Лобня
+4,Яндекс Аренда,real_estate_agent,https://dmitrov.cian.ru/rent/flat/307661563/,Москва,rent,flat,2,5,2,48.0,39000,0,,,,
+5,Александр Рюмцев,realtor,https://lobnya.cian.ru/rent/flat/307608228/,Москва,rent,flat,16,16,2,63.0,52000,0,, Пушкина,6,Лобня
+6,ID 71843527,homeowner,https://lobnya.cian.ru/rent/flat/307449317/,Москва,rent,flat,21,24,2,57.0,50000,0,,Центральная ,8,Лобня
+7,Инна Колесник,realtor,https://lobnya.cian.ru/rent/flat/307139253/,Москва,rent,flat,2,5,2,45.0,43000,0,, Калинина,12,Лобня
+8,ID 78325373,homeowner,https://mytishchi.cian.ru/rent/flat/306074619/,Москва,rent,flat,3,4,2,65.0,55000,0,д. Сухарево, Егорова,,
+9,Leto Estate,real_estate_agent,https://mytishchi.cian.ru/rent/flat/301221095/,Москва,rent,flat,1,3,2,130.0,250000,0,д. Румянцево, Центральная,1,
+10,Мария Дмитриева,realtor,https://dmitrov.cian.ru/rent/flat/291777292/,Москва,rent,flat,2,3,2,42.0,35000,0,Заповедное Озеро кп,проезд Центральный,1,
+11,Меркурий,real_estate_agent,https://dolgoprudny.cian.ru/rent/flat/307651061/,Москва,rent,flat,10,16,1,45.0,40000,0,,Лихачевское шоссе,6к4,Долгопрудная
+12,ID 36254226,homeowner,https://dolgoprudny.cian.ru/rent/flat/306410866/,Москва,rent,flat,17,27,1,44.2,28000,0,,Новый бульвар,7,Долгопрудная
+13,ID 86211378,homeowner,https://dolgoprudny.cian.ru/rent/flat/292359560/,Москва,rent,flat,22,24,1,26.0,40000,0,,Парковая ,52,Водники
+14,ID 13465034,homeowner,https://dolgoprudny.cian.ru/rent/flat/307394297/,Москва,rent,flat,22,23,1,25.0,47000,0,,Парковая ,52,Водники
+15,Самолет плюс - Москва,real_estate_agent,https://dolgoprudny.cian.ru/rent/flat/307668168/,Москва,rent,flat,15,22,2,57.0,40000,0,,Набережная ,27,Водники
+16,ID 96317670,homeowner,https://dolgoprudny.cian.ru/rent/flat/307638139/,Москва,rent,flat,17,17,1,53.0,40000,0,,Лихачевский проспект,68к4,Долгопрудная
+17,Ольга Самарина,realtor,https://lobnya.cian.ru/rent/flat/306661353/,Москва,rent,flat,2,19,-1,18.0,35000,0,, Жирохова,1,Лобня
+18,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://mytishchi.cian.ru/rent/flat/300009862/,Москва,rent,flat,4,10,1,43.0,35000,0,,,,
+19,ID 15770953,homeowner,https://dolgoprudny.cian.ru/rent/flat/307584889/,Москва,rent,flat,16,23,-1,24.0,43000,0,,Парковая ,54,Долгопрудная
+20,ID 122109532,homeowner,https://dolgoprudny.cian.ru/rent/flat/307664538/,Москва,rent,flat,12,17,1,32.9,40000,0,,Молодежная ,4,Долгопрудная
+21,ID 58780286,homeowner,https://dolgoprudny.cian.ru/rent/flat/294177311/,Москва,rent,flat,10,19,2,55.0,60000,0,,Набережная ,29к1,Водники
+22,ID 25406066,unknown,https://dolgoprudny.cian.ru/rent/flat/307434057/,Москва,rent,flat,2,5,2,56.0,45000,0,,Первомайская ,17,Долгопрудная
+23,ID 72329732,realtor,https://dolgoprudny.cian.ru/rent/flat/307391754/,Москва,rent,flat,19,20,2,45.0,50000,0,,проспект Ракетостроителей,9к3,Долгопрудная

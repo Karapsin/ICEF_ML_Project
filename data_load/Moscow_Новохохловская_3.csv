@@ -1,0 +1,23 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Ирина Демьянова,realtor,https://www.cian.ru/rent/flat/307582243/,Москва,rent,flat,2,24,3,71.3,120000,0,Нижегородский,Новохохловская ,15к2,Новохохловская
+1,Василий Павлов,realtor,https://www.cian.ru/rent/flat/305682318/,Москва,rent,flat,4,33,3,72.0,140000,0,Нижегородский,Новохохловская ,15к3,Новохохловская
+2,ID 19241779,unknown,https://www.cian.ru/rent/flat/302306265/,Москва,rent,flat,14,33,3,72.1,130000,0,Нижегородский,Новохохловская ,15к3,Новохохловская
+3,ID 21239956,realtor,https://www.cian.ru/rent/flat/307570941/,Москва,rent,flat,20,41,4,100.0,100000,0,Раменки,1-й Сетуньский проезд,8,Кутузовская
+4,АКРУС-сити,real_estate_agent,https://www.cian.ru/rent/flat/278475310/,Москва,rent,flat,10,12,3,65.0,75000,0,Басманный, Госпитальный Вал,3К5,Лефортово
+5,ID 36706777,real_estate_agent,https://www.cian.ru/rent/flat/307041346/,Москва,rent,flat,2,8,3,75.0,120000,0,Басманный, Земляной Вал,24/32,Курская
+6,Central-arenda,real_estate_agent,https://www.cian.ru/rent/flat/291299261/,Москва,rent,flat,7,14,3,78.0,70000,0,Соколиная гора, 5-я Соколиной Горы,18К2,Шоссе Энтузиастов
+7,ID 13281743,homeowner,https://www.cian.ru/rent/flat/307060770/,Москва,rent,flat,11,16,3,64.0,95000,0,Нагорный,Симферопольский бульвар,37к1,Чертановская
+8,Николай Шевченко,realtor,https://www.cian.ru/rent/flat/307665487/,Москва,rent,flat,6,11,4,118.7,150000,0,Соколиная гора,Щербаковская ,40,Семёновская
+9,Владимир Фетискин,realtor,https://www.cian.ru/rent/flat/307657123/,Москва,rent,flat,15,23,3,78.0,110000,0,Можайский,Гродненская ,9,Давыдково
+10,Элитный Дом,real_estate_agent,https://www.cian.ru/rent/flat/307534548/,Москва,rent,flat,6,30,3,70.0,125000,0,Южнопортовый,Волгоградский проспект,32/5к1,Угрешская
+11,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307575910/,Москва,rent,flat,11,21,3,80.0,135000,0,Южнопортовый, Мельникова,3к6,Волгоградский проспект
+12,ID 158648,realtor,https://www.cian.ru/rent/flat/307618444/,Москва,rent,flat,6,6,3,67.0,105000,0,Таганский,2-я Дубровская ,10/8,Пролетарская
+13,ID 92209177,homeowner,https://www.cian.ru/rent/flat/305592315/,Москва,rent,flat,11,25,3,80.0,170000,0,Вешняки,Вешняковская ,24К1,Выхино
+14,ID 131859,homeowner,https://www.cian.ru/rent/flat/298689193/,Москва,rent,flat,3,17,3,65.2,110000,0,Таганский,Марксистская ,9,Пролетарская
+15,Виктория Хижняк,realtor,https://www.cian.ru/rent/flat/307701480/,Москва,rent,flat,3,5,3,57.0,100000,0,Южнопортовый,1-я Дубровская ,4Б,Пролетарская
+16,ID 170359,unknown,https://www.cian.ru/rent/flat/306797025/,Москва,rent,flat,3,3,3,64.0,120000,0,Басманный,Гороховский переулок,4к5с7,Курская
+17,ID 45447235,homeowner,https://www.cian.ru/rent/flat/307685822/,Москва,rent,flat,17,18,3,75.2,100000,0,Кузьминки, Юных Ленинцев,73,Кузьминки
+18,Елена Деменникова,realtor,https://www.cian.ru/rent/flat/307393381/,Москва,rent,flat,9,12,3,80.0,130000,0,Таганский,Краснохолмская набережная,1/15,Таганская
+19,ID 20188,realtor,https://www.cian.ru/rent/flat/307657602/,Москва,rent,flat,6,13,3,53.6,95000,0,Таганский,Волгоградский проспект,1С1,Пролетарская
+20,Ahmadulin Estate,real_estate_agent,https://www.cian.ru/rent/flat/307296949/,Москва,rent,flat,11,16,3,75.1,95000,0,Ясенево,Литовский бульвар,10К1,Ясенево
+21,Виталий Белоус,realtor,https://www.cian.ru/rent/flat/307596929/,Москва,rent,flat,7,17,3,84.2,110000,0,Таганский,Международная ,22С1,Москва-Товарная

@@ -1,0 +1,52 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,ID 16175651,homeowner,https://khimki.cian.ru/rent/flat/307755142/,Москва,rent,flat,4,5,2,40.0,55000,0,, Ивановская,5к2,Молжаниново
+1,Елена Королева,realtor,https://khimki.cian.ru/rent/flat/307696861/,Москва,rent,flat,6,8,2,50.0,100000,0,, Ивановская,53к1,Молжаниново
+2,Домина Групп,real_estate_agent,https://khimki.cian.ru/rent/flat/307670990/,Москва,rent,flat,12,17,2,52.0,58000,0,, Марии Рубцовой,3,Молжаниново
+3,ID 14017258,homeowner,https://www.cian.ru/rent/flat/307653586/,Москва,rent,flat,9,14,2,59.4,65000,0,Молжаниновский,Ленинградское шоссе,228к3,Молжаниново
+4,ID 47278279,homeowner,https://www.cian.ru/rent/flat/307636634/,Москва,rent,flat,9,15,2,59.4,65000,0,Молжаниновский,Ленинградское шоссе,228к3,Молжаниново
+5,Дмитрий Вартанов,realtor,https://khimki.cian.ru/rent/flat/307633620/,Москва,rent,flat,15,16,2,69.0,60000,0,,,19,Молжаниново
+6,Анна Овчинникова,realtor,https://khimki.cian.ru/rent/flat/307629396/,Москва,rent,flat,3,5,2,59.0,65000,0,, Ивановская,6к1,Молжаниново
+7,ПИК-Аренда,real_estate_agent,https://khimki.cian.ru/rent/flat/307581591/,Москва,rent,flat,22,25,2,84.9,69900,0,,проспект Мельникова,13,Молжаниново
+8,Парус,real_estate_agent,https://khimki.cian.ru/rent/flat/307573262/,Москва,rent,flat,6,17,2,53.0,59000,0,, Марии Рубцовой,5,Молжаниново
+9,ID 47995649,real_estate_agent,https://khimki.cian.ru/rent/flat/307462639/,Москва,rent,flat,22,27,2,65.0,65000,0,,проспект Мельникова,3,Молжаниново
+10,ID 45150,realtor,https://khimki.cian.ru/rent/flat/307389473/,Москва,rent,flat,10,24,2,61.8,65000,0,,проезд Молодежный,6,Молжаниново
+11,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307388165/,Москва,rent,flat,6,14,2,58.0,60000,0,Молжаниновский,Ленинградское шоссе,228к3,Молжаниново
+12,ID 285360,realtor,https://khimki.cian.ru/rent/flat/307368851/,Москва,rent,flat,17,18,2,58.0,65000,0,, Германа Титова,5к2,Молжаниново
+13,ID 121745839,homeowner,https://khimki.cian.ru/rent/flat/307318872/,Москва,rent,flat,25,25,2,60.0,70000,0,,Молодежная ,64,Молжаниново
+14,Анна Миронова,realtor,https://khimki.cian.ru/rent/flat/307274701/,Москва,rent,flat,18,25,2,68.0,120000,0,, Родионова,5,Молжаниново
+15,АЛЬФА,real_estate_agent,https://khimki.cian.ru/rent/flat/307128117/,Москва,rent,flat,2,8,2,70.0,140000,0,, Заречная,5к1,Молжаниново
+16,ID 112384704,homeowner,https://www.cian.ru/rent/flat/307083503/,Москва,rent,flat,8,14,2,49.3,65000,0,Куркино,Соколово-Мещерская ,26к1,Молжаниново
+17,ГОРОБМЕН,real_estate_agent,https://khimki.cian.ru/rent/flat/307005834/,Москва,rent,flat,8,25,2,60.2,62000,0,,Молодежная ,54,Молжаниново
+18,ID 13364862,unknown,https://khimki.cian.ru/rent/flat/306471632/,Москва,rent,flat,2,9,2,80.0,130000,0,, Заречная,3к1,Молжаниново
+19,ID 16652,realtor,https://www.cian.ru/rent/flat/306456511/,Москва,rent,flat,6,6,2,50.0,80000,0,Куркино,Родионовская ,12к1,Молжаниново
+20,Капитал Риэлт-Аренда,real_estate_agent,https://www.cian.ru/rent/flat/306264346/,Москва,rent,flat,3,10,2,70.0,70000,0,Куркино,Новокуркинское шоссе,31,Молжаниново
+21,ID 120508088,homeowner,https://khimki.cian.ru/rent/flat/306125809/,Москва,rent,flat,11,25,2,75.0,65000,0,,Молодежная ,36А,Молжаниново
+22,Уютный Дом,real_estate_agent,https://khimki.cian.ru/rent/flat/306090400/,Москва,rent,flat,9,26,2,47.0,58000,0,,Юбилейный проспект,82А,Молжаниново
+23,Нонна Аветисян,realtor,https://khimki.cian.ru/rent/flat/306062864/,Москва,rent,flat,24,25,2,59.0,85000,0,,проезд Молодежный,6,Молжаниново
+24,ID 10202212,unknown,https://khimki.cian.ru/rent/flat/304840227/,Москва,rent,flat,17,17,2,57.5,100000,0,, Германа Титова,5к2,Молжаниново
+25,ID 90676594,homeowner,https://khimki.cian.ru/rent/flat/304614510/,Москва,rent,flat,6,8,2,56.0,95000,0,, Заречная,2к3,Молжаниново
+26,ID 6431,realtor,https://khimki.cian.ru/rent/flat/303992554/,Москва,rent,flat,8,12,2,46.0,45000,0,,Парковая ,12,Молжаниново
+27,Светлана Иванова,realtor,https://khimki.cian.ru/rent/flat/302506762/,Москва,rent,flat,10,17,2,85.0,45000,0,,Молодежная ,34к1,Молжаниново
+28,ID 27594,realtor,https://khimki.cian.ru/rent/flat/300950285/,Москва,rent,flat,8,25,2,61.0,56000,0,,Молодежная ,52,Молжаниново
+29,ID 9785704,homeowner,https://www.cian.ru/rent/flat/297795895/,Москва,rent,flat,5,23,2,47.0,65000,0,Куркино, Соловьиная Роща,10,Молжаниново
+30,ID 72215705,homeowner,https://khimki.cian.ru/rent/flat/297208654/,Москва,rent,flat,5,5,2,58.0,70000,0,, Ивановская,12к2,Молжаниново
+31,ID 109123210,homeowner,https://www.cian.ru/rent/flat/294195303/,Москва,rent,flat,8,14,2,58.0,60000,0,Молжаниновский,Ленинградское шоссе,228к3,Молжаниново
+32,ID 87266840,homeowner,https://khimki.cian.ru/rent/flat/278409191/,Москва,rent,flat,2,8,2,49.0,125000,0,, Заречная,1,Молжаниново
+33,BE FREE,real_estate_agent,https://khimki.cian.ru/rent/flat/277914722/,Москва,rent,flat,2,8,2,71.0,140000,0,, Заречная,5к1,Молжаниново
+34,ID 19150429,homeowner,https://khimki.cian.ru/rent/flat/227794573/,Москва,rent,flat,23,25,2,65.0,80000,0,, Родионова,7Б,Молжаниново
+35,ID 25986017,homeowner,https://khimki.cian.ru/rent/flat/207088362/,Москва,rent,flat,2,8,2,70.0,145000,0,, Заречная,5к1,Молжаниново
+36,ФЛЭТ Зеленоград,real_estate_agent,https://khimki.cian.ru/rent/flat/307381994/,Москва,rent,flat,17,17,1,39.0,42000,0,,Железнодорожная ,33к1,Сходня
+37,Павел Черкашин,realtor,https://khimki.cian.ru/rent/flat/307627441/,Москва,rent,flat,3,9,2,45.0,48000,0,,Юбилейный проспект,40,Химки
+38,ID 122026980,homeowner,https://khimki.cian.ru/rent/flat/307596093/,Москва,rent,flat,23,23,1,43.0,42000,0,, Горшина,6к2,Химки
+39,Антон Садаев,realtor,https://khimki.cian.ru/rent/flat/207088119/,Москва,rent,flat,9,16,1,40.0,45000,0,,Юбилейный проспект,9/1,Химки
+40,MDco,real_estate_agent,https://khimki.cian.ru/rent/flat/307635432/,Москва,rent,flat,15,17,2,60.0,55000,0,,Молодежная ,1,Сходненская
+41,МИЭЛЬ,real_estate_agent,https://khimki.cian.ru/rent/flat/307103520/,Москва,rent,flat,4,15,1,42.0,48000,0,, Академика Грушина,10,Химки
+42,ID 434904,realtor,https://khimki.cian.ru/rent/flat/303313494/,Москва,rent,flat,7,21,1,24.0,44228,0,, Имени К.И. Вороницына,18к1,Молжаниново
+43,ИНГРУПП,real_estate_agent,https://khimki.cian.ru/rent/flat/307360477/,Москва,rent,flat,9,17,3,91.0,60000,0,мкр. Подрезково,Центральная ,6к2,
+44,Дмитрий Левин,realtor,https://khimki.cian.ru/rent/flat/307631148/,Москва,rent,flat,14,25,1,40.0,40000,0,,Молодежная ,52,Молжаниново
+45,Евгений Мартынов,realtor,https://khimki.cian.ru/rent/flat/307625332/,Москва,rent,flat,3,12,2,61.0,47000,0,, Жаринова,15,Подрезково
+46,ID 119968385,homeowner,https://khimki.cian.ru/rent/flat/305533224/,Москва,rent,flat,3,26,1,37.0,49900,0,,Совхозная ,16к2,Левобережная
+47,ID 73419482,homeowner,https://khimki.cian.ru/rent/flat/305247949/,Москва,rent,flat,2,4,1,40.4,59000,0,, Ивановская,3к2,Молжаниново
+48,ID 13893490,realtor,https://khimki.cian.ru/rent/flat/299202583/,Москва,rent,flat,8,9,1,41.0,42000,0,, Кирова,26,Химки
+49,ГАРАНТ,real_estate_agent,https://khimki.cian.ru/rent/flat/307603094/,Москва,rent,flat,5,9,2,45.0,50000,0,,Зеленая ,11,Левобережная
+50,Ольга Зайцева,realtor,https://khimki.cian.ru/rent/flat/307601624/,Москва,rent,flat,7,28,1,40.4,45000,0,,Ленинский проспект,16,Химки

@@ -1,0 +1,29 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,VIVAVI ESTATE,real_estate_agent,https://www.cian.ru/rent/flat/307715280/,Москва,rent,flat,18,20,2,60.7,190000,0,Алексеевский,Новоалексеевская ,16к4,Алексеевская
+1,Абсолют Капитал Недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/307709304/,Москва,rent,flat,9,10,2,60.0,85000,0,Останкинский,проспект Мира,89,Алексеевская
+2,СЕДЬМОЕ НЕБО,real_estate_agent,https://www.cian.ru/rent/flat/307706067/,Москва,rent,flat,11,19,2,64.0,150000,0,Алексеевский,Маломосковская ,14,Алексеевская
+3,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307701985/,Москва,rent,flat,20,35,2,45.0,130000,0,Останкинский, Годовикова,11к4,Алексеевская
+4,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307680523/,Москва,rent,flat,6,11,2,70.0,90000,0,Алексеевский,Рижский проезд,3,Алексеевская
+5,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307672680/,Москва,rent,flat,7,22,2,60.0,130000,0,Алексеевский,Староалексеевская ,3,Алексеевская
+6,ID 77724110,homeowner,https://www.cian.ru/rent/flat/307660742/,Москва,rent,flat,1,8,2,54.7,80000,0,Алексеевский,Рижский проезд,5,Алексеевская
+7,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307656589/,Москва,rent,flat,19,21,2,50.0,120000,0,Алексеевский,Маломосковская ,14,Алексеевская
+8,ID 15390,realtor,https://www.cian.ru/rent/flat/307651560/,Москва,rent,flat,1,8,2,61.0,80000,0,Алексеевский, Павла Корчагина,10,Алексеевская
+9,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307651377/,Москва,rent,flat,5,21,2,52.0,160000,0,Алексеевский,Новоалексеевская ,16к3,Алексеевская
+10,ID 91549886,homeowner,https://www.cian.ru/rent/flat/307650318/,Москва,rent,flat,5,8,2,50.0,160000,0,Алексеевский,Новоалексеевская ,16к3,Алексеевская
+11,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307634945/,Москва,rent,flat,19,33,2,45.0,130000,0,Останкинский, Годовикова,11к4,Алексеевская
+12,Азбука Жилья Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307584262/,Москва,rent,flat,6,12,2,38.0,65000,0,Алексеевский,Новоалексеевская ,4К2,Алексеевская
+13,ID 122006073,homeowner,https://www.cian.ru/rent/flat/307572528/,Москва,rent,flat,11,12,2,38.0,89000,0,Алексеевский,Ярославская ,4К1,Алексеевская
+14,Елена Горшкова,realtor,https://www.cian.ru/rent/flat/307562308/,Москва,rent,flat,4,9,2,45.0,140000,0,Алексеевский,Новоалексеевская ,16к3,Алексеевская
+15,Техно Трейд,real_estate_agent,https://www.cian.ru/rent/flat/307544195/,Москва,rent,flat,2,8,2,61.0,70000,0,Алексеевский,Рижский проезд,1/5,Алексеевская
+16,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307491690/,Москва,rent,flat,8,17,2,63.0,78000,0,Алексеевский,3-я Мытищинская ,3к2,Алексеевская
+17,Мой Дом - отделение Добрынинское,real_estate_agent,https://www.cian.ru/rent/flat/307485274/,Москва,rent,flat,3,8,2,63.0,80000,0,Алексеевский,Рижский проезд,1/5,Алексеевская
+18,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307459971/,Москва,rent,flat,14,17,2,44.0,73500,0,Алексеевский,проспект Мира,110/2,Алексеевская
+19,Las Vegas,real_estate_agent,https://www.cian.ru/rent/flat/307431970/,Москва,rent,flat,7,7,2,40.5,150000,0,Алексеевский,проспект Мира,102к2,Алексеевская
+20,EstateLiga,real_estate_agent,https://www.cian.ru/rent/flat/307391481/,Москва,rent,flat,14,15,2,76.0,145000,0,Останкинский,проспект Мира,95,Алексеевская
+21,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307364077/,Москва,rent,flat,10,17,2,60.0,90000,0,Алексеевский,3-я Мытищинская ,3к1,Алексеевская
+22,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307317415/,Москва,rent,flat,10,14,2,55.0,88000,0,Останкинский,2-я Новоостанкинская ,19,Алексеевская
+23,Delight Realty,real_estate_agent,https://www.cian.ru/rent/flat/307313696/,Москва,rent,flat,12,16,2,96.0,140000,0,Останкинский,2-я Новоостанкинская ,12,Алексеевская
+24,Самолет плюс - Москва,real_estate_agent,https://www.cian.ru/rent/flat/307309956/,Москва,rent,flat,4,5,2,45.0,70000,0,Останкинский,Звездный бульвар,34К2,Алексеевская
+25,Владимир Волошинов,realtor,https://www.cian.ru/rent/flat/307262431/,Москва,rent,flat,5,5,2,45.0,95000,0,Останкинский,Звездный бульвар,22К2,Алексеевская
+26,ID 72629792,unknown,https://www.cian.ru/rent/flat/307220063/,Москва,rent,flat,4,4,2,24.0,72000,0,Останкинский,проезд Ольминского,7,Алексеевская
+27,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307200840/,Москва,rent,flat,14,17,2,58.0,120000,0,Останкинский,Большая Марьинская ,11,Алексеевская

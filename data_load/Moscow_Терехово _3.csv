@@ -1,0 +1,5 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,ID 28036,realtor,https://www.cian.ru/rent/flat/307679619/,Москва,rent,flat,8,9,1,33.6,85000,0,Сокол, Сальвадора Альенде,4К2,Панфиловская
+1,ID 52445309,homeowner,https://www.cian.ru/rent/flat/283308670/,Москва,rent,flat,13,16,1,40.0,70000,0,Лианозово,Псковская ,10К1,Лианозово
+2,ID 12589892,homeowner,https://www.cian.ru/rent/flat/307437746/,Москва,rent,flat,16,17,1,37.9,76000,0,Крылатское,Осенний бульвар,8К1,Крылатское
+3,ПАРТНЕР,real_estate_agent,https://www.cian.ru/rent/flat/307673895/,Москва,rent,flat,11,17,2,52.0,80000,0,Хорошево-Мневники, Маршала Тухачевского,14к1,Народное Ополчение

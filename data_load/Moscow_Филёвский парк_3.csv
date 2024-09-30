@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,ID 25007,realtor,https://www.cian.ru/rent/flat/307745879/,Москва,rent,flat,5,5,3,90.0,95000,0,Фили-Давыдково, Герасима Курина,4К1,Филёвский парк
+1,ID 33191906,unknown,https://www.cian.ru/rent/flat/307701539/,Москва,rent,flat,4,5,3,58.6,80000,0,Филевский парк,Сеславинская ,38,Филёвский парк
+2,Аделина Гасанова,realtor,https://www.cian.ru/rent/flat/307649862/,Москва,rent,flat,3,5,3,60.0,100000,0,Фили-Давыдково, Герасима Курина,8К3,Филёвский парк
+3,Сермус Макс,real_estate_agent,https://www.cian.ru/rent/flat/307639196/,Москва,rent,flat,1,5,3,77.0,98000,0,Фили-Давыдково, Герасима Курина,8К1,Филёвский парк
+4,ID 239897,realtor,https://www.cian.ru/rent/flat/307602193/,Москва,rent,flat,26,28,3,100.0,340000,0,Филевский парк, Василисы Кожиной,13,Филёвский парк
+5,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307581867/,Москва,rent,flat,4,9,3,84.0,250000,0,Филевский парк,Большая Филевская ,16,Филёвский парк
+6,ID 121720418,homeowner,https://www.cian.ru/rent/flat/307296646/,Москва,rent,flat,10,23,3,115.6,190000,0,Филевский парк,Кастанаевская ,24,Филёвский парк
+7,ЦДВ Инвест,real_estate_agent,https://www.cian.ru/rent/flat/307219776/,Москва,rent,flat,11,22,3,95.0,155000,0,Филевский парк,2-я Филевская ,6,Филёвский парк
+8,МИЭЛЬ,real_estate_agent,https://www.cian.ru/rent/flat/307152028/,Москва,rent,flat,2,12,3,74.6,125000,0,Филевский парк, Василисы Кожиной,14К7,Филёвский парк
+9,Адрес,real_estate_agent,https://www.cian.ru/rent/flat/307033433/,Москва,rent,flat,5,14,3,79.5,120000,0,Филевский парк,Кастанаевская ,12к1,Филёвский парк
+10,ID 478645,realtor,https://www.cian.ru/rent/flat/306493672/,Москва,rent,flat,8,18,3,115.0,220000,0,Филевский парк,2-я Филевская ,6к4,Филёвский парк
+11,Славянка - офис Северо-Запад,real_estate_agent,https://www.cian.ru/rent/flat/304497537/,Москва,rent,flat,6,14,3,70.0,220000,0,Раменки,проспект Генерала Дорохова,39к1,Филёвский парк
+12,Фатима Георгиевна Валиева,realtor,https://www.cian.ru/rent/flat/304000774/,Москва,rent,flat,2,18,3,106.2,180000,0,Филевский парк,Кастанаевская ,17,Филёвский парк
+13,ID 105729572,homeowner,https://www.cian.ru/rent/flat/300549909/,Москва,rent,flat,3,5,3,58.0,90000,0,Филевский парк, Василисы Кожиной,24К1,Филёвский парк
+14,ID 221555,realtor,https://www.cian.ru/rent/flat/289256520/,Москва,rent,flat,9,22,3,120.0,150000,0,Филевский парк,Кастанаевская ,18,Филёвский парк
+15,RITA ZURABOVNA REALTY,real_estate_agent,https://www.cian.ru/rent/flat/307718450/,Москва,rent,flat,4,10,3,95.0,110000,0,Арбат,1-й Смоленский переулок,9С1,Смоленская
+16,Виктор Смолич,realtor,https://www.cian.ru/rent/flat/307636448/,Москва,rent,flat,4,14,4,110.0,140000,0,Крылатское,Осенняя ,2,Крылатское
+17,ID 21239956,realtor,https://www.cian.ru/rent/flat/307570941/,Москва,rent,flat,20,41,4,100.0,100000,0,Раменки,1-й Сетуньский проезд,8,Кутузовская
+18,Станислав Фомин,realtor,https://www.cian.ru/rent/flat/307414020/,Москва,rent,flat,3,9,3,60.0,120000,0,Дорогомилово,Поклонная ,6,Кутузовская
+19,Intermark Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307400203/,Москва,rent,flat,6,9,3,82.0,140000,0,Филевский парк,Большая Филевская ,16к1,Фили
+20,Центральный Департамент Недвижимости,real_estate_agent,https://www.cian.ru/rent/flat/307508521/,Москва,rent,flat,2,17,3,78.0,110000,0,Крылатское, Крылатские Холмы,30К4,Крылатское
+21,Альфия Рахматуллина,realtor,https://www.cian.ru/rent/flat/307707662/,Москва,rent,flat,2,7,2,74.0,110000,0,Можайский,Верейская ,29С151,Давыдково
+22,ID 48464686,realtor,https://www.cian.ru/rent/flat/307113498/,Москва,rent,flat,15,23,3,75.0,150000,0,Очаково-Матвеевское,Веерная ,26А,Матвеевская
+23,ID 12730904,official_representative,https://www.cian.ru/rent/flat/291746518/,Москва,rent,flat,12,29,3,65.0,154990,0,Фили-Давыдково, Ивана Франко,6,Кунцевская
+24,Патимат Шихабудинова,realtor,https://www.cian.ru/rent/flat/307525865/,Москва,rent,flat,9,22,3,112.5,160000,0,Можайский, Кутузова,11К4,Рабочий посёлок

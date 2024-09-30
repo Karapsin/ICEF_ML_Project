@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Елена Булаткина,realtor,https://www.cian.ru/rent/flat/307723689/,Москва,rent,flat,6,8,1,65.0,160000,0,Дорогомилово,Кутузовский проспект,31,Студенческая
+1,Ирина Кухтина,realtor,https://www.cian.ru/rent/flat/307359742/,Москва,rent,flat,6,9,1,38.0,90000,0,Дорогомилово,Большая Дорогомиловская ,16,Студенческая
+2,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/306732424/,Москва,rent,flat,4,10,1,50.0,200000,0,Дорогомилово,Кутузовский проспект,12,Студенческая
+3,Светлана Софейкова,realtor,https://www.cian.ru/rent/flat/299465383/,Москва,rent,flat,10,12,1,31.0,80000,0,Дорогомилово,Кутузовский проспект,25,Студенческая
+4,ID 84848376,homeowner,https://www.cian.ru/rent/flat/278120719/,Москва,rent,flat,5,9,1,35.0,115000,0,Дорогомилово,Кутузовский проспект,15,Студенческая
+5,Андрей Вокин,realtor,https://www.cian.ru/rent/flat/307647164/,Москва,rent,flat,7,8,1,35.0,65000,0,Хамовники,Новодевичий проезд,4,Спортивная
+6,Любовь Щербакова,realtor,https://www.cian.ru/rent/flat/307334054/,Москва,rent,flat,9,9,1,34.0,60000,0,Пресненский,Звенигородское шоссе,3АС1,Улица 1905 года
+7,ID 23956980,realtor,https://www.cian.ru/rent/flat/307625261/,Москва,rent,flat,1,5,1,33.0,65000,0,Якиманка,2-й Добрынинский переулок,5/9,Добрынинская
+8,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307494461/,Москва,rent,flat,5,5,1,33.0,50000,0,Фили-Давыдково, Алексея Свиридова,3,Кунцевская
+9,ID 161274,real_estate_agent,https://www.cian.ru/rent/flat/307502571/,Москва,rent,flat,1,14,1,40.0,40000,0,Раменки,проспект Генерала Дорохова,39к1,Минская
+10,Вартан Вартанян,realtor,https://www.cian.ru/rent/flat/307525401/,Москва,rent,flat,12,12,2,49.0,100000,0,Арбат,Староконюшенный переулок,30,Кропоткинская
+11,Олег Кочнев,realtor,https://www.cian.ru/rent/flat/306897340/,Москва,rent,flat,3,12,2,53.0,145000,0,Хамовники,Большая Пироговская ,53-55,Спортивная
+12,Мой Дом - отделение Добрынинское,real_estate_agent,https://www.cian.ru/rent/flat/307414036/,Москва,rent,flat,4,6,2,54.0,90000,0,Дорогомилово,Кутузовский проспект,24,Студенческая
+13,ID 57471694,unknown,https://www.cian.ru/rent/flat/301801057/,Москва,rent,flat,12,17,1,39.0,55000,0,Филевский парк, Василисы Кожиной,14К2,Багратионовская
+14,Maroom,real_estate_agent,https://www.cian.ru/rent/flat/307062999/,Москва,rent,flat,8,14,1,35.5,88000,0,Хамовники,Малая Пироговская ,27К1,Спортивная
+15,ID 23184073,homeowner,https://www.cian.ru/rent/flat/269988733/,Москва,rent,flat,20,25,1,35.0,85000,0,Филевский парк,Береговой проезд,5Ак7,Фили
+16,Диана Товт,realtor,https://www.cian.ru/rent/flat/306948289/,Москва,rent,flat,8,8,2,60.1,100000,0,Дорогомилово,Кутузовский проспект,33,Студенческая
+17,ID 1723,realtor,https://www.cian.ru/rent/flat/307661096/,Москва,rent,flat,7,9,1,31.0,80000,0,Арбат,Смоленская ,10,Смоленская
+18,Life Style,real_estate_agent,https://www.cian.ru/rent/flat/307654708/,Москва,rent,flat,3,9,2,43.0,80000,0,Дорогомилово,Поклонная ,12,Кутузовская
+19,Real Market Estate,real_estate_agent,https://www.cian.ru/rent/flat/295588060/,Москва,rent,flat,4,12,2,46.0,62000,0,Филевский парк,Большая Филевская ,35,Филёвский парк
+20,Павел Смирнов,realtor,https://www.cian.ru/rent/flat/307521527/,Москва,rent,flat,1,5,1,42.0,80000,0,Фили-Давыдково,Минская ,15К2,Филёвский парк
+21,SPENСER ESTATE,real_estate_agent,https://www.cian.ru/rent/flat/307646459/,Москва,rent,flat,5,12,2,54.0,100000,0,Дорогомилово,Кутузовский проспект,4/2,Киевская
+22,ID 17437770,homeowner,https://www.cian.ru/rent/flat/279755126/,Москва,rent,flat,4,12,2,45.0,105000,0,Пресненский,Шмитовский проезд,28,Москва-Сити
+23,МСКАГЕНТ,real_estate_agent,https://www.cian.ru/rent/flat/249940577/,Москва,rent,flat,5,21,1,47.0,90000,0,Филевский парк,Береговой проезд,5к2,Фили
+24,Диана Товт,realtor,https://www.cian.ru/rent/flat/307505419/,Москва,rent,flat,6,9,2,54.6,100000,0,Дорогомилово,Большая Дорогомиловская ,9,Студенческая

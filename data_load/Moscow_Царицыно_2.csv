@@ -1,0 +1,54 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Светлана Анисимова,realtor,https://www.cian.ru/rent/flat/307728993/,Москва,rent,flat,8,33,2,36.0,65000,0,Царицыно,Кавказский бульвар,51к2,Царицыно
+1,Сергей Соловьев,realtor,https://www.cian.ru/rent/flat/307724836/,Москва,rent,flat,22,24,2,65.0,32000,0,Бирюлево Восточное,6-я Радиальная ,7/1к2,Царицыно
+2,Елена Лапшина,realtor,https://vidnoye.cian.ru/rent/flat/307723846/,Москва,rent,flat,3,5,2,44.0,45000,0,,Советская ,54,Царицыно
+3,Циан х ПИК-Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307706744/,Москва,rent,flat,2,33,2,53.3,115000,0,Царицыно,Кавказский бульвар,51к2,Царицыно
+4,Алексей Барсуков,realtor,https://www.cian.ru/rent/flat/307684678/,Москва,rent,flat,5,5,2,45.0,59500,0,Царицыно, Бехтерева,35К2,Царицыно
+5,ID 91741934,homeowner,https://www.cian.ru/rent/flat/307682554/,Москва,rent,flat,4,5,2,32.0,52000,0,Царицыно,Пролетарский проспект,26К4,Царицыно
+6,Мурад Рзаев,realtor,https://vidnoye.cian.ru/rent/flat/307674742/,Москва,rent,flat,11,19,2,60.0,60000,0,, Березовая,14,Царицыно
+7,ID 57640508,unknown,https://vidnoye.cian.ru/rent/flat/307661600/,Москва,rent,flat,9,17,2,57.0,52000,0,,бульвар Зеленые аллеи,14,Царицыно
+8,ID 74592860,homeowner,https://www.cian.ru/rent/flat/307639362/,Москва,rent,flat,2,16,2,52.0,65000,0,Бирюлево Восточное,Михневский проезд,10,Царицыно
+9,Александра Глотова,realtor,https://vidnoye.cian.ru/rent/flat/307628699/,Москва,rent,flat,5,17,2,68.5,59000,0,,бульвар Зеленые аллеи,12,Царицыно
+10,Московские ключи,real_estate_agent,https://www.cian.ru/rent/flat/307624559/,Москва,rent,flat,14,33,2,40.0,75000,0,Царицыно,Кавказский бульвар,51к2,Царицыно
+11,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307608202/,Москва,rent,flat,2,5,2,42.0,55000,0,Москворечье-Сабурово, Кошкина,7,Царицыно
+12,Кристина Жигулина,realtor,https://www.cian.ru/rent/flat/307607182/,Москва,rent,flat,5,50,2,60.0,70000,0,Бирюлево Восточное,Михневская ,8,Царицыно
+13,Владислав Заименко,realtor,https://www.cian.ru/rent/flat/307588001/,Москва,rent,flat,8,15,2,52.0,70000,0,Царицыно,Пролетарский проспект,25,Царицыно
+14,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307572249/,Москва,rent,flat,13,14,2,51.0,65000,0,Орехово-Борисово Северное, Маршала Захарова,16К1,Царицыно
+15,ID 81291799,homeowner,https://vidnoye.cian.ru/rent/flat/307567730/,Москва,rent,flat,1,12,2,60.0,60000,0,,Жуковский проезд,5,Царицыно
+16,ID 13419828,real_estate_agent,https://www.cian.ru/rent/flat/307546780/,Москва,rent,flat,5,5,2,49.0,60000,0,Царицыно, Медиков,18,Царицыно
+17,Замоскворечье,real_estate_agent,https://www.cian.ru/rent/flat/307543485/,Москва,rent,flat,7,9,2,44.0,70000,0,Царицыно, Медиков,13,Царицыно
+18,ID 24690,realtor,https://www.cian.ru/rent/flat/307541584/,Москва,rent,flat,6,9,2,45.0,48000,0,Бирюлево Восточное,Бирюлевская ,52К1,Царицыно
+19,ID 87217355,realtor,https://www.cian.ru/rent/flat/307539810/,Москва,rent,flat,5,9,2,46.9,65000,0,Царицыно, Бехтерева,41К1,Царицыно
+20,КоридорЪ,real_estate_agent,https://vidnoye.cian.ru/rent/flat/307474303/,Москва,rent,flat,17,17,2,68.0,57000,0,, Завидная,13,Царицыно
+21,Александр Седов,realtor,https://vidnoye.cian.ru/rent/flat/307460777/,Москва,rent,flat,12,17,2,56.0,50000,0,, Березовая,12,Царицыно
+22,HOMETOWN REALTY,real_estate_agent,https://vidnoye.cian.ru/rent/flat/307450138/,Москва,rent,flat,3,19,2,56.0,55000,0,, Имени Героя Советского Союза Виктора Никитовича Фокина,6,Царицыно
+23,ГОРОБМЕН,real_estate_agent,https://www.cian.ru/rent/flat/307300599/,Москва,rent,flat,5,17,2,58.0,65000,0,Царицыно,Кавказский бульвар,50,Царицыно
+24,ID 108514038,homeowner,https://www.cian.ru/rent/flat/307275732/,Москва,rent,flat,2,15,2,60.0,80000,0,Царицыно,Пролетарский проспект,43К3,Царицыно
+25,Дмитрий Корольков,realtor,https://www.cian.ru/rent/flat/307265202/,Москва,rent,flat,4,12,2,55.0,65000,0,Царицыно,Бакинская ,9,Царицыно
+26,Наталья Пивцайкина,realtor,https://vidnoye.cian.ru/rent/flat/307155150/,Москва,rent,flat,3,18,2,42.0,47000,0,, Ольховая,4,Царицыно
+27,EMPIRE HOME,real_estate_agent,https://www.cian.ru/rent/flat/307063729/,Москва,rent,flat,12,20,2,65.0,90000,0,Бирюлево Восточное,6-я Радиальная ,7/1к1,Царицыно
+28,София Талыбова,realtor,https://vidnoye.cian.ru/rent/flat/307062595/,Москва,rent,flat,11,17,2,68.0,60000,0,, Завидная,16,Царицыно
+29,ID 121505244,homeowner,https://www.cian.ru/rent/flat/307040284/,Москва,rent,flat,13,15,2,52.5,78000,0,Царицыно,Пролетарский проспект,33К1,Царицыно
+30,ID 12431,realtor,https://vidnoye.cian.ru/rent/flat/306865767/,Москва,rent,flat,11,18,2,64.0,50000,0,, Ольховая,4,Царицыно
+31,Елена Марченко,realtor,https://www.cian.ru/rent/flat/306480890/,Москва,rent,flat,8,17,2,54.0,60000,0,Бирюлево Восточное,Липецкая ,17К1,Царицыно
+32,ID 120282436,homeowner,https://vidnoye.cian.ru/rent/flat/305822047/,Москва,rent,flat,8,12,2,45.0,33000,0,,Советский проезд,7,Царицыно
+33,Роман Туляков,realtor,https://vidnoye.cian.ru/rent/flat/305016866/,Москва,rent,flat,14,17,2,50.0,45000,0,,проезд Битцевский,11,Царицыно
+34,Геннадий Ренин,realtor,https://vidnoye.cian.ru/rent/flat/304941990/,Москва,rent,flat,3,5,2,58.0,40000,0,,проспект Ленинского Комсомола,58,Царицыно
+35,ID 22111376,unknown,https://www.cian.ru/rent/flat/299989281/,Москва,rent,flat,3,9,2,45.0,66000,0,Царицыно,Каспийская ,30К4,Царицыно
+36,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://vidnoye.cian.ru/rent/flat/293983096/,Москва,rent,flat,2,12,2,50.0,40000,0,,Советский проезд,1,Царицыно
+37,ID 108307912,homeowner,https://vidnoye.cian.ru/rent/flat/293224002/,Москва,rent,flat,10,18,2,60.2,57000,0,, Завидная,20,Царицыно
+38,ID 811966,unknown,https://www.cian.ru/rent/flat/284708826/,Москва,rent,flat,6,17,2,68.0,75000,0,Бирюлево Восточное,6-я Радиальная ,3к11,Царицыно
+39,Артём Бученков,realtor,https://vidnoye.cian.ru/rent/flat/278996485/,Москва,rent,flat,6,12,2,52.0,40000,0,,Жуковский проезд,5,Царицыно
+40,ID 86686723,homeowner,https://vidnoye.cian.ru/rent/flat/274015005/,Москва,rent,flat,3,17,2,74.0,50000,0,,бульвар Зеленые аллеи,7,Царицыно
+41,Роман Фомичев,realtor,https://www.cian.ru/rent/flat/262888594/,Москва,rent,flat,5,9,2,50.0,70000,0,Царицыно, Медиков,15,Царицыно
+42,Олег  Демидов,realtor,https://vidnoye.cian.ru/rent/flat/202324954/,Москва,rent,flat,3,12,2,53.0,48000,0,,Строительная ,31,Царицыно
+43,ID 86144819,unknown,https://vidnoye.cian.ru/rent/flat/307424286/,Москва,rent,flat,8,17,2,40.0,40000,0,д. Мисайлово, Имени Л.И. Гоман,5,
+44,Ринат Аюпов,realtor,https://vidnoye.cian.ru/rent/flat/306772375/,Москва,rent,flat,7,17,2,35.0,37000,0,д. Мисайлово, Имени Л.И. Гоман,10,
+45,ID 54169816,homeowner,https://vidnoye.cian.ru/rent/flat/252154402/,Москва,rent,flat,5,5,1,36.0,29000,0,,проспект Ленинского Комсомола,62,Царицыно
+46,Антон Пронин,realtor,https://vidnoye.cian.ru/rent/flat/307646162/,Москва,rent,flat,15,18,2,54.0,40000,0,д. Мисайлово,шоссе Пригородное,5,
+47,ID 21663,realtor,https://vidnoye.cian.ru/rent/flat/300160818/,Москва,rent,flat,5,9,2,60.0,40000,0,с. Молоково,бульвар Ново-Молоковский,8,
+48,Наталья Мишина,realtor,https://vidnoye.cian.ru/rent/flat/305724100/,Москва,rent,flat,7,17,1,32.0,35000,0,,,,
+49,ID 18185581,homeowner,https://vidnoye.cian.ru/rent/flat/307646958/,Москва,rent,flat,1,5,2,31.3,40000,0,пос. Дубровский, Турова,12А,
+50,EMPIRE HOME,real_estate_agent,https://vidnoye.cian.ru/rent/flat/306302329/,Москва,rent,flat,14,17,1,42.0,45000,0,, Березовая,18,Царицыно
+51,ID 6977,real_estate_agent,https://vidnoye.cian.ru/rent/flat/185956051/,Москва,rent,flat,5,12,1,33.0,27000,0,,Советский проезд,5,Царицыно
+52,ID 12552811,unknown,https://vidnoye.cian.ru/rent/flat/306654105/,Москва,rent,flat,2,8,3,69.0,67000,0,,бульвар Мстислава Ростроповича,5,Бутово

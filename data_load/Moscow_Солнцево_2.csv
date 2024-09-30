@@ -1,0 +1,29 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307747288/,Москва,rent,flat,1,22,2,46.0,70000,0,,Родниковая ,30к1,Солнцево
+1,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307724875/,Москва,rent,flat,2,25,2,65.0,80000,0,,Родниковая ,30к3,Солнцево
+2,SC Realty,real_estate_agent,https://www.cian.ru/rent/flat/307701082/,Москва,rent,flat,12,14,2,85.0,105000,0,, Татьянин Парк,14к2,Солнцево
+3,ID 46989435,realtor,https://www.cian.ru/rent/flat/307687938/,Москва,rent,flat,4,22,2,74.0,55000,0,Солнцево,Производственная ,4к2,Солнцево
+4,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307665706/,Москва,rent,flat,14,15,2,42.0,80000,0,, Саларьевская,9,Солнцево
+5,Вероника Брагинская,realtor,https://www.cian.ru/rent/flat/307662845/,Москва,rent,flat,2,16,2,43.0,80000,0,,,5с1,Солнцево
+6,ID 2879,realtor,https://www.cian.ru/rent/flat/307638691/,Москва,rent,flat,6,17,2,59.1,100000,0,, Татьянин Парк,13к1,Солнцево
+7,ID 121514881,homeowner,https://www.cian.ru/rent/flat/307635165/,Москва,rent,flat,16,17,2,51.3,75000,0,Солнцево, Богданова,14К1,Солнцево
+8,ID 130091,unknown,https://www.cian.ru/rent/flat/307623107/,Москва,rent,flat,3,23,2,65.0,60000,0,Солнцево, Главмосстроя,5,Солнцево
+9,Кермен Иванова,realtor,https://www.cian.ru/rent/flat/307608223/,Москва,rent,flat,20,22,2,61.9,75000,0,,Родниковая ,30к3,Солнцево
+10,ID 284374,realtor,https://www.cian.ru/rent/flat/307593159/,Москва,rent,flat,7,22,2,70.0,95000,0,,Родниковая ,30к3,Солнцево
+11,RENT_BAND,real_estate_agent,https://www.cian.ru/rent/flat/307552406/,Москва,rent,flat,2,16,2,37.0,60000,0,Солнцево, Юлиана Семенова,8к1,Солнцево
+12,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307540040/,Москва,rent,flat,13,17,2,55.0,80000,0,Ново-Переделкино,Боровское шоссе,19,Солнцево
+13,ID 54991615,unknown,https://www.cian.ru/rent/flat/307539943/,Москва,rent,flat,8,16,2,45.0,95000,0,,,5с3,Солнцево
+14,ID 52479736,homeowner,https://www.cian.ru/rent/flat/307532258/,Москва,rent,flat,1,12,2,80.0,110000,0,, Татьянин Парк,14к3,Солнцево
+15,Ольга Алексеевна Пахомова,realtor,https://www.cian.ru/rent/flat/307491927/,Москва,rent,flat,22,25,2,68.0,110000,0,, Татьянин Парк,19к3,Солнцево
+16,ID 78433703,homeowner,https://www.cian.ru/rent/flat/307427278/,Москва,rent,flat,8,22,2,59.0,110000,0,Солнцево, Авиаторов,1,Солнцево
+17,Алла Хорошилова,realtor,https://www.cian.ru/rent/flat/307425703/,Москва,rent,flat,5,17,2,65.0,85000,0,Солнцево, Богданова,14К1,Солнцево
+18,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307411598/,Москва,rent,flat,13,17,2,50.0,80000,0,,,5с3,Солнцево
+19,ID 12578403,homeowner,https://www.cian.ru/rent/flat/307397391/,Москва,rent,flat,1,15,2,51.0,70000,0,, Татьянин Парк,14к1,Солнцево
+20,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307387371/,Москва,rent,flat,8,33,2,63.0,110000,0,Солнцево, Авиаторов,1,Солнцево
+21,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307386770/,Москва,rent,flat,8,9,2,51.0,122500,0,, Инженера Кнорре,7к4,Солнцево
+22,ID 97073291,unknown,https://www.cian.ru/rent/flat/307369649/,Москва,rent,flat,7,14,2,69.4,98000,0,Солнцево,Боровское шоссе,2Ак4,Солнцево
+23,Анна Тюрина,realtor,https://www.cian.ru/rent/flat/307313992/,Москва,rent,flat,20,22,2,63.0,99900,0,,Родниковая ,30к2,Солнцево
+24,Century 21 Level,real_estate_agent,https://www.cian.ru/rent/flat/307277957/,Москва,rent,flat,3,8,2,70.0,100000,0,, Татьянин Парк,12к7,Солнцево
+25,ID 25890959,homeowner,https://www.cian.ru/rent/flat/307265332/,Москва,rent,flat,12,16,2,53.5,70000,0,Солнцево, Авиаторов,6К1,Солнцево
+26,Chase R.E.S.,real_estate_agent,https://www.cian.ru/rent/flat/307079692/,Москва,rent,flat,7,16,2,37.0,70000,0,,,5с3,Солнцево
+27,ID 52716715,homeowner,https://www.cian.ru/rent/flat/306942530/,Москва,rent,flat,13,16,2,50.8,80000,0,,,5с3,Солнцево

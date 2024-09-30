@@ -1,0 +1,57 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,ID 20000,realtor,https://www.cian.ru/rent/flat/307742819/,Москва,rent,flat,11,16,1,40.0,45000,0,Измайлово,7-я Парковая ,15К2,Первомайская
+1,Паскаль,real_estate_agent,https://www.cian.ru/rent/flat/307736350/,Москва,rent,flat,5,14,1,35.0,80000,0,Измайлово,6-я Парковая ,13,Первомайская
+2,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307725203/,Москва,rent,flat,5,14,1,35.0,80000,0,Измайлово,6-я Парковая ,13,Первомайская
+3,Комфорт,real_estate_agent,https://www.cian.ru/rent/flat/307725124/,Москва,rent,flat,10,17,1,41.0,40000,0,Восточное Измайлово,Средняя Первомайская ,17,Первомайская
+4,Татьяна Кучеровская,realtor,https://www.cian.ru/rent/flat/307724026/,Москва,rent,flat,9,20,1,39.5,55000,0,Северное Измайлово,5-я Парковая ,62Б,Первомайская
+5,ID 84210886,homeowner,https://www.cian.ru/rent/flat/307721361/,Москва,rent,flat,5,16,1,34.0,70000,0,Ивановское, Чечулина,16,Первомайская
+6,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307718373/,Москва,rent,flat,9,12,1,40.0,55000,0,Гольяново,Уральская ,1,Первомайская
+7,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307711659/,Москва,rent,flat,7,9,1,32.0,55000,0,Северное Измайлово,3-я Парковая ,46К4,Первомайская
+8,ПАРТНЕР,real_estate_agent,https://balashikha.cian.ru/rent/flat/307705218/,Москва,rent,flat,17,19,1,42.0,35000,0,, Дмитриева,12,Первомайская
+9,МИРА,real_estate_agent,https://balashikha.cian.ru/rent/flat/307701015/,Москва,rent,flat,12,25,1,23.0,32000,0,, Яганова,5,Первомайская
+10,ID 118839271,homeowner,https://balashikha.cian.ru/rent/flat/307700870/,Москва,rent,flat,18,21,1,35.0,45000,0,,,4К1,Первомайская
+11,ID 120799603,realtor,https://balashikha.cian.ru/rent/flat/307696400/,Москва,rent,flat,16,17,1,42.3,40000,0,, Свердлова,46,Первомайская
+12,ID 221229,realtor,https://www.cian.ru/rent/flat/307684427/,Москва,rent,flat,2,9,1,33.0,40000,0,Гольяново,Хабаровская ,22К2,Первомайская
+13,Циан х ПИК-Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307682812/,Москва,rent,flat,4,9,1,35.4,52600,0,Гольяново,Красноярская ,9,Первомайская
+14,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307679360/,Москва,rent,flat,3,6,1,35.0,81000,0,Восточное Измайлово,Нижняя Первомайская ,64,Первомайская
+15,Алексей Иваньков,realtor,https://www.cian.ru/rent/flat/307677819/,Москва,rent,flat,3,5,1,38.0,33000,0,,,,
+16,ID 27796,realtor,https://www.cian.ru/rent/flat/307673943/,Москва,rent,flat,3,5,1,46.0,50000,0,Измайлово,Первомайская ,35/18,Первомайская
+17,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307670503/,Москва,rent,flat,11,14,1,35.0,45000,0,Гольяново,Уральская ,6К8,Первомайская
+18,Ирина Вьюговская,realtor,https://www.cian.ru/rent/flat/307661875/,Москва,rent,flat,10,16,1,38.0,40000,0,Гольяново,Уссурийская ,1К5,Первомайская
+19,EMPIRE HOME,real_estate_agent,https://balashikha.cian.ru/rent/flat/307660983/,Москва,rent,flat,18,22,1,43.0,40000,0,, Дмитриева,4,Первомайская
+20,ID 102260,realtor,https://www.cian.ru/rent/flat/307658271/,Москва,rent,flat,9,12,1,40.0,50000,0,Ивановское,Челябинская ,24К2,Первомайская
+21,ПАРТНЕР,real_estate_agent,https://www.cian.ru/rent/flat/307657079/,Москва,rent,flat,9,17,1,40.0,60000,0,Восточное Измайлово,Нижняя Первомайская ,59,Первомайская
+22,ID 22556,realtor,https://www.cian.ru/rent/flat/307654449/,Москва,rent,flat,3,5,1,34.0,45000,0,Измайлово,9-я Парковая ,54К2,Первомайская
+23,FOX ESTATE,real_estate_agent,https://balashikha.cian.ru/rent/flat/307652394/,Москва,rent,flat,5,25,1,44.0,45000,0,, Дмитриева,2,Первомайская
+24,Ирина Бакаева,realtor,https://balashikha.cian.ru/rent/flat/307647935/,Москва,rent,flat,5,17,1,42.3,37000,0,, 40 лет Победы,27,Первомайская
+25,ID 22492,realtor,https://www.cian.ru/rent/flat/307636524/,Москва,rent,flat,10,22,1,52.0,100000,0,Измайлово,Измайловский проезд,10к3,Первомайская
+26,ID 357406,unknown,https://www.cian.ru/rent/flat/307634414/,Москва,rent,flat,5,8,1,50.0,70000,0,Северное Измайлово,7-я Парковая ,33К5,Первомайская
+27,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307633765/,Москва,rent,flat,4,12,1,40.0,48000,0,Метрогородок,Открытое шоссе,27К8,Первомайская
+28,ID 29293805,realtor,https://www.cian.ru/rent/flat/307633529/,Москва,rent,flat,3,9,1,33.2,52000,0,Восточное Измайлово,Первомайская ,88,Первомайская
+29,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307627274/,Москва,rent,flat,9,12,1,35.0,55000,0,Гольяново,Уральская ,1,Первомайская
+30,Realt Pro-Capital,real_estate_agent,https://www.cian.ru/rent/flat/307616887/,Москва,rent,flat,6,9,1,34.7,50000,0,Ивановское, Чечулина,22,Первомайская
+31,Давид Газарян,realtor,https://balashikha.cian.ru/rent/flat/307613785/,Москва,rent,flat,7,21,1,35.0,45000,0,,,4К1,Первомайская
+32,Елена Гарбалы,realtor,https://www.cian.ru/rent/flat/307605598/,Москва,rent,flat,3,5,1,30.5,52000,0,Измайлово,Первомайская ,5К1,Первомайская
+33,Владимир Насонов,realtor,https://www.cian.ru/rent/flat/307596121/,Москва,rent,flat,8,9,1,37.0,53000,0,Восточное Измайлово,Сиреневый бульвар,52,Первомайская
+34,Гранд Сервис Недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/307591653/,Москва,rent,flat,5,9,1,32.0,38000,0,Северное Измайлово,Сиреневый бульвар,73К1,Первомайская
+35,ID 27464,realtor,https://www.cian.ru/rent/flat/307591603/,Москва,rent,flat,1,5,1,30.0,44000,0,Измайлово,3-я Парковая ,38,Первомайская
+36,ID 19752,realtor,https://www.cian.ru/rent/flat/307591193/,Москва,rent,flat,7,14,1,37.0,59000,0,Северное Измайлово,3-я Парковая ,63,Первомайская
+37,ID 15369228,unknown,https://balashikha.cian.ru/rent/flat/307569315/,Москва,rent,flat,10,17,1,39.0,40000,0,,,31,Первомайская
+38,Антон Осмелкин,realtor,https://www.cian.ru/rent/flat/307553502/,Москва,rent,flat,2,14,1,42.4,45000,0,Гольяново,Байкальская ,23,Первомайская
+39,REAL ESTATE,real_estate_agent,https://www.cian.ru/rent/flat/307534797/,Москва,rent,flat,2,9,1,35.0,49000,0,Измайлово,Никитинская ,17К3,Первомайская
+40,ID 89986184,unknown,https://www.cian.ru/rent/flat/307509041/,Москва,rent,flat,7,9,1,35.0,35000,0,Гольяново,Хабаровская ,21,Первомайская
+41,Столичный Проспект,real_estate_agent,https://www.cian.ru/rent/flat/307487211/,Москва,rent,flat,16,16,1,37.0,40000,0,Гольяново,Алтайская ,17К2,Первомайская
+42,ID 84806275,homeowner,https://balashikha.cian.ru/rent/flat/307450624/,Москва,rent,flat,10,22,1,43.0,40000,0,,,25,Первомайская
+43,ID 46699003,unknown,https://www.cian.ru/rent/flat/307361121/,Москва,rent,flat,12,23,1,42.0,60000,0,Восточное Измайлово,16-я Парковая ,12,Первомайская
+44,ИНГРУПП,real_estate_agent,https://balashikha.cian.ru/rent/flat/307360900/,Москва,rent,flat,13,25,1,32.0,45000,0,, Яганова,12,Первомайская
+45,Давид Газарян,realtor,https://www.cian.ru/rent/flat/307348362/,Москва,rent,flat,5,9,1,45.0,50000,0,Гольяново,Хабаровская ,18К1,Первомайская
+46,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://balashikha.cian.ru/rent/flat/307302433/,Москва,rent,flat,6,17,1,40.0,37000,0,,,11,Первомайская
+47,ID 59799471,homeowner,https://www.cian.ru/rent/flat/307252328/,Москва,rent,flat,3,5,1,27.9,52000,0,Восточное Измайлово,15-я Парковая ,33К2,Первомайская
+48,ID 121664911,homeowner,https://balashikha.cian.ru/rent/flat/307230426/,Москва,rent,flat,13,17,1,38.0,45000,0,, Кольцевая,10,Первомайская
+49,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307207032/,Москва,rent,flat,11,16,1,41.6,70000,0,Гольяново,Щелковское шоссе,71,Первомайская
+50,СТОЛИЦА Департамент недвижимости,real_estate_agent,https://shchyolkovo.cian.ru/rent/flat/306926640/,Москва,rent,flat,7,12,1,42.0,30000,0,,Пролетарский проспект,9к2,Первомайская
+51,Ольга Билименко,realtor,https://balashikha.cian.ru/rent/flat/306881844/,Москва,rent,flat,6,16,1,31.5,55000,0,, Реутовская,20,Первомайская
+52,ID 99673982,homeowner,https://www.cian.ru/rent/flat/306873491/,Москва,rent,flat,2,6,1,33.0,50000,0,Северное Измайлово,Сиреневый бульвар,39,Первомайская
+53,ID 18200,realtor,https://balashikha.cian.ru/rent/flat/306865270/,Москва,rent,flat,21,21,1,32.0,45000,0,,,4К1,Первомайская
+54,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/306849908/,Москва,rent,flat,1,5,1,17.0,50000,0,Восточное Измайлово,Нижняя Первомайская ,68/7,Первомайская
+55,ID 26562911,realtor,https://balashikha.cian.ru/rent/flat/306552041/,Москва,rent,flat,9,28,1,48.3,45000,0,, Дмитриева,10,Первомайская

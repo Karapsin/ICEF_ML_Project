@@ -1,0 +1,29 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Megapolis Estate,real_estate_agent,https://www.cian.ru/rent/flat/307781866/,Москва,rent,flat,3,5,3,80.0,120000,0,Филевский парк,Большая Филевская ,14К1,Багратионовская
+1,ID 25007,realtor,https://www.cian.ru/rent/flat/307745879/,Москва,rent,flat,5,5,3,90.0,95000,0,Фили-Давыдково, Герасима Курина,4К1,Багратионовская
+2,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307723018/,Москва,rent,flat,22,31,3,75.0,160000,0,Филевский парк,Береговой проезд,5к1,Багратионовская
+3,ID 33191906,unknown,https://www.cian.ru/rent/flat/307701539/,Москва,rent,flat,4,5,3,58.6,80000,0,Филевский парк,Сеславинская ,38,Багратионовская
+4,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307628886/,Москва,rent,flat,2,20,3,70.0,165000,0,Филевский парк,Большая Филевская ,3к4,Багратионовская
+5,GARUDA РИЭЛТИ,real_estate_agent,https://www.cian.ru/rent/flat/307611361/,Москва,rent,flat,7,20,3,74.0,275000,0,Филевский парк,Большая Филевская ,3к3,Багратионовская
+6,ID 239897,realtor,https://www.cian.ru/rent/flat/307602193/,Москва,rent,flat,26,28,3,100.0,340000,0,Филевский парк, Василисы Кожиной,13,Багратионовская
+7,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307581867/,Москва,rent,flat,4,9,3,84.0,250000,0,Филевский парк,Большая Филевская ,16,Багратионовская
+8,Светлана Куркова,realtor,https://www.cian.ru/rent/flat/307569478/,Москва,rent,flat,9,30,3,80.0,260000,0,Филевский парк,Большая Филевская ,3к2,Багратионовская
+9,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307567710/,Москва,rent,flat,14,22,3,78.0,110000,0,Филевский парк,Филевский бульвар,41,Багратионовская
+10,RENT_BAND,real_estate_agent,https://www.cian.ru/rent/flat/307553088/,Москва,rent,flat,3,20,3,75.0,160000,0,Филевский парк,Большая Филевская ,3к3,Багратионовская
+11,Максим Емельянов,realtor,https://www.cian.ru/rent/flat/307507576/,Москва,rent,flat,10,42,3,72.1,230000,0,Филевский парк,Багратионовский проезд,5Ак1,Багратионовская
+12,Intermark Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307400203/,Москва,rent,flat,6,9,3,82.0,140000,0,Филевский парк,Большая Филевская ,16к1,Багратионовская
+13,ЖИR Private,real_estate_agent,https://www.cian.ru/rent/flat/307387509/,Москва,rent,flat,6,20,3,60.0,180000,0,Филевский парк,Большая Филевская ,3к2,Багратионовская
+14,ID 66993770,unknown,https://www.cian.ru/rent/flat/307327294/,Москва,rent,flat,18,20,3,80.0,250000,0,Филевский парк,Большая Филевская ,3к3,Багратионовская
+15,ID 121720418,homeowner,https://www.cian.ru/rent/flat/307296646/,Москва,rent,flat,10,23,3,115.6,190000,0,Филевский парк,Кастанаевская ,24,Багратионовская
+16,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307261275/,Москва,rent,flat,22,31,3,75.0,160000,0,Филевский парк,Береговой проезд,5к1,Багратионовская
+17,RENT_BAND,real_estate_agent,https://www.cian.ru/rent/flat/307245221/,Москва,rent,flat,3,20,3,75.0,170000,0,Филевский парк,Большая Филевская ,3к3,Багратионовская
+18,Las Vegas,real_estate_agent,https://www.cian.ru/rent/flat/307220502/,Москва,rent,flat,20,47,3,83.0,225000,0,Филевский парк,Багратионовский проезд,5Ак1,Багратионовская
+19,ЦДВ Инвест,real_estate_agent,https://www.cian.ru/rent/flat/307219776/,Москва,rent,flat,11,22,3,95.0,155000,0,Филевский парк,2-я Филевская ,6,Багратионовская
+20,EstateLiga,real_estate_agent,https://www.cian.ru/rent/flat/307200656/,Москва,rent,flat,9,20,3,60.0,170000,0,Филевский парк,Большая Филевская ,3к3,Багратионовская
+21,МИЭЛЬ,real_estate_agent,https://www.cian.ru/rent/flat/307152028/,Москва,rent,flat,2,12,3,74.6,125000,0,Филевский парк, Василисы Кожиной,14К7,Багратионовская
+22,Адрес,real_estate_agent,https://www.cian.ru/rent/flat/307033433/,Москва,rent,flat,5,14,3,79.5,120000,0,Филевский парк,Кастанаевская ,12к1,Багратионовская
+23,Юлия Портнова,realtor,https://www.cian.ru/rent/flat/306828575/,Москва,rent,flat,3,20,3,75.0,170000,0,Филевский парк,Большая Филевская ,3к3,Багратионовская
+24,Валентина Свердликова,realtor,https://www.cian.ru/rent/flat/306679591/,Москва,rent,flat,2,8,3,76.0,140000,0,Филевский парк,Новозаводская ,8,Багратионовская
+25,ID 478645,realtor,https://www.cian.ru/rent/flat/306493672/,Москва,rent,flat,8,18,3,115.0,220000,0,Филевский парк,2-я Филевская ,6к4,Багратионовская
+26,Никита Перекальский,realtor,https://www.cian.ru/rent/flat/306378572/,Москва,rent,flat,4,9,3,62.0,160000,0,Филевский парк,Береговой проезд,3,Багратионовская
+27,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/306316419/,Москва,rent,flat,22,25,3,90.0,200000,0,Филевский парк,Береговой проезд,5Ак7,Багратионовская

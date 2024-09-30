@@ -1,0 +1,79 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Антон Симухин,realtor,https://www.cian.ru/rent/flat/307722984/,Москва,rent,flat,3,4,2,42.2,65000,0,Ярославский, Вешних Вод,2К4,ВДНХ
+1,ГОРОД,real_estate_agent,https://mytishchi.cian.ru/rent/flat/307712247/,Москва,rent,flat,10,10,2,52.6,50000,0,,Ярославское шоссе,111к1,ВДНХ
+2,СЕДЬМОЕ НЕБО,real_estate_agent,https://www.cian.ru/rent/flat/307706067/,Москва,rent,flat,11,19,2,64.0,150000,0,Алексеевский,Маломосковская ,14,ВДНХ
+3,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307680523/,Москва,rent,flat,6,11,2,70.0,90000,0,Алексеевский,Рижский проезд,3,ВДНХ
+4,ID 106529382,homeowner,https://www.cian.ru/rent/flat/307680348/,Москва,rent,flat,9,14,2,48.0,80000,0,Алексеевский, Космонавтов,8К2,ВДНХ
+5,Гульнара Хамзина,realtor,https://www.cian.ru/rent/flat/307677831/,Москва,rent,flat,9,25,2,60.0,70000,0,Богородское,Краснобогатырская ,7,ВДНХ
+6,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307672680/,Москва,rent,flat,7,22,2,60.0,130000,0,Алексеевский,Староалексеевская ,3,ВДНХ
+7,ID 77724110,homeowner,https://www.cian.ru/rent/flat/307660742/,Москва,rent,flat,1,8,2,54.7,80000,0,Алексеевский,Рижский проезд,5,ВДНХ
+8,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307656589/,Москва,rent,flat,19,21,2,50.0,120000,0,Алексеевский,Маломосковская ,14,ВДНХ
+9,ID 15390,realtor,https://www.cian.ru/rent/flat/307651560/,Москва,rent,flat,1,8,2,61.0,80000,0,Алексеевский, Павла Корчагина,10,ВДНХ
+10,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307651377/,Москва,rent,flat,5,21,2,52.0,160000,0,Алексеевский,Новоалексеевская ,16к3,ВДНХ
+11,ID 91549886,homeowner,https://www.cian.ru/rent/flat/307650318/,Москва,rent,flat,5,8,2,50.0,160000,0,Алексеевский,Новоалексеевская ,16к3,ВДНХ
+12,Азбука Жилья Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307584262/,Москва,rent,flat,6,12,2,38.0,65000,0,Алексеевский,Новоалексеевская ,4К2,ВДНХ
+13,ID 122006073,homeowner,https://www.cian.ru/rent/flat/307572528/,Москва,rent,flat,11,12,2,38.0,89000,0,Алексеевский,Ярославская ,4К1,ВДНХ
+14,АЖС-недвижимость,real_estate_agent,https://mytishchi.cian.ru/rent/flat/307569010/,Москва,rent,flat,2,5,2,46.0,40000,0,, 1-я Институтская,4,ВДНХ
+15,Елена Горшкова,realtor,https://www.cian.ru/rent/flat/307562308/,Москва,rent,flat,4,9,2,45.0,140000,0,Алексеевский,Новоалексеевская ,16к3,ВДНХ
+16,Техно Трейд,real_estate_agent,https://www.cian.ru/rent/flat/307544195/,Москва,rent,flat,2,8,2,61.0,70000,0,Алексеевский,Рижский проезд,1/5,ВДНХ
+17,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307499799/,Москва,rent,flat,5,5,2,50.0,140000,0,Алексеевский,Ярославская ,17,ВДНХ
+18,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307491690/,Москва,rent,flat,8,17,2,63.0,78000,0,Алексеевский,3-я Мытищинская ,3к2,ВДНХ
+19,Мой Дом - отделение Добрынинское,real_estate_agent,https://www.cian.ru/rent/flat/307485274/,Москва,rent,flat,3,8,2,63.0,80000,0,Алексеевский,Рижский проезд,1/5,ВДНХ
+20,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307446376/,Москва,rent,flat,15,28,2,58.0,87000,0,Богородское,Краснобогатырская ,7,ВДНХ
+21,EstateLiga,real_estate_agent,https://www.cian.ru/rent/flat/307391481/,Москва,rent,flat,14,15,2,76.0,145000,0,Останкинский,проспект Мира,95,ВДНХ
+22,ID 24613309,homeowner,https://korolev.cian.ru/rent/flat/307367272/,Москва,rent,flat,4,5,2,45.8,27000,0,, Чапаева,1а,ВДНХ
+23,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307364077/,Москва,rent,flat,10,17,2,60.0,90000,0,Алексеевский,3-я Мытищинская ,3к1,ВДНХ
+24,Елена Колоченкова,realtor,https://korolev.cian.ru/rent/flat/307332678/,Москва,rent,flat,1,14,2,37.6,48000,0,, Сакко и Ванцетти,34А,ВДНХ
+25,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307317415/,Москва,rent,flat,10,14,2,55.0,88000,0,Останкинский,2-я Новоостанкинская ,19,ВДНХ
+26,Delight Realty,real_estate_agent,https://www.cian.ru/rent/flat/307313696/,Москва,rent,flat,12,16,2,96.0,140000,0,Останкинский,2-я Новоостанкинская ,12,ВДНХ
+27,Самолет плюс - Москва,real_estate_agent,https://www.cian.ru/rent/flat/307309956/,Москва,rent,flat,4,5,2,45.0,70000,0,Останкинский,Звездный бульвар,34К2,ВДНХ
+28,Домклик Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307308062/,Москва,rent,flat,6,10,2,78.1,118000,0,Алексеевский,проспект Мира,184К1,ВДНХ
+29,Столичный Проспект,real_estate_agent,https://www.cian.ru/rent/flat/307305142/,Москва,rent,flat,6,9,2,45.0,55000,0,Ярославский,Ярославское шоссе,111К3,ВДНХ
+30,Владимир Волошинов,realtor,https://www.cian.ru/rent/flat/307262431/,Москва,rent,flat,5,5,2,45.0,95000,0,Останкинский,Звездный бульвар,22К2,ВДНХ
+31,ID 72629792,unknown,https://www.cian.ru/rent/flat/307220063/,Москва,rent,flat,4,4,2,24.0,72000,0,Останкинский,проезд Ольминского,7,ВДНХ
+32,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307200840/,Москва,rent,flat,14,17,2,58.0,120000,0,Останкинский,Большая Марьинская ,11,ВДНХ
+33,ID 121365779,homeowner,https://www.cian.ru/rent/flat/307198517/,Москва,rent,flat,14,17,2,54.3,120000,0,Останкинский,Большая Марьинская ,11,ВДНХ
+34,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307197804/,Москва,rent,flat,2,20,2,58.0,120000,0,Алексеевский,Староалексеевская ,3,ВДНХ
+35,Рариэлти,real_estate_agent,https://www.cian.ru/rent/flat/307151041/,Москва,rent,flat,3,8,2,50.0,68000,0,Ростокино,1-й Сельскохозяйственный проезд,3,ВДНХ
+36,Ольга Глотова,realtor,https://www.cian.ru/rent/flat/307080678/,Москва,rent,flat,7,12,2,39.0,70000,0,Алексеевский,Новоалексеевская ,4К1,ВДНХ
+37,Татьяна Юрченко,realtor,https://www.cian.ru/rent/flat/307075598/,Москва,rent,flat,7,12,2,50.0,95000,0,Останкинский, Цандера,7,ВДНХ
+38,ID 103775375,unknown,https://www.cian.ru/rent/flat/306953908/,Москва,rent,flat,3,5,2,44.0,95000,0,Останкинский,Звездный бульвар,34К2,ВДНХ
+39,Дарья Румянцева,realtor,https://www.cian.ru/rent/flat/306952548/,Москва,rent,flat,6,15,2,62.3,149000,0,Останкинский,проспект Мира,95,ВДНХ
+40,ДНВ Недвижимость офис Западный,real_estate_agent,https://korolev.cian.ru/rent/flat/306908312/,Москва,rent,flat,15,16,2,68.0,50000,0,, Горького,45,ВДНХ
+41,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/306889737/,Москва,rent,flat,2,12,2,45.0,120000,0,Останкинский,2-я Новоостанкинская ,25,ВДНХ
+42,ID 115652836,homeowner,https://www.cian.ru/rent/flat/306797184/,Москва,rent,flat,3,16,2,52.9,85000,0,Останкинский,2-я Останкинская ,10,ВДНХ
+43,ID 3512254,homeowner,https://www.cian.ru/rent/flat/306698937/,Москва,rent,flat,15,28,2,58.6,87000,0,Богородское,Краснобогатырская ,7,ВДНХ
+44,Людмила Трофимова,realtor,https://www.cian.ru/rent/flat/306599374/,Москва,rent,flat,11,23,2,62.0,85000,0,Ярославский, Красная Сосна,3А,ВДНХ
+45,Ashtons International Realty,real_estate_agent,https://www.cian.ru/rent/flat/306597472/,Москва,rent,flat,15,29,2,75.0,170000,0,Богородское,Погонный проезд,3ак2,ВДНХ
+46,Михаил Мальцев,realtor,https://www.cian.ru/rent/flat/306401393/,Москва,rent,flat,3,5,2,45.0,80000,0,Останкинский,Звездный бульвар,26К2,ВДНХ
+47,ID 84292681,homeowner,https://www.cian.ru/rent/flat/306294523/,Москва,rent,flat,21,22,2,58.5,120000,0,Останкинский, Академика Королева,4К2,ВДНХ
+48,ID 181694,real_estate_agent,https://mytishchi.cian.ru/rent/flat/306178442/,Москва,rent,flat,8,16,2,57.0,55000,0,, Семашко,10к2,ВДНХ
+49,СЕДЬМОЕ НЕБО,real_estate_agent,https://www.cian.ru/rent/flat/306153782/,Москва,rent,flat,15,22,2,65.0,150000,0,Алексеевский,Маломосковская ,14,ВДНХ
+50,Александр Табуринский,realtor,https://www.cian.ru/rent/flat/306085068/,Москва,rent,flat,12,14,2,37.9,75000,0,Алексеевский,Маломосковская ,6К2,ВДНХ
+51,Rocket Estate,real_estate_agent,https://www.cian.ru/rent/flat/306037245/,Москва,rent,flat,9,11,2,67.4,180000,0,Останкинский, Годовикова,11к5,ВДНХ
+52,ID 77186373,homeowner,https://www.cian.ru/rent/flat/304779108/,Москва,rent,flat,14,15,2,76.0,145000,0,Останкинский,проспект Мира,95,ВДНХ
+53,Михаил Солонников,realtor,https://www.cian.ru/rent/flat/303955825/,Москва,rent,flat,3,16,2,55.0,52000,0,Ярославский,Ярославское шоссе,67,ВДНХ
+54,ID 74638678,homeowner,https://korolev.cian.ru/rent/flat/303439563/,Москва,rent,flat,4,5,2,50.5,29000,0,, Нестеренко,4/4,ВДНХ
+55,ID 93745328,homeowner,https://www.cian.ru/rent/flat/299937585/,Москва,rent,flat,5,11,2,44.0,100000,0,Алексеевский,Новоалексеевская ,5,ВДНХ
+56,ID 12399,realtor,https://www.cian.ru/rent/flat/299829089/,Москва,rent,flat,16,19,2,58.0,79000,0,Алексеевский,Маломосковская ,21К2,ВДНХ
+57,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/297078531/,Москва,rent,flat,7,18,2,53.0,80000,0,Богородское,Краснобогатырская ,11,ВДНХ
+58,ID 88783400,unknown,https://www.cian.ru/rent/flat/296953583/,Москва,rent,flat,2,8,2,60.0,90000,0,Алексеевский,проспект Мира,116,ВДНХ
+59,ID 9243772,homeowner,https://www.cian.ru/rent/flat/295592489/,Москва,rent,flat,10,12,2,45.0,85000,0,Ростокино,проспект Мира,188,ВДНХ
+60,Петр Солышко,realtor,https://www.cian.ru/rent/flat/287639400/,Москва,rent,flat,4,10,2,69.5,85000,0,Останкинский,проспект Мира,99,ВДНХ
+61,ID 12917725,realtor,https://www.cian.ru/rent/flat/280760291/,Москва,rent,flat,7,22,2,60.0,130000,0,Алексеевский,Староалексеевская ,3,ВДНХ
+62,ID 115115,unknown,https://www.cian.ru/rent/flat/279588695/,Москва,rent,flat,2,17,2,72.0,170000,0,Алексеевский,Маломосковская ,14,ВДНХ
+63,Ольга Протченко,realtor,https://mytishchi.cian.ru/rent/flat/271311714/,Москва,rent,flat,4,17,2,65.0,65000,0,, 2-я Институтская,26,ВДНХ
+64,ID 371347,realtor,https://mytishchi.cian.ru/rent/flat/255098222/,Москва,rent,flat,3,12,2,56.0,50000,0,,Олимпийский проспект,6к2,ВДНХ
+65,Оксана Оксименко,realtor,https://www.cian.ru/rent/flat/245122430/,Москва,rent,flat,8,9,2,45.0,77000,0,Останкинский,проспект Мира,97,ВДНХ
+66,ID 124294,realtor,https://www.cian.ru/rent/flat/209108129/,Москва,rent,flat,3,11,2,70.0,80000,0,Алексеевский,Рижский проезд,3,ВДНХ
+67,Юрий Фокин,realtor,https://www.cian.ru/rent/flat/206673485/,Москва,rent,flat,5,9,2,40.0,85000,0,Останкинский,Большая Марьинская ,13,ВДНХ
+68,Илья Солдатенков,realtor,https://www.cian.ru/rent/flat/196194658/,Москва,rent,flat,14,17,2,54.0,75000,0,Алексеевский,3-я Мытищинская ,3к2,ВДНХ
+69,ФРИЗ,official_representative,https://www.cian.ru/rent/flat/158462302/,Москва,rent,flat,7,18,2,53.1,80000,0,Богородское,Краснобогатырская ,11,ВДНХ
+70,ID 74338273,unknown,https://www.cian.ru/rent/flat/307544373/,Москва,rent,flat,5,16,2,54.0,75000,0,Сокольники,Сокольническая площадь,9,Сокольники
+71,ID 49550815,realtor,https://www.cian.ru/rent/flat/300352634/,Москва,rent,flat,21,22,1,44.0,65000,0,Алексеевский,Маломосковская ,21К3,ВДНХ
+72,ID 12891199,homeowner,https://www.cian.ru/rent/flat/279189652/,Москва,rent,flat,5,16,2,56.0,80000,0,Бабушкинский,Ленская ,23,Бабушкинская
+73,Светлана Захарова,realtor,https://www.cian.ru/rent/flat/307275521/,Москва,rent,flat,8,9,2,50.0,89000,0,Сокольники,Старослободская ,16/17,Сокольники
+74,Елена Виноградова,realtor,https://www.cian.ru/rent/flat/281010462/,Москва,rent,flat,13,25,2,60.0,90000,0,Марьина роща,проезд 17-й Марьиной рощи,1,Бутырская
+75,Денис Феофанов,realtor,https://www.cian.ru/rent/flat/307590245/,Москва,rent,flat,12,12,2,52.8,75000,0,Сокольники,3-я Рыбинская ,21К3,Сокольники
+76,EMPIRE HOME,real_estate_agent,https://www.cian.ru/rent/flat/306220289/,Москва,rent,flat,9,12,2,55.0,70000,0,Сокольники,Егерская ,5К1,Сокольники
+77,Центр Недвижимости плюс,real_estate_agent,https://www.cian.ru/rent/flat/307571999/,Москва,rent,flat,19,30,1,44.0,95000,0,Алексеевский,Староалексеевская ,5А,ВДНХ

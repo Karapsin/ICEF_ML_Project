@@ -1,0 +1,29 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,ID 4999,realtor,https://www.cian.ru/rent/flat/307727057/,Москва,rent,flat,17,30,1,33.0,80000,0,Рязанский,Окская ,7А,Кузьминки
+1,Инга Талалаева,realtor,https://www.cian.ru/rent/flat/307723591/,Москва,rent,flat,1,17,1,36.6,42000,0,Кузьминки,Волжский бульвар,25К1,Кузьминки
+2,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307723016/,Москва,rent,flat,1,5,1,32.0,45000,0,Кузьминки,Волгоградский проспект,131К3,Кузьминки
+3,ID 4999,realtor,https://www.cian.ru/rent/flat/307712736/,Москва,rent,flat,2,5,1,33.0,40000,0,Кузьминки,Волгоградский проспект,107К1,Кузьминки
+4,НПЮ-Недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/307707005/,Москва,rent,flat,2,9,1,33.0,40000,0,Выхино-Жулебино,Ташкентская ,22К1,Кузьминки
+5,Валерий Моисеев,realtor,https://www.cian.ru/rent/flat/307698721/,Москва,rent,flat,17,23,1,42.0,60000,0,Рязанский, Васильцовский Стан,3К1,Кузьминки
+6,Андрей Олейник,realtor,https://www.cian.ru/rent/flat/307676418/,Москва,rent,flat,17,23,1,32.0,85000,0,Текстильщики,1-й Грайвороновский проезд,13к4,Кузьминки
+7,ID 13716008,realtor,https://www.cian.ru/rent/flat/307668671/,Москва,rent,flat,12,24,1,45.0,75000,0,Кузьминки,Волгоградский проспект,86К1,Кузьминки
+8,МИЭЛЬ,real_estate_agent,https://www.cian.ru/rent/flat/307653819/,Москва,rent,flat,3,5,1,30.0,40000,0,Кузьминки,Волгоградский проспект,147/5К1,Кузьминки
+9,ID 52726,unknown,https://www.cian.ru/rent/flat/307649967/,Москва,rent,flat,15,17,1,39.0,45000,0,Рязанский,Мещерский переулок,6К2,Кузьминки
+10,ID 287994,unknown,https://www.cian.ru/rent/flat/307638648/,Москва,rent,flat,3,9,1,32.2,50000,0,Рязанский, Федора Полетаева,19К2,Кузьминки
+11,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307632113/,Москва,rent,flat,2,5,1,45.0,50000,0,Кузьминки,Волгоградский проспект,131К2,Кузьминки
+12,Екатерина Вартанова,realtor,https://www.cian.ru/rent/flat/307628209/,Москва,rent,flat,6,9,1,32.0,50000,0,Кузьминки, Федора Полетаева,32К2,Кузьминки
+13,ID 10877561,realtor,https://www.cian.ru/rent/flat/307626498/,Москва,rent,flat,21,23,1,42.0,50000,0,Рязанский, Васильцовский Стан,10к1,Кузьминки
+14,ID 32403,real_estate_agent,https://www.cian.ru/rent/flat/307625208/,Москва,rent,flat,5,9,1,36.0,47000,0,Рязанский, Федора Полетаева,21К2,Кузьминки
+15,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307613185/,Москва,rent,flat,9,25,1,43.0,65000,0,Рязанский, Васильцовский Стан,7к1,Кузьминки
+16,Александр Игнатьев,realtor,https://www.cian.ru/rent/flat/307609364/,Москва,rent,flat,8,14,1,38.9,60000,0,Текстильщики,Юго-Восточный ао,к5,Кузьминки
+17,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307607889/,Москва,rent,flat,9,27,1,45.0,60000,0,Рязанский, Васильцовский Стан,7к1,Кузьминки
+18,GIGGRAD,real_estate_agent,https://www.cian.ru/rent/flat/307562181/,Москва,rent,flat,4,9,1,36.0,60000,0,Текстильщики,2-й Саратовский проезд,5,Кузьминки
+19,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307500434/,Москва,rent,flat,7,9,1,50.0,75000,0,Кузьминки,Волгоградский проспект,72К1,Кузьминки
+20,ЕГСН Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307489051/,Москва,rent,flat,4,9,1,35.0,40000,0,Кузьминки, Федора Полетаева,32К5,Кузьминки
+21,ID 88463561,realtor,https://www.cian.ru/rent/flat/307369755/,Москва,rent,flat,1,5,1,32.0,45000,0,Рязанский, Федора Полетаева,5К2,Кузьминки
+22,ID 20267,realtor,https://www.cian.ru/rent/flat/306908456/,Москва,rent,flat,9,23,1,42.0,70000,0,Рязанский,Волжский бульвар,11,Кузьминки
+23,ПИК-Аренда,real_estate_agent,https://www.cian.ru/rent/flat/306498449/,Москва,rent,flat,9,17,1,36.9,54500,0,Кузьминки, Юных Ленинцев,125,Кузьминки
+24,ID 98063163,unknown,https://www.cian.ru/rent/flat/306331366/,Москва,rent,flat,2,16,1,35.0,40000,0,Кузьминки,Юго-Восточный ао,к6,Кузьминки
+25,ПИК-Аренда,real_estate_agent,https://www.cian.ru/rent/flat/306231591/,Москва,rent,flat,20,23,1,33.0,78200,0,Текстильщики,1-й Грайвороновский проезд,13к4,Кузьминки
+26,ID 90177180,homeowner,https://www.cian.ru/rent/flat/304920291/,Москва,rent,flat,8,23,1,32.0,75000,0,Текстильщики,1-й Грайвороновский проезд,13к4,Кузьминки
+27,ID 62119113,realtor,https://www.cian.ru/rent/flat/302456881/,Москва,rent,flat,6,9,1,41.0,56000,0,Текстильщики, Юных Ленинцев,18К2,Кузьминки

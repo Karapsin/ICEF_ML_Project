@@ -1,0 +1,29 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Юлия Киреенкова,realtor,https://www.cian.ru/rent/flat/307748493/,Москва,rent,flat,7,17,2,57.8,65000,0,Бескудниковский,Бескудниковский бульвар,19к2,Селигерская
+1,Анна Ожельская,realtor,https://www.cian.ru/rent/flat/307727607/,Москва,rent,flat,3,15,2,51.4,65000,0,Западное Дегунино,Дегунинская ,12к1,Селигерская
+2,ID 475159,realtor,https://www.cian.ru/rent/flat/307701499/,Москва,rent,flat,3,12,2,52.0,65000,0,Восточное Дегунино,Дубнинская ,22К3,Селигерская
+3,Татьяна Викентьева,realtor,https://www.cian.ru/rent/flat/307686238/,Москва,rent,flat,3,12,2,47.0,65000,0,Восточное Дегунино,Дубнинская ,20К1,Селигерская
+4,Ключъ,real_estate_agent,https://www.cian.ru/rent/flat/307684636/,Москва,rent,flat,10,17,2,52.0,65000,0,Бескудниковский,Дубнинская ,39,Селигерская
+5,ID 13721,realtor,https://www.cian.ru/rent/flat/307677836/,Москва,rent,flat,25,25,2,48.9,75000,0,Западное Дегунино,Базовская ,15Бк3,Селигерская
+6,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307676703/,Москва,rent,flat,26,33,2,32.0,79000,0,Западное Дегунино,Базовская ,15к3,Селигерская
+7,Дмитрий Кабанов,realtor,https://www.cian.ru/rent/flat/307672121/,Москва,rent,flat,14,17,2,64.0,70000,0,Бескудниковский,Селигерская ,2,Селигерская
+8,ID 12805888,homeowner,https://www.cian.ru/rent/flat/307659648/,Москва,rent,flat,26,33,2,31.9,79000,0,Западное Дегунино,Базовская ,15Бк3,Селигерская
+9,EMPIRE HOME,real_estate_agent,https://www.cian.ru/rent/flat/307652775/,Москва,rent,flat,2,15,2,53.0,55000,0,Западное Дегунино,Дегунинская ,20к1,Селигерская
+10,ЕГСН Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307605459/,Москва,rent,flat,29,39,2,70.0,120000,0,Западное Дегунино,Ильменский проезд,14к8,Селигерская
+11,ID 470745,unknown,https://www.cian.ru/rent/flat/307548108/,Москва,rent,flat,16,22,2,53.0,70000,0,Бескудниковский,Рогачевский переулок,4к1,Селигерская
+12,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307538143/,Москва,rent,flat,3,23,2,62.0,100000,0,Бескудниковский,Бескудниковский бульвар,52к1,Селигерская
+13,Елена Сударева,realtor,https://www.cian.ru/rent/flat/307509988/,Москва,rent,flat,5,12,2,45.0,70000,0,Западное Дегунино,Дегунинская ,15,Селигерская
+14,ID 80815118,unknown,https://www.cian.ru/rent/flat/307492803/,Москва,rent,flat,2,12,2,44.7,75000,0,Дмитровский,Клязьминская ,4,Селигерская
+15,Манхэттен эстейт,real_estate_agent,https://www.cian.ru/rent/flat/307394020/,Москва,rent,flat,2,18,2,58.3,60000,0,Бескудниковский,Бескудниковский бульвар,13,Селигерская
+16,ПИК-Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307391475/,Москва,rent,flat,7,20,2,49.8,70000,0,Западное Дегунино,Базовская ,15Бк1,Селигерская
+17,Григорий Егоров,realtor,https://www.cian.ru/rent/flat/307262358/,Москва,rent,flat,4,9,2,42.4,60000,0,Восточное Дегунино,Дубнинская ,10К2,Селигерская
+18,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307252052/,Москва,rent,flat,23,24,2,60.0,100000,0,Бескудниковский,Дмитровское шоссе,94К1,Селигерская
+19,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307200715/,Москва,rent,flat,24,38,2,53.0,115500,0,Западное Дегунино,Ильменский проезд,14к8,Селигерская
+20,Бест на Речном,real_estate_agent,https://www.cian.ru/rent/flat/307142685/,Москва,rent,flat,5,14,2,54.0,60000,0,Головинский,Зеленоградская ,3,Селигерская
+21,EXPERT,real_estate_agent,https://www.cian.ru/rent/flat/307070586/,Москва,rent,flat,7,10,2,39.0,80000,0,Дмитровский,Дмитровское шоссе,107Б,Селигерская
+22,ID 12474218,realtor,https://www.cian.ru/rent/flat/306803934/,Москва,rent,flat,17,20,2,44.0,59000,0,Западное Дегунино,Базовская ,15Бк4,Селигерская
+23,Дом+,real_estate_agent,https://www.cian.ru/rent/flat/306778694/,Москва,rent,flat,22,39,2,51.0,90000,0,Западное Дегунино,Ильменский проезд,14к8,Селигерская
+24,Мой Дом - отделение Добрынинское,real_estate_agent,https://www.cian.ru/rent/flat/306658650/,Москва,rent,flat,2,5,2,42.0,56000,0,Дмитровский,Коровинское шоссе,24К2,Селигерская
+25,ID 78602217,homeowner,https://www.cian.ru/rent/flat/306313803/,Москва,rent,flat,11,17,2,64.0,80000,0,Бескудниковский,Селигерская ,18к4,Селигерская
+26,ID 72062540,homeowner,https://www.cian.ru/rent/flat/305300085/,Москва,rent,flat,18,22,2,53.0,106000,0,Бескудниковский,Рогачевский переулок,4к1,Селигерская
+27,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/304955507/,Москва,rent,flat,15,17,2,60.0,118000,0,Бескудниковский,Бескудниковский проезд,4к2,Селигерская

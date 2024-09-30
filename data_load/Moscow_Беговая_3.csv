@@ -1,0 +1,5 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Антон Осмелкин,realtor,https://www.cian.ru/rent/flat/299983236/,Москва,rent,flat,8,12,2,40.0,55000,0,Черемушки,Херсонская ,29,Зюзино
+1,ID 277227,unknown,https://www.cian.ru/rent/flat/301320108/,Москва,rent,flat,10,10,2,38.0,100000,0,Даниловский,проспект Лихачева,12к3,Технопарк
+2,Валерий Алексеев,realtor,https://www.cian.ru/rent/flat/307384343/,Москва,rent,flat,7,14,1,42.0,48000,0,Марьино,Новочеркасский бульвар,36,Марьино
+3,MDco,real_estate_agent,https://www.cian.ru/rent/flat/307429622/,Москва,rent,flat,1,9,3,76.0,65000,0,Зябликово,Шипиловская ,41К1,Шипиловская

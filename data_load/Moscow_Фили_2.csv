@@ -1,0 +1,57 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Елена Войнова,realtor,https://www.cian.ru/rent/flat/307750270/,Москва,rent,flat,10,20,2,38.0,140000,0,Филевский парк,Большая Филевская ,3к3,Фили
+1,ID 7988,realtor,https://www.cian.ru/rent/flat/307728154/,Москва,rent,flat,2,16,2,55.0,85000,0,Филевский парк,Филевский бульвар,16,Фили
+2,ID 97346028,homeowner,https://www.cian.ru/rent/flat/307723971/,Москва,rent,flat,5,5,2,53.0,95000,0,Филевский парк,Новозаводская ,2к6-7,Фили
+3,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307721191/,Москва,rent,flat,6,17,2,65.0,130000,0,Филевский парк,Большая Филевская ,16,Фили
+4,Тимур Ярыш,realtor,https://www.cian.ru/rent/flat/307716517/,Москва,rent,flat,2,28,2,65.3,140000,0,Филевский парк,Береговой проезд,1Б,Фили
+5,ID 122143920,realtor,https://www.cian.ru/rent/flat/307704637/,Москва,rent,flat,4,16,2,75.0,95000,0,Филевский парк,Береговой проезд,7,Фили
+6,АнВи,real_estate_agent,https://www.cian.ru/rent/flat/307701898/,Москва,rent,flat,20,21,2,45.0,140000,0,Филевский парк,Береговой проезд,5к3,Фили
+7,ID 32395,realtor,https://www.cian.ru/rent/flat/307686814/,Москва,rent,flat,10,17,2,55.0,80000,0,Филевский парк,Большая Филевская ,23К2,Фили
+8,ID 40880229,homeowner,https://www.cian.ru/rent/flat/307682879/,Москва,rent,flat,13,22,2,54.0,170000,0,Филевский парк,Береговой проезд,5к2,Фили
+9,Добрый Дом,real_estate_agent,https://www.cian.ru/rent/flat/307657383/,Москва,rent,flat,11,25,2,45.0,120000,0,Филевский парк,Береговой проезд,5Ак3,Фили
+10,Liberty Estate,real_estate_agent,https://www.cian.ru/rent/flat/307629634/,Москва,rent,flat,17,20,2,45.0,130000,0,Филевский парк,Большая Филевская ,3к2,Фили
+11,ID 341344,realtor,https://www.cian.ru/rent/flat/307607993/,Москва,rent,flat,2,9,2,45.0,72000,0,Филевский парк,Барклая ,16К3,Фили
+12,ID 8618,realtor,https://www.cian.ru/rent/flat/307581705/,Москва,rent,flat,20,25,2,60.0,135000,0,Филевский парк,Береговой проезд,5Ак7,Фили
+13,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307572614/,Москва,rent,flat,10,20,2,40.0,140000,0,Филевский парк,Большая Филевская ,3к3,Фили
+14,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307564913/,Москва,rent,flat,10,20,2,38.0,140000,0,Филевский парк,Большая Филевская ,3к3,Фили
+15,BOND недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/307555628/,Москва,rent,flat,10,20,2,38.0,140000,0,Филевский парк,Большая Филевская ,3к3,Фили
+16,Las Vegas,real_estate_agent,https://www.cian.ru/rent/flat/307545784/,Москва,rent,flat,16,42,2,72.0,165000,0,Филевский парк,Багратионовский проезд,5Ак1,Фили
+17,EstateLiga,real_estate_agent,https://www.cian.ru/rent/flat/307539332/,Москва,rent,flat,18,31,2,70.0,170000,0,Филевский парк,Береговой проезд,5к1,Фили
+18,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307538493/,Москва,rent,flat,3,24,2,43.0,110000,0,Филевский парк,Береговой проезд,1А,Фили
+19,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307533209/,Москва,rent,flat,10,20,2,40.0,140000,0,Филевский парк,Большая Филевская ,3к3,Фили
+20,EstateLiga,real_estate_agent,https://www.cian.ru/rent/flat/307527110/,Москва,rent,flat,5,9,2,40.0,120000,0,Филевский парк,Береговой проезд,3,Фили
+21,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307520051/,Москва,rent,flat,20,20,2,60.0,200000,0,Филевский парк,Большая Филевская ,3к2,Фили
+22,ID 31355,realtor,https://www.cian.ru/rent/flat/307488187/,Москва,rent,flat,19,20,2,57.0,180000,0,Филевский парк,Большая Филевская ,3к3,Фили
+23,ID 45342785,realtor,https://www.cian.ru/rent/flat/307485216/,Москва,rent,flat,7,29,2,63.0,200000,0,Филевский парк,Береговой проезд,3,Фили
+24,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307447008/,Москва,rent,flat,14,28,2,48.0,120000,0,Филевский парк,Береговой проезд,5к1,Фили
+25,Lucky Realty,real_estate_agent,https://www.cian.ru/rent/flat/307418521/,Москва,rent,flat,10,28,2,70.0,240000,0,Филевский парк,Береговой проезд,1Б,Фили
+26,Lucky Realty,real_estate_agent,https://www.cian.ru/rent/flat/307416269/,Москва,rent,flat,7,28,2,70.0,165000,0,Филевский парк,Береговой проезд,1Б,Фили
+27,ДОМ.РФ Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307401699/,Москва,rent,flat,12,24,2,43.0,116600,0,Хорошево-Мневники,Шелепихинская набережная,34к4,Фили
+28,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307338805/,Москва,rent,flat,14,28,2,48.0,120000,0,Филевский парк,Береговой проезд,5к1,Фили
+29,ID 7289129,realtor,https://www.cian.ru/rent/flat/307314643/,Москва,rent,flat,14,24,2,40.0,140000,0,Хорошево-Мневники,Шелепихинская набережная,34к4,Фили
+30,ID 16070327,realtor,https://www.cian.ru/rent/flat/307312054/,Москва,rent,flat,14,28,2,48.0,120000,0,Филевский парк,Береговой проезд,5к1,Фили
+31,ОХОТНЫЙ РЯД офис Тверская,real_estate_agent,https://www.cian.ru/rent/flat/307269235/,Москва,rent,flat,10,20,2,40.0,145000,0,Филевский парк,Большая Филевская ,3к3,Фили
+32,Анастасия Ермакова,realtor,https://www.cian.ru/rent/flat/307210557/,Москва,rent,flat,2,5,2,55.0,115000,0,Филевский парк,Барклая ,15К1,Фили
+33,Las Vegas,real_estate_agent,https://www.cian.ru/rent/flat/307209710/,Москва,rent,flat,16,29,2,56.0,168000,0,Филевский парк,Береговой проезд,3,Фили
+34,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307200719/,Москва,rent,flat,23,37,2,65.0,183000,0,Хорошево-Мневники,Шелепихинская набережная,34Ас1,Фили
+35,Роксана Сулименко,realtor,https://www.cian.ru/rent/flat/307154860/,Москва,rent,flat,5,11,2,53.0,95000,0,Дорогомилово, Генерала Ермолова,6,Фили
+36,Елена Мессих,realtor,https://www.cian.ru/rent/flat/307077389/,Москва,rent,flat,3,11,2,52.4,130000,0,Дорогомилово, Генерала Ермолова,6,Фили
+37,Жанна Толпарова,realtor,https://www.cian.ru/rent/flat/307056169/,Москва,rent,flat,7,29,2,70.0,200000,0,Хорошево-Мневники,Шелепихинская набережная,34к4,Фили
+38,ID 16013627,realtor,https://www.cian.ru/rent/flat/307014670/,Москва,rent,flat,4,5,2,43.0,65000,0,Филевский парк,Сеславинская ,6,Фили
+39,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/306949694/,Москва,rent,flat,10,28,2,70.0,240000,0,Филевский парк,Береговой проезд,1Б,Фили
+40,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/306855698/,Москва,rent,flat,10,28,2,75.0,240000,0,Филевский парк,Береговой проезд,1Б,Фили
+41,ID 98330539,homeowner,https://www.cian.ru/rent/flat/306855387/,Москва,rent,flat,10,28,2,70.0,240000,0,Филевский парк,Береговой проезд,1Б,Фили
+42,ID 26050946,unknown,https://www.cian.ru/rent/flat/306804193/,Москва,rent,flat,9,24,2,74.0,200000,0,Филевский парк,Береговой проезд,1Б,Фили
+43,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/306771864/,Москва,rent,flat,17,20,2,48.0,130000,0,Филевский парк,Большая Филевская ,3к2,Фили
+44,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/306699368/,Москва,rent,flat,11,11,2,60.0,150000,0,Дорогомилово,площадь Победы,2К2,Фили
+45,EstateLiga,real_estate_agent,https://www.cian.ru/rent/flat/306604754/,Москва,rent,flat,17,23,2,52.0,139000,0,Филевский парк,Большая Филевская ,3к2,Фили
+46,Наталья Журова,realtor,https://www.cian.ru/rent/flat/306548034/,Москва,rent,flat,8,30,2,45.0,125000,0,Филевский парк,Береговой проезд,3,Фили
+47,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/306437185/,Москва,rent,flat,7,28,2,72.0,165000,0,Филевский парк,Береговой проезд,1Б,Фили
+48,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/306398021/,Москва,rent,flat,17,20,2,45.0,130000,0,Филевский парк,Большая Филевская ,3к2,Фили
+49,ID 120810978,homeowner,https://www.cian.ru/rent/flat/306325829/,Москва,rent,flat,17,20,2,45.0,130000,0,Филевский парк,Большая Филевская ,3к2,Фили
+50,ID 56002361,unknown,https://www.cian.ru/rent/flat/305980877/,Москва,rent,flat,6,25,2,45.0,110000,0,Филевский парк,Береговой проезд,5Ак2,Фили
+51,ПИК-Аренда,real_estate_agent,https://www.cian.ru/rent/flat/305913563/,Москва,rent,flat,7,28,2,68.0,164000,0,Филевский парк,Береговой проезд,1Б,Фили
+52,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/305860124/,Москва,rent,flat,7,28,2,70.0,164000,0,Филевский парк,Береговой проезд,1Б,Фили
+53,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/305771796/,Москва,rent,flat,20,42,2,61.0,199000,0,Филевский парк,Багратионовский проезд,5Ак1,Фили
+54,ID 76866753,homeowner,https://www.cian.ru/rent/flat/305669643/,Москва,rent,flat,7,28,2,70.0,165000,0,Филевский парк,Береговой проезд,1Б,Фили
+55,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/305480616/,Москва,rent,flat,7,28,2,70.0,169000,0,Филевский парк,Береговой проезд,1Б,Фили

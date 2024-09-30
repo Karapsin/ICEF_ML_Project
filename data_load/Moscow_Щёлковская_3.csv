@@ -1,0 +1,51 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Надин Исаева,realtor,https://balashikha.cian.ru/rent/flat/307780343/,Москва,rent,flat,12,17,3,87.0,55000,0,,Солнечная ,20,Щёлковская
+1,BARSANDKEY,real_estate_agent,https://www.cian.ru/rent/flat/307745893/,Москва,rent,flat,13,16,3,60.0,75000,0,Измайлово,7-я Парковая ,15К1,Щёлковская
+2,Градсити,real_estate_agent,https://www.cian.ru/rent/flat/307741317/,Москва,rent,flat,6,9,3,65.0,60000,0,Гольяново,Хабаровская ,17/13,Щёлковская
+3,Юлия Смышляева,realtor,https://www.cian.ru/rent/flat/307718484/,Москва,rent,flat,2,4,3,80.0,100000,0,Восточное Измайлово,Первомайская ,80,Щёлковская
+4,ID 334100,unknown,https://www.cian.ru/rent/flat/307701781/,Москва,rent,flat,3,16,3,64.8,73000,0,Восточное Измайлово,Первомайская ,106,Щёлковская
+5,Лидия Петренко,realtor,https://balashikha.cian.ru/rent/flat/307679967/,Москва,rent,flat,1,17,3,75.0,65000,0,,,8,Щёлковская
+6,EstateLiga,real_estate_agent,https://www.cian.ru/rent/flat/307613751/,Москва,rent,flat,1,5,3,56.0,60000,0,Северное Измайлово,Щелковское шоссе,18,Щёлковская
+7,Лариса Лялина,realtor,https://www.cian.ru/rent/flat/307611896/,Москва,rent,flat,1,14,3,77.8,80000,0,Северное Измайлово,13-я Парковая ,42,Щёлковская
+8,Квартирный центр,real_estate_agent,https://balashikha.cian.ru/rent/flat/307611442/,Москва,rent,flat,14,15,3,71.0,40000,0,,Балашихинское шоссе,8к1,Щёлковская
+9,ID 10582847,realtor,https://www.cian.ru/rent/flat/307530977/,Москва,rent,flat,5,8,3,70.5,130000,0,Измайлово,7-я Парковая ,30/24,Щёлковская
+10,ID 3926698,realtor,https://www.cian.ru/rent/flat/307436339/,Москва,rent,flat,3,4,3,115.0,60000,0,д. Оболдино, Радужная,11,
+11,Метражи group,real_estate_agent,https://shchyolkovo.cian.ru/rent/flat/307430188/,Москва,rent,flat,5,9,3,60.0,45000,0,,переулок 1-й Советский,5А,Щёлковская
+12,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307430101/,Москва,rent,flat,1,5,3,80.0,82000,0,Измайлово,Измайловский бульвар,3,Щёлковская
+13,АВАНГАРД,real_estate_agent,https://balashikha.cian.ru/rent/flat/307396982/,Москва,rent,flat,5,17,3,110.0,80000,0,,Заречная ,32,Щёлковская
+14,Денис Мастяев,realtor,https://www.cian.ru/rent/flat/307391852/,Москва,rent,flat,1,5,3,60.0,60000,0,Северное Измайлово,Щелковское шоссе,42,Щёлковская
+15,Игорь Дубравский,realtor,https://www.cian.ru/rent/flat/307383810/,Москва,rent,flat,10,17,3,82.0,110000,0,Северное Измайлово,Щелковское шоссе,26К2,Щёлковская
+16,Геннадий Град,realtor,https://shchyolkovo.cian.ru/rent/flat/307360947/,Москва,rent,flat,5,5,3,60.0,25000,0,,переулок 1-й Советский,21,Щёлковская
+17,СТОЛИЦА Департамент недвижимости,real_estate_agent,https://balashikha.cian.ru/rent/flat/307308103/,Москва,rent,flat,9,24,3,85.0,80000,0,,,24,Щёлковская
+18,Региональное,real_estate_agent,https://balashikha.cian.ru/rent/flat/307270695/,Москва,rent,flat,14,22,3,97.0,80000,0,, Свердлова,65,Щёлковская
+19,Метражи group,real_estate_agent,https://shchyolkovo.cian.ru/rent/flat/307145891/,Москва,rent,flat,12,14,3,76.4,57000,0,,,4,Щёлковская
+20,ID 193211,realtor,https://www.cian.ru/rent/flat/306757532/,Москва,rent,flat,3,12,3,87.0,115000,0,Гольяново,Уральская ,23К2,Щёлковская
+21,Михаил Денисов,realtor,https://www.cian.ru/rent/flat/306595686/,Москва,rent,flat,5,5,3,55.0,62000,0,Северное Измайлово,9-я Парковая ,61К4,Щёлковская
+22,ID 97247318,unknown,https://balashikha.cian.ru/rent/flat/306553235/,Москва,rent,flat,5,17,3,100.9,80000,0,, 40 лет Победы,27,Щёлковская
+23,Екатерина Василькина,realtor,https://balashikha.cian.ru/rent/flat/306389262/,Москва,rent,flat,4,9,3,68.0,45000,0,,Московский бульвар,11,Щёлковская
+24,Наталья Мишина,realtor,https://www.cian.ru/rent/flat/306281150/,Москва,rent,flat,9,9,3,65.0,80000,0,Гольяново,Байкальская ,48К1,Щёлковская
+25,Сергей Давыдов,realtor,https://www.cian.ru/rent/flat/306275340/,Москва,rent,flat,8,16,3,82.0,95000,0,Гольяново,Красноярская ,1,Щёлковская
+26,ID 120625281,homeowner,https://balashikha.cian.ru/rent/flat/306231510/,Москва,rent,flat,7,9,3,64.0,65000,0,,Солнечная ,3,Щёлковская
+27,ID 573647,homeowner,https://www.cian.ru/rent/flat/305981352/,Москва,rent,flat,8,16,3,80.0,95000,0,Гольяново,Красноярская ,1,Щёлковская
+28,NEW ARK,real_estate_agent,https://www.cian.ru/rent/flat/305634200/,Москва,rent,flat,3,14,3,80.0,80000,0,Гольяново,Амурская ,76,Щёлковская
+29,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/303809823/,Москва,rent,flat,11,17,3,75.0,104000,0,Восточное Измайлово,Измайловский бульвар,56,Щёлковская
+30,Антон Репин,realtor,https://www.cian.ru/rent/flat/301162346/,Москва,rent,flat,6,9,3,65.0,55000,0,Гольяново,Щелковское шоссе,79К1,Щёлковская
+31,ID 73617706,homeowner,https://www.cian.ru/rent/flat/296304083/,Москва,rent,flat,4,5,3,60.5,110000,0,Восточное Измайлово,Первомайская ,121,Щёлковская
+32,ID 64533580,homeowner,https://balashikha.cian.ru/rent/flat/294653849/,Москва,rent,flat,3,17,3,63.0,77000,0,,,37,Щёлковская
+33,ID 67558425,unknown,https://www.cian.ru/rent/flat/291138515/,Москва,rent,flat,2,5,3,57.0,60000,0,Северное Измайлово,15-я Парковая ,42К4,Щёлковская
+34,ID 25525077,homeowner,https://balashikha.cian.ru/rent/flat/259980546/,Москва,rent,flat,9,16,3,88.0,90000,0,,,17,Щёлковская
+35,ID 20198169,realtor,https://www.cian.ru/rent/flat/257723004/,Москва,rent,flat,8,9,3,60.0,70000,0,Гольяново,Алтайская ,10,Щёлковская
+36,Светлана Матвеева,realtor,https://balashikha.cian.ru/rent/flat/249250194/,Москва,rent,flat,7,16,3,63.9,40000,0,,,31,Щёлковская
+37,Tower Estate,real_estate_agent,https://www.cian.ru/rent/flat/244078759/,Москва,rent,flat,8,9,3,58.0,65000,0,Гольяново,Сахалинская ,6К2,Щёлковская
+38,ID 19660,realtor,https://www.cian.ru/rent/flat/189046307/,Москва,rent,flat,5,9,3,63.0,70000,0,Гольяново,Алтайская ,15,Щёлковская
+39,СТОЛИЦА Департамент недвижимости,real_estate_agent,https://www.cian.ru/rent/flat/307046864/,Москва,rent,flat,11,16,2,50.0,60000,0,Гольяново,Камчатская ,3,Щёлковская
+40,ID 107338040,homeowner,https://www.cian.ru/rent/flat/307592081/,Москва,rent,flat,4,9,2,48.5,80000,0,Восточное Измайлово,Первомайская ,113К1,Щёлковская
+41,АКРУС-сити,real_estate_agent,https://www.cian.ru/rent/flat/278475310/,Москва,rent,flat,10,12,3,65.0,75000,0,Басманный, Госпитальный Вал,3К5,Лефортово
+42,ID 3479,realtor,https://www.cian.ru/rent/flat/217927353/,Москва,rent,flat,1,5,2,43.0,60000,0,Восточное Измайлово,15-я Парковая ,29К1,Щёлковская
+43,ID 3134638,realtor,https://www.cian.ru/rent/flat/307574527/,Москва,rent,flat,4,5,2,55.0,55000,0,Измайлово,Измайловская площадь,4,Измайловская
+44,Квартирный вопрос,real_estate_agent,https://www.cian.ru/rent/flat/307717129/,Москва,rent,flat,3,12,3,51.0,50000,0,Ивановское,Саянская ,11К2,Новогиреево
+45,Светлана Фалеева,realtor,https://www.cian.ru/rent/flat/195840488/,Москва,rent,flat,7,14,2,47.0,65000,0,Измайлово,Измайловский проезд,5К2,Измайловская
+46,Столичный Проспект,real_estate_agent,https://www.cian.ru/rent/flat/307664991/,Москва,rent,flat,3,14,3,60.0,70000,0,Богородское,3-я Гражданская ,3,Бульвар Рокоссовского
+47,Марина Сидорова,realtor,https://www.cian.ru/rent/flat/291838999/,Москва,rent,flat,3,5,3,60.0,80000,0,Соколиная гора, Семеновский Вал,10К2,Семёновская
+48,ID 119597,realtor,https://www.cian.ru/rent/flat/307688731/,Москва,rent,flat,5,9,2,45.0,70000,0,Гольяново,Алтайская ,32,Щёлковская
+49,EMPIRE HOME,real_estate_agent,https://www.cian.ru/rent/flat/307432607/,Москва,rent,flat,2,4,3,50.0,75000,0,Измайлово,Измайловский проезд,6,Измайловская

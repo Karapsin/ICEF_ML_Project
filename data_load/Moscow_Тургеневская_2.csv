@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307718075/,Москва,rent,flat,4,8,2,60.0,130000,0,Басманный,Чистопрудный бульвар,9С1,Тургеневская
+1,Дмитрий Вологжанин,realtor,https://www.cian.ru/rent/flat/307703176/,Москва,rent,flat,1,5,2,53.8,110000,0,Басманный, Жуковского,4С3,Тургеневская
+2,SPENСER ESTATE,real_estate_agent,https://www.cian.ru/rent/flat/307590865/,Москва,rent,flat,3,8,2,55.6,495000,0,Красносельский,Костянский переулок,13,Тургеневская
+3,Дмитрий Шлык,realtor,https://www.cian.ru/rent/flat/306070949/,Москва,rent,flat,6,8,2,52.0,150000,0,Красносельский,Мясницкая ,35А,Тургеневская
+4,ID 13756130,realtor,https://www.cian.ru/rent/flat/285832817/,Москва,rent,flat,5,5,2,98.0,300000,0,Басманный,Кривоколенный переулок,10С4,Тургеневская
+5,Юлия Мясоедова,realtor,https://www.cian.ru/rent/flat/273601224/,Москва,rent,flat,4,8,2,50.0,120000,0,Басманный,Большой Харитоньевский переулок,2/7,Тургеневская
+6,ID 24330,realtor,https://www.cian.ru/rent/flat/265324342/,Москва,rent,flat,2,9,2,45.0,110000,0,Басманный,Чистопрудный бульвар,7/2,Тургеневская
+7,Михаил Иванов,realtor,https://www.cian.ru/rent/flat/307586651/,Москва,rent,flat,2,7,3,75.9,95000,0,Хамовники,переулок Сивцев Вражек,21,Смоленская
+8,Вартан Вартанян,realtor,https://www.cian.ru/rent/flat/307525401/,Москва,rent,flat,12,12,2,49.0,100000,0,Арбат,Староконюшенный переулок,30,Кропоткинская
+9,Олег Кочнев,realtor,https://www.cian.ru/rent/flat/306897340/,Москва,rent,flat,3,12,2,53.0,145000,0,Хамовники,Большая Пироговская ,53-55,Спортивная
+10,ID 24419,real_estate_agent,https://www.cian.ru/rent/flat/307470965/,Москва,rent,flat,4,8,2,46.0,150000,0,Хамовники,переулок Сивцев Вражек,15/25,Кропоткинская
+11,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307537332/,Москва,rent,flat,2,4,1,35.0,110000,0,Тверской,Малый Гнездниковский переулок,10,Тверская
+12,ID 69392442,homeowner,https://www.cian.ru/rent/flat/251955241/,Москва,rent,flat,6,8,1,40.0,80000,0,Басманный, Земляной Вал,39/1С1,Чкаловская
+13,ID 48976342,unknown,https://www.cian.ru/rent/flat/307046940/,Москва,rent,flat,3,5,2,42.0,85000,0,Тверской, Петровка,26С5,Трубная
+14,Елена Власенкова,realtor,https://www.cian.ru/rent/flat/307519893/,Москва,rent,flat,11,15,2,46.0,100000,0,Тверской,3-й Самотечный переулок,2,Достоевская
+15,ID 16276255,unknown,https://www.cian.ru/rent/flat/307538535/,Москва,rent,flat,3,4,1,45.0,128000,0,Басманный,Старосадский переулок,10С1,Китай-город
+16,Vershina Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307674450/,Москва,rent,flat,10,13,2,34.0,85000,0,Тверской, Малая Дмитровка,24/2,Маяковская
+17,ID 88670116,homeowner,https://www.cian.ru/rent/flat/307675444/,Москва,rent,flat,2,5,2,78.2,150000,0,Басманный,Покровский бульвар,16/10С1,Китай-город
+18,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/303632194/,Москва,rent,flat,5,5,3,65.2,130000,0,Замоскворечье,Пятницкая ,28,Третьяковская
+19,Юлия Паниотова,realtor,https://www.cian.ru/rent/flat/292701750/,Москва,rent,flat,5,8,3,90.5,155000,0,Таганский,Котельническая набережная,25к2,Таганская
+20,PANDA ESTATE,real_estate_agent,https://www.cian.ru/rent/flat/305572564/,Москва,rent,flat,6,6,2,60.0,140000,0,Пресненский,Богословский переулок,5,Тверская
+21,Дипломат,real_estate_agent,https://www.cian.ru/rent/flat/307131445/,Москва,rent,flat,6,6,2,52.0,130000,0,Пресненский,Большой Патриарший переулок,10,Маяковская
+22,Василий Захаров,realtor,https://www.cian.ru/rent/flat/307654701/,Москва,rent,flat,6,6,1,55.0,100000,0,Тверской,Тверская ,19А,Пушкинская
+23,Сергей Гризодуб,realtor,https://www.cian.ru/rent/flat/307506381/,Москва,rent,flat,9,16,2,56.0,100000,0,Красносельский,Большая Спасская ,27,Площадь трёх вокзалов
+24,Квадраты Москвы,real_estate_agent,https://www.cian.ru/rent/flat/307651895/,Москва,rent,flat,1,4,1,42.0,70000,0,Басманный,Подсосенский переулок,18/5,Курская

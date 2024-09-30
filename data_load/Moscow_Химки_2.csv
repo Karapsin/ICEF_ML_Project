@@ -1,0 +1,53 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,ID 75784069,homeowner,https://khimki.cian.ru/rent/flat/307733873/,Москва,rent,flat,5,5,2,63.0,65000,0,, Победы,4,Химки
+1,Парус,real_estate_agent,https://khimki.cian.ru/rent/flat/307716277/,Москва,rent,flat,15,25,2,67.0,100000,0,, Калинина,7,Химки
+2,Самолет плюс - Химки,real_estate_agent,https://khimki.cian.ru/rent/flat/307715902/,Москва,rent,flat,8,9,2,46.0,53000,0,,Юбилейный проспект,18,Химки
+3,Екатерина Жаркова,realtor,https://khimki.cian.ru/rent/flat/307695846/,Москва,rent,flat,2,9,2,44.0,50000,0,,Московская ,19/2,Химки
+4,Дмитрий Шаренко,realtor,https://khimki.cian.ru/rent/flat/307672368/,Москва,rent,flat,4,5,2,45.0,50000,0,,Юбилейный проспект,28,Химки
+5,ID 87131145,homeowner,https://khimki.cian.ru/rent/flat/307659265/,Москва,rent,flat,15,25,2,67.3,100000,0,, Калинина,7,Химки
+6,ID 14017258,homeowner,https://www.cian.ru/rent/flat/307653586/,Москва,rent,flat,9,14,2,59.4,65000,0,Молжаниновский,Ленинградское шоссе,228к3,Химки
+7,ID 47278279,homeowner,https://www.cian.ru/rent/flat/307636634/,Москва,rent,flat,9,15,2,59.4,65000,0,Молжаниновский,Ленинградское шоссе,228к3,Химки
+8,Павел Черкашин,realtor,https://khimki.cian.ru/rent/flat/307627441/,Москва,rent,flat,3,9,2,45.0,48000,0,,Юбилейный проспект,40,Химки
+9,Про Жильё,real_estate_agent,https://khimki.cian.ru/rent/flat/307606894/,Москва,rent,flat,4,5,2,50.0,58000,0,,Юбилейный проспект,28,Химки
+10,ID 141528,unknown,https://khimki.cian.ru/rent/flat/307573168/,Москва,rent,flat,1,6,2,65.0,65000,0,, Озерная,4,Химки
+11,Ирина Виртуозова,realtor,https://khimki.cian.ru/rent/flat/307553064/,Москва,rent,flat,15,17,2,58.0,75000,0,, Чернышевского,3,Химки
+12,ID 185806,realtor,https://khimki.cian.ru/rent/flat/307523961/,Москва,rent,flat,5,23,2,62.0,55000,0,, Горшина,6к2,Химки
+13,ID 47995649,real_estate_agent,https://khimki.cian.ru/rent/flat/307462639/,Москва,rent,flat,22,27,2,65.0,65000,0,,проспект Мельникова,3,Химки
+14,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307398524/,Москва,rent,flat,4,9,2,77.0,83000,0,Куркино,Ландышевая ,14К1,Химки
+15,ID 45150,realtor,https://khimki.cian.ru/rent/flat/307389473/,Москва,rent,flat,10,24,2,61.8,65000,0,,проезд Молодежный,6,Химки
+16,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307388165/,Москва,rent,flat,6,14,2,58.0,60000,0,Молжаниновский,Ленинградское шоссе,228к3,Химки
+17,ID 285360,realtor,https://khimki.cian.ru/rent/flat/307368851/,Москва,rent,flat,17,18,2,58.0,65000,0,, Германа Титова,5к2,Химки
+18,Парус,real_estate_agent,https://khimki.cian.ru/rent/flat/307136353/,Москва,rent,flat,4,5,2,45.0,50000,0,,Юбилейный проспект,28,Химки
+19,АЛЬФА,real_estate_agent,https://khimki.cian.ru/rent/flat/307128117/,Москва,rent,flat,2,8,2,70.0,140000,0,, Заречная,5к1,Химки
+20,ГОРОБМЕН,real_estate_agent,https://khimki.cian.ru/rent/flat/307005834/,Москва,rent,flat,8,25,2,60.2,62000,0,,Молодежная ,54,Химки
+21,ДОМОФОН,real_estate_agent,https://khimki.cian.ru/rent/flat/306792765/,Москва,rent,flat,8,17,2,81.0,70000,0,, Строителей,5А,Химки
+22,Александр Лебедев,realtor,https://khimki.cian.ru/rent/flat/306696248/,Москва,rent,flat,24,25,2,62.0,65000,0,, Горшина,2,Химки
+23,ID 13364862,unknown,https://khimki.cian.ru/rent/flat/306471632/,Москва,rent,flat,2,9,2,80.0,130000,0,, Заречная,3к1,Химки
+24,ID 120508088,homeowner,https://khimki.cian.ru/rent/flat/306125809/,Москва,rent,flat,11,25,2,75.0,65000,0,,Молодежная ,36А,Химки
+25,Уютный Дом,real_estate_agent,https://khimki.cian.ru/rent/flat/306090400/,Москва,rent,flat,9,26,2,47.0,58000,0,,Юбилейный проспект,82А,Химки
+26,Нонна Аветисян,realtor,https://khimki.cian.ru/rent/flat/306062864/,Москва,rent,flat,24,25,2,59.0,85000,0,,проезд Молодежный,6,Химки
+27,Юлия Кутепова,realtor,https://khimki.cian.ru/rent/flat/306061982/,Москва,rent,flat,1,9,2,65.0,15000,0,, Береговая,1А,Химки
+28,Михаил Акуленко,realtor,https://khimki.cian.ru/rent/flat/305550898/,Москва,rent,flat,3,9,2,70.0,100000,0,, Юннатов,17,Химки
+29,ID 10202212,unknown,https://khimki.cian.ru/rent/flat/304840227/,Москва,rent,flat,17,17,2,57.5,100000,0,, Германа Титова,5к2,Химки
+30,МИЭЛЬ,real_estate_agent,https://khimki.cian.ru/rent/flat/304724270/,Москва,rent,flat,2,7,2,79.0,70000,0,, Загородная,1,Химки
+31,ID 90676594,homeowner,https://khimki.cian.ru/rent/flat/304614510/,Москва,rent,flat,6,8,2,56.0,95000,0,, Заречная,2к3,Химки
+32,ID 6431,realtor,https://khimki.cian.ru/rent/flat/303992554/,Москва,rent,flat,8,12,2,46.0,45000,0,,Парковая ,12,Химки
+33,Светлана Иванова,realtor,https://khimki.cian.ru/rent/flat/302506762/,Москва,rent,flat,10,17,2,85.0,45000,0,,Молодежная ,34к1,Химки
+34,ID 27594,realtor,https://khimki.cian.ru/rent/flat/300950285/,Москва,rent,flat,8,25,2,61.0,56000,0,,Молодежная ,52,Химки
+35,ID 9785704,homeowner,https://www.cian.ru/rent/flat/297795895/,Москва,rent,flat,5,23,2,47.0,65000,0,Куркино, Соловьиная Роща,10,Химки
+36,Александр Захаров,realtor,https://khimki.cian.ru/rent/flat/295132397/,Москва,rent,flat,3,24,2,46.0,60000,0,,Московская ,21А,Химки
+37,ID 109123210,homeowner,https://www.cian.ru/rent/flat/294195303/,Москва,rent,flat,8,14,2,58.0,60000,0,Молжаниновский,Ленинградское шоссе,228к3,Химки
+38,Наталия Каменская,realtor,https://khimki.cian.ru/rent/flat/287981046/,Москва,rent,flat,16,25,2,60.0,70000,0,, Горшина,2,Химки
+39,Мария Трофимова,realtor,https://khimki.cian.ru/rent/flat/286361361/,Москва,rent,flat,18,41,2,62.0,93000,0,, Кудрявцева,16,Химки
+40,ID 10616927,homeowner,https://www.cian.ru/rent/flat/282434037/,Москва,rent,flat,4,9,2,78.0,85000,0,Куркино,Ландышевая ,14К1,Химки
+41,ID 87266840,homeowner,https://khimki.cian.ru/rent/flat/278409191/,Москва,rent,flat,2,8,2,49.0,125000,0,, Заречная,1,Химки
+42,BE FREE,real_estate_agent,https://khimki.cian.ru/rent/flat/277914722/,Москва,rent,flat,2,8,2,71.0,140000,0,, Заречная,5к1,Химки
+43,ID 11534183,homeowner,https://khimki.cian.ru/rent/flat/268551999/,Москва,rent,flat,4,5,2,60.0,75000,0,,бульвар Весенний,4,Химки
+44,ID 7002202,unknown,https://khimki.cian.ru/rent/flat/233908480/,Москва,rent,flat,14,17,2,56.0,65000,0,, Панфилова,12,Химки
+45,НАТАНИЭЛЬ,real_estate_agent,https://khimki.cian.ru/rent/flat/222601042/,Москва,rent,flat,3,5,2,43.0,50000,0,, Кирова,23,Химки
+46,ID 25986017,homeowner,https://khimki.cian.ru/rent/flat/207088362/,Москва,rent,flat,2,8,2,70.0,145000,0,, Заречная,5к1,Химки
+47,ФЛЭТ Зеленоград,real_estate_agent,https://khimki.cian.ru/rent/flat/307381994/,Москва,rent,flat,17,17,1,39.0,42000,0,,Железнодорожная ,33к1,Сходня
+48,ID 122026980,homeowner,https://khimki.cian.ru/rent/flat/307596093/,Москва,rent,flat,23,23,1,43.0,42000,0,, Горшина,6к2,Химки
+49,Антон Садаев,realtor,https://khimki.cian.ru/rent/flat/207088119/,Москва,rent,flat,9,16,1,40.0,45000,0,,Юбилейный проспект,9/1,Химки
+50,MDco,real_estate_agent,https://khimki.cian.ru/rent/flat/307635432/,Москва,rent,flat,15,17,2,60.0,55000,0,,Молодежная ,1,Сходненская
+51,МИЭЛЬ,real_estate_agent,https://khimki.cian.ru/rent/flat/307103520/,Москва,rent,flat,4,15,1,42.0,48000,0,, Академика Грушина,10,Химки

@@ -1,0 +1,53 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Chase R.E.S.,real_estate_agent,https://www.cian.ru/rent/flat/307773070/,Москва,rent,flat,3,8,3,130.0,350000,0,Якиманка,Погорельский переулок,5С2,Добрынинская
+1,Жанна Фадеева,realtor,https://www.cian.ru/rent/flat/307753934/,Москва,rent,flat,8,9,3,155.0,500000,0,Якиманка,Погорельский переулок,6,Добрынинская
+2,Intermark Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307658521/,Москва,rent,flat,2,7,3,98.0,500000,0,Якиманка,2-й Спасоналивковский переулок,6,Добрынинская
+3,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307605465/,Москва,rent,flat,5,8,3,75.0,180000,0,Замоскворечье,Большая Серпуховская ,40С2,Добрынинская
+4,ID 12911103,realtor,https://www.cian.ru/rent/flat/307595311/,Москва,rent,flat,4,5,3,64.0,100000,0,Замоскворечье,1-й Щипковский переулок,17,Добрынинская
+5,ID 119339694,homeowner,https://www.cian.ru/rent/flat/307549629/,Москва,rent,flat,5,8,3,75.0,220000,0,Замоскворечье,Большая Серпуховская ,40С2,Добрынинская
+6,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307541774/,Москва,rent,flat,2,14,3,65.0,250000,0,Замоскворечье,Большой Строченовский переулок,9,Добрынинская
+7,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307532944/,Москва,rent,flat,2,14,3,65.0,250000,0,Замоскворечье,Большой Строченовский переулок,9,Добрынинская
+8,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307531209/,Москва,rent,flat,2,14,3,65.0,255000,0,Замоскворечье,Большой Строченовский переулок,9,Добрынинская
+9,Филипп Прозоров,realtor,https://www.cian.ru/rent/flat/307523410/,Москва,rent,flat,5,8,3,60.0,120000,0,Замоскворечье,Дубининская ,11С2,Добрынинская
+10,My Hoyse,real_estate_agent,https://www.cian.ru/rent/flat/307455769/,Москва,rent,flat,17,18,3,130.0,250000,0,Якиманка, Шаболовка,10,Добрынинская
+11,ID 54990,realtor,https://www.cian.ru/rent/flat/307442777/,Москва,rent,flat,4,8,3,82.2,120000,0,Даниловский,Большая Серпуховская ,60,Добрынинская
+12,Las Vegas,real_estate_agent,https://www.cian.ru/rent/flat/307363709/,Москва,rent,flat,9,15,3,67.0,180000,0,Замоскворечье,Мытная ,7с2,Добрынинская
+13,ИП Шакарян Э.А.,real_estate_agent,https://www.cian.ru/rent/flat/307337202/,Москва,rent,flat,7,7,3,58.0,170000,0,Замоскворечье,Люсиновская ,37,Добрынинская
+14,Penny Lane Moscow,real_estate_agent,https://www.cian.ru/rent/flat/306781910/,Москва,rent,flat,3,14,3,120.0,395000,0,Замоскворечье,Мытная ,7с1,Добрынинская
+15,Alfa Forum Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/306778572/,Москва,rent,flat,4,18,3,105.0,180000,0,Якиманка, Шаболовка,10к1,Добрынинская
+16,На Петровке,real_estate_agent,https://www.cian.ru/rent/flat/306754287/,Москва,rent,flat,13,16,3,70.0,130000,0,Замоскворечье,Большая Пионерская ,33К1,Добрынинская
+17,OXE CAPITAL - Элитная Недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/306556126/,Москва,rent,flat,3,8,3,130.0,350000,0,Якиманка,Погорельский переулок,5С2,Добрынинская
+18,NF Group - ex-Knight Frank,real_estate_agent,https://www.cian.ru/rent/flat/306547190/,Москва,rent,flat,7,7,3,211.1,550000,0,Якиманка,2-й Казачий переулок,4С1,Добрынинская
+19,Monumental Group,real_estate_agent,https://www.cian.ru/rent/flat/306498702/,Москва,rent,flat,6,23,3,78.0,270000,0,Якиманка,Мытная ,40к1,Добрынинская
+20,Trust Realty,real_estate_agent,https://www.cian.ru/rent/flat/306459997/,Москва,rent,flat,3,8,3,130.0,350000,0,Якиманка,Погорельский переулок,5С2,Добрынинская
+21,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/306368974/,Москва,rent,flat,2,9,3,125.0,250000,0,Якиманка,Погорельский переулок,6,Добрынинская
+22,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/306361449/,Москва,rent,flat,3,8,3,130.0,350000,0,Якиманка,Погорельский переулок,5С2,Добрынинская
+23,Intermark Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/305931566/,Москва,rent,flat,9,14,3,65.0,255000,0,Замоскворечье,Большой Строченовский переулок,9,Добрынинская
+24,Intermark Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/305740359/,Москва,rent,flat,7,8,3,211.0,550000,0,Якиманка,2-й Казачий переулок,4С1,Добрынинская
+25,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/303575502/,Москва,rent,flat,3,6,3,110.0,350000,0,Замоскворечье,Валовая ,11/19,Добрынинская
+26,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/294513359/,Москва,rent,flat,4,6,3,160.0,400000,0,Замоскворечье,Большая Пионерская ,20,Добрынинская
+27,ID 413058,realtor,https://www.cian.ru/rent/flat/269275295/,Москва,rent,flat,4,8,3,118.0,400000,0,Якиманка,2-й Казачий переулок,4С1,Добрынинская
+28,Intermark Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/236774672/,Москва,rent,flat,4,6,3,162.0,400000,0,Замоскворечье,Большая Пионерская ,20,Добрынинская
+29,ID 294204,realtor,https://www.cian.ru/rent/flat/167832790/,Москва,rent,flat,2,7,3,122.0,199900,0,Замоскворечье,Большая Серпуховская ,25С2,Добрынинская
+30,Intermark Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307521524/,Москва,rent,flat,14,16,3,88.0,200000,0,Хамовники,Малый Власьевский переулок,3к1,Кропоткинская
+31,Easy Estate,real_estate_agent,https://www.cian.ru/rent/flat/307387142/,Москва,rent,flat,4,5,3,150.0,200000,0,Хамовники,Лопухинский переулок,1АС2,Кропоткинская
+32,HOUSE MALL - Городская недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/281836793/,Москва,rent,flat,7,12,3,110.0,300000,0,Якиманка, Серафимовича,2,Боровицкая
+33,Самолет Плюс Москва,real_estate_agent,https://www.cian.ru/rent/flat/307540550/,Москва,rent,flat,4,5,4,110.0,180000,0,Хамовники,переулок Померанцев,9,Парк Культуры
+34,Maroom,real_estate_agent,https://www.cian.ru/rent/flat/305653509/,Москва,rent,flat,5,5,4,136.9,194000,0,Арбат,Гоголевский бульвар,23,Кропоткинская
+35,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307397815/,Москва,rent,flat,4,7,3,86.0,200000,0,Хамовники,Фрунзенская набережная,32,Фрунзенская
+36,Intermark Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/303276921/,Москва,rent,flat,9,13,3,120.0,170000,0,Нагатинский затон,Коломенская ,21К3,Кленовый бульвар
+37,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/304131642/,Москва,rent,flat,4,4,5,190.0,220000,0,Басманный,переулок Лялин,7/2С1,Курская
+38,ID 392452,official_representative,https://www.cian.ru/rent/flat/228417815/,Москва,rent,flat,7,9,3,87.0,299000,0,Хамовники,Саввинская набережная,3,Киевская
+39,Дворянское гнездо,real_estate_agent,https://www.cian.ru/rent/flat/307255105/,Москва,rent,flat,5,7,4,150.0,300000,0,Арбат,Кривоарбатский переулок,16/22,Смоленская
+40,Trust Realty,real_estate_agent,https://www.cian.ru/rent/flat/307512091/,Москва,rent,flat,3,4,4,173.0,300000,0,Арбат,Староконюшенный переулок,36С2,Арбатская
+41,ID 87484330,homeowner,https://www.cian.ru/rent/flat/293720088/,Москва,rent,flat,3,3,3,77.0,187000,0,Басманный, Покровка,14/2С1,Чистые пруды
+42,Алла Кривова,realtor,https://www.cian.ru/rent/flat/307476421/,Москва,rent,flat,7,9,3,78.0,200000,0,Пресненский,Малый Патриарший переулок,5С1,Маяковская
+43,ID 47837650,realtor,https://www.cian.ru/rent/flat/305463491/,Москва,rent,flat,7,7,4,110.0,250000,0,Хамовники,Фрунзенская набережная,12,Парк Культуры
+44,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/306595896/,Москва,rent,flat,3,5,3,105.0,300000,0,Хамовники,Курсовой переулок,8/2,Кропоткинская
+45,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307066760/,Москва,rent,flat,2,6,5,150.0,300000,0,Хамовники,Малый Власьевский переулок,14/23,Кропоткинская
+46,Сергей Гончарко,realtor,https://www.cian.ru/rent/flat/261009258/,Москва,rent,flat,2,5,4,100.0,220000,0,Пресненский,Мерзляковский переулок,13,Арбатская
+47,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/306878867/,Москва,rent,flat,5,8,4,110.0,400000,0,Якиманка,Донская ,14,Добрынинская
+48,Ashtons International Realty,real_estate_agent,https://www.cian.ru/rent/flat/306957593/,Москва,rent,flat,4,15,4,170.0,250000,0,Мещанский, Гиляровского,7,Сухаревская
+49,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/306915575/,Москва,rent,flat,4,7,5,150.0,300000,0,Басманный, Маросейка,13С3,Китай-город
+50,WHITE BROKER Аренда,real_estate_agent,https://www.cian.ru/rent/flat/306156172/,Москва,rent,flat,6,6,3,124.0,280000,0,Хамовники,переулок Плотников,2/8,Смоленская
+51,Trust Realty,real_estate_agent,https://www.cian.ru/rent/flat/307631605/,Москва,rent,flat,2,5,5,150.0,300000,0,Хамовники,Малый Власьевский переулок,14/23,Кропоткинская

@@ -1,0 +1,24 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,ID 112930043,homeowner,https://zhukovsky.cian.ru/rent/flat/307745969/,Москва,rent,flat,10,19,2,60.6,65000,0,, Солнечная,15,Отдых
+1,Центральное,real_estate_agent,https://zhukovsky.cian.ru/rent/flat/307681554/,Москва,rent,flat,2,9,2,45.0,40000,0,, Королева,12,Отдых
+2,ID 231632,realtor,https://zhukovsky.cian.ru/rent/flat/307639525/,Москва,rent,flat,5,5,2,47.0,25000,0,, Гагарина,32к3,Отдых
+3,ID 45965,real_estate_agent,https://zhukovsky.cian.ru/rent/flat/307499518/,Москва,rent,flat,2,5,2,45.0,53000,0,, Дугина,4,Отдых
+4,Кредит-Центр Недвижимость,real_estate_agent,https://zhukovsky.cian.ru/rent/flat/307493784/,Москва,rent,flat,4,12,2,65.0,55000,0,, Гризодубовой,2/10,Отдых
+5,УЮТ,real_estate_agent,https://zhukovsky.cian.ru/rent/flat/307151002/,Москва,rent,flat,2,5,2,30.0,26000,0,, Амет-хан Султана,1,Отдых
+6,Игорь Белоусов,realtor,https://zhukovsky.cian.ru/rent/flat/307046299/,Москва,rent,flat,2,5,2,43.0,35000,0,, Гагарина,17/1,Отдых
+7,ID 111929372,homeowner,https://zhukovsky.cian.ru/rent/flat/306176752/,Москва,rent,flat,7,10,2,49.9,45000,0,, Левченко,1,Отдых
+8,Каскад,real_estate_agent,https://zhukovsky.cian.ru/rent/flat/305788285/,Москва,rent,flat,2,5,2,45.0,42000,0,, Жуковского,23,Отдых
+9,ID 47343912,homeowner,https://ramenskoye.cian.ru/rent/flat/301739147/,Москва,rent,flat,4,12,2,50.0,55000,0,Ильинский рп, Чкалова,2,
+10,CENTURY21 Союз,real_estate_agent,https://zhukovsky.cian.ru/rent/flat/258528327/,Москва,rent,flat,4,8,2,65.0,60000,0,, Солнечная,9,Отдых
+11,АвиаН-Недвижимость,real_estate_agent,https://zhukovsky.cian.ru/rent/flat/257164594/,Москва,rent,flat,2,10,2,40.0,42000,0,, Солнечная,7,Отдых
+12,Елена Рудас,realtor,https://zhukovsky.cian.ru/rent/flat/219031252/,Москва,rent,flat,3,9,2,73.0,60000,0,, Гудкова,18,Отдых
+13,ДОМУС,real_estate_agent,https://ramenskoye.cian.ru/rent/flat/307146063/,Москва,rent,flat,5,5,1,38.0,27000,0,Центральный, Гурьева,16,Раменское
+14,ID 20304979,homeowner,https://ramenskoye.cian.ru/rent/flat/307549195/,Москва,rent,flat,1,17,1,41.5,30000,0,Центральный, Приборостроителей,14,Ипподром
+15,ID 80683912,realtor,https://lyubertsy.cian.ru/rent/flat/306103625/,Москва,rent,flat,1,17,-1,73.0,18000,0,пос. Мирный, Академика Северина,10,
+16,ID 108356299,unknown,https://ramenskoye.cian.ru/rent/flat/307517297/,Москва,rent,flat,3,3,1,33.0,25000,0,Залинейный,Десантная ,10,Фабричная
+17,Сто Ключей - офис Воскресенск. ул.Менделеева д.1,real_estate_agent,https://ramenskoye.cian.ru/rent/flat/304741381/,Москва,rent,flat,5,5,2,53.9,30000,0,пос. Дружба, Первомайская,3,
+18,ID 344423,homeowner,https://lyubertsy.cian.ru/rent/flat/304004147/,Москва,rent,flat,10,18,1,35.0,25000,0,пос. Мирный, Академика Северина,10,
+19,ID 80978729,homeowner,https://zhukovsky.cian.ru/rent/flat/307642127/,Москва,rent,flat,16,26,1,39.0,40000,0,, Гагарина,62,Отдых
+20,Ирина Вьюговская,realtor,https://ramenskoye.cian.ru/rent/flat/307633939/,Москва,rent,flat,1,5,1,40.2,35000,0,Центральный,Красноармейская ,9,Раменское
+21,ID 92771824,homeowner,https://ramenskoye.cian.ru/rent/flat/302426029/,Москва,rent,flat,7,9,2,50.0,55000,0,Удельная дп, Солнечная,33,
+22,ID 121708470,homeowner,https://bronnicy.cian.ru/rent/flat/307277487/,Москва,rent,flat,3,5,2,53.0,35000,0,Бронницы, Пущина,34,

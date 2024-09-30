@@ -1,0 +1,25 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Сергей Зиновьев,realtor,https://www.cian.ru/rent/flat/307725546/,Москва,rent,flat,16,16,2,53.6,75000,0,Ясенево, Инессы Арманд,3,Битцевский парк
+1,ID 620884,realtor,https://www.cian.ru/rent/flat/307721901/,Москва,rent,flat,6,9,2,45.0,65000,0,Ясенево,Литовский бульвар,11К5,Битцевский парк
+2,Екатерина Шахова,realtor,https://www.cian.ru/rent/flat/307713703/,Москва,rent,flat,8,9,2,45.0,115000,0,Ясенево,Новоясеневский проспект,40К3,Битцевский парк
+3,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307629490/,Москва,rent,flat,12,16,2,58.0,78000,0,Ясенево,Соловьиный проезд,18,Битцевский парк
+4,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307619132/,Москва,rent,flat,12,16,2,60.0,70000,0,Ясенево,Соловьиный проезд,18,Битцевский парк
+5,i-deal,real_estate_agent,https://www.cian.ru/rent/flat/307447639/,Москва,rent,flat,13,16,2,55.0,70000,0,Ясенево,Новоясеневский проспект,38К1,Битцевский парк
+6,Мой Дом - отделение Добрынинское,real_estate_agent,https://www.cian.ru/rent/flat/307430036/,Москва,rent,flat,3,9,2,46.0,65000,0,Ясенево,Голубинская ,25К1,Битцевский парк
+7,ОХОТНЫЙ РЯД офис Тверская,real_estate_agent,https://www.cian.ru/rent/flat/307385538/,Москва,rent,flat,6,16,2,54.4,65000,0,Ясенево,Новоясеневский проспект,32К1,Битцевский парк
+8,ID 105645593,homeowner,https://www.cian.ru/rent/flat/307345533/,Москва,rent,flat,4,9,2,49.3,65000,0,Ясенево,Ясногорская ,3,Битцевский парк
+9,Наталья Орлюк,realtor,https://www.cian.ru/rent/flat/307217000/,Москва,rent,flat,1,9,2,45.0,55000,0,Ясенево,Литовский бульвар,3К2,Битцевский парк
+10,EMPIRE HOME,real_estate_agent,https://www.cian.ru/rent/flat/307043099/,Москва,rent,flat,18,22,2,53.0,85000,0,Ясенево,Ясногорская ,13К2,Битцевский парк
+11,ID 87658976,unknown,https://www.cian.ru/rent/flat/306948152/,Москва,rent,flat,11,16,2,53.3,75000,0,Ясенево,Вильнюсская ,8К2,Битцевский парк
+12,ОХОТНЫЙ РЯД офис Тверская,real_estate_agent,https://www.cian.ru/rent/flat/306856941/,Москва,rent,flat,3,16,2,60.0,80000,0,Ясенево,Новоясеневский проспект,32К1,Битцевский парк
+13,ID 17354366,unknown,https://www.cian.ru/rent/flat/306796157/,Москва,rent,flat,7,14,2,53.8,100000,0,Ясенево,Новоясеневский проспект,3В,Битцевский парк
+14,Елена Качкова,realtor,https://www.cian.ru/rent/flat/306750535/,Москва,rent,flat,11,22,2,60.0,75000,0,Ясенево,Литовский бульвар,5/10,Битцевский парк
+15,ID 53162893,realtor,https://www.cian.ru/rent/flat/288584519/,Москва,rent,flat,11,16,2,56.0,58000,0,Ясенево, Айвазовского,2,Битцевский парк
+16,ЕГСН Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307572603/,Москва,rent,flat,7,16,2,53.0,60000,0,Теплый Стан, Островитянова,26К1,Коньково
+17,MOTYLEK - департамент недвижимости,real_estate_agent,https://www.cian.ru/rent/flat/307630926/,Москва,rent,flat,5,16,1,42.0,35000,0,Теплый Стан, Академика Варги,16,Генерала Тюленева
+18,ID 460133,realtor,https://www.cian.ru/rent/flat/307339131/,Москва,rent,flat,3,22,1,41.0,60000,0,Ясенево,Ясногорская ,13К1,Битцевский парк
+19,Антон Осмелкин,realtor,https://www.cian.ru/rent/flat/299983236/,Москва,rent,flat,8,12,2,40.0,55000,0,Черемушки,Херсонская ,29,Зюзино
+20,ID 15248,realtor,https://www.cian.ru/rent/flat/275610069/,Москва,rent,flat,13,16,1,39.0,45000,0,Ясенево,Голубинская ,29К2,Битцевский парк
+21,Елена Кондратенко,realtor,https://www.cian.ru/rent/flat/267379173/,Москва,rent,flat,1,9,2,37.2,65000,0,Зюзино,Болотниковская ,21К1,Каховская
+22,ID 74788133,homeowner,https://www.cian.ru/rent/flat/280504992/,Москва,rent,flat,5,9,3,65.0,75000,0,Теплый Стан,Профсоюзная ,156К3,Тёплый Стан
+23,РиД недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/307053825/,Москва,rent,flat,10,16,2,53.0,60000,0,Коньково,Севастопольский проспект,58,Беляево

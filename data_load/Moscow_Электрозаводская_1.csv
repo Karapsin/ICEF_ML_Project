@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307721250/,Москва,rent,flat,13,14,1,38.0,65000,0,Басманный,Центросоюзный переулок,4,Электрозаводская
+1,EMPIRE HOME,real_estate_agent,https://www.cian.ru/rent/flat/307672587/,Москва,rent,flat,3,5,1,41.0,45000,0,Соколиная гора,Кирпичная ,12,Электрозаводская
+2,ID 122086537,homeowner,https://www.cian.ru/rent/flat/307638825/,Москва,rent,flat,13,14,1,38.0,65000,0,Басманный,Центросоюзный переулок,4,Электрозаводская
+3,ID 545380,unknown,https://www.cian.ru/rent/flat/307581690/,Москва,rent,flat,9,17,1,37.6,70000,0,Басманный, Госпитальный Вал,5С4,Электрозаводская
+4,Сергей Бондарев,realtor,https://www.cian.ru/rent/flat/307487270/,Москва,rent,flat,7,16,1,36.0,62000,0,Соколиная гора,Измайловское шоссе,17К1,Электрозаводская
+5,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307386765/,Москва,rent,flat,2,8,1,16.0,60000,0,Преображенское,Электрозаводская ,14С1,Электрозаводская
+6,ID 110996012,homeowner,https://www.cian.ru/rent/flat/305677163/,Москва,rent,flat,13,13,1,44.0,135000,0,Соколиная гора,Измайловское шоссе,20,Электрозаводская
+7,Александр Рыков,realtor,https://www.cian.ru/rent/flat/303133195/,Москва,rent,flat,1,3,1,38.0,64000,0,Басманный,Переведеновский переулок,22,Электрозаводская
+8,ID 4847,realtor,https://www.cian.ru/rent/flat/167870666/,Москва,rent,flat,6,12,1,38.0,75000,0,Басманный,Рубцовская набережная,2К1,Электрозаводская
+9,ID 12586229,homeowner,https://www.cian.ru/rent/flat/268197091/,Москва,rent,flat,2,39,1,30.0,55000,0,Гольяново,Амурская ,1Ак5,Черкизовская
+10,ID 11630609,homeowner,https://www.cian.ru/rent/flat/299551839/,Москва,rent,flat,1,5,1,31.0,70000,0,Марьина роща, Сущевский Вал,67,Марьина Роща
+11,ID 122008115,realtor,https://www.cian.ru/rent/flat/307575538/,Москва,rent,flat,1,6,1,42.3,55000,0,Марьина роща,площадь Борьбы,13,Достоевская
+12,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307581343/,Москва,rent,flat,1,5,1,24.0,50000,0,Таганский, Талалихина,39,Волгоградский проспект
+13,ID 108449429,homeowner,https://www.cian.ru/rent/flat/307585718/,Москва,rent,flat,4,5,1,32.0,50000,0,Преображенское,Суворовская ,24,Преображенская площадь
+14,ID 73362477,unknown,https://www.cian.ru/rent/flat/307606844/,Москва,rent,flat,3,25,1,35.0,69000,0,Метрогородок,Тагильская ,2к1,Бульвар Рокоссовского
+15,ID 98790866,homeowner,https://www.cian.ru/rent/flat/307283268/,Москва,rent,flat,1,5,1,30.0,60000,0,Богородское,Ивантеевская ,30К2,
+16,ID 8220,realtor,https://www.cian.ru/rent/flat/307541251/,Москва,rent,flat,2,14,1,39.0,60000,0,Замоскворечье,Люсиновская ,12,Серпуховская
+17,Моя Недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/250969698/,Москва,rent,flat,5,8,1,38.0,65000,0,Преображенское,Большая Черкизовская ,4К1,Преображенская площадь
+18,ID 120760930,homeowner,https://www.cian.ru/rent/flat/307671243/,Москва,rent,flat,10,16,1,27.3,60000,0,Раменки,Мосфильмовская ,74,Ломоносовский проспект
+19,Александр Насилевский,realtor,https://www.cian.ru/rent/flat/307099137/,Москва,rent,flat,7,9,1,33.0,65000,0,Басманный,Большая Почтовая ,1/33,Бауманская
+20,ID 99673982,homeowner,https://www.cian.ru/rent/flat/306873491/,Москва,rent,flat,2,6,1,33.0,50000,0,Северное Измайлово,Сиреневый бульвар,39,Щёлковская
+21,ID 64194,unknown,https://www.cian.ru/rent/flat/306112646/,Москва,rent,flat,5,9,1,33.0,55000,0,Басманный,Новорязанская ,32,Комсомольская
+22,ID 16276255,unknown,https://www.cian.ru/rent/flat/307538535/,Москва,rent,flat,3,4,1,45.0,128000,0,Басманный,Старосадский переулок,10С1,Китай-город
+23,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307657226/,Москва,rent,flat,4,9,1,30.0,64000,0,Нагатинский затон,проспект Андропова,33К2,Коломенская
+24,Аркадий Николаевич Алексеев,realtor,https://www.cian.ru/rent/flat/224876549/,Москва,rent,flat,2,9,1,36.0,75000,0,Красносельский,Краснопрудная ,1,Комсомольская

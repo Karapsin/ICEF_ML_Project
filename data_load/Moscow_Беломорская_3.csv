@@ -1,0 +1,52 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Валентина Макарова,realtor,https://khimki.cian.ru/rent/flat/307816184/,Москва,rent,flat,3,5,3,59.0,60000,0,, Лавочкина,5,Беломорская
+1,Манхэттен эстейт,real_estate_agent,https://www.cian.ru/rent/flat/307805321/,Москва,rent,flat,7,24,3,90.0,130000,0,Левобережный,Фестивальная ,17К1,Беломорская
+2,Домина Групп,real_estate_agent,https://khimki.cian.ru/rent/flat/307777428/,Москва,rent,flat,13,25,3,77.0,75000,0,, Родионова,5,Беломорская
+3,Даниил Руднев,realtor,https://www.cian.ru/rent/flat/307773283/,Москва,rent,flat,9,9,3,58.6,99000,0,Ховрино,Петрозаводская ,15К3,Беломорская
+4,Домклик Аренда,real_estate_agent,https://khimki.cian.ru/rent/flat/307770981/,Москва,rent,flat,2,8,3,61.1,71500,0,,,,
+5,Этажи Москва,real_estate_agent,https://www.cian.ru/rent/flat/307762545/,Москва,rent,flat,6,12,3,68.0,90000,0,Головинский,Флотская ,37,Беломорская
+6,Качанова и партнеры,real_estate_agent,https://www.cian.ru/rent/flat/307734338/,Москва,rent,flat,9,31,3,65.0,100000,0,Ховрино,Клинская ,2Ак7,Беломорская
+7,Елена Матвеева,realtor,https://www.cian.ru/rent/flat/307687285/,Москва,rent,flat,9,24,3,97.1,160000,0,Левобережный,Беломорская ,11к1,Беломорская
+8,АНФА,real_estate_agent,https://www.cian.ru/rent/flat/307649912/,Москва,rent,flat,8,9,3,60.0,80000,0,Ховрино,Клинская ,19,Беломорская
+9,МК-Гарант,real_estate_agent,https://www.cian.ru/rent/flat/307641509/,Москва,rent,flat,6,17,3,113.0,140000,0,Головинский,Флотская ,2,Беломорская
+10,ID 12319223,unknown,https://khimki.cian.ru/rent/flat/307631367/,Москва,rent,flat,34,42,3,185.0,180000,0,, Кудрявцева,16,Беломорская
+11,Горизонт,real_estate_agent,https://www.cian.ru/rent/flat/307628631/,Москва,rent,flat,9,31,3,65.0,100000,0,Ховрино,Клинская ,2Ак7,Беломорская
+12,Las Vegas,real_estate_agent,https://www.cian.ru/rent/flat/307591815/,Москва,rent,flat,3,26,3,101.0,215000,0,Левобережный,Смольная ,49,Беломорская
+13,Мозаик Групп,real_estate_agent,https://www.cian.ru/rent/flat/307556195/,Москва,rent,flat,5,14,3,85.0,110000,0,Ховрино,Петрозаводская ,19К2,Беломорская
+14,Александр Родненко,realtor,https://www.cian.ru/rent/flat/307547479/,Москва,rent,flat,5,12,3,65.0,90000,0,Левобережный,Прибрежный проезд,7,Беломорская
+15,Life Style,real_estate_agent,https://khimki.cian.ru/rent/flat/307543443/,Москва,rent,flat,2,5,3,57.0,70000,0,,Московская ,32А,Беломорская
+16,Елена Носкова,realtor,https://www.cian.ru/rent/flat/307506590/,Москва,rent,flat,4,14,3,103.0,220000,0,Левобережный,Ленинградское шоссе,69к2,Беломорская
+17,Антон Садаев,realtor,https://khimki.cian.ru/rent/flat/307363809/,Москва,rent,flat,3,17,3,120.0,99000,0,,Юбилейный проспект,7,Беломорская
+18,Яндекс Аренда,real_estate_agent,https://khimki.cian.ru/rent/flat/307276867/,Москва,rent,flat,12,22,3,90.0,98000,0,,Юбилейный проспект,1к1,Беломорская
+19,ID 420881,unknown,https://www.cian.ru/rent/flat/307036113/,Москва,rent,flat,10,16,3,64.8,78000,0,Головинский,Авангардная ,11,Беломорская
+20,Гранд Сервис Недвижимость,real_estate_agent,https://khimki.cian.ru/rent/flat/306671285/,Москва,rent,flat,3,9,3,65.0,60000,0,,проспект Мира,14А,Беломорская
+21,Виктор Лахтионов,realtor,https://khimki.cian.ru/rent/flat/306604185/,Москва,rent,flat,16,17,3,138.6,85000,0,,Юбилейный проспект,7,Беломорская
+22,ЦЗН ПРОСПЕКТ МИРА,real_estate_agent,https://www.cian.ru/rent/flat/306496453/,Москва,rent,flat,2,22,3,76.0,100000,0,Ховрино, Лавочкина,44К3,Беломорская
+23,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/306421487/,Москва,rent,flat,11,22,3,100.0,120000,0,Левобережный,Ленинградское шоссе,130к3,Беломорская
+24,ID 84332506,homeowner,https://www.cian.ru/rent/flat/306113827/,Москва,rent,flat,13,17,3,60.0,130000,0,Левобережный,Смольная ,44к1,Беломорская
+25,ID 87358331,homeowner,https://khimki.cian.ru/rent/flat/306109717/,Москва,rent,flat,3,9,3,53.0,80000,0,, Юннатов,1,Беломорская
+26,Яндекс Аренда,real_estate_agent,https://khimki.cian.ru/rent/flat/304396592/,Москва,rent,flat,23,25,3,110.0,157500,0,,Юбилейный проспект,66д,Беломорская
+27,Анастасия Канатиева,realtor,https://khimki.cian.ru/rent/flat/292220363/,Москва,rent,flat,4,18,3,78.0,120000,0,, Кудрявцева,15,Беломорская
+28,Вертикаль,real_estate_agent,https://khimki.cian.ru/rent/flat/285047646/,Москва,rent,flat,16,19,3,150.0,300000,0,, Юннатов,19,Беломорская
+29,ID 129432,realtor,https://www.cian.ru/rent/flat/197508461/,Москва,rent,flat,5,6,3,78.0,95000,0,Левобережный,Ленинградское шоссе,96К1,Беломорская
+30,Павел Черкашин,realtor,https://khimki.cian.ru/rent/flat/307627441/,Москва,rent,flat,3,9,2,45.0,48000,0,,Юбилейный проспект,40,Беломорская
+31,MDco,real_estate_agent,https://khimki.cian.ru/rent/flat/307635432/,Москва,rent,flat,15,17,2,60.0,55000,0,,Молодежная ,1,Беломорская
+32,Геннадий Малолетников,realtor,https://khimki.cian.ru/rent/flat/295267909/,Москва,rent,flat,4,26,1,45.2,55000,0,,Ленинский проспект,22,Беломорская
+33,Антон Садаев,realtor,https://khimki.cian.ru/rent/flat/207088119/,Москва,rent,flat,9,16,1,40.0,45000,0,,Юбилейный проспект,9/1,Химки
+34,Анна Овчинникова,realtor,https://khimki.cian.ru/rent/flat/307629396/,Москва,rent,flat,3,5,2,59.0,65000,0,, Ивановская,6к1,Молжаниново
+35,МГЦН - Многофункциональный Городской Центр Недвижимости,real_estate_agent,https://khimki.cian.ru/rent/flat/307722903/,Москва,rent,flat,17,17,1,40.0,45000,0,, Имени К.И. Вороницына,1к1,Беломорская
+36,Самолет плюс - Химки,real_estate_agent,https://khimki.cian.ru/rent/flat/307715902/,Москва,rent,flat,8,9,2,46.0,53000,0,,Юбилейный проспект,18,Беломорская
+37,ID 523711,homeowner,https://khimki.cian.ru/rent/flat/307630437/,Москва,rent,flat,4,5,3,83.2,70000,0,, Ивановская,2к2,Молжаниново
+38,ID 113103921,homeowner,https://khimki.cian.ru/rent/flat/298353744/,Москва,rent,flat,14,17,2,57.4,55000,0,, 1-я Лесная,8,Подрезково
+39,АВАНГАРД,real_estate_agent,https://khimki.cian.ru/rent/flat/307712810/,Москва,rent,flat,11,17,1,37.5,60000,0,,Совхозная ,4а,Левобережная
+40,ID 8933554,homeowner,https://khimki.cian.ru/rent/flat/299037039/,Москва,rent,flat,24,25,2,60.0,95000,0,,Совхозная ,16к2,Левобережная
+41,Классика,real_estate_agent,https://khimki.cian.ru/rent/flat/307705025/,Москва,rent,flat,3,9,2,45.0,50000,0,, Генерала Дьяконова,4,Шереметьевская
+42,ID 73419482,homeowner,https://khimki.cian.ru/rent/flat/305247949/,Москва,rent,flat,2,4,1,40.4,59000,0,, Ивановская,3к2,Молжаниново
+43,Макромир,real_estate_agent,https://khimki.cian.ru/rent/flat/307701501/,Москва,rent,flat,8,9,3,64.0,60000,0,д. Подолино, Солнечная,3,
+44,Ольга Зайцева,realtor,https://khimki.cian.ru/rent/flat/307601624/,Москва,rent,flat,7,28,1,40.4,45000,0,,Ленинский проспект,16,Беломорская
+45,Елена Королева,realtor,https://khimki.cian.ru/rent/flat/307696861/,Москва,rent,flat,6,8,2,50.0,100000,0,, Ивановская,53к1,Молжаниново
+46,ID 112739582,homeowner,https://khimki.cian.ru/rent/flat/307708571/,Москва,rent,flat,11,25,1,41.8,75000,0,,проезд Молодежный,6,Молжаниново
+47,ID 185806,realtor,https://khimki.cian.ru/rent/flat/307523961/,Москва,rent,flat,5,23,2,62.0,55000,0,, Горшина,6к2,Беломорская
+48,Ирина Фролова,realtor,https://khimki.cian.ru/rent/flat/307390525/,Москва,rent,flat,3,6,1,36.0,50000,0,,проезд Набережный,22,Шереметьевская
+49,МИЭЛЬ,real_estate_agent,https://khimki.cian.ru/rent/flat/307103520/,Москва,rent,flat,4,15,1,42.0,48000,0,, Академика Грушина,10,Беломорская
+50,ID 66473,realtor,https://khimki.cian.ru/rent/flat/307413143/,Москва,rent,flat,6,9,5,180.0,320000,0,, Ивановская,51к3,Молжаниново

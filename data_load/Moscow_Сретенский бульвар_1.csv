@@ -1,0 +1,25 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,ID 72616824,homeowner,https://www.cian.ru/rent/flat/270093886/,Москва,rent,flat,5,5,1,30.0,75000,0,Красносельский,Ананьевский переулок,4/2С1,Сретенский бульвар
+1,ID 11630609,homeowner,https://www.cian.ru/rent/flat/299551839/,Москва,rent,flat,1,5,1,31.0,70000,0,Марьина роща, Сущевский Вал,67,Марьина Роща
+2,ID 122008115,realtor,https://www.cian.ru/rent/flat/307575538/,Москва,rent,flat,1,6,1,42.3,55000,0,Марьина роща,площадь Борьбы,13,Достоевская
+3,СТОЛИЦА Департамент недвижимости,real_estate_agent,https://www.cian.ru/rent/flat/307454901/,Москва,rent,flat,5,12,2,48.0,60000,0,Марьина роща, 4-я Марьиной рощи,6,Марьина Роща
+4,СТОЛИЦА Департамент недвижимости,real_estate_agent,https://www.cian.ru/rent/flat/307576555/,Москва,rent,flat,4,5,2,46.0,80000,0,Тверской,Новосущевская ,14,Достоевская
+5,Вадим Волков,realtor,https://www.cian.ru/rent/flat/285230568/,Москва,rent,flat,6,9,2,37.0,67000,0,Тверской,Перуновский переулок,4-8,Менделеевская
+6,Золотой ключ,real_estate_agent,https://www.cian.ru/rent/flat/307534474/,Москва,rent,flat,11,12,2,38.0,70000,0,Мещанский,Капельский переулок,3,Проспект Мира
+7,Ольга Ковалева,realtor,https://www.cian.ru/rent/flat/293288088/,Москва,rent,flat,2,4,3,73.0,100000,0,Тверской,Садовая-Самотечная ,4С2,Цветной бульвар
+8,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307537332/,Москва,rent,flat,2,4,1,35.0,110000,0,Тверской,Малый Гнездниковский переулок,10,Тверская
+9,ID 421534,unknown,https://www.cian.ru/rent/flat/307553641/,Москва,rent,flat,10,16,1,36.6,75000,0,Марьина роща,Тихвинская ,18/5,Менделеевская
+10,Живое Поместье,real_estate_agent,https://www.cian.ru/rent/flat/307647215/,Москва,rent,flat,9,12,2,44.0,70000,0,Мещанский,Большая Переяславская ,3К1,Проспект Мира
+11,ID 69392442,homeowner,https://www.cian.ru/rent/flat/251955241/,Москва,rent,flat,6,8,1,40.0,80000,0,Басманный, Земляной Вал,39/1С1,Чкаловская
+12,Александр Насилевский,realtor,https://www.cian.ru/rent/flat/307099137/,Москва,rent,flat,7,9,1,33.0,65000,0,Басманный,Большая Почтовая ,1/33,Бауманская
+13,Alfa Forum Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307677528/,Москва,rent,flat,13,14,1,42.0,110000,0,Тверской,Лесная ,10-16,Белорусская
+14,Светлана Захарова,realtor,https://www.cian.ru/rent/flat/307275521/,Москва,rent,flat,8,9,2,50.0,89000,0,Сокольники,Старослободская ,16/17,Сокольники
+15,ID 64194,unknown,https://www.cian.ru/rent/flat/306112646/,Москва,rent,flat,5,9,1,33.0,55000,0,Басманный,Новорязанская ,32,Комсомольская
+16,ID 48976342,unknown,https://www.cian.ru/rent/flat/307046940/,Москва,rent,flat,3,5,2,42.0,85000,0,Тверской, Петровка,26С5,Трубная
+17,Panorama Realty,real_estate_agent,https://www.cian.ru/rent/flat/307527940/,Москва,rent,flat,1,14,1,45.0,75000,0,Тверской,3-й Самотечный переулок,19,Достоевская
+18,ID 16276255,unknown,https://www.cian.ru/rent/flat/307538535/,Москва,rent,flat,3,4,1,45.0,128000,0,Басманный,Старосадский переулок,10С1,Китай-город
+19,Vershina Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307674450/,Москва,rent,flat,10,13,2,34.0,85000,0,Тверской, Малая Дмитровка,24/2,Маяковская
+20,Аркадий Николаевич Алексеев,realtor,https://www.cian.ru/rent/flat/224876549/,Москва,rent,flat,2,9,1,36.0,75000,0,Красносельский,Краснопрудная ,1,Комсомольская
+21,ID 88670116,homeowner,https://www.cian.ru/rent/flat/307675444/,Москва,rent,flat,2,5,2,78.2,150000,0,Басманный,Покровский бульвар,16/10С1,Китай-город
+22,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307661338/,Москва,rent,flat,6,14,1,45.0,75000,0,Мещанский,Большая Переяславская ,6К1,Площадь трёх вокзалов
+23,ID 13380549,realtor,https://www.cian.ru/rent/flat/307670877/,Москва,rent,flat,9,16,2,60.0,69999,0,Марьина роща, Советской Армии,17/52,Марьина Роща

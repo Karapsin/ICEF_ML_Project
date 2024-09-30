@@ -1,0 +1,57 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,KAIF,real_estate_agent,https://www.cian.ru/rent/flat/307740920/,Москва,rent,flat,20,30,2,65.0,300000,0,Даниловский,бульвар Братьев Весниных,1,ЗИЛ
+1,ДОМ.РФ Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307717886/,Москва,rent,flat,7,24,2,54.0,134990,0,Даниловский,Автозаводская ,23Бк2,ЗИЛ
+2,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307711242/,Москва,rent,flat,4,6,2,43.0,120000,0,Даниловский, Архитектора Щусева,5к2,ЗИЛ
+3,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307706385/,Москва,rent,flat,3,4,2,55.0,90000,0,Даниловский,Автозаводская ,23С928,ЗИЛ
+4,Елена Лунёва,realtor,https://www.cian.ru/rent/flat/307695295/,Москва,rent,flat,2,15,2,73.0,170000,0,Даниловский,проспект Лихачева,14,ЗИЛ
+5,Татьяна Ломакина,realtor,https://www.cian.ru/rent/flat/307688058/,Москва,rent,flat,15,22,2,64.0,250000,0,Даниловский,бульвар Братьев Весниных,1,ЗИЛ
+6,EstateLiga,real_estate_agent,https://www.cian.ru/rent/flat/307684721/,Москва,rent,flat,10,15,2,46.0,140000,0,Даниловский,проспект Лихачева,18к6,ЗИЛ
+7,BDC,real_estate_agent,https://www.cian.ru/rent/flat/307684564/,Москва,rent,flat,10,24,2,60.0,85000,0,Даниловский,Автозаводская ,23Бк2,ЗИЛ
+8,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307678450/,Москва,rent,flat,6,16,2,67.0,190000,0,Даниловский,3-й Автозаводский проезд,3,ЗИЛ
+9,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307664327/,Москва,rent,flat,9,21,2,63.0,220000,0,Даниловский,бульвар Братьев Весниных,1,ЗИЛ
+10,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307664315/,Москва,rent,flat,4,6,2,40.0,120000,0,Даниловский, Архитектора Щусева,5к2,ЗИЛ
+11,ID 122109529,homeowner,https://www.cian.ru/rent/flat/307664049/,Москва,rent,flat,9,22,2,63.0,80000,0,Даниловский,бульвар Братьев Весниных,1,ЗИЛ
+12,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307652162/,Москва,rent,flat,10,16,2,63.0,180000,0,Даниловский,3-й Автозаводский проезд,3,ЗИЛ
+13,PRO ОБМЕН,real_estate_agent,https://www.cian.ru/rent/flat/307647092/,Москва,rent,flat,3,14,2,60.0,70000,0,Даниловский,Восточная ,15/6,ЗИЛ
+14,ID 20256,realtor,https://www.cian.ru/rent/flat/307637177/,Москва,rent,flat,10,16,2,63.0,180000,0,Даниловский,3-й Автозаводский проезд,3,ЗИЛ
+15,Элина Плиева,realtor,https://www.cian.ru/rent/flat/307636250/,Москва,rent,flat,5,16,2,64.0,210000,0,Даниловский, Архитектора Щусева,2к3,ЗИЛ
+16,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307628861/,Москва,rent,flat,6,16,2,67.0,190000,0,Даниловский,3-й Автозаводский проезд,3,ЗИЛ
+17,Perfect Manager House,real_estate_agent,https://www.cian.ru/rent/flat/307611455/,Москва,rent,flat,12,16,2,44.0,150000,0,Даниловский,Автозаводская ,23С120,ЗИЛ
+18,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307604334/,Москва,rent,flat,5,14,2,52.0,175500,0,Даниловский,проспект Лихачева,20,ЗИЛ
+19,BOND недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/307586415/,Москва,rent,flat,4,6,2,40.0,120000,0,Даниловский, Архитектора Щусева,5к2,ЗИЛ
+20,ID 379715,unknown,https://www.cian.ru/rent/flat/307583410/,Москва,rent,flat,3,17,2,45.0,100000,0,Даниловский,бульвар Братьев Весниных,1,ЗИЛ
+21,Елена Закора,realtor,https://www.cian.ru/rent/flat/307525375/,Москва,rent,flat,4,5,2,45.0,75000,0,Даниловский,Автозаводская ,23К7,ЗИЛ
+22,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307523708/,Москва,rent,flat,5,14,2,52.0,165000,0,Даниловский,проспект Лихачева,20,ЗИЛ
+23,Андрей Смирнов,realtor,https://www.cian.ru/rent/flat/307493014/,Москва,rent,flat,7,15,2,55.0,165000,0,Даниловский,проспект Лихачева,20,ЗИЛ
+24,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307485271/,Москва,rent,flat,5,15,2,55.0,165000,0,Даниловский,проспект Лихачева,20,ЗИЛ
+25,ID 121898004,homeowner,https://www.cian.ru/rent/flat/307485129/,Москва,rent,flat,5,15,2,52.0,165000,0,Даниловский,проспект Лихачева,20,ЗИЛ
+26,ID 31185984,homeowner,https://www.cian.ru/rent/flat/307465543/,Москва,rent,flat,5,20,2,39.6,180000,0,Даниловский,проспект Лихачева,18к1,ЗИЛ
+27,YU HOME,real_estate_agent,https://www.cian.ru/rent/flat/307458389/,Москва,rent,flat,4,6,2,40.0,120000,0,Даниловский, Архитектора Щусева,5к2,ЗИЛ
+28,Анна Миронова,realtor,https://www.cian.ru/rent/flat/307411579/,Москва,rent,flat,8,16,2,53.0,240000,0,Даниловский, Архитектора Щусева,4к2,ЗИЛ
+29,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307410267/,Москва,rent,flat,13,16,2,42.0,110000,0,Даниловский,Автозаводская ,23С120,ЗИЛ
+30,5SEASONS,real_estate_agent,https://www.cian.ru/rent/flat/307365064/,Москва,rent,flat,2,20,2,47.0,115000,0,Даниловский,бульвар Братьев Весниных,2,ЗИЛ
+31,Элитный Дом,real_estate_agent,https://www.cian.ru/rent/flat/307342596/,Москва,rent,flat,11,14,2,75.0,184999,0,Даниловский, Архитектора Щусева,2к2,ЗИЛ
+32,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307339905/,Москва,rent,flat,4,17,2,63.0,150000,0,Даниловский,проспект Лихачева,18к2,ЗИЛ
+33,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307325152/,Москва,rent,flat,5,17,2,42.0,250000,0,Даниловский,бульвар Братьев Весниных,2,ЗИЛ
+34,ID 240724,homeowner,https://www.cian.ru/rent/flat/307287118/,Москва,rent,flat,11,13,2,42.0,120000,0,Даниловский, Родченко,2,ЗИЛ
+35,GardenGoldRealty,real_estate_agent,https://www.cian.ru/rent/flat/307255295/,Москва,rent,flat,4,17,2,63.0,150000,0,Даниловский,проспект Лихачева,18к2,ЗИЛ
+36,АКРУС-сити,real_estate_agent,https://www.cian.ru/rent/flat/307219810/,Москва,rent,flat,2,11,2,50.4,145000,0,Даниловский, Архитектора Щусева,5к1,ЗИЛ
+37,ID 110589641,homeowner,https://www.cian.ru/rent/flat/307200745/,Москва,rent,flat,9,12,2,41.8,35000,0,Даниловский, Родченко,2,ЗИЛ
+38,ID 96951559,unknown,https://www.cian.ru/rent/flat/307155791/,Москва,rent,flat,8,16,2,43.0,150000,0,Даниловский, Архитектора Щусева,4к1,ЗИЛ
+39,Марина Пучкова,realtor,https://www.cian.ru/rent/flat/307151751/,Москва,rent,flat,21,24,2,61.4,140000,0,Даниловский,Автозаводская ,23Бк2,ЗИЛ
+40,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307144070/,Москва,rent,flat,4,17,2,63.0,135000,0,Даниловский,проспект Лихачева,18к2,ЗИЛ
+41,Елена Закора,realtor,https://www.cian.ru/rent/flat/307138273/,Москва,rent,flat,3,4,2,53.0,124999,0,Даниловский,Автозаводская ,23С928,ЗИЛ
+42,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307129510/,Москва,rent,flat,5,17,2,45.0,250000,0,Даниловский,бульвар Братьев Весниных,2,ЗИЛ
+43,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307128016/,Москва,rent,flat,5,10,2,90.0,220000,0,Даниловский,проспект Лихачева,10к4,ЗИЛ
+44,ID 54480626,realtor,https://www.cian.ru/rent/flat/307059112/,Москва,rent,flat,6,16,2,67.0,190000,0,Даниловский,3-й Автозаводский проезд,3,ЗИЛ
+45,CapitalEstate,real_estate_agent,https://www.cian.ru/rent/flat/307008352/,Москва,rent,flat,9,22,2,65.0,270000,0,Даниловский,бульвар Братьев Весниных,1,ЗИЛ
+46,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/306994782/,Москва,rent,flat,9,22,2,70.0,250000,0,Даниловский,бульвар Братьев Весниных,1,ЗИЛ
+47,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/306922990/,Москва,rent,flat,12,15,2,44.0,150000,0,Даниловский,Автозаводская ,23С120,ЗИЛ
+48,БЕСТ на Проспекте Мира,real_estate_agent,https://www.cian.ru/rent/flat/306911930/,Москва,rent,flat,9,24,2,63.0,125000,0,Даниловский,Автозаводская ,23Бк2,ЗИЛ
+49,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/306892423/,Москва,rent,flat,4,17,2,63.0,135000,0,Даниловский,проспект Лихачева,18к2,ЗИЛ
+50,Евразия Инвест,real_estate_agent,https://www.cian.ru/rent/flat/306823748/,Москва,rent,flat,10,16,2,60.0,160000,0,Даниловский, Архитектора Щусева,5к2,ЗИЛ
+51,Евразия Инвест,real_estate_agent,https://www.cian.ru/rent/flat/306823093/,Москва,rent,flat,11,16,2,60.0,160000,0,Даниловский, Архитектора Щусева,5к2,ЗИЛ
+52,RENT_BAND,real_estate_agent,https://www.cian.ru/rent/flat/306813537/,Москва,rent,flat,9,22,2,65.0,199000,0,Даниловский,бульвар Братьев Весниных,1,ЗИЛ
+53,Денис Алференко,realtor,https://www.cian.ru/rent/flat/306733419/,Москва,rent,flat,3,17,2,42.0,120000,0,Даниловский,проспект Лихачева,18к1,ЗИЛ
+54,Никита Перекальский,realtor,https://www.cian.ru/rent/flat/306681598/,Москва,rent,flat,19,20,2,65.0,180000,0,Даниловский,бульвар Братьев Весниных,2,ЗИЛ
+55,ID 23333728,realtor,https://www.cian.ru/rent/flat/306663456/,Москва,rent,flat,6,17,2,50.0,145000,0,Даниловский,бульвар Братьев Весниных,2,ЗИЛ

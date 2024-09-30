@@ -1,0 +1,29 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Delight Realty,real_estate_agent,https://www.cian.ru/rent/flat/306418444/,Москва,rent,flat,3,8,3,110.0,280000,0,Якиманка,Малый Толмачевский переулок,8С1,Новокузнецкая
+1,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/306362968/,Москва,rent,flat,3,7,3,110.0,280000,0,Якиманка,Малый Толмачевский переулок,8/11С3,Новокузнецкая
+2,Intermark Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/306325940/,Москва,rent,flat,3,8,3,107.0,280000,0,Якиманка,Малый Толмачевский переулок,8С1,Новокузнецкая
+3,Penny Lane Moscow,real_estate_agent,https://www.cian.ru/rent/flat/306237295/,Москва,rent,flat,3,7,3,107.0,280000,0,Якиманка,Малый Толмачевский переулок,8С1,Новокузнецкая
+4,OXE CAPITAL - Элитная Недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/306215200/,Москва,rent,flat,3,7,3,105.0,280000,0,Якиманка,Малый Толмачевский переулок,8С1,Новокузнецкая
+5,Алла Звоник,realtor,https://www.cian.ru/rent/flat/306179202/,Москва,rent,flat,5,5,3,150.0,350000,0,Замоскворечье,Садовническая ,25,Новокузнецкая
+6,OXE CAPITAL - Элитная Недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/305732421/,Москва,rent,flat,3,7,3,110.0,749000,0,Замоскворечье,Садовническая набережная,3-7,Новокузнецкая
+7,Stapler Estate,real_estate_agent,https://www.cian.ru/rent/flat/305463504/,Москва,rent,flat,4,6,3,110.0,750000,0,Замоскворечье,Садовническая набережная,7,Новокузнецкая
+8,Капиталъ-Недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/305325960/,Москва,rent,flat,3,6,3,112.0,740000,0,Замоскворечье,Садовническая набережная,7,Новокузнецкая
+9,Selenahome,real_estate_agent,https://www.cian.ru/rent/flat/305295190/,Москва,rent,flat,11,12,3,153.0,270000,0,Замоскворечье,Климентовский переулок,2,Новокузнецкая
+10,Delight Realty,real_estate_agent,https://www.cian.ru/rent/flat/305189145/,Москва,rent,flat,3,6,3,100.0,800000,0,Замоскворечье,Садовническая набережная,7,Новокузнецкая
+11,Whitewill Аренда,real_estate_agent,https://www.cian.ru/rent/flat/305180624/,Москва,rent,flat,3,6,3,100.0,750000,0,Замоскворечье,Садовническая набережная,7,Новокузнецкая
+12,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/305121471/,Москва,rent,flat,3,6,3,110.0,750000,0,Замоскворечье,Садовническая набережная,7,Новокузнецкая
+13,Whitewill Аренда,real_estate_agent,https://www.cian.ru/rent/flat/304672867/,Москва,rent,flat,2,6,3,136.0,450000,0,Замоскворечье,Садовническая набережная,7,Новокузнецкая
+14,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/304384334/,Москва,rent,flat,8,8,3,96.0,220000,0,Якиманка,Лаврушинский переулок,17С2,Новокузнецкая
+15,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/304302828/,Москва,rent,flat,2,6,3,136.0,450000,0,Замоскворечье,Садовническая набережная,7,Новокузнецкая
+16,Trust Realty,real_estate_agent,https://www.cian.ru/rent/flat/304298227/,Москва,rent,flat,2,6,3,136.0,450000,0,Замоскворечье,Садовническая набережная,7,Новокузнецкая
+17,Intermark Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/304249383/,Москва,rent,flat,2,6,3,136.0,450000,0,Замоскворечье,Садовническая набережная,7,Новокузнецкая
+18,Инна Гойдышева,realtor,https://www.cian.ru/rent/flat/304240334/,Москва,rent,flat,4,6,3,70.0,125000,0,Замоскворечье,Пятницкая ,9/28С3,Новокузнецкая
+19,ID 9921,realtor,https://www.cian.ru/rent/flat/304001655/,Москва,rent,flat,4,5,3,80.0,350000,0,Замоскворечье, Большая Ордынка,7,Новокузнецкая
+20,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/303632194/,Москва,rent,flat,5,5,3,65.2,130000,0,Замоскворечье,Пятницкая ,28,Новокузнецкая
+21,Татьяна Антипова,realtor,https://www.cian.ru/rent/flat/302155046/,Москва,rent,flat,2,13,3,62.0,130000,0,Замоскворечье,Новокузнецкая ,13С1,Новокузнецкая
+22,Intermark Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/298905708/,Москва,rent,flat,1,2,3,170.0,550000,0,Замоскворечье,Садовническая ,61С2,Новокузнецкая
+23,Trust Realty,real_estate_agent,https://www.cian.ru/rent/flat/298682115/,Москва,rent,flat,2,2,3,160.0,550000,0,Замоскворечье,Садовническая ,61С2,Новокузнецкая
+24,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/298414454/,Москва,rent,flat,2,2,3,160.0,550000,0,Замоскворечье,Садовническая ,61С2,Новокузнецкая
+25,Whitewill Аренда,real_estate_agent,https://www.cian.ru/rent/flat/298336215/,Москва,rent,flat,1,2,3,170.0,550000,0,Замоскворечье,Садовническая ,61С2,Новокузнецкая
+26,NF Group - ex-Knight Frank,real_estate_agent,https://www.cian.ru/rent/flat/297758989/,Москва,rent,flat,2,2,3,160.0,550000,0,Замоскворечье,Садовническая ,61С2,Новокузнецкая
+27,Point Estate Город,real_estate_agent,https://www.cian.ru/rent/flat/297451370/,Москва,rent,flat,12,12,3,156.0,270000,0,Замоскворечье,Климентовский переулок,2,Новокузнецкая

@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,ГОРОБМЕН,real_estate_agent,https://www.cian.ru/rent/flat/307751441/,Москва,rent,flat,4,14,2,52.0,73000,0,Выхино-Жулебино,Самаркандский Бульвар 137А кв-л,к11,Юго-Восточная
+1,ID 457555,realtor,https://www.cian.ru/rent/flat/307727249/,Москва,rent,flat,1,5,2,40.0,55000,0,Кузьминки,Волгоградский проспект,124,Юго-Восточная
+2,ID 8351,realtor,https://www.cian.ru/rent/flat/307689634/,Москва,rent,flat,1,5,2,45.0,40000,0,Выхино-Жулебино,Самаркандский бульвар,9К5,Юго-Восточная
+3,ID 89986184,unknown,https://www.cian.ru/rent/flat/307685698/,Москва,rent,flat,8,10,2,45.0,50000,0,Выхино-Жулебино,Ташкентская ,15/22,Юго-Восточная
+4,ID 106262743,realtor,https://www.cian.ru/rent/flat/307662464/,Москва,rent,flat,10,23,2,60.0,80000,0,Выхино-Жулебино, Академика Скрябина,3/1к4,Юго-Восточная
+5,Ольга Жуйкова,realtor,https://www.cian.ru/rent/flat/307654675/,Москва,rent,flat,3,9,2,43.0,57000,0,Рязанский, Академика Скрябина,20/1,Юго-Восточная
+6,ID 50594252,homeowner,https://www.cian.ru/rent/flat/307650899/,Москва,rent,flat,6,10,2,45.0,53000,0,Выхино-Жулебино,Ташкентская ,25К1,Юго-Восточная
+7,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307582408/,Москва,rent,flat,2,9,2,44.0,72000,0,Выхино-Жулебино,Ферганский проезд,4,Юго-Восточная
+8,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307575469/,Москва,rent,flat,22,25,2,58.0,75000,0,Выхино-Жулебино,Ферганский проезд,14к1,Юго-Восточная
+9,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307574603/,Москва,rent,flat,2,9,2,45.0,65000,0,Выхино-Жулебино,Ферганский проезд,4,Юго-Восточная
+10,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307446618/,Москва,rent,flat,9,9,2,45.0,50000,0,Выхино-Жулебино,Волгоградский проспект,160К1,Юго-Восточная
+11,ID 48877893,homeowner,https://www.cian.ru/rent/flat/307365819/,Москва,rent,flat,22,25,2,58.2,75000,0,Выхино-Жулебино,Ферганский проезд,14к1,Юго-Восточная
+12,Александр Ефремов,realtor,https://www.cian.ru/rent/flat/307362852/,Москва,rent,flat,5,5,2,44.0,50000,0,Кузьминки, Юных Ленинцев,117К2,Юго-Восточная
+13,ID 10238758,unknown,https://www.cian.ru/rent/flat/307128838/,Москва,rent,flat,10,24,2,60.0,70000,0,Выхино-Жулебино,Ферганский проезд,14к1,Юго-Восточная
+14,Максимум,real_estate_agent,https://www.cian.ru/rent/flat/306666450/,Москва,rent,flat,2,9,2,46.0,60000,0,Выхино-Жулебино,Ферганский проезд,7К1,Юго-Восточная
+15,На Петровке,real_estate_agent,https://www.cian.ru/rent/flat/306274964/,Москва,rent,flat,6,16,2,50.6,70000,0,Выхино-Жулебино,Сормовская ,8К1,Юго-Восточная
+16,White Lion,real_estate_agent,https://www.cian.ru/rent/flat/294475354/,Москва,rent,flat,5,5,2,50.0,60000,0,Кузьминки, Юных Ленинцев,105К1,Юго-Восточная
+17,Евгений Тогобицкий,realtor,https://www.cian.ru/rent/flat/268689371/,Москва,rent,flat,5,9,2,46.0,60000,0,Выхино-Жулебино,Сормовская ,10К2,Юго-Восточная
+18,Евгений Тогобицкий,realtor,https://www.cian.ru/rent/flat/263092227/,Москва,rent,flat,10,12,2,38.0,53000,0,Выхино-Жулебино,Ташкентский переулок,5К3,Юго-Восточная
+19,Дмитрий Неводов,realtor,https://www.cian.ru/rent/flat/212733750/,Москва,rent,flat,1,5,2,45.0,47000,0,Выхино-Жулебино,Ташкентская ,24К2,Юго-Восточная
+20,ID 88463561,realtor,https://www.cian.ru/rent/flat/307369755/,Москва,rent,flat,1,5,1,32.0,45000,0,Рязанский, Федора Полетаева,5К2,Окская
+21,ЕГСН Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307489051/,Москва,rent,flat,4,9,1,35.0,40000,0,Кузьминки, Федора Полетаева,32К5,Кузьминки
+22,i-deal,real_estate_agent,https://www.cian.ru/rent/flat/307636594/,Москва,rent,flat,4,12,2,45.0,54000,0,Новогиреево,Союзный проспект,9К2,Новогиреево
+23,Людмила Овчинникова,realtor,https://www.cian.ru/rent/flat/307655889/,Москва,rent,flat,7,14,2,58.0,55000,0,Выхино-Жулебино, Генерала Кузнецова,26К1,Жулебино
+24,ID 85745033,homeowner,https://www.cian.ru/rent/flat/270709183/,Москва,rent,flat,13,16,2,50.9,50000,0,Нижегородский,Смирновская ,5,Калитники

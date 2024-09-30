@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Артур Акопян,realtor,https://www.cian.ru/rent/flat/282911645/,Москва,rent,flat,13,30,3,145.0,180000,0,Южнопортовый, 1-я Машиностроения,10,Дубровка
+1,Наталья Воронова,realtor,https://www.cian.ru/rent/flat/185466808/,Москва,rent,flat,4,20,3,100.0,160000,0,Южнопортовый, Мельникова,3к7,Дубровка
+2,Проперти фо пипл,real_estate_agent,https://www.cian.ru/rent/flat/307430864/,Москва,rent,flat,4,10,4,96.0,100000,0,Даниловский,Люсиновская ,53,Серпуховская
+3,Penny Lane Moscow,real_estate_agent,https://www.cian.ru/rent/flat/307549492/,Москва,rent,flat,3,33,3,100.0,120000,0,Нагатино-Садовники,1-й Нагатинский проезд,11к3,Нагатинская
+4,Светлана Пашатская,realtor,https://www.cian.ru/rent/flat/307423194/,Москва,rent,flat,4,16,3,65.0,92000,0,Таганский,Таганская ,29,Марксистская
+5,Филипп Прозоров,realtor,https://www.cian.ru/rent/flat/307523410/,Москва,rent,flat,5,8,3,60.0,120000,0,Замоскворечье,Дубининская ,11С2,Павелецкая
+6,capital city,real_estate_agent,https://www.cian.ru/rent/flat/307320506/,Москва,rent,flat,31,75,2,110.0,250000,0,Пресненский,набережная Пресненская,8с1,Деловой центр
+7,Intermark Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/303276921/,Москва,rent,flat,9,13,3,120.0,170000,0,Нагатинский затон,Коломенская ,21К3,Кленовый бульвар
+8,ID 6060,realtor,https://www.cian.ru/rent/flat/295633435/,Москва,rent,flat,5,10,3,75.0,160000,0,Даниловский,Павелецкая набережная,4,Крестьянская застава
+9,Никита Перекальский,realtor,https://www.cian.ru/rent/flat/306681598/,Москва,rent,flat,19,20,2,65.0,180000,0,Даниловский,бульвар Братьев Весниных,2,ЗИЛ
+10,Intermark Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/306790059/,Москва,rent,flat,2,9,3,70.0,150000,0,Таганский,Подколокольный переулок,16/2С1,Китай-город
+11,ID 113479997,realtor,https://www.cian.ru/rent/flat/307549170/,Москва,rent,flat,9,28,3,87.0,120000,0,Даниловский,Автозаводская ,23Бк2,ЗИЛ
+12,ID 87484330,homeowner,https://www.cian.ru/rent/flat/293720088/,Москва,rent,flat,3,3,3,77.0,187000,0,Басманный, Покровка,14/2С1,Чистые пруды
+13,СТОЛИЦА Департамент недвижимости,real_estate_agent,https://www.cian.ru/rent/flat/307387697/,Москва,rent,flat,8,12,3,64.0,120000,0,Таганский,Большой Факельный переулок,24,Марксистская
+14,ID 170359,unknown,https://www.cian.ru/rent/flat/306797025/,Москва,rent,flat,3,3,3,64.0,120000,0,Басманный,Гороховский переулок,4к5с7,Курская
+15,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307489842/,Москва,rent,flat,20,20,3,80.0,250000,0,Даниловский,бульвар Братьев Весниных,2,ЗИЛ
+16,Элитный Дом,real_estate_agent,https://www.cian.ru/rent/flat/307534548/,Москва,rent,flat,6,30,3,70.0,125000,0,Южнопортовый,Волгоградский проспект,32/5к1,Дубровка
+17,Елена Деменникова,realtor,https://www.cian.ru/rent/flat/307393381/,Москва,rent,flat,9,12,3,80.0,130000,0,Таганский,Краснохолмская набережная,1/15,Таганская
+18,ID 7004248,unknown,https://www.cian.ru/rent/flat/305199760/,Москва,rent,flat,4,30,3,55.0,125000,0,Южнопортовый,Волгоградский проспект,32/5к2,Дубровка
+19,ID 46711494,realtor,https://www.cian.ru/rent/flat/306891691/,Москва,rent,flat,2,5,4,75.0,130000,0,Даниловский,Автозаводская ,23С753,
+20,ID 101824331,homeowner,https://www.cian.ru/rent/flat/290917076/,Москва,rent,flat,5,9,4,89.0,220000,0,Лефортово,шоссе Энтузиастов,1к1,Москва-Товарная
+21,Элитный Дом,real_estate_agent,https://www.cian.ru/rent/flat/307448001/,Москва,rent,flat,3,20,3,72.0,130000,0,Южнопортовый, Мельникова,3к6,Дубровка
+22,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307084874/,Москва,rent,flat,9,21,3,125.0,220000,0,Якиманка, Шаболовка,23,Шаболовская
+23,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307128016/,Москва,rent,flat,5,10,2,90.0,220000,0,Даниловский,проспект Лихачева,10к4,Технопарк
+24,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307208725/,Москва,rent,flat,8,25,5,140.0,190000,0,Хорошево-Мневники, Народного Ополчения,33,Октябрьское поле

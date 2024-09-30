@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,ГОРОДСКОЙ КВАРТАЛ,real_estate_agent,https://www.cian.ru/rent/flat/307743451/,Москва,rent,flat,23,26,1,41.0,60000,0,Фили-Давыдково,Кастанаевская ,65,Пионерская
+1,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307720111/,Москва,rent,flat,11,24,1,40.0,70000,0,Фили-Давыдково, Герасима Курина,20,Пионерская
+2,ID 49202882,unknown,https://www.cian.ru/rent/flat/307711663/,Москва,rent,flat,3,5,1,30.0,59000,0,Фили-Давыдково,Большая Филевская ,37К2,Пионерская
+3,Авеню-Мск,real_estate_agent,https://www.cian.ru/rent/flat/307705901/,Москва,rent,flat,14,29,1,43.0,110000,0,Фили-Давыдково, Ивана Франко,6,Пионерская
+4,Ольга Гладкова,realtor,https://www.cian.ru/rent/flat/307705820/,Москва,rent,flat,2,12,1,39.0,70000,0,Фили-Давыдково,Кастанаевская ,60,Пионерская
+5,Алексей Ладан,realtor,https://www.cian.ru/rent/flat/307676970/,Москва,rent,flat,11,29,1,42.3,120000,0,Фили-Давыдково, Ивана Франко,6,Пионерская
+6,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307672725/,Москва,rent,flat,4,5,1,30.0,60000,0,Фили-Давыдково,Большая Филевская ,37К1,Пионерская
+7,MOTYLEK - департамент недвижимости,real_estate_agent,https://www.cian.ru/rent/flat/307637869/,Москва,rent,flat,12,19,1,42.0,75000,0,Фили-Давыдково,Тарутинская ,4к1,Пионерская
+8,ID 13615,realtor,https://www.cian.ru/rent/flat/307636313/,Москва,rent,flat,16,19,1,33.0,75000,0,Фили-Давыдково,Славянский бульвар,3,Пионерская
+9,Геннадий Сенкевич,realtor,https://www.cian.ru/rent/flat/307632956/,Москва,rent,flat,10,22,1,36.8,70000,0,Фили-Давыдково,Кастанаевская ,41,Пионерская
+10,ID 122048037,realtor,https://www.cian.ru/rent/flat/307612654/,Москва,rent,flat,7,20,1,36.7,60000,0,Фили-Давыдково,Кастанаевская ,45к1,Пионерская
+11,Павел Смирнов,realtor,https://www.cian.ru/rent/flat/307521527/,Москва,rent,flat,1,5,1,42.0,80000,0,Фили-Давыдково,Минская ,15К2,Пионерская
+12,Владимир Осейко,realtor,https://www.cian.ru/rent/flat/307508856/,Москва,rent,flat,1,17,1,38.0,60000,0,Фили-Давыдково,Кастанаевская ,51К1,Пионерская
+13,EMPIRE HOME,real_estate_agent,https://www.cian.ru/rent/flat/307272735/,Москва,rent,flat,16,16,1,43.0,80000,0,Фили-Давыдково,Кастанаевская ,54,Пионерская
+14,Светлана Киселева,realtor,https://www.cian.ru/rent/flat/303035141/,Москва,rent,flat,9,9,1,33.6,64000,0,Фили-Давыдково,Кастанаевская ,35К1,Пионерская
+15,Ольга Шиховцева,realtor,https://www.cian.ru/rent/flat/290104303/,Москва,rent,flat,11,12,1,51.0,115000,0,Фили-Давыдково, Ивана Франко,6,Пионерская
+16,Игорь Юдочкин,realtor,https://www.cian.ru/rent/flat/262765833/,Москва,rent,flat,2,9,1,33.0,60000,0,Фили-Давыдково,Кастанаевская ,42К1,Пионерская
+17,ID 71846471,homeowner,https://www.cian.ru/rent/flat/255237480/,Москва,rent,flat,11,20,1,49.4,95000,0,Фили-Давыдково,Кастанаевская ,45К2,Пионерская
+18,ID 61971563,homeowner,https://www.cian.ru/rent/flat/307458356/,Москва,rent,flat,3,22,1,40.0,65000,0,Алексеевский,Староалексеевская ,3,Алексеевская
+19,ID 51007336,homeowner,https://www.cian.ru/rent/flat/273637760/,Москва,rent,flat,14,24,2,43.0,85000,0,Фили-Давыдково, Герасима Курина,20,Пионерская
+20,Сергей Стахов,realtor,https://www.cian.ru/rent/flat/247348818/,Москва,rent,flat,9,14,2,65.0,60000,0,Фили-Давыдково,Кастанаевская ,63К2,Пионерская
+21,ФОКУС,official_representative,https://www.cian.ru/rent/flat/307531852/,Москва,rent,flat,8,12,1,34.9,50000,0,Можайский, Красных Зорь,51,Рабочий посёлок
+22,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307494461/,Москва,rent,flat,5,5,1,33.0,50000,0,Фили-Давыдково, Алексея Свиридова,3,Кунцевская
+23,АРМ-Недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/307548023/,Москва,rent,flat,6,17,1,40.0,70000,0,Раменки,Мичуринский проспект,31К1,Раменки
+24,ID 87733012,homeowner,https://www.cian.ru/rent/flat/307441811/,Москва,rent,flat,8,9,1,32.0,70000,0,Хорошево-Мневники,проспект Маршала Жукова,10,Народное Ополчение

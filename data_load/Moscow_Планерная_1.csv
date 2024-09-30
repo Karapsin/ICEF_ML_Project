@@ -1,0 +1,53 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307741717/,Москва,rent,flat,4,16,1,41.0,49900,0,Северное Тушино, Вилиса Лациса,21К4,Планерная
+1,ID 7174336,realtor,https://www.cian.ru/rent/flat/307740684/,Москва,rent,flat,10,12,1,36.0,40000,0,Северное Тушино,Туристская ,13К2,Планерная
+2,ID 11669,realtor,https://www.cian.ru/rent/flat/307726162/,Москва,rent,flat,8,9,1,34.0,40000,0,Северное Тушино,Планерная ,16К6,Планерная
+3,ID 107297208,homeowner,https://www.cian.ru/rent/flat/307724087/,Москва,rent,flat,1,9,1,33.0,60000,0,Южное Тушино,Штурвальная ,5С2,Планерная
+4,Про Жильё,real_estate_agent,https://krasnogorsk.cian.ru/rent/flat/307722912/,Москва,rent,flat,15,15,1,35.0,65000,0,д. Путилково, Вольная,2,
+5,ID 450247,unknown,https://www.cian.ru/rent/flat/307721762/,Москва,rent,flat,4,5,1,42.8,55000,0,Куркино,Куркинское шоссе,17к1,Планерная
+6,ИскИн,real_estate_agent,https://www.cian.ru/rent/flat/307720726/,Москва,rent,flat,8,22,1,40.0,45000,0,Южное Тушино,бульвар Яна Райниса,45К2,Планерная
+7,ID 13094960,homeowner,https://krasnogorsk.cian.ru/rent/flat/307696171/,Москва,rent,flat,8,26,1,45.0,40000,0,д. Путилково, Сходненская,10к2,
+8,ID 384413,homeowner,https://khimki.cian.ru/rent/flat/307685453/,Москва,rent,flat,19,25,1,41.9,50000,0,,Молодежная ,74,Планерная
+9,Елена Стометова,realtor,https://www.cian.ru/rent/flat/307681959/,Москва,rent,flat,6,17,1,38.0,60000,0,Южное Тушино,Сходненская ,6,Планерная
+10,ID 90316750,homeowner,https://khimki.cian.ru/rent/flat/307659643/,Москва,rent,flat,6,25,1,42.0,47000,0,,Юбилейный проспект,66д,Планерная
+11,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307658542/,Москва,rent,flat,8,12,1,35.0,53000,0,Северное Тушино,Планерная ,20к1,Планерная
+12,Максим Костромин,realtor,https://www.cian.ru/rent/flat/307657152/,Москва,rent,flat,3,12,1,40.0,45000,0,Северное Тушино,Туристская ,17,Планерная
+13,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307651329/,Москва,rent,flat,12,16,1,37.0,50000,0,Северное Тушино, Героев Панфиловцев,7К2,Планерная
+14,ID 2879,realtor,https://www.cian.ru/rent/flat/307633769/,Москва,rent,flat,5,12,1,39.0,57000,0,Южное Тушино,проезд Досфлота,3,Планерная
+15,ID 354711,realtor,https://www.cian.ru/rent/flat/307633666/,Москва,rent,flat,13,16,1,50.0,60000,0,Южное Тушино,Аэродромная ,11,Планерная
+16,ALFA real estate,real_estate_agent,https://www.cian.ru/rent/flat/307628406/,Москва,rent,flat,21,22,1,38.4,100000,0,Южное Тушино,бульвар Яна Райниса,45К2,Планерная
+17,ID 69398662,unknown,https://www.cian.ru/rent/flat/307602091/,Москва,rent,flat,2,12,1,33.0,48000,0,Северное Тушино,бульвар Яна Райниса,28К2,Планерная
+18,ID 122026980,homeowner,https://khimki.cian.ru/rent/flat/307596093/,Москва,rent,flat,23,23,1,43.0,42000,0,, Горшина,6к2,Планерная
+19,Владимир Иванов,realtor,https://www.cian.ru/rent/flat/307565948/,Москва,rent,flat,5,9,1,33.0,55000,0,Северное Тушино, Героев Панфиловцев,21,Планерная
+20,Всеволод Темнов,realtor,https://krasnogorsk.cian.ru/rent/flat/307550588/,Москва,rent,flat,11,12,1,35.8,52000,0,д. Путилково, Вольная,5,
+21,ID 48641322,homeowner,https://www.cian.ru/rent/flat/307506491/,Москва,rent,flat,11,24,1,47.4,70000,0,Северное Тушино, Вилиса Лациса,21,Планерная
+22,Мост Недвижимость,real_estate_agent,https://khimki.cian.ru/rent/flat/307396547/,Москва,rent,flat,21,25,1,41.9,45000,0,,Молодежная ,54,Планерная
+23,Парус,real_estate_agent,https://khimki.cian.ru/rent/flat/307391887/,Москва,rent,flat,10,25,1,40.0,50000,0,, Горшина,2,Планерная
+24,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307364125/,Москва,rent,flat,9,16,1,39.0,55000,0,Северное Тушино, Вилиса Лациса,35,Планерная
+25,Наталья Анкудинова,realtor,https://khimki.cian.ru/rent/flat/307311705/,Москва,rent,flat,11,17,1,42.0,59998,0,,Молодежная ,2,Планерная
+26,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307232021/,Москва,rent,flat,4,9,1,33.0,70000,0,Северное Тушино,Планерная ,12К3,Планерная
+27,ID 88471578,homeowner,https://khimki.cian.ru/rent/flat/307226566/,Москва,rent,flat,19,25,1,51.0,65000,0,,Юбилейный проспект,66д,Планерная
+28,ID 57096143,realtor,https://www.cian.ru/rent/flat/307145999/,Москва,rent,flat,10,18,1,38.1,50000,0,Северное Тушино, Вилиса Лациса,38к1,Планерная
+29,Capital Mars,real_estate_agent,https://krasnogorsk.cian.ru/rent/flat/307092234/,Москва,rent,flat,22,22,1,43.0,55000,0,д. Путилково, Новотушинская,5,
+30,Наталья Караман,realtor,https://krasnogorsk.cian.ru/rent/flat/306938658/,Москва,rent,flat,12,15,1,39.0,50000,0,д. Путилково, Вольная,2,
+31,SC Realty,real_estate_agent,https://www.cian.ru/rent/flat/306900899/,Москва,rent,flat,3,20,1,54.0,75000,0,Южное Тушино,Сходненская ,35К1,Планерная
+32,ID 75231024,homeowner,https://www.cian.ru/rent/flat/304898337/,Москва,rent,flat,18,24,1,47.4,75000,0,Северное Тушино, Вилиса Лациса,17к1,Планерная
+33,ID 43009395,unknown,https://krasnogorsk.cian.ru/rent/flat/303343542/,Москва,rent,flat,6,15,1,40.0,47000,0,д. Путилково, Вольная,2,
+34,Ирина Мел,realtor,https://krasnogorsk.cian.ru/rent/flat/300529913/,Москва,rent,flat,15,15,1,42.0,80000,0,д. Путилково, Вольная,2,
+35,Советник по недвижимости,real_estate_agent,https://khimki.cian.ru/rent/flat/300427564/,Москва,rent,flat,1,17,1,38.0,46000,0,, Бабакина,5,Планерная
+36,Наталья Денисова,realtor,https://www.cian.ru/rent/flat/288315061/,Москва,rent,flat,2,17,1,41.5,70000,0,Северное Тушино,Туристская ,16к4,Планерная
+37,ID 83880089,homeowner,https://krasnogorsk.cian.ru/rent/flat/287210203/,Москва,rent,flat,15,19,1,45.0,65000,0,д. Путилково, Новотушинская,3,
+38,ID 29035129,homeowner,https://www.cian.ru/rent/flat/283863905/,Москва,rent,flat,9,12,1,35.3,58000,0,Северное Тушино,Туристская ,19К1,Планерная
+39,ID 33515204,homeowner,https://khimki.cian.ru/rent/flat/276819060/,Москва,rent,flat,18,27,1,47.0,55000,0,,Молодежная ,78,Планерная
+40,ID 19970,realtor,https://www.cian.ru/rent/flat/276079013/,Москва,rent,flat,13,17,1,38.0,50000,0,Северное Тушино, Вилиса Лациса,38к1,Планерная
+41,Макромир,real_estate_agent,https://www.cian.ru/rent/flat/273977702/,Москва,rent,flat,4,12,1,35.0,55000,0,Северное Тушино, Свободы,93К1,Планерная
+42,ID 71805086,homeowner,https://khimki.cian.ru/rent/flat/255181922/,Москва,rent,flat,4,17,1,31.0,40000,0,, Имени К.И. Вороницына,1к2,Планерная
+43,ID 11019742,homeowner,https://www.cian.ru/rent/flat/251746326/,Москва,rent,flat,10,17,1,37.7,65000,0,Северное Тушино,Химкинский бульвар,14к2,Планерная
+44,ID 19364112,homeowner,https://www.cian.ru/rent/flat/222088314/,Москва,rent,flat,12,16,1,37.0,50000,0,Северное Тушино, Героев Панфиловцев,7К1,Планерная
+45,ID 12365369,unknown,https://www.cian.ru/rent/flat/219600312/,Москва,rent,flat,6,12,1,40.0,55000,0,Южное Тушино,бульвар Яна Райниса,1,Планерная
+46,Антон Садаев,realtor,https://khimki.cian.ru/rent/flat/207088119/,Москва,rent,flat,9,16,1,40.0,45000,0,,Юбилейный проспект,9/1,Планерная
+47,ID 22877397,homeowner,https://www.cian.ru/rent/flat/201475747/,Москва,rent,flat,6,14,1,41.0,49900,0,Северное Тушино, Вилиса Лациса,21К4,Планерная
+48,Егор Колмогоров,realtor,https://khimki.cian.ru/rent/flat/288261546/,Москва,rent,flat,5,5,1,30.0,45000,0,, Энгельса,16,Химки
+49,ID 98157167,realtor,https://www.cian.ru/rent/flat/307484568/,Москва,rent,flat,3,12,2,45.0,45000,0,Северное Тушино,бульвар Яна Райниса,28К1,Планерная
+50,ID 176308,realtor,https://www.cian.ru/rent/flat/307413419/,Москва,rent,flat,2,12,2,37.4,47000,0,Северное Тушино,бульвар Яна Райниса,16К2,Планерная
+51,ФЛЭТ Зеленоград,real_estate_agent,https://khimki.cian.ru/rent/flat/307381994/,Москва,rent,flat,17,17,1,39.0,42000,0,,Железнодорожная ,33к1,Сходня

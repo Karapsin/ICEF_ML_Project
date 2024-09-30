@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,ID 122203866,realtor,https://www.cian.ru/rent/flat/307759574/,Москва,rent,flat,14,16,3,74.4,115000,0,Сокольники,Егерская ,1,Красносельская
+1,ОГРК,real_estate_agent,https://www.cian.ru/rent/flat/307746801/,Москва,rent,flat,9,9,3,51.2,100000,0,Сокольники,Старослободская ,23,Красносельская
+2,Татьяна Понкратова,realtor,https://www.cian.ru/rent/flat/307742364/,Москва,rent,flat,14,17,3,130.0,220000,0,Красносельский,Верхняя Красносельская ,19с2,Красносельская
+3,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307564090/,Москва,rent,flat,2,9,3,78.0,109000,0,Басманный,Спартаковская площадь,1/2,Красносельская
+4,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307538141/,Москва,rent,flat,5,9,3,87.0,145000,0,Красносельский,5-й Красносельский переулок,2,Красносельская
+5,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307530930/,Москва,rent,flat,5,9,3,87.0,145000,0,Красносельский,5-й Красносельский переулок,2,Красносельская
+6,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307528410/,Москва,rent,flat,5,9,3,87.0,145000,0,Красносельский,5-й Красносельский переулок,2,Красносельская
+7,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307402694/,Москва,rent,flat,5,13,3,83.0,250000,0,Басманный,Бакунинская ,5,Красносельская
+8,Cергей Заславскай,realtor,https://www.cian.ru/rent/flat/307361646/,Москва,rent,flat,7,7,3,85.0,140000,0,Красносельский,Русаковская ,2,Красносельская
+9,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307338801/,Москва,rent,flat,3,7,3,72.0,250000,0,Басманный,Нижняя Красносельская ,35С1,Красносельская
+10,Андрей Смирнов,realtor,https://www.cian.ru/rent/flat/307316781/,Москва,rent,flat,5,10,3,150.0,480000,0,Басманный,Нижняя Красносельская ,35С50,Красносельская
+11,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307254802/,Москва,rent,flat,5,12,3,83.0,250000,0,Басманный,Бакунинская ,5,Красносельская
+12,ID 19625718,homeowner,https://www.cian.ru/rent/flat/307231809/,Москва,rent,flat,3,7,3,72.0,250000,0,Басманный,Нижняя Красносельская ,35С1,Красносельская
+13,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/306694663/,Москва,rent,flat,2,12,3,130.0,350000,0,Красносельский,Верхняя Красносельская ,9,Красносельская
+14,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/306421091/,Москва,rent,flat,2,12,3,140.0,350000,0,Красносельский,Верхняя Красносельская ,9,Красносельская
+15,ID 88438232,homeowner,https://www.cian.ru/rent/flat/306418110/,Москва,rent,flat,2,12,3,136.0,350000,0,Красносельский,Верхняя Красносельская ,9,Красносельская
+16,Любовь  Лукина,realtor,https://www.cian.ru/rent/flat/305710757/,Москва,rent,flat,5,12,3,79.0,250000,0,Басманный,Бакунинская ,5,Красносельская
+17,ID 511382,homeowner,https://www.cian.ru/rent/flat/278591840/,Москва,rent,flat,4,10,3,150.0,480000,0,Басманный,Нижняя Красносельская ,35С50,Красносельская
+18,ID 79203211,unknown,https://www.cian.ru/rent/flat/307628946/,Москва,rent,flat,6,10,2,52.0,100000,0,Басманный,Нижняя Красносельская ,35С50,Красносельская
+19,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307399457/,Москва,rent,flat,3,11,4,164.0,230000,0,Пресненский,Большой Тишинский переулок,38С1,Улица 1905 года
+20,Intermark Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307435339/,Москва,rent,flat,8,18,2,70.0,240000,0,Красносельский,Басманный переулок,5,Комсомольская
+21,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/306831373/,Москва,rent,flat,19,44,3,67.0,220000,0,Пресненский,Ходынская ,2,Улица 1905 года
+22,РОДНЫЕ СТЕНЫ,real_estate_agent,https://www.cian.ru/rent/flat/306417887/,Москва,rent,flat,5,9,2,58.0,85000,0,Басманный,Спартаковская площадь,1/2,Красносельская
+23,ID 208463,real_estate_agent,https://www.cian.ru/rent/flat/292639218/,Москва,rent,flat,8,9,2,54.0,135000,0,Басманный,Большая Почтовая ,32к9,Электрозаводская
+24,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307080269/,Москва,rent,flat,8,24,2,45.0,150000,0,Красносельский,Большая Спасская ,35,Площадь трёх вокзалов

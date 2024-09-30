@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,GardenGoldRealty,real_estate_agent,https://www.cian.ru/rent/flat/307762972/,Москва,rent,flat,6,9,3,58.7,80000,0,Богородское,бульвар Маршала Рокоссовского,42,Белокаменная
+1,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307676690/,Москва,rent,flat,6,9,3,59.0,80000,0,Богородское,бульвар Маршала Рокоссовского,42,Белокаменная
+2,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307666681/,Москва,rent,flat,6,9,3,60.0,80000,0,Богородское,бульвар Маршала Рокоссовского,42,Белокаменная
+3,Столичный Проспект,real_estate_agent,https://www.cian.ru/rent/flat/307664991/,Москва,rent,flat,3,14,3,60.0,70000,0,Богородское,3-я Гражданская ,3,Белокаменная
+4,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307647262/,Москва,rent,flat,6,9,3,65.0,80000,0,Богородское,бульвар Маршала Рокоссовского,42,Белокаменная
+5,Alfa Forum Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307552102/,Москва,rent,flat,16,23,3,90.0,150000,0,Богородское,Наримановская ,8,Белокаменная
+6,ID 106468566,homeowner,https://www.cian.ru/rent/flat/307362120/,Москва,rent,flat,14,25,3,74.1,128000,0,Богородское,Погонный проезд,14,Белокаменная
+7,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307066685/,Москва,rent,flat,14,25,3,80.0,130000,0,Богородское,Погонный проезд,14,Белокаменная
+8,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/306889755/,Москва,rent,flat,6,29,3,73.0,157500,0,Богородское,Погонный проезд,3ак2,Белокаменная
+9,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/306392506/,Москва,rent,flat,24,30,3,75.0,150000,0,Богородское,Погонный проезд,3А,Белокаменная
+10,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/305147709/,Москва,rent,flat,24,28,3,73.0,140000,0,Богородское,Погонный проезд,3ак2,Белокаменная
+11,ID 87581735,homeowner,https://www.cian.ru/rent/flat/304495315/,Москва,rent,flat,24,28,3,73.0,140000,0,Богородское,Погонный проезд,3ак2,Белокаменная
+12,ID 12465398,homeowner,https://www.cian.ru/rent/flat/307703940/,Москва,rent,flat,5,33,3,77.0,100000,0,Соколиная гора,проспект Буденного,51к4,Шоссе Энтузиастов
+13,ID 76442518,unknown,https://www.cian.ru/rent/flat/279449684/,Москва,rent,flat,6,14,2,47.0,70000,0,Преображенское,Халтуринская ,4К2,Преображенская площадь
+14,КОНСИНГО,real_estate_agent,https://www.cian.ru/rent/flat/307539344/,Москва,rent,flat,5,9,2,45.0,60000,0,Преображенское,2-я Пугачевская ,10К1,Преображенская площадь
+15,Денис Мастяев,realtor,https://www.cian.ru/rent/flat/307391852/,Москва,rent,flat,1,5,3,60.0,60000,0,Северное Измайлово,Щелковское шоссе,42,Щёлковская
+16,Юлия Смышляева,realtor,https://www.cian.ru/rent/flat/307718484/,Москва,rent,flat,2,4,3,80.0,100000,0,Восточное Измайлово,Первомайская ,80,Первомайская
+17,Александр Ваймугин,realtor,https://www.cian.ru/rent/flat/307668320/,Москва,rent,flat,26,30,2,45.0,80000,0,Богородское,бульвар Маршала Рокоссовского,6к1,Бульвар Рокоссовского
+18,ID 234792,real_estate_agent,https://www.cian.ru/rent/flat/307679785/,Москва,rent,flat,12,22,3,76.4,85000,0,Алексеевский,Маломосковская ,21К1,ВДНХ
+19,Марина Сидорова,realtor,https://www.cian.ru/rent/flat/291838999/,Москва,rent,flat,3,5,3,60.0,80000,0,Соколиная гора, Семеновский Вал,10К2,Семёновская
+20,Паскаль,real_estate_agent,https://www.cian.ru/rent/flat/307622922/,Москва,rent,flat,13,24,2,39.0,75000,0,Метрогородок,Тагильская ,4В,Бульвар Рокоссовского
+21,ID 108059745,homeowner,https://www.cian.ru/rent/flat/307410238/,Москва,rent,flat,2,14,-1,155.8,200000,0,Соколиная гора, 10-я Соколиной Горы,6к1,Соколиная гора
+22,EMPIRE HOME,real_estate_agent,https://www.cian.ru/rent/flat/307432607/,Москва,rent,flat,2,4,3,50.0,75000,0,Измайлово,Измайловский проезд,6,Измайловская
+23,ЧЕРТАНОВО НЕДВИЖИМОСТЬ,real_estate_agent,https://www.cian.ru/rent/flat/166800283/,Москва,rent,flat,3,12,2,52.0,75000,0,Сокольники,Большой Матросский переулок,1,Электрозаводская
+24,Central-arenda,real_estate_agent,https://www.cian.ru/rent/flat/291299261/,Москва,rent,flat,7,14,3,78.0,70000,0,Соколиная гора, 5-я Соколиной Горы,18К2,Шоссе Энтузиастов

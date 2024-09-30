@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307696750/,Москва,rent,flat,20,22,1,45.0,85000,0,Останкинский, Академика Королева,8К2,Улица Академика Королёва
+1,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307668069/,Москва,rent,flat,20,22,1,40.0,85000,0,Останкинский, Академика Королева,8К2,Улица Академика Королёва
+2,Юрий Муромцев,realtor,https://www.cian.ru/rent/flat/307646965/,Москва,rent,flat,2,5,1,33.0,75000,0,Останкинский,Звездный бульвар,8К2,Улица Академика Королёва
+3,ГОРОБМЕН,real_estate_agent,https://www.cian.ru/rent/flat/307635618/,Москва,rent,flat,3,5,1,34.0,70000,0,Останкинский,Звездный бульвар,38К2,Улица Академика Королёва
+4,ID 223501,unknown,https://www.cian.ru/rent/flat/307547252/,Москва,rent,flat,6,11,1,42.7,130000,0,Останкинский, Годовикова,11к2,Улица Академика Королёва
+5,Парус,real_estate_agent,https://www.cian.ru/rent/flat/307477875/,Москва,rent,flat,10,22,1,38.0,99000,0,Останкинский, Академика Королева,4К1,Улица Академика Королёва
+6,Intermark Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307209725/,Москва,rent,flat,12,35,1,42.0,150000,0,Останкинский, Годовикова,11к2,Улица Академика Королёва
+7,ID 120613323,homeowner,https://www.cian.ru/rent/flat/307185099/,Москва,rent,flat,10,22,1,38.0,99000,0,Останкинский, Академика Королева,4К1,Улица Академика Королёва
+8,Татьяна Малахова,realtor,https://www.cian.ru/rent/flat/307145930/,Москва,rent,flat,6,8,1,33.0,59000,0,Останкинский,Звездный бульвар,16/2,Улица Академика Королёва
+9,Rocket Estate,real_estate_agent,https://www.cian.ru/rent/flat/306036759/,Москва,rent,flat,11,11,1,41.97,120000,0,Останкинский, Годовикова,11к5,Улица Академика Королёва
+10,ID 281843,unknown,https://www.cian.ru/rent/flat/271145127/,Москва,rent,flat,20,22,1,40.0,85000,0,Останкинский, Академика Королева,8К2,Улица Академика Королёва
+11,ID 46201682,realtor,https://www.cian.ru/rent/flat/262601548/,Москва,rent,flat,4,8,1,42.0,80000,0,Останкинский, Академика Королева,3,Улица Академика Королёва
+12,АРТ НЕДВИЖИМОСТЬ,real_estate_agent,https://www.cian.ru/rent/flat/245856357/,Москва,rent,flat,21,22,1,39.0,65000,0,Останкинский, Академика Королева,4К1,Улица Академика Королёва
+13,ID 13042887,unknown,https://www.cian.ru/rent/flat/241484225/,Москва,rent,flat,3,8,1,20.0,50000,0,Алексеевский,проспект Мира,146,Улица Академика Королёва
+14,Азбука Жилья Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307584262/,Москва,rent,flat,6,12,2,38.0,65000,0,Алексеевский,Новоалексеевская ,4К2,Алексеевская
+15,ID 11630609,homeowner,https://www.cian.ru/rent/flat/299551839/,Москва,rent,flat,1,5,1,31.0,70000,0,Марьина роща, Сущевский Вал,67,Марьина Роща
+16,ID 25297749,homeowner,https://www.cian.ru/rent/flat/268445594/,Москва,rent,flat,11,16,1,35.0,75000,0,Бабушкинский,Печорская ,3,Бабушкинская
+17,Золотой ключ,real_estate_agent,https://www.cian.ru/rent/flat/307534474/,Москва,rent,flat,11,12,2,38.0,70000,0,Мещанский,Капельский переулок,3,Проспект Мира
+18,ID 122068143,realtor,https://www.cian.ru/rent/flat/307626016/,Москва,rent,flat,9,9,1,33.0,60000,0,Тимирязевский,Тимирязевская ,9,Дмитровская
+19,ГОРОБМЕН,real_estate_agent,https://www.cian.ru/rent/flat/307628383/,Москва,rent,flat,5,5,1,30.0,47000,0,Алексеевский, Константинова,12,ВДНХ
+20,ID 49550815,realtor,https://www.cian.ru/rent/flat/300352634/,Москва,rent,flat,21,22,1,44.0,65000,0,Алексеевский,Маломосковская ,21К3,ВДНХ
+21,МГН-495,real_estate_agent,https://www.cian.ru/rent/flat/307649731/,Москва,rent,flat,3,16,1,38.0,60000,0,Бутырский, Яблочкова,43А,Петровско-Разумовская
+22,Замоскворечье,real_estate_agent,https://www.cian.ru/rent/flat/307216890/,Москва,rent,flat,3,5,1,40.0,70000,0,Останкинский,Шереметьевская ,85С1,Марьина Роща
+23,Ирина Василевская,realtor,https://www.cian.ru/rent/flat/307635178/,Москва,rent,flat,2,14,1,39.0,65000,0,Ростокино,проспект Мира,196,Ростокино
+24,ID 122006073,homeowner,https://www.cian.ru/rent/flat/307572528/,Москва,rent,flat,11,12,2,38.0,89000,0,Алексеевский,Ярославская ,4К1,ВДНХ

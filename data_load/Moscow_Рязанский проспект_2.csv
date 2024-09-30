@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,ID 10494970,realtor,https://www.cian.ru/rent/flat/307742926/,Москва,rent,flat,3,5,2,50.0,55000,0,Косино-Ухтомский,Оренбургская ,17,Косино
+1,ID 107229951,homeowner,https://www.cian.ru/rent/flat/307710921/,Москва,rent,flat,8,12,2,58.6,70000,0,Косино-Ухтомский,Святоозерская ,14,Косино
+2,Лариса Смородина,realtor,https://www.cian.ru/rent/flat/307706150/,Москва,rent,flat,11,16,2,51.0,55000,0,Вешняки,Косинская ,24К3,Косино
+3,ID 18499627,realtor,https://www.cian.ru/rent/flat/307633807/,Москва,rent,flat,1,9,2,44.0,50000,0,Вешняки, Молдагуловой,32,Косино
+4,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307582408/,Москва,rent,flat,2,9,2,44.0,72000,0,Выхино-Жулебино,Ферганский проезд,4,Косино
+5,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307574603/,Москва,rent,flat,2,9,2,45.0,72000,0,Выхино-Жулебино,Ферганский проезд,4,Косино
+6,Юлия Бабкина,realtor,https://www.cian.ru/rent/flat/307103296/,Москва,rent,flat,8,16,2,55.0,72000,0,Косино-Ухтомский, Татьяны Макаровой,10,Косино
+7,ID 105832309,homeowner,https://www.cian.ru/rent/flat/307089067/,Москва,rent,flat,3,14,2,54.0,60000,0,Косино-Ухтомский, Рудневка,35,Косино
+8,Андрей Степнов,realtor,https://www.cian.ru/rent/flat/306029953/,Москва,rent,flat,5,17,2,68.1,65000,0,Косино-Ухтомский, Татьяны Макаровой,3,Косино
+9,Владимир Фетискин,realtor,https://www.cian.ru/rent/flat/279041648/,Москва,rent,flat,14,22,2,58.0,87000,0,Косино-Ухтомский, Рудневка,21,Косино
+10,ID 43782748,homeowner,https://www.cian.ru/rent/flat/219375339/,Москва,rent,flat,12,14,2,56.0,75000,0,Выхино-Жулебино,Лермонтовский проспект,10К1,Косино
+11,ID 111202318,homeowner,https://www.cian.ru/rent/flat/307643098/,Москва,rent,flat,2,14,2,87.0,70000,0,Таганский,Сосинская ,6,Пролетарская
+12,Людмила Овчинникова,realtor,https://www.cian.ru/rent/flat/307655889/,Москва,rent,flat,7,14,2,58.0,55000,0,Выхино-Жулебино, Генерала Кузнецова,26К1,Жулебино
+13,ID 48368848,homeowner,https://www.cian.ru/rent/flat/307682422/,Москва,rent,flat,10,17,1,37.0,45000,0,Некрасовка, Лавриненко,11к1,Некрасовка
+14,ID 119300433,homeowner,https://www.cian.ru/rent/flat/307434434/,Москва,rent,flat,4,12,1,36.0,60000,0,Косино-Ухтомский,Святоозерская ,24,Лухмановская
+15,ID 88729001,realtor,https://www.cian.ru/rent/flat/307462400/,Москва,rent,flat,7,9,1,45.0,60000,0,Косино-Ухтомский,Лухмановская ,5,Лухмановская
+16,MOTYLEK - департамент недвижимости,real_estate_agent,https://www.cian.ru/rent/flat/307214415/,Москва,rent,flat,9,17,2,55.0,50000,0,Выхино-Жулебино,Привольная ,9К1,Лермонтовский проспект
+17,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307633783/,Москва,rent,flat,5,17,1,45.0,50000,0,Некрасовка, Ухтомского Ополчения,8,Некрасовка
+18,ID 50594252,homeowner,https://www.cian.ru/rent/flat/307650899/,Москва,rent,flat,6,10,2,45.0,53000,0,Выхино-Жулебино,Ташкентская ,25К1,Юго-Восточная
+19,Елена Стометова,realtor,https://www.cian.ru/rent/flat/307561705/,Москва,rent,flat,3,9,2,45.0,60000,0,Марьино,Новочеркасский бульвар,9,Курьяново
+20,ID 95720674,unknown,https://www.cian.ru/rent/flat/307627741/,Москва,rent,flat,9,9,2,43.0,55000,0,Вешняки,Косинская ,26К1,Выхино
+21,Ольга Жуйкова,realtor,https://www.cian.ru/rent/flat/307282822/,Москва,rent,flat,11,17,2,54.0,55000,0,Некрасовка,2-я Вольская ,3,Люберцы
+22,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307430191/,Москва,rent,flat,8,14,2,60.0,75000,0,Выхино-Жулебино, Генерала Кузнецова,23,Жулебино
+23,ID 91741934,homeowner,https://www.cian.ru/rent/flat/307682554/,Москва,rent,flat,4,5,2,32.0,52000,0,Царицыно,Пролетарский проспект,26К4,Кантемировская
+24,ID 15819628,homeowner,https://www.cian.ru/rent/flat/259934816/,Москва,rent,flat,4,19,1,36.0,50000,0,Некрасовка,Рождественская ,31,Некрасовка

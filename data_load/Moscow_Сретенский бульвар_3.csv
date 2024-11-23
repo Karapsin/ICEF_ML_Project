@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Илья Соловьев,realtor,https://www.cian.ru/rent/flat/307781000/,Москва,rent,flat,1,7,3,67.7,120000,0,Мещанский,переулок Печатников,15А,Сретенский бульвар
+1,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307660371/,Москва,rent,flat,1,6,3,115.0,320000,0,Красносельский,Уланский переулок,11А,Сретенский бульвар
+2,Intermark Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307590849/,Москва,rent,flat,5,8,3,94.0,300000,0,Басманный,Чистопрудный бульвар,14С3,Сретенский бульвар
+3,ИП Исмаилов А. А.,real_estate_agent,https://www.cian.ru/rent/flat/307589179/,Москва,rent,flat,4,8,3,60.0,160000,0,Басманный,Потаповский переулок,9,Сретенский бульвар
+4,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307538138/,Москва,rent,flat,5,7,3,91.0,300000,0,Басманный,Чистопрудный бульвар,14С3,Сретенский бульвар
+5,Капиталъ-Недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/307491917/,Москва,rent,flat,6,6,3,75.0,230000,0,Басманный,Потаповский переулок,9,Сретенский бульвар
+6,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307344850/,Москва,rent,flat,3,3,3,62.0,143000,0,Мещанский,переулок Пушкарев,20/17,Сретенский бульвар
+7,Эльмира Шиткова,realtor,https://www.cian.ru/rent/flat/305006872/,Москва,rent,flat,3,7,3,103.7,280000,0,Мещанский,Рождественский бульвар,5/7С1,Сретенский бульвар
+8,Whitewill Аренда,real_estate_agent,https://www.cian.ru/rent/flat/303299075/,Москва,rent,flat,3,5,3,180.0,430000,0,Басманный,Мясницкая ,24/7С2,Сретенский бульвар
+9,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/302998686/,Москва,rent,flat,3,5,3,180.0,430000,0,Басманный,Мясницкая ,24/7С2,Сретенский бульвар
+10,Intermark Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/302905401/,Москва,rent,flat,2,5,3,182.0,430000,0,Басманный,Мясницкая ,24/7С2,Сретенский бульвар
+11,Selenahome,real_estate_agent,https://www.cian.ru/rent/flat/286030829/,Москва,rent,flat,5,7,3,91.5,300000,0,Басманный,Чистопрудный бульвар,14С3,Сретенский бульвар
+12,ID 16921690,realtor,https://www.cian.ru/rent/flat/215194648/,Москва,rent,flat,5,6,3,106.0,280000,0,Мещанский,переулок Печатников,3С1,Сретенский бульвар
+13,Intermark Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307521524/,Москва,rent,flat,14,16,3,88.0,200000,0,Хамовники,Малый Власьевский переулок,3к1,Кропоткинская
+14,Easy Estate,real_estate_agent,https://www.cian.ru/rent/flat/307387142/,Москва,rent,flat,4,5,3,150.0,200000,0,Хамовники,Лопухинский переулок,1АС2,Кропоткинская
+15,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307711019/,Москва,rent,flat,7,7,5,123.0,230000,0,Арбат,Кривоарбатский переулок,3,Смоленская
+16,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307399457/,Москва,rent,flat,3,11,4,164.0,230000,0,Пресненский,Большой Тишинский переулок,38С1,Улица 1905 года
+17,HOUSE MALL - Городская недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/281836793/,Москва,rent,flat,7,12,3,110.0,300000,0,Якиманка, Серафимовича,2,Боровицкая
+18,ID 87484330,homeowner,https://www.cian.ru/rent/flat/293720088/,Москва,rent,flat,3,3,3,77.0,187000,0,Басманный, Покровка,14/2С1,Чистые пруды
+19,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/304131642/,Москва,rent,flat,4,4,5,190.0,220000,0,Басманный,переулок Лялин,7/2С1,Курская
+20,Алла Кривова,realtor,https://www.cian.ru/rent/flat/307476421/,Москва,rent,flat,7,9,3,78.0,200000,0,Пресненский,Малый Патриарший переулок,5С1,Маяковская
+21,Intermark Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307724438/,Москва,rent,flat,7,12,3,125.0,250000,0,Якиманка, Серафимовича,2,Боровицкая
+22,ID 99704473,realtor,https://www.cian.ru/rent/flat/306122988/,Москва,rent,flat,6,8,2,94.8,160000,0,Тверской,Тверская ,4,Охотный ряд
+23,ID 10938173,realtor,https://www.cian.ru/rent/flat/307099120/,Москва,rent,flat,7,8,5,200.0,450000,0,Красносельский,Милютинский переулок,3,Лубянка
+24,ID 16276255,unknown,https://www.cian.ru/rent/flat/209990040/,Москва,rent,flat,3,4,3,80.0,188000,0,Басманный,Старосадский переулок,10С1,Китай-город

@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Наталья Шульга,realtor,https://www.cian.ru/rent/flat/307780793/,Москва,rent,flat,10,22,3,78.1,80000,0,Останкинский, Академика Королева,4К2,Выставочный центр
+1,ID 1176,realtor,https://www.cian.ru/rent/flat/307735596/,Москва,rent,flat,12,17,3,80.0,92000,0,Алексеевский,Маломосковская ,21К2,Выставочный центр
+2,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307711721/,Москва,rent,flat,12,16,3,80.0,87000,0,Алексеевский,Маломосковская ,21К2,Выставочный центр
+3,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307701684/,Москва,rent,flat,12,16,3,76.0,87000,0,Алексеевский,Маломосковская ,21К2,Выставочный центр
+4,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307694934/,Москва,rent,flat,12,19,3,80.0,87000,0,Алексеевский,Маломосковская ,21К2,Выставочный центр
+5,ОЛИМПИК СТАР,real_estate_agent,https://www.cian.ru/rent/flat/307682716/,Москва,rent,flat,12,19,3,76.0,87000,0,Алексеевский,Маломосковская ,21К2,Выставочный центр
+6,ID 234792,real_estate_agent,https://www.cian.ru/rent/flat/307679785/,Москва,rent,flat,12,22,3,76.4,85000,0,Алексеевский,Маломосковская ,21К1,Выставочный центр
+7,ID 96290085,homeowner,https://www.cian.ru/rent/flat/307633522/,Москва,rent,flat,4,12,3,50.0,120000,0,Останкинский, Цандера,7,Выставочный центр
+8,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307295953/,Москва,rent,flat,11,16,3,65.0,105000,0,Останкинский, Бочкова,3,Выставочный центр
+9,ID 574995,realtor,https://www.cian.ru/rent/flat/307275842/,Москва,rent,flat,5,10,3,95.0,140000,0,Останкинский,проспект Мира,99,Выставочный центр
+10,Михаил Басманов,realtor,https://www.cian.ru/rent/flat/306894570/,Москва,rent,flat,6,25,3,60.0,80000,0,Алексеевский,проспект Мира,184К2,Выставочный центр
+11,AMG,real_estate_agent,https://www.cian.ru/rent/flat/304034442/,Москва,rent,flat,8,8,3,85.0,175000,0,Алексеевский,Рижский проезд,13,Выставочный центр
+12,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/299504730/,Москва,rent,flat,8,8,3,85.0,175000,0,Алексеевский,Рижский проезд,13,Выставочный центр
+13,Анна Миронова,realtor,https://www.cian.ru/rent/flat/285153962/,Москва,rent,flat,33,58,3,120.0,295000,0,Ростокино,проспект Мира,188Бк1,Выставочный центр
+14,ID 446688,homeowner,https://www.cian.ru/rent/flat/277614900/,Москва,rent,flat,7,12,3,58.5,100000,0,Алексеевский,Новоалексеевская ,18К1,Выставочный центр
+15,Дарья Румянцева,realtor,https://www.cian.ru/rent/flat/307632693/,Москва,rent,flat,2,5,3,68.0,110000,0,Савеловский,1-я Хуторская ,2К2,Дмитровская
+16,Максим Костромин,realtor,https://www.cian.ru/rent/flat/307301864/,Москва,rent,flat,3,5,4,100.0,100000,0,Щукино, Маршала Рыбалко,1,Октябрьское поле
+17,Ольга Лёвина,realtor,https://www.cian.ru/rent/flat/307662276/,Москва,rent,flat,8,21,2,57.6,110000,0,Свиблово,Лазоревый проезд,5к4,Ботанический сад
+18,ID 100465345,homeowner,https://www.cian.ru/rent/flat/307552263/,Москва,rent,flat,3,41,3,82.0,150000,0,Хорошевский,Ленинградский проспект,37/6,Аэропорт
+19,Ольга Сергеева,realtor,https://www.cian.ru/rent/flat/307688830/,Москва,rent,flat,22,25,2,56.0,130000,0,Свиблово,Лазоревый проезд,1,Ботанический сад
+20,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307634945/,Москва,rent,flat,19,33,2,45.0,130000,0,Останкинский, Годовикова,11к4,Алексеевская
+21,Марина Сидорова,realtor,https://www.cian.ru/rent/flat/291838999/,Москва,rent,flat,3,5,3,60.0,80000,0,Соколиная гора, Семеновский Вал,10К2,Семёновская
+22,СТОЛИЦА Департамент недвижимости,real_estate_agent,https://www.cian.ru/rent/flat/307674470/,Москва,rent,flat,7,20,3,50.0,95000,0,Останкинский,Березовая аллея,19к4,Ботанический сад
+23,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307491690/,Москва,rent,flat,8,17,2,63.0,78000,0,Алексеевский,3-я Мытищинская ,3к2,Алексеевская
+24,ПИК-Аренда,real_estate_agent,https://www.cian.ru/rent/flat/306949620/,Москва,rent,flat,1,12,3,60.0,85000,0,Останкинский, Годовикова,1К2,Алексеевская

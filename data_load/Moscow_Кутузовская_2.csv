@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307723417/,Москва,rent,flat,4,12,2,50.0,170000,0,Дорогомилово,площадь Победы,2К1,Кутузовская
+1,СТОЛИЦА Департамент недвижимости,real_estate_agent,https://www.cian.ru/rent/flat/307714174/,Москва,rent,flat,7,10,2,64.0,180000,0,Дорогомилово, 1812 года,2,Кутузовская
+2,Life Style,real_estate_agent,https://www.cian.ru/rent/flat/307654708/,Москва,rent,flat,3,9,2,43.0,80000,0,Дорогомилово,Поклонная ,12,Кутузовская
+3,ID 202508,unknown,https://www.cian.ru/rent/flat/307639233/,Москва,rent,flat,6,11,2,65.9,100000,0,Дорогомилово,Кутузовский проспект,30,Кутузовская
+4,EMPIRE HOME,real_estate_agent,https://www.cian.ru/rent/flat/307316753/,Москва,rent,flat,6,9,2,62.0,120000,0,Дорогомилово,Студенческая ,44/28,Кутузовская
+5,ID 70152855,homeowner,https://www.cian.ru/rent/flat/307255362/,Москва,rent,flat,6,9,2,61.3,140000,0,Дорогомилово,Студенческая ,44/28,Кутузовская
+6,Нина Виноградова,realtor,https://www.cian.ru/rent/flat/307219068/,Москва,rent,flat,4,7,2,42.3,95000,0,Дорогомилово,Кутузовский проезд,4К3,Кутузовская
+7,Роксана Сулименко,realtor,https://www.cian.ru/rent/flat/307154860/,Москва,rent,flat,5,11,2,53.0,95000,0,Дорогомилово, Генерала Ермолова,6,Кутузовская
+8,Елена Мессих,realtor,https://www.cian.ru/rent/flat/307077389/,Москва,rent,flat,3,11,2,52.4,130000,0,Дорогомилово, Генерала Ермолова,6,Кутузовская
+9,МОСКВА СИТИ,real_estate_agent,https://www.cian.ru/rent/flat/306923625/,Москва,rent,flat,20,32,2,70.0,350000,0,Дорогомилово,Поклонная ,вл9А,Кутузовская
+10,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/306699368/,Москва,rent,flat,11,11,2,60.0,150000,0,Дорогомилово,площадь Победы,2К2,Кутузовская
+11,Personal property,real_estate_agent,https://www.cian.ru/rent/flat/306549562/,Москва,rent,flat,20,25,2,55.0,100000,0,Раменки,1-й Сетуньский проезд,16/2,Кутузовская
+12,ID 164713,realtor,https://www.cian.ru/rent/flat/306477045/,Москва,rent,flat,20,34,2,70.0,380000,0,Дорогомилово,Поклонная ,вл9А,Кутузовская
+13,Александр Имамов,realtor,https://www.cian.ru/rent/flat/245069680/,Москва,rent,flat,4,12,2,45.0,75000,0,Раменки,3-й Сетуньский проезд,4,Кутузовская
+14,Наталия Серегина,realtor,https://www.cian.ru/rent/flat/178911316/,Москва,rent,flat,8,9,2,44.4,80000,0,Дорогомилово, 1812 года,4/45К2,Кутузовская
+15,Мой Дом - отделение Добрынинское,real_estate_agent,https://www.cian.ru/rent/flat/307414036/,Москва,rent,flat,4,6,2,54.0,90000,0,Дорогомилово,Кутузовский проспект,24,Москва-Сити
+16,Олег Кочнев,realtor,https://www.cian.ru/rent/flat/306897340/,Москва,rent,flat,3,12,2,53.0,145000,0,Хамовники,Большая Пироговская ,53-55,Спортивная
+17,Вартан Вартанян,realtor,https://www.cian.ru/rent/flat/307525401/,Москва,rent,flat,12,12,2,49.0,100000,0,Арбат,Староконюшенный переулок,30,Кропоткинская
+18,ID 24419,real_estate_agent,https://www.cian.ru/rent/flat/307470965/,Москва,rent,flat,4,8,2,46.0,150000,0,Хамовники,переулок Сивцев Вражек,15/25,Кропоткинская
+19,Диана Товт,realtor,https://www.cian.ru/rent/flat/306948289/,Москва,rent,flat,8,8,2,60.1,100000,0,Дорогомилово,Кутузовский проспект,33,Кутузовская
+20,ID 103832583,homeowner,https://www.cian.ru/rent/flat/288276223/,Москва,rent,flat,6,17,2,60.0,78000,0,Филевский парк,Филевский бульвар,39,Фили
+21,ID 104761392,homeowner,https://www.cian.ru/rent/flat/289350318/,Москва,rent,flat,4,5,2,31.0,95000,0,Пресненский,Мантулинская ,20,Улица 1905 года
+22,ID 44635371,homeowner,https://www.cian.ru/rent/flat/293542836/,Москва,rent,flat,3,8,2,57.0,140000,0,Хамовники, Хамовнический Вал,28,Спортивная
+23,Игорь Марин,realtor,https://www.cian.ru/rent/flat/294415811/,Москва,rent,flat,6,10,2,72.0,95000,0,Дорогомилово,набережная Тараса Шевченко,3К3,Киевская
+24,МСКАГЕНТ,real_estate_agent,https://www.cian.ru/rent/flat/249940577/,Москва,rent,flat,5,21,1,47.0,90000,0,Филевский парк,Береговой проезд,5к2,Фили

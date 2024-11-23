@@ -1,0 +1,53 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307740425/,Москва,rent,flat,3,39,1,20.0,55000,0,Гольяново,Амурская ,1Ак5,Партизанская
+1,ID 89770341,homeowner,https://www.cian.ru/rent/flat/307728861/,Москва,rent,flat,7,8,1,41.7,65000,0,Соколиная гора,Окружной проезд,15,Партизанская
+2,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307723020/,Москва,rent,flat,4,39,1,18.0,60000,0,Гольяново,Амурская ,1Ак3,Партизанская
+3,Светлана Мельникова,realtor,https://www.cian.ru/rent/flat/307722845/,Москва,rent,flat,13,23,1,37.7,65000,0,Измайлово,Измайловский проезд,5/1к3,Партизанская
+4,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307715396/,Москва,rent,flat,19,35,1,20.0,60000,0,Гольяново,Амурская ,1Ак1,Партизанская
+5,Паскаль,real_estate_agent,https://www.cian.ru/rent/flat/307715226/,Москва,rent,flat,2,26,1,25.0,75000,0,Соколиная гора,Окружной проезд,10Б,Партизанская
+6,ID 104333518,unknown,https://www.cian.ru/rent/flat/307711692/,Москва,rent,flat,9,12,1,31.0,45000,0,Соколиная гора,Зверинецкая ,23/8,Партизанская
+7,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307706403/,Москва,rent,flat,24,39,1,40.0,90000,0,Гольяново,Амурская ,1Ак4,Партизанская
+8,Perfect Manager House,real_estate_agent,https://www.cian.ru/rent/flat/307706233/,Москва,rent,flat,2,24,1,36.0,115000,0,Богородское,Открытое шоссе,14Д,Партизанская
+9,ID 79992702,homeowner,https://www.cian.ru/rent/flat/307679728/,Москва,rent,flat,10,33,1,40.0,82000,0,Гольяново,Амурская ,2к2,Партизанская
+10,ID 27796,realtor,https://www.cian.ru/rent/flat/307673943/,Москва,rent,flat,3,5,1,46.0,50000,0,Измайлово,Первомайская ,35/18,Партизанская
+11,Денис Иванченко,realtor,https://www.cian.ru/rent/flat/307669174/,Москва,rent,flat,23,30,1,24.0,60000,0,Метрогородок,Открытое шоссе,18Ак3,Партизанская
+12,ID 58070716,realtor,https://www.cian.ru/rent/flat/307657598/,Москва,rent,flat,2,4,1,30.0,80000,0,Соколиная гора,Щербаковская ,53К17,Партизанская
+13,ID 73141273,homeowner,https://www.cian.ru/rent/flat/307652870/,Москва,rent,flat,30,38,1,40.0,105000,0,Гольяново,Амурская ,1Ак5,Партизанская
+14,ID 22492,realtor,https://www.cian.ru/rent/flat/307636524/,Москва,rent,flat,10,22,1,52.0,100000,0,Измайлово,Измайловский проезд,10к3,Партизанская
+15,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307633765/,Москва,rent,flat,4,12,1,40.0,48000,0,Метрогородок,Открытое шоссе,27К8,Партизанская
+16,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307630529/,Москва,rent,flat,18,33,1,43.0,75000,0,Метрогородок,Открытое шоссе,18Ак4,Партизанская
+17,Паскаль,real_estate_agent,https://www.cian.ru/rent/flat/307623407/,Москва,rent,flat,2,24,1,25.0,70000,0,Соколиная гора,Окружной проезд,10Б,Партизанская
+18,ПИК-Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307607533/,Москва,rent,flat,2,33,1,25.5,65000,0,Гольяново,Амурская ,2к2,Партизанская
+19,ID 73362477,unknown,https://www.cian.ru/rent/flat/307606844/,Москва,rent,flat,3,25,1,35.0,69000,0,Метрогородок,Тагильская ,2к1,Партизанская
+20,ID 92085377,realtor,https://www.cian.ru/rent/flat/307605628/,Москва,rent,flat,18,25,1,29.6,70000,0,Гольяново,Амурская ,2к2,Партизанская
+21,Елена Гарбалы,realtor,https://www.cian.ru/rent/flat/307605598/,Москва,rent,flat,3,5,1,30.5,52000,0,Измайлово,Первомайская ,5К1,Партизанская
+22,ПИК-Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307604289/,Москва,rent,flat,16,33,1,32.0,78200,0,Метрогородок,Открытое шоссе,18С1,Партизанская
+23,ID 32253160,homeowner,https://www.cian.ru/rent/flat/307570774/,Москва,rent,flat,31,33,1,42.5,95000,0,Метрогородок,Открытое шоссе,18Ак3,Партизанская
+24,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307540032/,Москва,rent,flat,2,14,1,38.0,50000,0,Измайлово,Измайловский проезд,5К2,Партизанская
+25,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307539394/,Москва,rent,flat,30,40,1,40.0,105000,0,Гольяново,Амурская ,1Ак5,Партизанская
+26,REAL ESTATE,real_estate_agent,https://www.cian.ru/rent/flat/307534797/,Москва,rent,flat,2,9,1,35.0,49000,0,Измайлово,Никитинская ,17К3,Партизанская
+27,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307531109/,Москва,rent,flat,30,40,1,40.0,105000,0,Гольяново,Амурская ,1Ак5,Партизанская
+28,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307486991/,Москва,rent,flat,29,33,1,32.0,80000,0,Гольяново,Амурская ,2к2,Партизанская
+29,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307435042/,Москва,rent,flat,2,24,1,25.0,70000,0,Соколиная гора,Окружной проезд,10Б,Партизанская
+30,ID 119293030,homeowner,https://www.cian.ru/rent/flat/307408934/,Москва,rent,flat,38,39,1,40.0,95000,0,Гольяново,Амурская ,1Ак5,Партизанская
+31,Мой Дом - отделение Добрынинское,real_estate_agent,https://www.cian.ru/rent/flat/307393691/,Москва,rent,flat,10,14,1,40.0,50000,0,Северное Измайлово,Сиреневый бульвар,1К4,Партизанская
+32,ID 101224495,homeowner,https://www.cian.ru/rent/flat/307384387/,Москва,rent,flat,12,39,1,38.6,80000,0,Гольяново,Амурская ,1Ак4,Партизанская
+33,Юрий Ким,realtor,https://www.cian.ru/rent/flat/307371169/,Москва,rent,flat,12,25,1,37.0,55000,0,Гольяново,Амурская ,1Ак4,Партизанская
+34,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307364925/,Москва,rent,flat,11,33,1,32.0,80000,0,Метрогородок,Открытое шоссе,18Ак1,Партизанская
+35,Андрей Аникеев,realtor,https://www.cian.ru/rent/flat/307347233/,Москва,rent,flat,18,33,1,43.4,80000,0,Метрогородок,Открытое шоссе,18Ак4,Партизанская
+36,Мой Дом - отделение Добрынинское,real_estate_agent,https://www.cian.ru/rent/flat/307312534/,Москва,rent,flat,7,12,1,35.0,47000,0,Метрогородок,Открытое шоссе,23К5,Партизанская
+37,ФСК Агент,real_estate_agent,https://www.cian.ru/rent/flat/307243672/,Москва,rent,flat,9,33,1,35.8,70000,0,Метрогородок,Открытое шоссе,18Ак1,Партизанская
+38,ID 696374,realtor,https://www.cian.ru/rent/flat/307226353/,Москва,rent,flat,20,25,1,36.0,75000,0,Гольяново,Амурская ,2к2,Партизанская
+39,ПИК-Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307018338/,Москва,rent,flat,19,33,1,32.0,90000,0,Гольяново,Амурская ,2к2,Партизанская
+40,ReaMos,real_estate_agent,https://www.cian.ru/rent/flat/306565381/,Москва,rent,flat,18,32,1,32.0,78000,0,Гольяново,Амурская ,2к2,Партизанская
+41,ID 13371650,homeowner,https://www.cian.ru/rent/flat/306400508/,Москва,rent,flat,24,39,1,40.0,90000,0,Гольяново,Амурская ,1Ак4,Партизанская
+42,ID 61871814,homeowner,https://www.cian.ru/rent/flat/306127704/,Москва,rent,flat,14,33,1,42.0,95000,0,Гольяново,Амурская ,2Ак3,Партизанская
+43,ПИК-Аренда,real_estate_agent,https://www.cian.ru/rent/flat/305730240/,Москва,rent,flat,16,33,1,19.6,68900,0,Гольяново,Амурская ,2Ак2,Партизанская
+44,ID 78606902,unknown,https://www.cian.ru/rent/flat/300940649/,Москва,rent,flat,5,5,1,32.0,43000,0,Метрогородок,Открытое шоссе,29К10,Партизанская
+45,ID 56664465,unknown,https://www.cian.ru/rent/flat/298679425/,Москва,rent,flat,11,33,1,42.0,80000,0,Гольяново,Амурская ,2Ак3,Партизанская
+46,Людмила Атаманова,realtor,https://www.cian.ru/rent/flat/246116452/,Москва,rent,flat,3,5,1,38.0,75000,0,Гольяново,Амурская ,1Ак4,Партизанская
+47,ID 12586229,homeowner,https://www.cian.ru/rent/flat/268197091/,Москва,rent,flat,2,39,1,30.0,55000,0,Гольяново,Амурская ,1Ак5,Черкизовская
+48,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307428761/,Москва,rent,flat,16,25,1,36.0,55000,0,Соколиная гора,Вольная ,28/4к1,Соколиная гора
+49,Моя Недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/250969698/,Москва,rent,flat,5,8,1,38.0,65000,0,Преображенское,Большая Черкизовская ,4К1,Преображенская площадь
+50,ID 76442518,unknown,https://www.cian.ru/rent/flat/279449684/,Москва,rent,flat,6,14,2,47.0,70000,0,Преображенское,Халтуринская ,4К2,Преображенская площадь
+51,ID 103757520,homeowner,https://www.cian.ru/rent/flat/302571453/,Москва,rent,flat,2,33,3,47.0,80000,0,Гольяново,Амурская ,2Ак2,Партизанская

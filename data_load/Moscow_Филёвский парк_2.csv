@@ -1,0 +1,30 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,ID 10220950,realtor,https://www.cian.ru/rent/flat/307742031/,Москва,rent,flat,5,5,2,43.0,56000,0,Фили-Давыдково, Герасима Курина,8К4,Филёвский парк
+1,Татьяна Душич,realtor,https://www.cian.ru/rent/flat/307736049/,Москва,rent,flat,2,5,2,45.0,70000,0,Фили-Давыдково,Малая Филевская ,2К1,Филёвский парк
+2,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307721191/,Москва,rent,flat,6,17,2,65.0,130000,0,Филевский парк,Большая Филевская ,16,Филёвский парк
+3,ID 32395,realtor,https://www.cian.ru/rent/flat/307686814/,Москва,rent,flat,10,17,2,55.0,80000,0,Филевский парк,Большая Филевская ,23К2,Филёвский парк
+4,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307669536/,Москва,rent,flat,4,5,2,43.0,65000,0,Фили-Давыдково,Малая Филевская ,8К2,Филёвский парк
+5,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307633367/,Москва,rent,flat,11,19,2,65.0,78000,0,Фили-Давыдково,Малая Филевская ,22,Филёвский парк
+6,ID 341344,realtor,https://www.cian.ru/rent/flat/307607993/,Москва,rent,flat,2,9,2,45.0,72000,0,Филевский парк,Барклая ,16К3,Филёвский парк
+7,ДОМ.РФ Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307587094/,Москва,rent,flat,24,28,2,61.0,161900,0,Филевский парк, Василисы Кожиной,13,Филёвский парк
+8,ID 21132,realtor,https://www.cian.ru/rent/flat/307553461/,Москва,rent,flat,16,22,2,70.0,150000,0,Филевский парк,2-я Филевская ,6,Филёвский парк
+9,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307549797/,Москва,rent,flat,8,9,2,40.0,92000,0,Филевский парк,Кастанаевская ,11,Филёвский парк
+10,Замоскворечье,real_estate_agent,https://www.cian.ru/rent/flat/307539647/,Москва,rent,flat,4,5,2,45.0,67000,0,Фили-Давыдково,Малая Филевская ,8К2,Филёвский парк
+11,ID 11021399,realtor,https://www.cian.ru/rent/flat/307391375/,Москва,rent,flat,3,5,2,43.6,60000,0,Фили-Давыдково,Большая Филевская ,41К4,Филёвский парк
+12,Verges of estate,real_estate_agent,https://www.cian.ru/rent/flat/307384706/,Москва,rent,flat,5,14,2,45.0,170000,0,Раменки,проспект Генерала Дорохова,39к1Б,Филёвский парк
+13,ДОМ.РФ Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307219214/,Москва,rent,flat,10,13,2,57.0,149900,0,Филевский парк, Василисы Кожиной,13,Филёвский парк
+14,Анастасия Ермакова,realtor,https://www.cian.ru/rent/flat/307210557/,Москва,rent,flat,2,5,2,55.0,115000,0,Филевский парк,Барклая ,15К1,Филёвский парк
+15,ID 11269891,realtor,https://www.cian.ru/rent/flat/307135692/,Москва,rent,flat,10,25,2,56.0,85000,0,Фили-Давыдково,Кастанаевская ,44Ак3,Филёвский парк
+16,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307129397/,Москва,rent,flat,8,27,2,58.0,150000,0,Филевский парк, Василисы Кожиной,13,Филёвский парк
+17,ID 16013627,realtor,https://www.cian.ru/rent/flat/307014670/,Москва,rent,flat,4,5,2,43.0,65000,0,Филевский парк,Сеславинская ,6,Филёвский парк
+18,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/306647332/,Москва,rent,flat,15,24,2,73.0,180000,0,Филевский парк, Василисы Кожиной,13,Филёвский парк
+19,PANDA ESTATE,real_estate_agent,https://www.cian.ru/rent/flat/305598784/,Москва,rent,flat,9,28,2,50.0,180000,0,Филевский парк, Василисы Кожиной,13,Филёвский парк
+20,Игорь Задерака,realtor,https://www.cian.ru/rent/flat/305325942/,Москва,rent,flat,23,28,2,50.0,180000,0,Филевский парк, Василисы Кожиной,13,Филёвский парк
+21,ID 394092,unknown,https://www.cian.ru/rent/flat/304145537/,Москва,rent,flat,8,9,2,40.0,89000,0,Филевский парк,Кастанаевская ,11,Филёвский парк
+22,ID 77355554,homeowner,https://www.cian.ru/rent/flat/303029381/,Москва,rent,flat,6,23,2,56.0,123000,0,Филевский парк,3-я Филевская ,8к4,Филёвский парк
+23,Real Market Estate,real_estate_agent,https://www.cian.ru/rent/flat/295588060/,Москва,rent,flat,4,12,2,46.0,62000,0,Филевский парк,Большая Филевская ,35,Филёвский парк
+24,ID 31631470,unknown,https://www.cian.ru/rent/flat/288285325/,Москва,rent,flat,6,17,2,61.0,120000,0,Филевский парк,Большая Филевская ,16,Филёвский парк
+25,ID 102188835,homeowner,https://www.cian.ru/rent/flat/286375320/,Москва,rent,flat,8,27,2,58.0,150000,0,Филевский парк, Василисы Кожиной,13,Филёвский парк
+26,ID 51007336,homeowner,https://www.cian.ru/rent/flat/273637760/,Москва,rent,flat,14,24,2,43.0,85000,0,Фили-Давыдково, Герасима Курина,20,Славянский бульвар
+27,Сергей Стахов,realtor,https://www.cian.ru/rent/flat/247348818/,Москва,rent,flat,9,14,2,65.0,60000,0,Фили-Давыдково,Кастанаевская ,63К2,Кунцевская
+28,Мой Дом - отделение Добрынинское,real_estate_agent,https://www.cian.ru/rent/flat/307414036/,Москва,rent,flat,4,6,2,54.0,90000,0,Дорогомилово,Кутузовский проспект,24,Москва-Сити

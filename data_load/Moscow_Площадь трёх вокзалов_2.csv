@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,МИЭЛЬ,real_estate_agent,https://www.cian.ru/rent/flat/307775264/,Москва,rent,flat,4,8,2,42.7,111000,0,Мещанский,Грохольский переулок,8/3С1,Площадь трёх вокзалов
+1,Замоскворечье,real_estate_agent,https://www.cian.ru/rent/flat/307712557/,Москва,rent,flat,5,9,2,45.0,129000,0,Мещанский,Большая Переяславская ,5К2,Площадь трёх вокзалов
+2,Сергей Желтаков,realtor,https://www.cian.ru/rent/flat/307679453/,Москва,rent,flat,2,14,2,40.0,70000,0,Мещанский,Большая Переяславская ,6К1,Площадь трёх вокзалов
+3,Живое Поместье,real_estate_agent,https://www.cian.ru/rent/flat/307647215/,Москва,rent,flat,9,12,2,44.0,70000,0,Мещанский,Большая Переяславская ,3К1,Площадь трёх вокзалов
+4,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307529568/,Москва,rent,flat,8,9,2,38.0,88000,0,Красносельский,Протопоповский переулок,38,Площадь трёх вокзалов
+5,ID 1042054,realtor,https://www.cian.ru/rent/flat/307363029/,Москва,rent,flat,14,19,2,57.0,175000,0,Красносельский,переулок Докучаев,2с3,Площадь трёх вокзалов
+6,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307345423/,Москва,rent,flat,5,24,2,42.0,150000,0,Красносельский,Большая Спасская ,35,Площадь трёх вокзалов
+7,Владис,real_estate_agent,https://www.cian.ru/rent/flat/307299418/,Москва,rent,flat,8,22,2,40.0,150000,0,Красносельский,Большая Спасская ,35,Площадь трёх вокзалов
+8,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307273675/,Москва,rent,flat,8,25,2,38.0,150000,0,Красносельский,Большая Спасская ,35,Площадь трёх вокзалов
+9,EMPIRE HOME,real_estate_agent,https://www.cian.ru/rent/flat/307268157/,Москва,rent,flat,1,9,2,45.0,130000,0,Красносельский,Протопоповский переулок,38,Площадь трёх вокзалов
+10,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307100536/,Москва,rent,flat,5,9,2,45.0,126000,0,Мещанский,Большая Переяславская ,5К2,Площадь трёх вокзалов
+11,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307080269/,Москва,rent,flat,8,24,2,45.0,150000,0,Красносельский,Большая Спасская ,35,Площадь трёх вокзалов
+12,Trust Realty,real_estate_agent,https://www.cian.ru/rent/flat/306679477/,Москва,rent,flat,17,22,2,94.0,200000,0,Красносельский,Грохольский переулок,28,Площадь трёх вокзалов
+13,Екатерина Кареева,realtor,https://www.cian.ru/rent/flat/306477110/,Москва,rent,flat,8,24,2,40.0,150000,0,Красносельский,Большая Спасская ,35,Площадь трёх вокзалов
+14,Penny Lane Moscow,real_estate_agent,https://www.cian.ru/rent/flat/306060973/,Москва,rent,flat,6,12,2,60.0,180000,0,Мещанский,Ботанический переулок,5,Площадь трёх вокзалов
+15,LaRichesse,real_estate_agent,https://www.cian.ru/rent/flat/301132974/,Москва,rent,flat,3,12,2,60.0,180000,0,Мещанский,Ботанический переулок,5,Площадь трёх вокзалов
+16,Дворянское гнездо,real_estate_agent,https://www.cian.ru/rent/flat/297039673/,Москва,rent,flat,6,12,2,80.0,200000,0,Мещанский,Ботанический переулок,5,Площадь трёх вокзалов
+17,Станислав Морозов,realtor,https://www.cian.ru/rent/flat/296227883/,Москва,rent,flat,1,5,2,45.0,180000,0,Красносельский,переулок 1-й Коптельский,24с3,Площадь трёх вокзалов
+18,LaRichesse,real_estate_agent,https://www.cian.ru/rent/flat/295221535/,Москва,rent,flat,6,12,2,80.0,200000,0,Мещанский,Ботанический переулок,5,Площадь трёх вокзалов
+19,Дворянское гнездо,real_estate_agent,https://www.cian.ru/rent/flat/285041156/,Москва,rent,flat,4,12,2,75.0,190000,0,Мещанский,Ботанический переулок,5,Площадь трёх вокзалов
+20,ID 12920702,homeowner,https://www.cian.ru/rent/flat/235220712/,Москва,rent,flat,8,9,2,38.0,88000,0,Красносельский,Протопоповский переулок,38,Площадь трёх вокзалов
+21,Олег Кочнев,realtor,https://www.cian.ru/rent/flat/306897340/,Москва,rent,flat,3,12,2,53.0,145000,0,Хамовники,Большая Пироговская ,53-55,Спортивная
+22,ID 24419,real_estate_agent,https://www.cian.ru/rent/flat/307470965/,Москва,rent,flat,4,8,2,46.0,150000,0,Хамовники,переулок Сивцев Вражек,15/25,Кропоткинская
+23,ID 44635371,homeowner,https://www.cian.ru/rent/flat/293542836/,Москва,rent,flat,3,8,2,57.0,140000,0,Хамовники, Хамовнический Вал,28,Спортивная
+24,ID 16276255,unknown,https://www.cian.ru/rent/flat/307538535/,Москва,rent,flat,3,4,1,45.0,128000,0,Басманный,Старосадский переулок,10С1,Китай-город

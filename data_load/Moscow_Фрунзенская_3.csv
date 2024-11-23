@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Penny Lane Moscow,real_estate_agent,https://www.cian.ru/rent/flat/306061289/,Москва,rent,flat,6,14,3,141.0,550000,0,Хамовники,2-я Фрунзенская ,12,Фрунзенская
+1,Webster,real_estate_agent,https://www.cian.ru/rent/flat/305785719/,Москва,rent,flat,3,11,3,64.0,400000,0,Хамовники, Ефремова,10к2,Фрунзенская
+2,Whitewill Аренда,real_estate_agent,https://www.cian.ru/rent/flat/305773252/,Москва,rent,flat,6,8,3,104.0,400000,0,Хамовники,Оболенский переулок,9К1,Фрунзенская
+3,Капиталъ-Недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/305376231/,Москва,rent,flat,6,14,3,141.0,550000,0,Хамовники,2-я Фрунзенская ,12,Фрунзенская
+4,Intermark Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/304895439/,Москва,rent,flat,3,15,3,150.0,510742,0,Хамовники,Саввинская набережная,9,Фрунзенская
+5,Trust Realty,real_estate_agent,https://www.cian.ru/rent/flat/304884603/,Москва,rent,flat,3,15,3,150.0,484000,0,Хамовники,Саввинская набережная,9,Фрунзенская
+6,OXE CAPITAL - Элитная Недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/304879847/,Москва,rent,flat,8,10,3,110.0,450000,0,Хамовники, Ефремова,10с1к4/2,Фрунзенская
+7,Whitewill Аренда,real_estate_agent,https://www.cian.ru/rent/flat/304595243/,Москва,rent,flat,3,15,3,150.0,500000,0,Хамовники,Саввинская набережная,9,Фрунзенская
+8,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/304447144/,Москва,rent,flat,3,15,3,150.0,511000,0,Хамовники,Саввинская набережная,9,Фрунзенская
+9,ПроАктив Реал Эстейт,real_estate_agent,https://www.cian.ru/rent/flat/304430851/,Москва,rent,flat,3,15,3,150.0,510742,0,Хамовники,Саввинская набережная,9,Фрунзенская
+10,Славянский Двор Остоженка,real_estate_agent,https://www.cian.ru/rent/flat/304380880/,Москва,rent,flat,6,14,3,141.0,550000,0,Хамовники,2-я Фрунзенская ,12,Фрунзенская
+11,Валерия Архипова,realtor,https://www.cian.ru/rent/flat/304307662/,Москва,rent,flat,6,14,3,141.0,550000,0,Хамовники,2-я Фрунзенская ,12,Фрунзенская
+12,ID 204086,unknown,https://www.cian.ru/rent/flat/303901298/,Москва,rent,flat,10,11,3,101.0,160000,0,Хамовники,1-я Фрунзенская ,6,Фрунзенская
+13,LaRichesse,real_estate_agent,https://www.cian.ru/rent/flat/303717378/,Москва,rent,flat,3,12,3,115.0,650000,0,Хамовники,Малая Пироговская ,8,Фрунзенская
+14,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/303025125/,Москва,rent,flat,6,14,3,141.0,550000,0,Хамовники,2-я Фрунзенская ,12,Фрунзенская
+15,Ольга Бурцева,realtor,https://www.cian.ru/rent/flat/301802029/,Москва,rent,flat,2,12,3,90.0,300000,0,Хамовники,3-я Фрунзенская ,1,Фрунзенская
+16,ID 95072588,homeowner,https://www.cian.ru/rent/flat/301421881/,Москва,rent,flat,2,13,3,115.0,600000,0,Хамовники, Усачева,11,Фрунзенская
+17,BOYKOV Company,real_estate_agent,https://www.cian.ru/rent/flat/292447755/,Москва,rent,flat,9,15,3,120.0,650000,0,Хамовники,Трубецкая ,12,Фрунзенская
+18,ID 392452,official_representative,https://www.cian.ru/rent/flat/228417815/,Москва,rent,flat,7,9,3,87.0,299000,0,Хамовники,Саввинская набережная,3,Фрунзенская
+19,ID 32284683,unknown,https://www.cian.ru/rent/flat/211966323/,Москва,rent,flat,5,8,3,98.0,200000,0,Хамовники,Фрунзенская набережная,32,Фрунзенская
+20,Life Style,real_estate_agent,https://www.cian.ru/rent/flat/307715175/,Москва,rent,flat,11,13,3,163.8,600000,0,Хамовники,Большая Пироговская ,8,Фрунзенская
+21,ID 12319223,unknown,https://www.cian.ru/rent/flat/307632963/,Москва,rent,flat,3,5,4,190.0,750000,0,Якиманка,Софийская набережная,18,Боровицкая
+22,OXE CAPITAL - Элитная Недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/307657599/,Москва,rent,flat,3,7,2,130.0,800000,0,Хамовники,Пречистенская набережная,17-19,Кропоткинская
+23,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307397815/,Москва,rent,flat,4,7,3,86.0,200000,0,Хамовники,Фрунзенская набережная,32,Фрунзенская
+24,Ashtons International Realty,real_estate_agent,https://www.cian.ru/rent/flat/307395361/,Москва,rent,flat,8,15,4,150.0,1200000,0,Хамовники,Трубецкая ,12,Фрунзенская

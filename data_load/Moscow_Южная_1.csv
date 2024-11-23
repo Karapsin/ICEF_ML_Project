@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Андрей Парамзин,realtor,https://www.cian.ru/rent/flat/307724097/,Москва,rent,flat,5,9,1,33.0,40000,0,Чертаново Центральное, Красного Маяка,11К5,Южная
+1,Георгий Иванов,realtor,https://www.cian.ru/rent/flat/307717006/,Москва,rent,flat,10,14,1,42.0,63000,0,Чертаново Северное,Чертановская ,7К2,Южная
+2,EMPIRE HOME,real_estate_agent,https://www.cian.ru/rent/flat/307716965/,Москва,rent,flat,4,16,1,36.8,45000,0,Чертаново Центральное,Днепропетровская ,19К1,Южная
+3,ПАРТНЕР,real_estate_agent,https://www.cian.ru/rent/flat/307715031/,Москва,rent,flat,4,16,1,36.8,45000,0,Чертаново Центральное,Днепропетровская ,19К1,Южная
+4,Мой Дом - отделение Добрынинское,real_estate_agent,https://www.cian.ru/rent/flat/307707489/,Москва,rent,flat,1,12,1,33.0,43000,0,Чертаново Северное,Сумской проезд,4К4,Южная
+5,Мегаквартал,real_estate_agent,https://www.cian.ru/rent/flat/307672685/,Москва,rent,flat,10,14,1,39.0,50000,0,Чертаново Южное,Чертановская ,54К1,Южная
+6,Виталий Татраев,realtor,https://www.cian.ru/rent/flat/307664166/,Москва,rent,flat,14,14,1,36.0,48000,0,Чертаново Северное,Сумской проезд,21К2,Южная
+7,ID 49279389,homeowner,https://www.cian.ru/rent/flat/307612678/,Москва,rent,flat,12,12,1,33.0,65000,0,Чертаново Северное,Сумской проезд,12К3,Южная
+8,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307612582/,Москва,rent,flat,12,12,1,38.0,65000,0,Чертаново Северное,Сумской проезд,12К3,Южная
+9,Михаил Ивакин,realtor,https://www.cian.ru/rent/flat/307611349/,Москва,rent,flat,13,14,1,35.3,50000,0,Чертаново Северное,Сумской проезд,21К1,Южная
+10,ID 44699056,unknown,https://www.cian.ru/rent/flat/307491694/,Москва,rent,flat,7,9,1,42.0,60000,0,Чертаново Южное,Чертановская ,58К2,Южная
+11,Мой Дом - отделение Добрынинское,real_estate_agent,https://www.cian.ru/rent/flat/307347841/,Москва,rent,flat,5,9,1,32.0,50000,0,Чертаново Центральное, Красного Маяка,13К5,Южная
+12,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307205795/,Москва,rent,flat,5,9,1,33.0,55000,0,Чертаново Центральное,Днепропетровская ,31,Южная
+13,Homeprice,real_estate_agent,https://www.cian.ru/rent/flat/306640396/,Москва,rent,flat,7,9,1,43.0,70000,0,Чертаново Южное,Чертановская ,60,Южная
+14,EMPIRE HOME,real_estate_agent,https://www.cian.ru/rent/flat/305593447/,Москва,rent,flat,13,16,1,35.0,70000,0,Чертаново Центральное,Днепропетровская ,15,Южная
+15,ID 21460689,homeowner,https://www.cian.ru/rent/flat/273278871/,Москва,rent,flat,5,9,1,33.0,55000,0,Чертаново Центральное,Днепропетровская ,31,Южная
+16,Никита Виноградов,realtor,https://www.cian.ru/rent/flat/264174844/,Москва,rent,flat,5,9,1,36.0,50000,0,Чертаново Центральное,Чертановская ,24К2,Южная
+17,ID 222547,realtor,https://www.cian.ru/rent/flat/261432519/,Москва,rent,flat,1,12,1,18.0,50000,0,Чертаново Северное,Сумской проезд,12К4,Южная
+18,ID 93921447,unknown,https://www.cian.ru/rent/flat/307658988/,Москва,rent,flat,4,5,1,32.0,50000,0,Академический, Шверника,6К1,Академическая
+19,ID 13505910,homeowner,https://www.cian.ru/rent/flat/304649780/,Москва,rent,flat,7,9,1,33.0,50000,0,Ясенево,Голубинская ,25К2,Ясенево
+20,ID 68404017,homeowner,https://www.cian.ru/rent/flat/286146172/,Москва,rent,flat,6,9,1,29.0,35000,0,Нагорный,Ялтинская ,7К1,Чертановская
+21,ID 22699,realtor,https://www.cian.ru/rent/flat/271799247/,Москва,rent,flat,2,5,1,31.0,57000,0,Котловка,Нагорная ,38К2,Нахимовский проспект
+22,ID 5677,realtor,https://www.cian.ru/rent/flat/307566563/,Москва,rent,flat,5,5,1,31.0,40000,0,Котловка,Большая Черемушкинская ,15К1,Крымская
+23,ЭКСПРЕСС Недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/302342336/,Москва,rent,flat,2,9,1,40.0,40000,0,Южное Бутово,Южнобутовская ,84К1,Бунинская аллея
+24,ПИК-Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307442767/,Москва,rent,flat,22,25,1,40.3,57700,0,Южное Бутово, Поляны,5Ак1,Улица Скобелевская

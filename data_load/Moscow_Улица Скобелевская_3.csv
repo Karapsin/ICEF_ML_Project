@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307756634/,Москва,rent,flat,6,14,3,78.0,85000,0,Южное Бутово,Плавский проезд,7,Улица Скобелевская
+1,ID 15363759,homeowner,https://www.cian.ru/rent/flat/307704696/,Москва,rent,flat,10,10,3,83.4,90000,0,Южное Бутово,Южнобутовская ,1,Улица Скобелевская
+2,АВАНГАРД,real_estate_agent,https://www.cian.ru/rent/flat/307675357/,Москва,rent,flat,10,14,3,80.0,90000,0,Южное Бутово,аллея Витте,4К1,Улица Скобелевская
+3,Владис,real_estate_agent,https://www.cian.ru/rent/flat/307674145/,Москва,rent,flat,11,14,3,76.9,95000,0,Южное Бутово,аллея Витте,4К1,Улица Скобелевская
+4,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307605491/,Москва,rent,flat,5,14,3,62.0,69000,0,Южное Бутово,Старонародная ,4,Улица Скобелевская
+5,МИР-Н,real_estate_agent,https://www.cian.ru/rent/flat/307425534/,Москва,rent,flat,3,14,3,88.1,90000,0,,бульвар Скандинавский,23к1,Улица Скобелевская
+6,ПИК-Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307410690/,Москва,rent,flat,8,33,3,92.0,120000,0,Южное Бутово, Поляны,5Ак2,Улица Скобелевская
+7,Владимир Волошинов,realtor,https://www.cian.ru/rent/flat/307389821/,Москва,rent,flat,3,16,3,65.0,100000,0,Северное Бутово,Феодосийская ,7к4,Улица Скобелевская
+8,EMPIRE HOME,real_estate_agent,https://www.cian.ru/rent/flat/307095755/,Москва,rent,flat,10,14,3,79.0,100000,0,Южное Бутово,аллея Витте,4К1,Улица Скобелевская
+9,Валентина Слепак,realtor,https://www.cian.ru/rent/flat/190575401/,Москва,rent,flat,11,14,3,80.0,95000,0,Южное Бутово,аллея Витте,4К1,Улица Скобелевская
+10,ID 204959,homeowner,https://www.cian.ru/rent/flat/181039316/,Москва,rent,flat,5,14,3,62.0,69000,0,Южное Бутово,Старонародная ,4,Улица Скобелевская
+11,ID 121802023,homeowner,https://www.cian.ru/rent/flat/307664211/,Москва,rent,flat,9,14,3,72.0,90000,0,Строгино, Исаковского,31,Строгино
+12,ПИК-Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307632938/,Москва,rent,flat,13,17,2,32.0,55000,0,, Александры Монаховой,85к1,Потапово
+13,Проперти фо пипл,real_estate_agent,https://www.cian.ru/rent/flat/307430864/,Москва,rent,flat,4,10,4,96.0,100000,0,Даниловский,Люсиновская ,53,Серпуховская
+14,Максим Костромин,realtor,https://www.cian.ru/rent/flat/307301864/,Москва,rent,flat,3,5,4,100.0,100000,0,Щукино, Маршала Рыбалко,1,Октябрьское поле
+15,Иван Заугаров,realtor,https://www.cian.ru/rent/flat/307475593/,Москва,rent,flat,8,14,2,55.0,60000,0,Южное Бутово, Адмирала Руднева,12,Улица Горчакова
+16,Лидия Скороходова,realtor,https://www.cian.ru/rent/flat/307628356/,Москва,rent,flat,4,12,2,53.0,50000,0,Южное Бутово,проезд Чечерский,104,Бунинская аллея
+17,ID 81427696,unknown,https://www.cian.ru/rent/flat/301871495/,Москва,rent,flat,14,17,3,52.0,60000,0,, Сосенский Стан,11,Новомосковская
+18,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307577090/,Москва,rent,flat,8,9,3,75.0,60000,0,Южное Бутово,Южнобутовская ,84,Бунинская аллея
+19,Владимир  Сафронов,realtor,https://www.cian.ru/rent/flat/307371964/,Москва,rent,flat,24,25,4,86.0,100000,0,Чертаново Южное,Варшавское шоссе,141к9,Аннино
+20,ID 74788133,homeowner,https://www.cian.ru/rent/flat/280504992/,Москва,rent,flat,5,9,3,65.0,75000,0,Теплый Стан,Профсоюзная ,156К3,Тёплый Стан
+21,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307611527/,Москва,rent,flat,4,16,2,42.0,60000,0,Южное Бутово,Краснолиманская ,29,Улица Скобелевская
+22,Самолет плюс Троицк,real_estate_agent,https://www.cian.ru/rent/flat/307273441/,Москва,rent,flat,4,14,2,70.0,65000,0,, Александры Монаховой,5к2,Ольховая
+23,Егор Россихин,realtor,https://www.cian.ru/rent/flat/307706368/,Москва,rent,flat,7,17,2,60.0,55000,0,, Александры Монаховой,101,Потапово
+24,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307701622/,Москва,rent,flat,14,17,2,42.0,65000,0,,проспект Куприна,24к3,Потапово

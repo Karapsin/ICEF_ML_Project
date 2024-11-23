@@ -1,0 +1,29 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,МОСКВА СИТИ,real_estate_agent,https://www.cian.ru/rent/flat/307744760/,Москва,rent,flat,5,8,3,160.0,1000000,0,Хамовники,переулок Хилков,1,Кропоткинская
+1,Intermark Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307724438/,Москва,rent,flat,7,12,3,125.0,250000,0,Якиманка, Серафимовича,2,Кропоткинская
+2,Дворянское гнездо,real_estate_agent,https://www.cian.ru/rent/flat/307717632/,Москва,rent,flat,5,5,3,52.4,150000,0,Хамовники,Большой Левшинский переулок,17,Кропоткинская
+3,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307707180/,Москва,rent,flat,8,8,3,120.0,250000,0,Хамовники,Смоленский бульвар,22/14,Кропоткинская
+4,Whitewill Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307671202/,Москва,rent,flat,7,10,3,121.0,250000,0,Якиманка, Серафимовича,2,Кропоткинская
+5,Михаил Иванов,realtor,https://www.cian.ru/rent/flat/307586651/,Москва,rent,flat,2,7,3,75.9,95000,0,Хамовники,переулок Сивцев Вражек,21,Кропоткинская
+6,Светлана Окоман,realtor,https://www.cian.ru/rent/flat/307553168/,Москва,rent,flat,5,5,3,74.0,200000,0,Арбат,Троилинский переулок,4/7,Кропоткинская
+7,ЕРЦН,real_estate_agent,https://www.cian.ru/rent/flat/307543999/,Москва,rent,flat,3,4,3,90.0,180000,0,Арбат, Арбат,18/1С2,Кропоткинская
+8,Intermark Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307521524/,Москва,rent,flat,14,16,3,88.0,200000,0,Хамовники,Малый Власьевский переулок,3к1,Кропоткинская
+9,Chase R.E.S.,real_estate_agent,https://www.cian.ru/rent/flat/307446963/,Москва,rent,flat,3,5,3,105.0,300000,0,Хамовники,Курсовой переулок,8/2,Кропоткинская
+10,Easy Estate,real_estate_agent,https://www.cian.ru/rent/flat/307387142/,Москва,rent,flat,4,5,3,150.0,200000,0,Хамовники,Лопухинский переулок,1АС2,Кропоткинская
+11,Trust Realty,real_estate_agent,https://www.cian.ru/rent/flat/307233426/,Москва,rent,flat,1,3,3,163.0,800000,0,Хамовники,2-й Зачатьевский переулок,13,Кропоткинская
+12,Наталья Кузьмичева,realtor,https://www.cian.ru/rent/flat/307204231/,Москва,rent,flat,1,8,3,70.7,250000,0,Хамовники,переулок Сивцев Вражек,15/25,Кропоткинская
+13,Capital Estate,real_estate_agent,https://www.cian.ru/rent/flat/307132061/,Москва,rent,flat,3,8,3,155.0,700000,0,Арбат,Большой Афанасьевский переулок,28,Кропоткинская
+14,МОСКВА СИТИ,real_estate_agent,https://www.cian.ru/rent/flat/307040729/,Москва,rent,flat,4,8,3,234.0,1000000,0,Хамовники,переулок Хилков,1,Кропоткинская
+15,Penny Lane Moscow,real_estate_agent,https://www.cian.ru/rent/flat/306868849/,Москва,rent,flat,3,4,3,105.0,300000,0,Хамовники,Курсовой переулок,8/2,Кропоткинская
+16,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/306858397/,Москва,rent,flat,1,4,3,163.0,800000,0,Хамовники,2-й Зачатьевский переулок,13,Кропоткинская
+17,Whitewill Аренда,real_estate_agent,https://www.cian.ru/rent/flat/306602694/,Москва,rent,flat,1,3,3,163.0,800000,0,Хамовники,2-й Зачатьевский переулок,13,Кропоткинская
+18,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/306595896/,Москва,rent,flat,3,5,3,105.0,300000,0,Хамовники,Курсовой переулок,8/2,Кропоткинская
+19,ID 82886242,homeowner,https://www.cian.ru/rent/flat/306468019/,Москва,rent,flat,6,8,3,57.4,200000,0,Хамовники,Зубовский бульвар,16-20С1,Кропоткинская
+20,Trust Realty,real_estate_agent,https://www.cian.ru/rent/flat/306382815/,Москва,rent,flat,5,9,3,190.0,600000,0,Хамовники, Остоженка,25,Кропоткинская
+21,WHITE BROKER Аренда,real_estate_agent,https://www.cian.ru/rent/flat/306156172/,Москва,rent,flat,6,6,3,124.0,280000,0,Хамовники,переулок Плотников,2/8,Кропоткинская
+22,Whitewill Аренда,real_estate_agent,https://www.cian.ru/rent/flat/306110276/,Москва,rent,flat,5,8,3,156.0,1000000,0,Хамовники,переулок Хилков,1,Кропоткинская
+23,Intermark Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/306086045/,Москва,rent,flat,1,3,3,163.0,800000,0,Хамовники,2-й Зачатьевский переулок,13,Кропоткинская
+24,МОСКВА СИТИ,real_estate_agent,https://www.cian.ru/rent/flat/306085275/,Москва,rent,flat,2,6,3,100.0,230000,0,Арбат, Арбат,29,Кропоткинская
+25,Penny Lane Moscow,real_estate_agent,https://www.cian.ru/rent/flat/306061280/,Москва,rent,flat,5,8,3,156.0,1000000,0,Хамовники,переулок Хилков,1,Кропоткинская
+26,Penny Lane Moscow,real_estate_agent,https://www.cian.ru/rent/flat/306060868/,Москва,rent,flat,2,4,3,130.0,350000,0,Хамовники,Курсовой переулок,8/2,Кропоткинская
+27,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/305842266/,Москва,rent,flat,5,8,3,156.0,1000000,0,Хамовники,переулок Хилков,1,Кропоткинская

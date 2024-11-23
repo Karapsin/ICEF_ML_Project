@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Неон Сити,real_estate_agent,https://khimki.cian.ru/rent/flat/307783115/,Москва,rent,flat,2,7,1,37.0,45000,0,, Летчика Ивана Федорова,3к2,Физтех
+1,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307779511/,Москва,rent,flat,11,22,1,40.0,50000,0,Северный,Дмитровское шоссе,165Ек6,Физтех
+2,Классика,real_estate_agent,https://khimki.cian.ru/rent/flat/307775731/,Москва,rent,flat,8,9,1,40.0,45000,0,, Летчика Ивана Федорова,5,Физтех
+3,ID 106149920,unknown,https://www.cian.ru/rent/flat/307650322/,Москва,rent,flat,14,19,1,40.0,54990,0,Северный,Дмитровское шоссе,169к1,Физтех
+4,Эдуард Каюмов,realtor,https://www.cian.ru/rent/flat/307639171/,Москва,rent,flat,11,22,1,40.0,47000,0,Северный,Челобитьевское шоссе,12к5,Физтех
+5,Константин Березюк,realtor,https://mytishchi.cian.ru/rent/flat/307636936/,Москва,rent,flat,2,5,1,32.0,35000,0,д. Афанасово, Березовая Роща,2,
+6,Евгений Тараканов,realtor,https://www.cian.ru/rent/flat/307632542/,Москва,rent,flat,3,17,1,34.4,55000,0,Северный,Дмитровское шоссе,169К3,Физтех
+7,Иван Тетерук,realtor,https://www.cian.ru/rent/flat/307626521/,Москва,rent,flat,3,14,1,35.0,35000,0,Северный,Дмитровское шоссе,165Ек9,Физтех
+8,Артём Бученков,realtor,https://www.cian.ru/rent/flat/307591718/,Москва,rent,flat,8,17,1,37.7,53000,0,Северный,9-я Северная линия,23к2,Физтех
+9,ID 511602,realtor,https://www.cian.ru/rent/flat/307590969/,Москва,rent,flat,7,8,1,42.4,56000,0,Северный,бульвар Академика Ландау,1,Физтех
+10,5 ЗВЁЗД,real_estate_agent,https://www.cian.ru/rent/flat/307403592/,Москва,rent,flat,2,17,1,42.0,65000,0,Северный,Дмитровское шоссе,124А,Физтех
+11,Ирина Фролова,realtor,https://khimki.cian.ru/rent/flat/307390525/,Москва,rent,flat,3,6,1,36.0,50000,0,,проезд Набережный,22,Физтех
+12,СТОЛИЦА Департамент недвижимости,real_estate_agent,https://mytishchi.cian.ru/rent/flat/307256701/,Москва,rent,flat,2,3,1,18.0,25000,0,д. Грибки, Славянская,315,
+13,ID 93290972,unknown,https://khimki.cian.ru/rent/flat/306855993/,Москва,rent,flat,8,8,1,32.0,20000,0,, Генерала Дьяконова,2,Физтех
+14,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://mytishchi.cian.ru/rent/flat/300009862/,Москва,rent,flat,4,10,1,43.0,35000,0,,,,
+15,ID 24005611,realtor,https://khimki.cian.ru/rent/flat/294747821/,Москва,rent,flat,6,8,1,31.0,45000,0,,проезд Набережный,6,Физтех
+16,ID 352860,realtor,https://www.cian.ru/rent/flat/235832543/,Москва,rent,flat,4,9,1,32.0,56000,0,Северный,бульвар Академика Ландау,3,Физтех
+17,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307605462/,Москва,rent,flat,1,5,1,31.0,50000,0,Тимирязевский,Астрадамская ,1К2,Дмитровская
+18,Меркурий,real_estate_agent,https://dolgoprudny.cian.ru/rent/flat/307651061/,Москва,rent,flat,10,16,1,45.0,40000,0,,Лихачевское шоссе,6к4,Долгопрудная
+19,ID 36464867,homeowner,https://www.cian.ru/rent/flat/306696784/,Москва,rent,flat,10,17,1,38.5,55000,0,Бескудниковский,Бескудниковский бульвар,6К3,Верхние Лихоборы
+20,Ма-Трёшка,real_estate_agent,https://www.cian.ru/rent/flat/307347819/,Москва,rent,flat,3,9,1,17.5,44999,0,Ховрино,Клинская ,4К2,Грачёвская
+21,ID 16356,realtor,https://www.cian.ru/rent/flat/251669787/,Москва,rent,flat,3,5,1,31.0,40000,0,Дмитровский,Икшинская ,8,Яхромская
+22,ID 864,realtor,https://www.cian.ru/rent/flat/241759044/,Москва,rent,flat,5,12,1,39.0,45000,0,Лианозово,Новгородская ,34,Алтуфьево
+23,ID 36254226,homeowner,https://dolgoprudny.cian.ru/rent/flat/306410866/,Москва,rent,flat,17,27,1,44.2,28000,0,,Новый бульвар,7,Долгопрудная
+24,ID 86211378,homeowner,https://dolgoprudny.cian.ru/rent/flat/292359560/,Москва,rent,flat,22,24,1,26.0,40000,0,,Парковая ,52,Водники

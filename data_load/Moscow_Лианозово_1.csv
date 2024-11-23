@@ -1,0 +1,54 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Станислав Вейтендорф,realtor,https://www.cian.ru/rent/flat/307772730/,Москва,rent,flat,5,9,1,30.0,40000,0,Дмитровский,Клязьминская ,32,Лианозово
+1,Светлана Харина,realtor,https://www.cian.ru/rent/flat/307740715/,Москва,rent,flat,14,16,1,38.0,45000,0,Дмитровский,Лобненская ,12К3,Лианозово
+2,Лилия Ильина,realtor,https://www.cian.ru/rent/flat/307728969/,Москва,rent,flat,11,12,1,38.9,50000,0,Бибирево,Мурановская ,6,Лианозово
+3,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307723022/,Москва,rent,flat,10,16,1,38.0,75000,0,Дмитровский,Лобненская ,13К2,Лианозово
+4,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307723019/,Москва,rent,flat,16,30,1,44.0,60000,0,Дмитровский,Лобненская ,13к4,Лианозово
+5,МГЦН - Многофункциональный Городской Центр Недвижимости,real_estate_agent,https://www.cian.ru/rent/flat/307721871/,Москва,rent,flat,11,19,1,42.0,55000,0,Лианозово,Псковская ,7К1,Лианозово
+6,ID 96503329,unknown,https://www.cian.ru/rent/flat/307721127/,Москва,rent,flat,2,14,1,35.1,48000,0,Восточное Дегунино, 800-летия Москвы,11К10,Лианозово
+7,ОГРК,real_estate_agent,https://www.cian.ru/rent/flat/307717019/,Москва,rent,flat,25,34,1,38.8,80000,0,Дмитровский,Лобненская ,13к4,Лианозово
+8,Этажи Москва,real_estate_agent,https://www.cian.ru/rent/flat/307716873/,Москва,rent,flat,11,14,1,42.0,60000,0,Дмитровский,Клязьминская ,13,Лианозово
+9,ID 47643263,realtor,https://www.cian.ru/rent/flat/307680098/,Москва,rent,flat,1,22,1,40.0,60000,0,Бибирево,Алтуфьевское шоссе,92,Лианозово
+10,ИскИн,real_estate_agent,https://www.cian.ru/rent/flat/307658389/,Москва,rent,flat,11,12,1,45.0,65000,0,Лианозово,Абрамцевская ,2,Лианозово
+11,ID 122077529,homeowner,https://www.cian.ru/rent/flat/307635937/,Москва,rent,flat,10,16,1,38.2,75000,0,Дмитровский,Лобненская ,13К2,Лианозово
+12,Инна Светлова,realtor,https://www.cian.ru/rent/flat/307606665/,Москва,rent,flat,29,33,1,37.0,75000,0,Дмитровский,Лобненская ,13к4,Лианозово
+13,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307604218/,Москва,rent,flat,4,5,1,26.0,65000,0,Дмитровский,Икшинская ,6,Лианозово
+14,Анна Белова,realtor,https://www.cian.ru/rent/flat/307592981/,Москва,rent,flat,15,32,1,52.0,60000,0,Восточное Дегунино,Дубнинская ,40АК4,Лианозово
+15,ПИК-Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307585028/,Москва,rent,flat,9,33,1,43.5,75000,0,Дмитровский,Лобненская ,13к3,Лианозово
+16,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307580351/,Москва,rent,flat,29,33,1,39.0,84000,0,Дмитровский,Лобненская ,13к4,Лианозово
+17,ID 122001461,homeowner,https://www.cian.ru/rent/flat/307578412/,Москва,rent,flat,16,30,1,44.0,60000,0,Дмитровский,Лобненская ,13к4,Лианозово
+18,ID 59155433,homeowner,https://www.cian.ru/rent/flat/307509126/,Москва,rent,flat,11,17,1,42.0,52000,0,Лианозово,Псковская ,9К2,Лианозово
+19,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307501327/,Москва,rent,flat,29,33,1,39.0,85000,0,Дмитровский,Лобненская ,13к4,Лианозово
+20,ПЕРСОНА,real_estate_agent,https://www.cian.ru/rent/flat/307464604/,Москва,rent,flat,10,22,1,40.0,60000,0,Бибирево,Алтуфьевское шоссе,92,Лианозово
+21,ID 60638568,realtor,https://www.cian.ru/rent/flat/307440886/,Москва,rent,flat,5,14,1,37.9,60000,0,Дмитровский,Учинская ,3к1,Лианозово
+22,5 ЗВЁЗД,real_estate_agent,https://www.cian.ru/rent/flat/307403592/,Москва,rent,flat,2,17,1,42.0,65000,0,Северный,Дмитровское шоссе,124А,Лианозово
+23,ID 335175,realtor,https://www.cian.ru/rent/flat/307387458/,Москва,rent,flat,9,17,1,42.0,55000,0,Лианозово,Псковская ,5К3,Лианозово
+24,Столичный Проспект,real_estate_agent,https://www.cian.ru/rent/flat/307336824/,Москва,rent,flat,8,12,1,42.0,45000,0,Лианозово,Абрамцевская ,18,Лианозово
+25,ID 16636908,homeowner,https://www.cian.ru/rent/flat/307334009/,Москва,rent,flat,16,16,1,45.0,55000,0,Восточное Дегунино,Дубнинская ,32К9,Лианозово
+26,ID 20840374,homeowner,https://www.cian.ru/rent/flat/307268272/,Москва,rent,flat,1,9,1,39.0,65000,0,Бибирево, Коненкова,11В,Лианозово
+27,ID 52445309,homeowner,https://www.cian.ru/rent/flat/283308670/,Москва,rent,flat,13,16,1,40.0,70000,0,Лианозово,Псковская ,10К1,Лианозово
+28,ID 122357,homeowner,https://www.cian.ru/rent/flat/278647947/,Москва,rent,flat,3,16,1,38.0,48000,0,Дмитровский,Клязьминская ,7К2,Лианозово
+29,Наталия Тананова,realtor,https://www.cian.ru/rent/flat/268702605/,Москва,rent,flat,14,16,1,38.0,60000,0,Лианозово,Псковская ,2К1,Лианозово
+30,ID 16356,realtor,https://www.cian.ru/rent/flat/251669787/,Москва,rent,flat,3,5,1,31.0,40000,0,Дмитровский,Икшинская ,8,Лианозово
+31,ID 340220,realtor,https://www.cian.ru/rent/flat/250262996/,Москва,rent,flat,2,16,1,38.6,40000,0,Дмитровский,Коровинское шоссе,36К1,Лианозово
+32,ID 864,realtor,https://www.cian.ru/rent/flat/241759044/,Москва,rent,flat,5,12,1,39.0,45000,0,Лианозово,Новгородская ,34,Лианозово
+33,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307605462/,Москва,rent,flat,1,5,1,31.0,50000,0,Тимирязевский,Астрадамская ,1К2,Дмитровская
+34,ID 122045706,homeowner,https://www.cian.ru/rent/flat/307612045/,Москва,rent,flat,2,14,1,38.9,50000,0,Ярославский,Палехская ,21,Медведково
+35,ID 72976911,homeowner,https://www.cian.ru/rent/flat/283314600/,Москва,rent,flat,8,12,1,34.5,44000,0,Западное Дегунино, Бусиновская Горка,1К1,Ховрино
+36,ID 45102034,unknown,https://www.cian.ru/rent/flat/248305178/,Москва,rent,flat,2,5,1,33.0,31000,0,Алтуфьевский,Путевой проезд,10,Бескудниково
+37,Антон Осмелкин,realtor,https://www.cian.ru/rent/flat/307553502/,Москва,rent,flat,2,14,1,42.4,45000,0,Гольяново,Байкальская ,23,Щёлковская
+38,ID 86398099,unknown,https://www.cian.ru/rent/flat/307647005/,Москва,rent,flat,1,16,1,38.0,40000,0,Бабушкинский, Чичерина,8К1,Бабушкинская
+39,ID 79753856,homeowner,https://www.cian.ru/rent/flat/307452933/,Москва,rent,flat,3,5,1,31.0,40000,0,Богородское,Бойцовая ,10К9,Бульвар Рокоссовского
+40,Real Estate Law Services,real_estate_agent,https://www.cian.ru/rent/flat/279776597/,Москва,rent,flat,3,5,1,14.0,35000,0,Хорошево-Мневники,бульвар Генерала Карбышева,19К5,Народное Ополчение
+41,Денис Комаров,realtor,https://www.cian.ru/rent/flat/279383857/,Москва,rent,flat,1,12,1,12.0,35000,0,Западное Дегунино,Дегунинская ,13,Моссельмаш
+42,ID 104001452,homeowner,https://www.cian.ru/rent/flat/307231553/,Москва,rent,flat,9,16,1,34.2,40000,0,Бабушкинский,Печорская ,11,Бабушкинская
+43,ID 118663088,homeowner,https://www.cian.ru/rent/flat/304245664/,Москва,rent,flat,1,5,2,43.5,50000,0,Марфино,Гостиничная ,10А,Окружная
+44,ID 65031701,realtor,https://www.cian.ru/rent/flat/277044565/,Москва,rent,flat,5,5,1,35.0,45000,0,Бабушкинский, Летчика Бабушкина,6,Свиблово
+45,ID 36464867,homeowner,https://www.cian.ru/rent/flat/306696784/,Москва,rent,flat,10,17,1,38.5,55000,0,Бескудниковский,Бескудниковский бульвар,6К3,Верхние Лихоборы
+46,Иван Тетерук,realtor,https://www.cian.ru/rent/flat/307626521/,Москва,rent,flat,3,14,1,35.0,35000,0,Северный,Дмитровское шоссе,165Ек9,Физтех
+47,СТОЛИЦА. Москва и МО,real_estate_agent,https://www.cian.ru/rent/flat/307486388/,Москва,rent,flat,5,14,2,52.0,50000,0,Ярославский,Хибинский проезд,30К2,Свиблово
+48,ID 119864602,homeowner,https://www.cian.ru/rent/flat/305411686/,Москва,rent,flat,2,5,2,45.0,44310,0,Коптево,4-й Новомихалковский проезд,7А,Лихоборы
+49,Real Market Estate,real_estate_agent,https://www.cian.ru/rent/flat/307304334/,Москва,rent,flat,4,12,1,38.0,42000,0,Левобережный,Прибрежный проезд,7,Ховрино
+50,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307653852/,Москва,rent,flat,8,12,1,34.0,45000,0,Головинский,Флотская ,37,Моссельмаш
+51,ID 60305268,realtor,https://www.cian.ru/rent/flat/307515517/,Москва,rent,flat,5,12,1,39.0,42000,0,Новогиреево,Кусковская ,17К1,Перово
+52,ID 127014,realtor,https://www.cian.ru/rent/flat/307632815/,Москва,rent,flat,4,12,2,40.0,45000,0,Северное Тушино, Героев Панфиловцев,41К1,Планерная

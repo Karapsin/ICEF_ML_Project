@@ -1,0 +1,29 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307756608/,Москва,rent,flat,2,9,3,65.0,78000,0,Орехово-Борисово Южное,Елецкая ,12К1,Красногвардейская
+1,Д-Эстейт,real_estate_agent,https://www.cian.ru/rent/flat/307752364/,Москва,rent,flat,11,24,3,75.9,110000,0,Орехово-Борисово Южное,Каширское шоссе,144К1,Красногвардейская
+2,Гайк Халатов,realtor,https://www.cian.ru/rent/flat/307743777/,Москва,rent,flat,3,16,3,75.0,90000,0,Орехово-Борисово Южное,Домодедовская ,27,Красногвардейская
+3,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307740597/,Москва,rent,flat,12,12,3,62.0,90000,0,Зябликово,Шипиловская ,37К1,Красногвардейская
+4,ID 89084422,real_estate_agent,https://vidnoye.cian.ru/rent/flat/307699826/,Москва,rent,flat,6,17,3,58.2,70000,0,,,,
+5,ID 12694494,realtor,https://www.cian.ru/rent/flat/307656754/,Москва,rent,flat,5,9,3,50.0,60000,0,Орехово-Борисово Северное, Генерала Белова,19К1,Красногвардейская
+6,Валерия Левина,realtor,https://www.cian.ru/rent/flat/307655785/,Москва,rent,flat,6,9,3,60.0,80000,0,Зябликово, Мусы Джалиля,31К2,Красногвардейская
+7,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307653858/,Москва,rent,flat,5,9,3,50.0,65000,0,Орехово-Борисово Северное,Ореховый бульвар,11К1,Красногвардейская
+8,Вячеслав  Зубрий,realtor,https://www.cian.ru/rent/flat/307651095/,Москва,rent,flat,3,17,3,75.0,80000,0,Зябликово,Задонский проезд,12К1,Красногвардейская
+9,ID 78507768,unknown,https://vidnoye.cian.ru/rent/flat/307638272/,Москва,rent,flat,17,17,3,76.0,68000,0,, Завидная,18,Красногвардейская
+10,Ольга Тормышова,realtor,https://vidnoye.cian.ru/rent/flat/307596431/,Москва,rent,flat,5,8,3,79.0,120000,0,пос. Развилка,проезд Римский,1,
+11,,,https://domodedovo.cian.ru/rent/flat/307549774/,Москва,rent,flat,16,18,3,53.0,65000,0,с. Ям, Мезенцева,7,
+12,,,https://vidnoye.cian.ru/rent/flat/307548186/,Москва,rent,flat,17,18,3,61.6,70000,0,д. Коробово, Авиаторов,2,
+13,WHITE BROKER Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307485013/,Москва,rent,flat,12,12,3,62.0,90000,0,Зябликово,Шипиловская ,37К1,Красногвардейская
+14,ID 95617775,homeowner,https://vidnoye.cian.ru/rent/flat/307452435/,Москва,rent,flat,14,17,3,52.0,60000,0,д. Коробово, Авиаторов,4,
+15,Каскад,real_estate_agent,https://vidnoye.cian.ru/rent/flat/307450080/,Москва,rent,flat,12,15,3,71.0,65000,0,Пригород Лесное мкр, Луговая,4,
+16,ID 15277083,homeowner,https://www.cian.ru/rent/flat/307440834/,Москва,rent,flat,12,12,3,62.0,90000,0,Зябликово,Шипиловская ,37К1,Красногвардейская
+17,MDco,real_estate_agent,https://www.cian.ru/rent/flat/307429622/,Москва,rent,flat,1,9,3,76.0,65000,0,Зябликово,Шипиловская ,41К1,Красногвардейская
+18,ID 118408266,homeowner,https://vidnoye.cian.ru/rent/flat/307369312/,Москва,rent,flat,3,4,3,61.0,61500,0,,,,
+19,ID 16072,realtor,https://www.cian.ru/rent/flat/307366364/,Москва,rent,flat,3,9,3,58.1,75000,0,Зябликово, Мусы Джалиля,34К2,Красногвардейская
+20,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307260520/,Москва,rent,flat,8,9,3,62.0,90000,0,Орехово-Борисово Южное,Ясеневая ,19К3,Красногвардейская
+21,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307207029/,Москва,rent,flat,3,9,3,50.0,70000,0,Зябликово,Ореховый бульвар,51К2,Красногвардейская
+22,ID 13273172,real_estate_agent,https://www.cian.ru/rent/flat/307155030/,Москва,rent,flat,3,16,3,75.0,75000,0,Зябликово,Ореховый бульвар,47/33,Красногвардейская
+23,Самолет Плюс Горчакова,real_estate_agent,https://vidnoye.cian.ru/rent/flat/307125421/,Москва,rent,flat,12,17,3,61.0,55000,0,,,,
+24,EstateLiga,real_estate_agent,https://vidnoye.cian.ru/rent/flat/307095712/,Москва,rent,flat,16,17,3,52.0,45000,0,д. Мисайлово,шоссе Пригородное,6,
+25,Анжелика Кирина,realtor,https://vidnoye.cian.ru/rent/flat/306235874/,Москва,rent,flat,16,17,3,62.0,55000,0,д. Мисайлово, Имени Л.И. Гоман,10,
+26,Территория дела,real_estate_agent,https://www.cian.ru/rent/flat/305764752/,Москва,rent,flat,10,12,3,64.0,85000,0,Зябликово,Шипиловская ,48К2,Красногвардейская
+27,Aлександр Аксенов,realtor,https://vidnoye.cian.ru/rent/flat/302588617/,Москва,rent,flat,3,16,3,67.0,52000,0,,,,

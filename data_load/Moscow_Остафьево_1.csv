@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Владимир Фетискин,realtor,https://www.cian.ru/rent/flat/307727988/,Москва,rent,flat,11,17,1,29.0,30000,0,, Барышевская Роща,12,Остафьево
+1,Домклик Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307631814/,Москва,rent,flat,5,12,1,22.0,45300,0,, Уточкина,7к1,Остафьево
+2,Татьяна Кольцова,realtor,https://www.cian.ru/rent/flat/307571618/,Москва,rent,flat,2,5,1,35.0,35000,0,,,19,Остафьево
+3,EstateLiga,real_estate_agent,https://www.cian.ru/rent/flat/307567421/,Москва,rent,flat,6,12,1,37.0,40000,0,, Уточкина,8к1,Остафьево
+4,ID 116971336,homeowner,https://www.cian.ru/rent/flat/307298098/,Москва,rent,flat,11,13,1,34.6,35000,0,,шоссе Рязановское,31к2,Остафьево
+5,ID 2959486,realtor,https://www.cian.ru/rent/flat/307273986/,Москва,rent,flat,5,11,1,35.0,43000,0,, Уточкина,8к2,Остафьево
+6,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307057331/,Москва,rent,flat,10,12,1,33.0,62000,0,, Уточкина,5к1,Остафьево
+7,EMPIRE HOME,real_estate_agent,https://podolsk.cian.ru/rent/flat/306706886/,Москва,rent,flat,2,10,1,33.0,50000,0,,Тепличная ,7,Остафьево
+8,ID 77272259,homeowner,https://www.cian.ru/rent/flat/290951893/,Москва,rent,flat,12,13,1,37.0,40000,0,,шоссе Рязановское,31к2,Остафьево
+9,ID 95976875,homeowner,https://www.cian.ru/rent/flat/290416204/,Москва,rent,flat,5,13,1,34.6,40000,0,,шоссе Рязановское,31к2,Остафьево
+10,Татьяна Захарова,realtor,https://www.cian.ru/rent/flat/245847262/,Москва,rent,flat,7,14,1,40.7,35000,0,,,2,Остафьево
+11,Самолет плюс Троицк,real_estate_agent,https://www.cian.ru/rent/flat/307486489/,Москва,rent,flat,5,5,1,34.0,28000,0,,,3,Ольховая
+12,ID 68404017,homeowner,https://www.cian.ru/rent/flat/286146172/,Москва,rent,flat,6,9,1,29.0,35000,0,Нагорный,Ялтинская ,7К1,Чертановская
+13,ИНГРУПП,real_estate_agent,https://www.cian.ru/rent/flat/307633768/,Москва,rent,flat,13,14,1,40.0,30000,0,Некрасовка,1-я Вольская ,24К1,Люберцы
+14,ID 20886249,homeowner,https://www.cian.ru/rent/flat/262682419/,Москва,rent,flat,3,5,1,16.0,35000,0,Кузьминки,Окская ,28К2,Окская
+15,ID 6763918,homeowner,https://www.cian.ru/rent/flat/182935015/,Москва,rent,flat,6,17,1,38.0,45000,0,, Бориса Пастернака,7,Рассказовка
+16,ID 10825752,homeowner,https://www.cian.ru/rent/flat/280002311/,Москва,rent,flat,1,1,1,22.0,36000,0,,,5с1,Аэропорт Внуково
+17,Диалог Риэлт,real_estate_agent,https://www.cian.ru/rent/flat/299429592/,Москва,rent,flat,17,21,1,37.0,40000,0,Некрасовка,Рождественская ,29,Некрасовка
+18,Манхэттен эстейт,real_estate_agent,https://www.cian.ru/rent/flat/307454387/,Москва,rent,flat,3,5,1,35.0,29000,0,,,,
+19,ЕГСН Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307489051/,Москва,rent,flat,4,9,1,35.0,40000,0,Кузьминки, Федора Полетаева,32К5,Кузьминки
+20,ID 8546,real_estate_agent,https://www.cian.ru/rent/flat/261838304/,Москва,rent,flat,9,17,1,40.0,33000,0,, 3-я Нововатутинская,2,Новомосковская
+21,Иван Тетерук,realtor,https://www.cian.ru/rent/flat/307626521/,Москва,rent,flat,3,14,1,35.0,35000,0,Северный,Дмитровское шоссе,165Ек9,Физтех
+22,Reliz Студия недвижимости,real_estate_agent,https://www.cian.ru/rent/flat/306307362/,Москва,rent,flat,2,3,-1,34.0,30000,0,,,36,Румянцево
+23,ID 401453,realtor,https://www.cian.ru/rent/flat/296609004/,Москва,rent,flat,1,17,1,21.0,40000,0,Люблино,Новороссийская ,25к1с1,Люблино
+24,RedHillsEstate,real_estate_agent,https://www.cian.ru/rent/flat/307567176/,Москва,rent,flat,15,16,1,23.0,40000,0,, Гренадерская,9к1,Ольховая

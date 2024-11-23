@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307793505/,Москва,rent,flat,14,30,3,62.0,140000,0,Южнопортовый,Волгоградский проспект,32/3к5,Угрешская
+1,BOND недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/307784941/,Москва,rent,flat,14,30,3,60.0,140000,0,Южнопортовый,Волгоградский проспект,32/3к5,Угрешская
+2,GARUDA РИЭЛТИ,real_estate_agent,https://www.cian.ru/rent/flat/307781546/,Москва,rent,flat,14,30,3,60.0,140000,0,Южнопортовый,Волгоградский проспект,32/3к5,Угрешская
+3,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307777633/,Москва,rent,flat,14,31,3,60.0,140000,0,Южнопортовый,Волгоградский проспект,32/3к5,Угрешская
+4,Las Vegas,real_estate_agent,https://www.cian.ru/rent/flat/307567065/,Москва,rent,flat,8,10,3,80.0,170000,0,Южнопортовый,Шарикоподшипниковская ,40,Угрешская
+5,Элитный Дом,real_estate_agent,https://www.cian.ru/rent/flat/307534548/,Москва,rent,flat,6,30,3,70.0,125000,0,Южнопортовый,Волгоградский проспект,32/5к1,Угрешская
+6,ID 7004248,unknown,https://www.cian.ru/rent/flat/305199760/,Москва,rent,flat,4,30,3,55.0,125000,0,Южнопортовый,Волгоградский проспект,32/5к2,Угрешская
+7,Homeprice,real_estate_agent,https://www.cian.ru/rent/flat/307686992/,Москва,rent,flat,11,14,2,54.0,110000,0,Южнопортовый,Шарикоподшипниковская ,18,Дубровка
+8,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307722990/,Москва,rent,flat,8,8,3,80.0,140000,0,Таганский,Абельмановская ,7,Пролетарская
+9,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/303632194/,Москва,rent,flat,5,5,3,65.2,130000,0,Замоскворечье,Пятницкая ,28,Третьяковская
+10,BEATRIX,real_estate_agent,https://www.cian.ru/rent/flat/291365307/,Москва,rent,flat,10,21,3,51.8,130000,0,Сокольники, Сокольнический Вал,1к2,Рижская
+11,Penny Lane Moscow,real_estate_agent,https://www.cian.ru/rent/flat/307549492/,Москва,rent,flat,3,33,3,100.0,120000,0,Нагатино-Садовники,1-й Нагатинский проезд,11к3,Нагатинская
+12,Ярослав Бибиков,realtor,https://www.cian.ru/rent/flat/307701641/,Москва,rent,flat,6,13,2,60.5,150000,0,Лефортово,проезд Шелихова,3,Площадь Ильича
+13,ID 113479997,realtor,https://www.cian.ru/rent/flat/307549170/,Москва,rent,flat,9,28,3,87.0,120000,0,Даниловский,Автозаводская ,23Бк2,ЗИЛ
+14,Татьяна Антипова,realtor,https://www.cian.ru/rent/flat/302155046/,Москва,rent,flat,2,13,3,62.0,130000,0,Замоскворечье,Новокузнецкая ,13С1,Новокузнецкая
+15,Филипп Прозоров,realtor,https://www.cian.ru/rent/flat/307523410/,Москва,rent,flat,5,8,3,60.0,120000,0,Замоскворечье,Дубининская ,11С2,Павелецкая
+16,WHITE BROKER Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307537192/,Москва,rent,flat,20,25,3,79.0,140000,0,Нагорный,Электролитный проезд,16к4,Нагорная
+17,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307575910/,Москва,rent,flat,11,21,3,80.0,135000,0,Южнопортовый, Мельникова,3к6,Волгоградский проспект
+18,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307473602/,Москва,rent,flat,15,20,3,68.0,150000,0,Даниловский,проспект Андропова,18к2,Технопарк
+19,ID 158648,realtor,https://www.cian.ru/rent/flat/307618444/,Москва,rent,flat,6,6,3,67.0,105000,0,Таганский,2-я Дубровская ,10/8,Пролетарская
+20,Элитный Дом,real_estate_agent,https://www.cian.ru/rent/flat/307635613/,Москва,rent,flat,15,30,2,41.0,90000,0,Южнопортовый,Волгоградский проспект,32/5к1,Угрешская
+21,EstateLiga,real_estate_agent,https://www.cian.ru/rent/flat/307715588/,Москва,rent,flat,7,18,3,65.0,150000,0,Нагатинский затон, Корабельная,3А,Нагатинский Затон
+22,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307654921/,Москва,rent,flat,3,10,2,58.0,185000,0,Беговой,Ленинградский проспект,35,Петровский Парк
+23,ID 131859,homeowner,https://www.cian.ru/rent/flat/298689193/,Москва,rent,flat,3,17,3,65.2,110000,0,Таганский,Марксистская ,9,Пролетарская
+24,Наталья Тен,realtor,https://www.cian.ru/rent/flat/307635452/,Москва,rent,flat,11,27,2,42.0,120000,0,Нагорный,Электролитный проезд,7,Нагорная

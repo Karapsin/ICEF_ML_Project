@@ -1,0 +1,29 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307712606/,Москва,rent,flat,3,5,1,35.0,50000,0,Хорошевский,Ленинградский проспект,45К3,Аэропорт
+1,SKY REALTY,real_estate_agent,https://www.cian.ru/rent/flat/307677332/,Москва,rent,flat,2,6,1,25.0,75000,0,Сокол,3-я Песчаная ,3,Аэропорт
+2,Виталий Кошелев,realtor,https://www.cian.ru/rent/flat/307671473/,Москва,rent,flat,4,5,1,18.5,65000,0,Аэропорт,2-й Амбулаторный проезд,8С3,Аэропорт
+3,Виталий Кошелев,realtor,https://www.cian.ru/rent/flat/307670345/,Москва,rent,flat,3,5,1,18.0,65000,0,Аэропорт,2-й Амбулаторный проезд,8С3,Аэропорт
+4,Vmestate,real_estate_agent,https://www.cian.ru/rent/flat/307665574/,Москва,rent,flat,5,5,1,30.0,70000,0,Аэропорт,2-й Амбулаторный проезд,8С3,Аэропорт
+5,Александр Митряев,realtor,https://www.cian.ru/rent/flat/307651914/,Москва,rent,flat,3,12,1,39.0,75000,0,Хорошевский, Острякова,9,Аэропорт
+6,ID 79184381,unknown,https://www.cian.ru/rent/flat/307635597/,Москва,rent,flat,2,5,1,36.0,75000,0,Аэропорт,1-й Амбулаторный проезд,7кА,Аэропорт
+7,Вариант,real_estate_agent,https://www.cian.ru/rent/flat/307635194/,Москва,rent,flat,5,5,1,32.0,60000,0,Аэропорт,Часовая ,12,Аэропорт
+8,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307630903/,Москва,rent,flat,7,40,1,42.0,170000,0,Хорошевский,Ленинградский проспект,37/5,Аэропорт
+9,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307606930/,Москва,rent,flat,7,9,1,36.0,65000,0,Хорошевский,Ленинградский проспект,43К1,Аэропорт
+10,ОЛИМПИК СТАР,real_estate_agent,https://www.cian.ru/rent/flat/307605968/,Москва,rent,flat,7,9,1,36.0,65000,0,Хорошевский,Ленинградский проспект,43К1,Аэропорт
+11,ID 90528510,homeowner,https://www.cian.ru/rent/flat/307603320/,Москва,rent,flat,1,5,1,31.0,60000,0,Тимирязевский,тупик Чуксин,7,Аэропорт
+12,ID 89709046,realtor,https://www.cian.ru/rent/flat/307602143/,Москва,rent,flat,7,9,1,36.0,65000,0,Хорошевский,Ленинградский проспект,43К1,Аэропорт
+13,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307590913/,Москва,rent,flat,7,9,1,41.0,65000,0,Хорошевский,Ленинградский проспект,43К1,Аэропорт
+14,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307570998/,Москва,rent,flat,6,9,1,33.0,75000,0,Аэропорт, 8 Марта,7/5,Аэропорт
+15,Людмила Юрку,realtor,https://www.cian.ru/rent/flat/307562482/,Москва,rent,flat,5,9,1,36.0,60000,0,Сокол,Ленинградский проспект,77К1,Аэропорт
+16,Игорь Коваль,realtor,https://www.cian.ru/rent/flat/307502168/,Москва,rent,flat,11,22,1,38.7,90000,0,Аэропорт, Черняховского,19,Аэропорт
+17,RENT_BAND,real_estate_agent,https://www.cian.ru/rent/flat/307456996/,Москва,rent,flat,1,5,1,20.0,65000,0,Аэропорт,2-й Амбулаторный проезд,8С3,Аэропорт
+18,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307410811/,Москва,rent,flat,8,9,1,17.0,78500,0,Аэропорт,Большой Коптевский проезд,3С7,Аэропорт
+19,Гранд Плюс,real_estate_agent,https://www.cian.ru/rent/flat/307244002/,Москва,rent,flat,5,9,1,34.5,75000,0,Аэропорт, Усиевича,25К3,Аэропорт
+20,Комфорт,real_estate_agent,https://www.cian.ru/rent/flat/307209116/,Москва,rent,flat,6,9,1,40.0,77000,0,Аэропорт, Усиевича,25К2,Аэропорт
+21,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/306889316/,Москва,rent,flat,2,2,1,25.0,85000,0,Аэропорт,Большой Коптевский проезд,3С2,Аэропорт
+22,ID 7338713,realtor,https://www.cian.ru/rent/flat/306751901/,Москва,rent,flat,3,42,1,42.0,180000,0,Хорошевский,Ленинградский проспект,37/3,Аэропорт
+23,Chase R.E.S.,real_estate_agent,https://www.cian.ru/rent/flat/306663489/,Москва,rent,flat,15,40,1,40.2,180000,0,Хорошевский,Ленинградский проспект,37/4,Аэропорт
+24,EstateLiga,real_estate_agent,https://www.cian.ru/rent/flat/306283488/,Москва,rent,flat,5,40,1,40.1,165000,0,Хорошевский,Ленинградский проспект,37К5,Аэропорт
+25,Александра Мирошниченко,realtor,https://www.cian.ru/rent/flat/305944367/,Москва,rent,flat,9,14,1,20.0,60000,0,Сокол,Балтийская ,15,Аэропорт
+26,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/305622344/,Москва,rent,flat,4,7,1,45.0,80000,0,Аэропорт,Большой Коптевский проезд,3С7,Аэропорт
+27,Валерий Комаров,realtor,https://www.cian.ru/rent/flat/305495276/,Москва,rent,flat,10,14,1,44.0,80000,0,Сокол,Балтийская ,15,Аэропорт

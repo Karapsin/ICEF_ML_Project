@@ -1,0 +1,25 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,ID 471022,realtor,https://www.cian.ru/rent/flat/307797818/,Москва,rent,flat,3,4,3,57.3,80000,0,, Бориса Пастернака,10,Мичуринец
+1,ПАРТНЕР,real_estate_agent,https://www.cian.ru/rent/flat/307760190/,Москва,rent,flat,18,23,3,60.0,80000,0,, Анны Ахматовой,11к1,Мичуринец
+2,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307572241/,Москва,rent,flat,15,19,3,83.0,125000,0,, Бориса Пастернака,49,Мичуринец
+3,Любовь Петренко,realtor,https://www.cian.ru/rent/flat/307480964/,Москва,rent,flat,16,25,3,80.0,85000,0,Ново-Переделкино,Лукинская ,10,Мичуринец
+4,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307478988/,Москва,rent,flat,15,17,3,83.0,125000,0,, Бориса Пастернака,49,Мичуринец
+5,ID 10567745,homeowner,https://www.cian.ru/rent/flat/307394816/,Москва,rent,flat,17,26,3,92.0,69000,0,, Анны Ахматовой,11к3,Мичуринец
+6,ID 13403800,unknown,https://www.cian.ru/rent/flat/307346878/,Москва,rent,flat,7,17,3,75.0,90000,0,Ново-Переделкино,Лукинская ,8,Мичуринец
+7,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307341590/,Москва,rent,flat,21,23,3,88.0,214500,0,, Анны Ахматовой,11к1,Мичуринец
+8,ID 9814882,realtor,https://www.cian.ru/rent/flat/307296892/,Москва,rent,flat,11,22,3,84.0,88000,0,, Анны Ахматовой,22,Мичуринец
+9,Анна Макаренкова,realtor,https://www.cian.ru/rent/flat/307195275/,Москва,rent,flat,3,22,3,90.0,95000,0,, Анны Ахматовой,16,Мичуринец
+10,ID 133822,realtor,https://www.cian.ru/rent/flat/306957930/,Москва,rent,flat,8,17,3,74.0,90000,0,Ново-Переделкино,Лукинская ,9,Мичуринец
+11,Манхэттен эстейт,real_estate_agent,https://www.cian.ru/rent/flat/304823071/,Москва,rent,flat,15,17,3,83.0,130000,0,, Бориса Пастернака,49,Мичуринец
+12,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/302034972/,Москва,rent,flat,9,23,3,85.0,157500,0,, Анны Ахматовой,11к1,Мичуринец
+13,ID 96290130,homeowner,https://www.cian.ru/rent/flat/292000274/,Москва,rent,flat,12,17,3,75.0,110000,0,, Бориса Пастернака,23,Мичуринец
+14,ID 51906291,homeowner,https://www.cian.ru/rent/flat/241562597/,Москва,rent,flat,6,11,3,96.0,130000,0,,бульвар Андрея Тарковского,9,Мичуринец
+15,ID 46989435,realtor,https://www.cian.ru/rent/flat/307687938/,Москва,rent,flat,4,22,2,78.0,55000,0,Солнцево,Производственная ,4к2,Солнцево
+16,ID 17030796,realtor,https://www.cian.ru/rent/flat/307724913/,Москва,rent,flat,16,22,2,62.8,62000,0,, Анны Ахматовой,22,Мичуринец
+17,ID 92569743,homeowner,https://www.cian.ru/rent/flat/307585469/,Москва,rent,flat,6,13,2,60.0,65000,0,, Летчика Грицевца,,Пыхтино
+18,ЛендЛар,real_estate_agent,https://www.cian.ru/rent/flat/307686342/,Москва,rent,flat,6,9,3,86.0,100000,0,,бульвар Андрея Тарковского,,Рассказовка
+19,ID 57975174,unknown,https://www.cian.ru/rent/flat/307708886/,Москва,rent,flat,17,19,2,53.3,80000,0,, Летчика Ульянина,,Пыхтино
+20,ID 15391555,unknown,https://www.cian.ru/rent/flat/306903913/,Москва,rent,flat,10,25,2,75.0,100000,0,Проспект Вернадского, Удальцова,46,Мичуринский проспект
+21,Марина Пескова,realtor,https://www.cian.ru/rent/flat/307500038/,Москва,rent,flat,5,17,1,40.0,44000,0,Ново-Переделкино,Боровское шоссе,30,Новопеределкино
+22,Андрей Кривец,realtor,https://www.cian.ru/rent/flat/307432924/,Москва,rent,flat,17,17,3,75.8,80000,0,Ново-Переделкино,Лукинская ,7,Мичуринец
+23,Антон Репин,realtor,https://www.cian.ru/rent/flat/307668500/,Москва,rent,flat,16,17,2,62.0,60000,0,, Летчика Грицевца,8,Пыхтино

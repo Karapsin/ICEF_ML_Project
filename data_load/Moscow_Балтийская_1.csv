@@ -1,0 +1,32 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,ID 80000226,realtor,https://www.cian.ru/rent/flat/307755786/,Москва,rent,flat,5,12,1,40.0,62000,0,Головинский,Конаковский проезд,6К1,Балтийская
+1,МГСН,real_estate_agent,https://www.cian.ru/rent/flat/307752138/,Москва,rent,flat,5,5,1,30.0,46000,0,Войковский, Зои и Александра Космодемьянских,9к2,Балтийская
+2,EstateLiga,real_estate_agent,https://www.cian.ru/rent/flat/307746656/,Москва,rent,flat,16,29,1,36.0,95000,0,Головинский,Пулковская ,2,Балтийская
+3,ID 89975319,homeowner,https://www.cian.ru/rent/flat/307723116/,Москва,rent,flat,12,13,1,40.0,90000,0,Войковский,Ленинградское шоссе,13К1,Балтийская
+4,Антон Бочкарев,realtor,https://www.cian.ru/rent/flat/307721330/,Москва,rent,flat,4,5,1,32.0,68000,0,Войковский,Ленинградское шоссе,48К1,Балтийская
+5,Наталья Светлая,realtor,https://www.cian.ru/rent/flat/307680806/,Москва,rent,flat,2,4,1,35.4,50000,0,Войковский,Ленинградское шоссе,38К1,Балтийская
+6,Квартирный вопрос,real_estate_agent,https://www.cian.ru/rent/flat/307665938/,Москва,rent,flat,9,22,1,35.0,70000,0,Коптево,Старокоптевский переулок,4,Балтийская
+7,BM-estate Восточный офис,real_estate_agent,https://www.cian.ru/rent/flat/307660724/,Москва,rent,flat,6,17,1,40.0,70000,0,Войковский,Нарвская ,1Ак2,Балтийская
+8,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307649384/,Москва,rent,flat,30,32,1,42.0,109000,0,Головинский,Кронштадтский бульвар,9к2,Балтийская
+9,ID 71293630,realtor,https://www.cian.ru/rent/flat/307581999/,Москва,rent,flat,24,37,1,43.0,115000,0,Войковский,Головинское шоссе,10Б,Балтийская
+10,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307566687/,Москва,rent,flat,1,10,1,30.0,72000,0,Войковский, Адмирала Макарова,6А,Балтийская
+11,Николай Морозов,realtor,https://www.cian.ru/rent/flat/307549075/,Москва,rent,flat,5,6,1,35.0,65000,0,Войковский, Зои и Александра Космодемьянских,18к1,Балтийская
+12,Ирина Коврова,realtor,https://www.cian.ru/rent/flat/307527836/,Москва,rent,flat,2,5,1,32.4,48000,0,Коптево,Коптевский бульвар,15,Балтийская
+13,ПИК-Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307505402/,Москва,rent,flat,12,33,1,46.1,104600,0,Головинский,Кронштадтский бульвар,9к3,Балтийская
+14,VETA RENT,real_estate_agent,https://www.cian.ru/rent/flat/307499875/,Москва,rent,flat,12,30,1,30.0,80000,0,Головинский,Головинское шоссе,7,Балтийская
+15,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307457083/,Москва,rent,flat,3,24,1,25.0,74999,0,Головинский,Головинское шоссе,11,Балтийская
+16,ID 1176,realtor,https://www.cian.ru/rent/flat/307444153/,Москва,rent,flat,4,17,1,42.0,65000,0,Войковский,Нарвская ,1Ак1,Балтийская
+17,СМАРЕНТ,real_estate_agent,https://www.cian.ru/rent/flat/307402334/,Москва,rent,flat,6,6,1,57.0,109900,0,Войковский,Старопетровский проезд,1с1,Балтийская
+18,EstateLiga,real_estate_agent,https://www.cian.ru/rent/flat/307014434/,Москва,rent,flat,15,30,1,46.0,100000,0,Головинский,Кронштадтский бульвар,9к2,Балтийская
+19,Александр Евдокимов,realtor,https://www.cian.ru/rent/flat/306801182/,Москва,rent,flat,6,22,1,35.0,74000,0,Коптево,Старокоптевский переулок,4,Балтийская
+20,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/306669495/,Москва,rent,flat,6,22,1,35.0,74000,0,Коптево,Старокоптевский переулок,4,Балтийская
+21,ID 120757962,homeowner,https://www.cian.ru/rent/flat/306565559/,Москва,rent,flat,6,22,1,35.6,78000,0,Коптево,Старокоптевский переулок,4,Балтийская
+22,ID 7493880,official_representative,https://www.cian.ru/rent/flat/306380788/,Москва,rent,flat,15,27,1,39.4,110000,0,Войковский, Адмирала Макарова,6Бк1,Балтийская
+23,ID 88678561,unknown,https://www.cian.ru/rent/flat/305597387/,Москва,rent,flat,25,30,1,32.0,92000,0,Головинский,Головинское шоссе,7,Балтийская
+24,ID 58381532,realtor,https://www.cian.ru/rent/flat/282899093/,Москва,rent,flat,3,24,1,25.0,78000,0,Головинский,Головинское шоссе,11,Балтийская
+25,ID 90377331,homeowner,https://www.cian.ru/rent/flat/272962347/,Москва,rent,flat,8,36,1,43.6,120000,0,Войковский,Головинское шоссе,10Б,Балтийская
+26,Игорь Мусаев,realtor,https://www.cian.ru/rent/flat/197287501/,Москва,rent,flat,10,26,1,44.0,95000,0,Головинский,Кронштадтский бульвар,6к5,Балтийская
+27,ID 13661781,homeowner,https://www.cian.ru/rent/flat/187465063/,Москва,rent,flat,24,26,1,26.0,70000,0,Головинский,Кронштадтский бульвар,6к5,Балтийская
+28,Александра Мирошниченко,realtor,https://www.cian.ru/rent/flat/305944367/,Москва,rent,flat,9,14,1,20.0,60000,0,Сокол,Балтийская ,15,Сокол
+29,ID 53162893,realtor,https://www.cian.ru/rent/flat/298115980/,Москва,rent,flat,8,16,1,35.0,50000,0,Коптево,Михалковская ,26К2,Коптево
+30,Анна Ларина,realtor,https://www.cian.ru/rent/flat/307667860/,Москва,rent,flat,5,9,1,30.8,55000,0,Головинский,Флотская ,46,Водный стадион

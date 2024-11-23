@@ -1,0 +1,50 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307816428/,Москва,rent,flat,14,21,3,85.0,200000,0,Раменки,Мосфильмовская ,88к4,Матвеевская
+1,Las Vegas,real_estate_agent,https://www.cian.ru/rent/flat/307778886/,Москва,rent,flat,4,7,3,115.0,550000,0,Раменки,Мосфильмовская ,1к3,Матвеевская
+2,Юлия Борисенко,realtor,https://www.cian.ru/rent/flat/307778810/,Москва,rent,flat,20,21,3,115.0,265000,0,Раменки,Мосфильмовская ,88к7,Матвеевская
+3,Александр Краснов,realtor,https://www.cian.ru/rent/flat/307750851/,Москва,rent,flat,15,22,3,80.0,130000,0,Очаково-Матвеевское,Веерная ,46к1,Матвеевская
+4,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307700296/,Москва,rent,flat,12,12,3,105.0,200000,0,Раменки, Столетова,7к1,Матвеевская
+5,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307688651/,Москва,rent,flat,16,23,3,120.0,230000,0,Раменки, Столетова,7,Матвеевская
+6,BOND недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/307677240/,Москва,rent,flat,16,23,3,120.0,230000,0,Раменки, Столетова,7,Матвеевская
+7,Александр Григорьев,realtor,https://www.cian.ru/rent/flat/307674714/,Москва,rent,flat,12,25,3,130.0,230000,0,Очаково-Матвеевское,Нежинская ,8К4,Матвеевская
+8,ID 10244002,homeowner,https://www.cian.ru/rent/flat/307670126/,Москва,rent,flat,3,22,3,72.0,160000,0,Раменки,Мосфильмовская ,53,Матвеевская
+9,Whitewill Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307607032/,Москва,rent,flat,14,20,3,128.0,500000,0,Раменки,Мосфильмовская ,88к4,Матвеевская
+10,Las Vegas,real_estate_agent,https://www.cian.ru/rent/flat/307567071/,Москва,rent,flat,8,22,3,90.0,250000,0,Раменки, Лобачевского,120к1,Матвеевская
+11,Руслан Кадиров,realtor,https://www.cian.ru/rent/flat/307563772/,Москва,rent,flat,2,43,3,72.0,150000,0,Раменки, Василия Ланового,1к1,Матвеевская
+12,Максим Федоров,realtor,https://www.cian.ru/rent/flat/307562433/,Москва,rent,flat,12,15,3,105.0,200000,0,Раменки, Столетова,7к1,Матвеевская
+13,ID 759883,homeowner,https://www.cian.ru/rent/flat/307541771/,Москва,rent,flat,7,15,3,120.0,150000,0,Очаково-Матвеевское,Веерная ,30К6,Матвеевская
+14,БЕСТ недвижимость на Тверской,real_estate_agent,https://www.cian.ru/rent/flat/307527816/,Москва,rent,flat,1,9,3,57.0,90000,0,Очаково-Матвеевское,Матвеевская ,10К5,Матвеевская
+15,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307432139/,Москва,rent,flat,14,21,3,82.0,200000,0,Раменки,Мосфильмовская ,88к4,Матвеевская
+16,ID 514294,homeowner,https://www.cian.ru/rent/flat/307414532/,Москва,rent,flat,14,21,3,82.0,200000,0,Раменки,Мосфильмовская ,88к4,Матвеевская
+17,Las Vegas,real_estate_agent,https://www.cian.ru/rent/flat/307336950/,Москва,rent,flat,30,35,3,62.5,200000,0,Раменки,Мосфильмовская ,98к2,Матвеевская
+18,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307301308/,Москва,rent,flat,13,42,3,79.0,170000,0,Раменки, Лобачевского,120к1,Матвеевская
+19,ID 13385229,homeowner,https://www.cian.ru/rent/flat/307277081/,Москва,rent,flat,1,9,3,70.0,80000,0,Очаково-Матвеевское,Матвеевская ,1,Матвеевская
+20,ID 48464686,realtor,https://www.cian.ru/rent/flat/307113498/,Москва,rent,flat,15,23,3,75.0,150000,0,Очаково-Матвеевское,Веерная ,26А,Матвеевская
+21,СМАРЕНТ,real_estate_agent,https://www.cian.ru/rent/flat/306853252/,Москва,rent,flat,40,43,3,62.6,149900,0,Раменки, Василия Ланового,1к1,Матвеевская
+22,Century 21 Premium Property,real_estate_agent,https://www.cian.ru/rent/flat/306842530/,Москва,rent,flat,6,31,3,67.0,210000,0,Раменки, Лобачевского,120к1,Матвеевская
+23,EstateLiga,real_estate_agent,https://www.cian.ru/rent/flat/306666608/,Москва,rent,flat,10,35,3,84.0,230000,0,Раменки, Лобачевского,120к1,Матвеевская
+24,ID 890569,real_estate_agent,https://www.cian.ru/rent/flat/306635834/,Москва,rent,flat,8,12,3,68.3,70000,0,Очаково-Матвеевское,Веерная ,40К3,Матвеевская
+25,ID 5081794,realtor,https://www.cian.ru/rent/flat/306269938/,Москва,rent,flat,15,21,3,120.0,260000,0,Раменки,Мосфильмовская ,88к2с6,Матвеевская
+26,Юлия Кутепова,realtor,https://www.cian.ru/rent/flat/306259874/,Москва,rent,flat,6,16,3,125.0,150000,0,Очаково-Матвеевское,Веерная ,30К2,Матвеевская
+27,ID 106147412,homeowner,https://www.cian.ru/rent/flat/305838675/,Москва,rent,flat,15,18,3,120.0,350000,0,Раменки,Мосфильмовская ,88к4с3,Матвеевская
+28,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/302035798/,Москва,rent,flat,12,24,3,130.0,650000,0,Очаково-Матвеевское,Староволынская ,12к5,Матвеевская
+29,ID 204921,real_estate_agent,https://www.cian.ru/rent/flat/293811834/,Москва,rent,flat,7,25,3,168.0,400000,0,Очаково-Матвеевское,Староволынская ,12к4,Матвеевская
+30,ID 1539,realtor,https://www.cian.ru/rent/flat/292154301/,Москва,rent,flat,8,26,3,74.0,290000,0,Очаково-Матвеевское,Нежинская ,5к2,Матвеевская
+31,ID 20526899,homeowner,https://www.cian.ru/rent/flat/230080793/,Москва,rent,flat,5,9,3,60.0,100000,0,Очаково-Матвеевское,Веерная ,3К2,Матвеевская
+32,Анна Кустова,realtor,https://www.cian.ru/rent/flat/307649168/,Москва,rent,flat,6,9,2,44.6,60000,0,Можайский,Можайское шоссе,24,Рабочий посёлок
+33,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307399457/,Москва,rent,flat,3,11,4,164.0,230000,0,Пресненский,Большой Тишинский переулок,38С1,Улица 1905 года
+34,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307716824/,Москва,rent,flat,3,6,5,283.0,400000,0,Раменки,Минская ,1А,Минская
+35,Ольга Малькова,realtor,https://www.cian.ru/rent/flat/297618789/,Москва,rent,flat,11,22,1,38.3,65000,0,Фили-Давыдково, Ватутина,7К2,Давыдково
+36,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307629007/,Москва,rent,flat,4,11,4,240.0,1500000,0,Можайский, Вересаева,9,Давыдково
+37,Владимир Фетискин,realtor,https://www.cian.ru/rent/flat/307657123/,Москва,rent,flat,15,16,3,73.0,110000,0,Можайский,Гродненская ,9,Давыдково
+38,ID 13546659,realtor,https://www.cian.ru/rent/flat/307590722/,Москва,rent,flat,26,43,4,98.7,320000,0,Раменки, Василия Ланового,1к1,Матвеевская
+39,SKY REALTY,real_estate_agent,https://www.cian.ru/rent/flat/307707145/,Москва,rent,flat,6,15,3,105.0,480000,0,Дорогомилово,Студенческая ,20к1,Студенческая
+40,Анна Максимова,realtor,https://www.cian.ru/rent/flat/307581105/,Москва,rent,flat,2,14,2,78.0,75000,0,Фили-Давыдково,Малая Филевская ,36,Кунцевская
+41,Whitewill Аренда,real_estate_agent,https://www.cian.ru/rent/flat/306753455/,Москва,rent,flat,9,10,3,78.0,340000,0,Дорогомилово,Кутузовский проспект,4/2,Киевская
+42,ID 1276876,unknown,https://www.cian.ru/rent/flat/307396749/,Москва,rent,flat,19,50,3,78.0,260000,0,Раменки,Мичуринский проспект,56,Раменки
+43,Оксана Сурова,realtor,https://www.cian.ru/rent/flat/307530571/,Москва,rent,flat,15,21,2,52.0,140000,0,Раменки,Мосфильмовская ,88к7,Матвеевская
+44,ID 510179,unknown,https://www.cian.ru/rent/flat/307358929/,Москва,rent,flat,32,32,3,130.0,480000,0,Хорошевский,Ходынский бульвар,5к3,ЦСКА
+45,Галина Иванова,realtor,https://www.cian.ru/rent/flat/307652578/,Москва,rent,flat,7,16,2,60.0,85000,0,Фили-Давыдково,Кастанаевская ,53,Кунцевская
+46,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307295938/,Москва,rent,flat,32,53,2,100.0,350000,0,Раменки,Мосфильмовская ,8,Ломоносовский проспект
+47,ID 7549,realtor,https://www.cian.ru/rent/flat/298686894/,Москва,rent,flat,2,5,2,46.0,65000,0,Фили-Давыдково, Ватутина,2к1,Кунцевская
+48,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307711334/,Москва,rent,flat,8,12,3,64.0,80000,0,Фили-Давыдково,Давыдковская ,10К6,Славянский бульвар

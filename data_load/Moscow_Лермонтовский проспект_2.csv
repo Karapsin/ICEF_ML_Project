@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,EMPIRE HOME,real_estate_agent,https://kotelniki.cian.ru/rent/flat/307718398/,Москва,rent,flat,12,17,2,61.0,65000,0,,проезд 3-й Покровский,2,Лермонтовский проспект
+1,Мой Дом - отделение Добрынинское,real_estate_agent,https://kotelniki.cian.ru/rent/flat/307716220/,Москва,rent,flat,5,19,2,42.0,45000,0,, Сосновая,1к2,Лермонтовский проспект
+2,Вера Закуткина,realtor,https://lyubertsy.cian.ru/rent/flat/307660841/,Москва,rent,flat,15,17,2,64.0,50000,0,, Кирова,5,Лермонтовский проспект
+3,Наталия Овчинникова,realtor,https://kotelniki.cian.ru/rent/flat/307652216/,Москва,rent,flat,5,25,2,44.0,55000,0,,,1к21,Лермонтовский проспект
+4,МИРА,real_estate_agent,https://lyubertsy.cian.ru/rent/flat/307627338/,Москва,rent,flat,1,3,2,47.0,42000,0,,Новая ,8А,Лермонтовский проспект
+5,Вера Чечина,realtor,https://lyubertsy.cian.ru/rent/flat/307621823/,Москва,rent,flat,4,5,2,58.6,60000,0,,Октябрьский проспект,51,Лермонтовский проспект
+6,Нарине Чобанян,realtor,https://kotelniki.cian.ru/rent/flat/307464143/,Москва,rent,flat,16,25,2,80.0,75000,0,, Сосновая,2к1,Лермонтовский проспект
+7,Анастасия Васильева,realtor,https://lyubertsy.cian.ru/rent/flat/307415695/,Москва,rent,flat,7,26,2,37.5,65000,0,, Летчика Ларюшина,18,Лермонтовский проспект
+8,ID 12660519,homeowner,https://lyubertsy.cian.ru/rent/flat/307348874/,Москва,rent,flat,20,25,2,60.0,88000,0,, Летчика Ларюшина,20,Лермонтовский проспект
+9,ID 79527581,homeowner,https://lyubertsy.cian.ru/rent/flat/307262945/,Москва,rent,flat,1,5,2,68.0,79000,0,,Октябрьский проспект,47,Лермонтовский проспект
+10,Домклик Аренда,real_estate_agent,https://lyubertsy.cian.ru/rent/flat/307220195/,Москва,rent,flat,8,18,2,64.3,77000,0,,Октябрьский проспект,18к1,Лермонтовский проспект
+11,MOTYLEK - департамент недвижимости,real_estate_agent,https://www.cian.ru/rent/flat/307214415/,Москва,rent,flat,9,17,2,55.0,50000,0,Выхино-Жулебино,Привольная ,9К1,Лермонтовский проспект
+12,Яндекс Аренда,real_estate_agent,https://kotelniki.cian.ru/rent/flat/307185695/,Москва,rent,flat,5,17,2,73.0,87500,0,, Кузьминская,5к1,Лермонтовский проспект
+13,Артем Алвандян,realtor,https://kotelniki.cian.ru/rent/flat/306940023/,Москва,rent,flat,5,17,2,70.0,60000,0,, Кузьминская,13,Лермонтовский проспект
+14,Владимир Дворянский,realtor,https://kotelniki.cian.ru/rent/flat/306908468/,Москва,rent,flat,17,30,2,52.0,70000,0,, Сосновая,1к5,Лермонтовский проспект
+15,ID 121191986,homeowner,https://kotelniki.cian.ru/rent/flat/306706559/,Москва,rent,flat,5,17,2,71.0,90000,0,, Кузьминская,5к1,Лермонтовский проспект
+16,ID 52479639,unknown,https://www.cian.ru/rent/flat/298111398/,Москва,rent,flat,6,28,2,44.3,70000,0,Выхино-Жулебино,Жулебинский бульвар,33к1,Лермонтовский проспект
+17,ID 71667113,unknown,https://lyubertsy.cian.ru/rent/flat/296674189/,Москва,rent,flat,12,25,2,52.0,65000,0,, Летчика Ларюшина,6к2,Лермонтовский проспект
+18,Павел Акимов,realtor,https://kotelniki.cian.ru/rent/flat/250144529/,Москва,rent,flat,29,30,2,61.0,71000,0,, Сосновая,1к5,Лермонтовский проспект
+19,ID 43782748,homeowner,https://www.cian.ru/rent/flat/219375339/,Москва,rent,flat,12,14,2,56.0,75000,0,Выхино-Жулебино,Лермонтовский проспект,10К1,Лермонтовский проспект
+20,ID 10981982,homeowner,https://www.cian.ru/rent/flat/165531554/,Москва,rent,flat,7,18,2,58.5,80000,0,Выхино-Жулебино,Пронская ,9К1,Лермонтовский проспект
+21,ID 31089,realtor,https://lyubertsy.cian.ru/rent/flat/261969263/,Москва,rent,flat,5,18,1,43.0,42000,0,,Октябрьский проспект,18к3,Лермонтовский проспект
+22,ID 95802747,homeowner,https://lyubertsy.cian.ru/rent/flat/278189315/,Москва,rent,flat,21,25,1,34.0,55000,0,, Летчика Ларюшина,12,Котельники
+23,Светлана Исаченкова,realtor,https://lyubertsy.cian.ru/rent/flat/307609257/,Москва,rent,flat,9,17,1,49.8,48000,0,,Октябрьский проспект,18к1,Лермонтовский проспект
+24,ID 53005653,realtor,https://lyubertsy.cian.ru/rent/flat/306181098/,Москва,rent,flat,2,5,2,39.5,45000,0,, 3-е Почтовое Отделение,24,Котельники

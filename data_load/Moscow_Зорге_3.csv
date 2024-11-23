@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,ID 10250146,realtor,https://www.cian.ru/rent/flat/307786781/,Москва,rent,flat,1,5,3,56.8,90000,0,Сокол,Песчаный переулок,10К1,Зорге
+1,KAIF,real_estate_agent,https://www.cian.ru/rent/flat/307741328/,Москва,rent,flat,9,27,3,130.0,245000,0,Щукино, Маршала Соколовского,5,Зорге
+2,ID 29530819,homeowner,https://www.cian.ru/rent/flat/307676030/,Москва,rent,flat,9,23,3,127.5,245000,0,Щукино, Маршала Соколовского,5,Зорге
+3,Las Vegas,real_estate_agent,https://www.cian.ru/rent/flat/307632887/,Москва,rent,flat,2,9,3,60.0,250000,0,Хорошево-Мневники, Маршала Тухачевского,23К1,Зорге
+4,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307613840/,Москва,rent,flat,4,12,3,120.0,225000,0,Хорошевский,Ходынский бульвар,19,Зорге
+5,Алексей Дроздов,realtor,https://www.cian.ru/rent/flat/307608068/,Москва,rent,flat,5,11,3,150.0,250000,0,Хорошевский, Куусинена,21А,Зорге
+6,ID 121972133,homeowner,https://www.cian.ru/rent/flat/307538913/,Москва,rent,flat,5,23,3,125.0,270000,0,Щукино, Расплетина,22к2,Зорге
+7,Елена Леонова,realtor,https://www.cian.ru/rent/flat/307524351/,Москва,rent,flat,4,8,3,93.0,90000,0,Хорошевский, Зорге,14к2,Зорге
+8,Capital Estate,real_estate_agent,https://www.cian.ru/rent/flat/307474986/,Москва,rent,flat,14,32,3,63.7,160000,0,Хорошево-Мневники,бульвар Генерала Карбышева,15,Зорге
+9,My Hoyse,real_estate_agent,https://www.cian.ru/rent/flat/307322561/,Москва,rent,flat,8,26,3,132.0,200000,0,Хорошево-Мневники, Народного Ополчения,33,Зорге
+10,Ирина Крыгина,realtor,https://www.cian.ru/rent/flat/307268761/,Москва,rent,flat,19,26,3,130.0,280000,0,Хорошевский,проезд Березовой Рощи,12,Зорге
+11,ID 401457,realtor,https://www.cian.ru/rent/flat/307155745/,Москва,rent,flat,8,27,3,73.0,165000,0,Хорошевский, Зорге,9к2,Зорге
+12,Дипломат,real_estate_agent,https://www.cian.ru/rent/flat/306729481/,Москва,rent,flat,4,7,3,110.0,200000,0,Сокол,Новопесчаная ,17к4,Зорге
+13,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/306554219/,Москва,rent,flat,2,12,3,67.0,95000,0,Хорошево-Мневники, Маршала Тухачевского,19,Зорге
+14,МДН,real_estate_agent,https://www.cian.ru/rent/flat/305908642/,Москва,rent,flat,4,6,3,90.0,150000,0,Сокол,2-я Песчаная ,2к4,Зорге
+15,ID 16699,realtor,https://www.cian.ru/rent/flat/299558162/,Москва,rent,flat,1,6,3,90.5,100000,0,Сокол,3-я Песчаная ,3,Зорге
+16,,,https://www.cian.ru/rent/flat/274343143/,Москва,rent,flat,8,11,3,100.0,239999,0,Щукино, Маршала Рыбалко,2к6,Зорге
+17,ID 16072,realtor,https://www.cian.ru/rent/flat/197710828/,Москва,rent,flat,16,23,3,132.0,220000,0,Сокол, Алабяна,13к2,Зорге
+18,ID 67501971,homeowner,https://www.cian.ru/rent/flat/307698182/,Москва,rent,flat,17,37,3,86.0,150000,0,Хорошевский,Хорошевское шоссе,12к1,Беговая
+19,Максим Костромин,realtor,https://www.cian.ru/rent/flat/307301864/,Москва,rent,flat,3,5,4,100.0,100000,0,Щукино, Маршала Рыбалко,1,Зорге
+20,ID 100465345,homeowner,https://www.cian.ru/rent/flat/307552263/,Москва,rent,flat,3,41,3,82.0,150000,0,Хорошевский,Ленинградский проспект,37/6,Аэропорт
+21,ID 78836159,homeowner,https://www.cian.ru/rent/flat/298741655/,Москва,rent,flat,5,44,3,68.0,160000,0,Пресненский,Ходынская ,2,Улица 1905 года
+22,ID 26772845,unknown,https://www.cian.ru/rent/flat/307538486/,Москва,rent,flat,10,18,3,120.0,220000,0,Хорошевский, Гризодубовой,4К4,ЦСКА
+23,ID 122095580,homeowner,https://www.cian.ru/rent/flat/307647191/,Москва,rent,flat,4,15,4,96.0,260000,0,Хорошевский,Ходынский бульвар,2,ЦСКА
+24,МЕГАПОЛИС ЭСТЕЙТ,real_estate_agent,https://www.cian.ru/rent/flat/298464590/,Москва,rent,flat,34,43,3,99.8,140000,0,Хорошевский,Хорошевское шоссе,16к2,Беговая

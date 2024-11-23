@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Инна Андреева,realtor,https://www.cian.ru/rent/flat/306272287/,Москва,rent,flat,4,16,3,65.0,70000,0,Капотня,5-й кв-л,15,Братиславская
+1,Татьяна Долбикова,realtor,https://www.cian.ru/rent/flat/305824517/,Москва,rent,flat,9,22,3,80.0,90000,0,Люблино,Новороссийская ,34,Братиславская
+2,Игорь Лизун,realtor,https://www.cian.ru/rent/flat/283408688/,Москва,rent,flat,5,16,3,75.0,70000,0,Марьино, Маршала Голованова,14,Братиславская
+3,Ольга Шарова,realtor,https://www.cian.ru/rent/flat/280364275/,Москва,rent,flat,12,14,3,84.0,100000,0,Марьино,Братиславская ,34К2,Братиславская
+4,ID 1325,realtor,https://www.cian.ru/rent/flat/279806941/,Москва,rent,flat,19,25,3,56.0,95000,0,Люблино,Люблинская ,78к2,Братиславская
+5,ID 199924,realtor,https://www.cian.ru/rent/flat/253777535/,Москва,rent,flat,20,22,3,80.0,100000,0,Марьино,Новочеркасский бульвар,42,Братиславская
+6,Ирина Артамонова,realtor,https://www.cian.ru/rent/flat/307229679/,Москва,rent,flat,9,17,2,53.0,57000,0,Марьино,Новочеркасский бульвар,47,Братиславская
+7,ID 76871139,homeowner,https://www.cian.ru/rent/flat/307264709/,Москва,rent,flat,10,17,3,77.0,85000,0,Марьино,Братиславская ,15К1,Братиславская
+8,Елена Стометова,realtor,https://www.cian.ru/rent/flat/307561705/,Москва,rent,flat,3,9,2,45.0,60000,0,Марьино,Новочеркасский бульвар,9,Курьяново
+9,MDco,real_estate_agent,https://www.cian.ru/rent/flat/307429622/,Москва,rent,flat,1,9,3,76.0,65000,0,Зябликово,Шипиловская ,41К1,Шипиловская
+10,Максим Тарасов,realtor,https://www.cian.ru/rent/flat/306692133/,Москва,rent,flat,7,25,2,71.0,73000,0,Печатники, Гурьянова,19К2,Печатники
+11,ID 12694494,realtor,https://www.cian.ru/rent/flat/307656754/,Москва,rent,flat,5,9,3,50.0,60000,0,Орехово-Борисово Северное, Генерала Белова,19К1,Домодедовская
+12,ID 102748459,homeowner,https://www.cian.ru/rent/flat/295059770/,Москва,rent,flat,13,17,2,55.0,75000,0,Марьино,Люблинская ,118,Братиславская
+13,ID 24684,realtor,https://www.cian.ru/rent/flat/307652198/,Москва,rent,flat,7,14,2,53.4,50000,0,Люблино, Марьинский Парк,33,Братиславская
+14,ID 27897,realtor,https://www.cian.ru/rent/flat/307432003/,Москва,rent,flat,14,14,2,54.0,63000,0,Марьино,Поречная ,3К1,Братиславская
+15,ID 17228670,realtor,https://www.cian.ru/rent/flat/306953819/,Москва,rent,flat,11,12,2,50.1,65000,0,Печатники, Кухмистерова,11,Люблино
+16,Юрий Ким,realtor,https://www.cian.ru/rent/flat/307623471/,Москва,rent,flat,8,14,1,36.0,44000,0,Капотня,4-й кв-л,9,Братиславская
+17,Татьяна Киселева,realtor,https://www.cian.ru/rent/flat/307613202/,Москва,rent,flat,10,14,1,38.5,46000,0,Марьино,Новочеркасский бульвар,46,Братиславская
+18,Магазин квартир,real_estate_agent,https://www.cian.ru/rent/flat/307561673/,Москва,rent,flat,12,12,2,50.0,60000,0,Люблино,Белореченская ,21,Братиславская
+19,Елена Абрамова,realtor,https://www.cian.ru/rent/flat/296267694/,Москва,rent,flat,4,14,2,55.7,70000,0,Марьино,Поречная ,3К1,Братиславская
+20,ID 107003209,homeowner,https://www.cian.ru/rent/flat/307429684/,Москва,rent,flat,21,25,2,55.8,75000,0,Марьино, Перерва,55,Братиславская
+21,MOTYLEK - департамент недвижимости,real_estate_agent,https://www.cian.ru/rent/flat/307670223/,Москва,rent,flat,1,9,1,42.0,40000,0,Марьино,Батайский проезд,13,Курьяново
+22,Лидия Скороходова,realtor,https://www.cian.ru/rent/flat/232200003/,Москва,rent,flat,13,17,1,38.0,53000,0,Марьино,Братиславская ,15К1,Братиславская
+23,РеалКомфорт,real_estate_agent,https://www.cian.ru/rent/flat/280366915/,Москва,rent,flat,2,9,1,33.0,41000,0,Марьино,Новочеркасский бульвар,22,Братиславская
+24,ПИК-Аренда,real_estate_agent,https://www.cian.ru/rent/flat/306951377/,Москва,rent,flat,12,25,2,60.4,73000,0,Люблино,Люблинская ,74к3,Братиславская

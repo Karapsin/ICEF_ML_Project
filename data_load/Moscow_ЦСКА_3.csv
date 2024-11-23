@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Las Vegas,real_estate_agent,https://www.cian.ru/rent/flat/307824374/,Москва,rent,flat,4,23,3,153.0,240000,0,Хорошевский, Гризодубовой,2,ЦСКА
+1,My Hoyse,real_estate_agent,https://www.cian.ru/rent/flat/307720155/,Москва,rent,flat,4,15,3,100.0,260000,0,Хорошевский,Ходынский бульвар,2,ЦСКА
+2,ЛИДЕР Риэлти,real_estate_agent,https://www.cian.ru/rent/flat/307670052/,Москва,rent,flat,10,40,3,90.0,400000,0,Хорошевский,Ленинградский проспект,37/6,ЦСКА
+3,ID 7933,realtor,https://www.cian.ru/rent/flat/307659708/,Москва,rent,flat,10,17,3,85.0,150000,0,Хорошевский, Полины Осипенко,22К3,ЦСКА
+4,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307649348/,Москва,rent,flat,4,15,3,100.0,250000,0,Хорошевский,Ходынский бульвар,2,ЦСКА
+5,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307635602/,Москва,rent,flat,9,20,3,96.0,150000,0,Хорошевский,Хорошевское шоссе,64К1,ЦСКА
+6,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307613840/,Москва,rent,flat,4,12,3,120.0,225000,0,Хорошевский,Ходынский бульвар,19,ЦСКА
+7,ID 100465345,homeowner,https://www.cian.ru/rent/flat/307552263/,Москва,rent,flat,3,41,3,82.0,150000,0,Хорошевский,Ленинградский проспект,37/6,ЦСКА
+8,ID 26772845,unknown,https://www.cian.ru/rent/flat/307538486/,Москва,rent,flat,10,18,3,120.0,220000,0,Хорошевский, Гризодубовой,4К4,ЦСКА
+9,Chase R.E.S.,real_estate_agent,https://www.cian.ru/rent/flat/307491629/,Москва,rent,flat,11,41,3,92.0,450000,0,Хорошевский,Ленинградский проспект,37/6,ЦСКА
+10,Максим Белашов,realtor,https://www.cian.ru/rent/flat/307422895/,Москва,rent,flat,32,42,3,71.8,350000,0,Хорошевский,Ленинградский проспект,37/5,ЦСКА
+11,ID 510179,unknown,https://www.cian.ru/rent/flat/307358929/,Москва,rent,flat,32,32,3,130.0,480000,0,Хорошевский,Ходынский бульвар,5к3,ЦСКА
+12,ID 81331897,realtor,https://www.cian.ru/rent/flat/307324342/,Москва,rent,flat,4,18,3,81.0,195000,0,Хорошевский, Гризодубовой,4К3,ЦСКА
+13,Ирина Крыгина,realtor,https://www.cian.ru/rent/flat/307268761/,Москва,rent,flat,19,26,3,130.0,280000,0,Хорошевский,проезд Березовой Рощи,12,ЦСКА
+14,Las Vegas,real_estate_agent,https://www.cian.ru/rent/flat/306966692/,Москва,rent,flat,3,10,3,127.0,280000,0,Хорошевский,Ходынский бульвар,13,ЦСКА
+15,МОСКВА СИТИ,real_estate_agent,https://www.cian.ru/rent/flat/306938591/,Москва,rent,flat,5,24,3,120.0,250000,0,Хорошевский, Авиаконструктора Сухого,2к1,ЦСКА
+16,ID 18933,realtor,https://www.cian.ru/rent/flat/306878641/,Москва,rent,flat,5,17,3,87.0,280000,0,Беговой,Ленинградский проспект,35С2,ЦСКА
+17,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/306788850/,Москва,rent,flat,5,24,3,120.0,250000,0,Хорошевский, Авиаконструктора Сухого,2к1,ЦСКА
+18,Сергей Мараков,realtor,https://www.cian.ru/rent/flat/295426623/,Москва,rent,flat,19,26,3,78.4,130000,0,Хорошевский,проезд Березовой Рощи,12,ЦСКА
+19,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/291497240/,Москва,rent,flat,14,19,3,65.0,80000,0,Хорошевский, Полины Осипенко,2к2,ЦСКА
+20,Московские Холмы,real_estate_agent,https://www.cian.ru/rent/flat/288353537/,Москва,rent,flat,12,43,3,80.0,400000,0,Хорошевский,Ленинградский проспект,37/5,ЦСКА
+21,Светлана Харина,realtor,https://www.cian.ru/rent/flat/275891513/,Москва,rent,flat,35,42,3,82.0,450000,0,Хорошевский,Ленинградский проспект,37/5,ЦСКА
+22,АСВ-недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/267345290/,Москва,rent,flat,7,24,3,83.0,190000,0,Хорошевский, Авиаконструктора Сухого,2к1,ЦСКА
+23,ID 20395643,homeowner,https://www.cian.ru/rent/flat/307721291/,Москва,rent,flat,6,12,3,111.0,390000,0,Аэропорт,Ленинградский проспект,36с36,Петровский Парк
+24,ID 78836159,homeowner,https://www.cian.ru/rent/flat/298741655/,Москва,rent,flat,5,44,3,68.0,160000,0,Пресненский,Ходынская ,2,Улица 1905 года

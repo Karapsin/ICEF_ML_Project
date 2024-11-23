@@ -1,0 +1,53 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,ID 5629,realtor,https://www.cian.ru/rent/flat/307779716/,Москва,rent,flat,7,9,1,32.0,45000,0,Северное Тушино, Вилиса Лациса,7К1,Трикотажная
+1,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307771397/,Москва,rent,flat,2,5,1,35.0,45000,0,Южное Тушино,Лодочная ,39С1,Трикотажная
+2,Юлия Шалаева,realtor,https://www.cian.ru/rent/flat/307771027/,Москва,rent,flat,5,12,1,36.0,45000,0,Северное Тушино,Туристская ,23,Трикотажная
+3,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307770812/,Москва,rent,flat,5,5,1,30.0,54000,0,Южное Тушино,Лодочная ,39С1,Трикотажная
+4,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307770355/,Москва,rent,flat,12,16,1,40.0,50000,0,Северное Тушино, Героев Панфиловцев,7К2,Трикотажная
+5,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307762984/,Москва,rent,flat,4,9,1,35.0,70000,0,Северное Тушино,Планерная ,12К3,Трикотажная
+6,ID 81386,homeowner,https://www.cian.ru/rent/flat/307756703/,Москва,rent,flat,5,5,1,28.0,54000,0,Южное Тушино,Лодочная ,39С1,Трикотажная
+7,EstateLiga,real_estate_agent,https://www.cian.ru/rent/flat/307755867/,Москва,rent,flat,17,26,1,59.0,200000,0,Покровское-Стрешнево,бульвар Небесный,1к1,Трикотажная
+8,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307741717/,Москва,rent,flat,4,16,1,41.0,49900,0,Северное Тушино, Вилиса Лациса,21К4,Трикотажная
+9,ID 7174336,realtor,https://www.cian.ru/rent/flat/307740684/,Москва,rent,flat,10,12,1,36.0,40000,0,Северное Тушино,Туристская ,13К2,Трикотажная
+10,ID 11669,realtor,https://www.cian.ru/rent/flat/307726162/,Москва,rent,flat,8,9,1,34.0,40000,0,Северное Тушино,Планерная ,16К6,Трикотажная
+11,ID 107297208,homeowner,https://www.cian.ru/rent/flat/307724087/,Москва,rent,flat,1,9,1,33.0,60000,0,Южное Тушино,Штурвальная ,5С2,Трикотажная
+12,Михаил Мурашов,realtor,https://www.cian.ru/rent/flat/307688988/,Москва,rent,flat,16,22,1,40.0,50000,0,Митино,Пятницкое шоссе,12к3,Трикотажная
+13,Елена Стометова,realtor,https://www.cian.ru/rent/flat/307681959/,Москва,rent,flat,6,17,1,38.0,60000,0,Южное Тушино,Сходненская ,6,Трикотажная
+14,ID 52443511,realtor,https://www.cian.ru/rent/flat/307671403/,Москва,rent,flat,18,22,1,40.0,95000,0,Покровское-Стрешнево,Волоколамское шоссе,71/22к3,Трикотажная
+15,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307651329/,Москва,rent,flat,12,16,1,37.0,50000,0,Северное Тушино, Героев Панфиловцев,7К2,Трикотажная
+16,ID 354711,realtor,https://www.cian.ru/rent/flat/307633666/,Москва,rent,flat,13,16,1,50.0,60000,0,Южное Тушино,Аэродромная ,11,Трикотажная
+17,Ольга Федукина,realtor,https://www.cian.ru/rent/flat/307630935/,Москва,rent,flat,5,17,1,39.0,55000,0,Митино,Пятницкое шоссе,8,Трикотажная
+18,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307613848/,Москва,rent,flat,17,26,1,59.0,200000,0,Покровское-Стрешнево,бульвар Небесный,1к1,Трикотажная
+19,Столичный Проспект,real_estate_agent,https://www.cian.ru/rent/flat/307604148/,Москва,rent,flat,2,5,1,30.0,43000,0,Южное Тушино,Лодочная ,39С1,Трикотажная
+20,ID 69398662,unknown,https://www.cian.ru/rent/flat/307602091/,Москва,rent,flat,2,12,1,33.0,48000,0,Северное Тушино,бульвар Яна Райниса,28К2,Трикотажная
+21,Владимир Иванов,realtor,https://www.cian.ru/rent/flat/307565948/,Москва,rent,flat,5,9,1,33.0,50000,0,Северное Тушино, Героев Панфиловцев,21,Трикотажная
+22,ID 48641322,homeowner,https://www.cian.ru/rent/flat/307506491/,Москва,rent,flat,11,24,1,47.4,70000,0,Северное Тушино, Вилиса Лациса,21,Трикотажная
+23,ID 121892959,homeowner,https://www.cian.ru/rent/flat/307458453/,Москва,rent,flat,17,26,1,59.0,200000,0,Покровское-Стрешнево,бульвар Небесный,1к1,Трикотажная
+24,EMPIRE HOME,real_estate_agent,https://www.cian.ru/rent/flat/307450155/,Москва,rent,flat,5,16,1,35.0,50000,0,Южное Тушино,Светлогорский проезд,9,Трикотажная
+25,Makarov Home,real_estate_agent,https://www.cian.ru/rent/flat/307414523/,Москва,rent,flat,10,25,1,50.0,90000,0,Митино,Митинская ,10,Трикотажная
+26,ГОРОБМЕН,real_estate_agent,https://www.cian.ru/rent/flat/307277411/,Москва,rent,flat,1,3,1,22.0,55000,0,Покровское-Стрешнево,Волоколамское шоссе,вл116,Трикотажная
+27,ID 58896664,unknown,https://www.cian.ru/rent/flat/307244441/,Москва,rent,flat,5,5,1,46.0,56000,0,Южное Тушино, Василия Петушкова,20к1,Трикотажная
+28,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307232021/,Москва,rent,flat,4,9,1,33.0,70000,0,Северное Тушино,Планерная ,12К3,Трикотажная
+29,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307183314/,Москва,rent,flat,10,14,1,48.0,55000,0,Покровское-Стрешнево,проезд Стратонавтов,14К1,Трикотажная
+30,SC Realty,real_estate_agent,https://www.cian.ru/rent/flat/306900899/,Москва,rent,flat,3,20,1,54.0,75000,0,Южное Тушино,Сходненская ,35К1,Трикотажная
+31,Vmestate,real_estate_agent,https://www.cian.ru/rent/flat/306856818/,Москва,rent,flat,14,17,1,38.0,55000,0,Митино,Новотушинский проезд,8К1,Трикотажная
+32,ID 12378243,homeowner,https://www.cian.ru/rent/flat/306774135/,Москва,rent,flat,6,22,1,42.0,25500,0,Покровское-Стрешнево,бульвар Чкаловский,6,Трикотажная
+33,Правовой Центр Недвижимости,real_estate_agent,https://www.cian.ru/rent/flat/306768920/,Москва,rent,flat,12,13,1,37.5,80000,0,Покровское-Стрешнево,Волоколамское шоссе,71/22к3,Трикотажная
+34,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/306540362/,Москва,rent,flat,17,19,1,48.0,115000,0,Покровское-Стрешнево,Волоколамское шоссе,95/2к8,Трикотажная
+35,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/306399340/,Москва,rent,flat,17,21,1,48.0,110000,0,Покровское-Стрешнево,Волоколамское шоссе,95/2,Трикотажная
+36,Олег Меньшиков,realtor,https://www.cian.ru/rent/flat/306339811/,Москва,rent,flat,17,21,1,48.0,110000,0,Покровское-Стрешнево,Волоколамское шоссе,95/2к8,Трикотажная
+37,ID 75231024,homeowner,https://www.cian.ru/rent/flat/304898337/,Москва,rent,flat,18,24,1,47.4,75000,0,Северное Тушино, Вилиса Лациса,17к1,Трикотажная
+38,М БЭСТ ХАУС,real_estate_agent,https://www.cian.ru/rent/flat/289274323/,Москва,rent,flat,10,26,1,36.0,90000,0,Покровское-Стрешнево,Летная ,95Бк2,Трикотажная
+39,Наталья Денисова,realtor,https://www.cian.ru/rent/flat/288315061/,Москва,rent,flat,2,17,1,41.5,70000,0,Северное Тушино,Туристская ,16к4,Трикотажная
+40,ID 29035129,homeowner,https://www.cian.ru/rent/flat/283863905/,Москва,rent,flat,9,12,1,35.3,55000,0,Северное Тушино,Туристская ,19К1,Трикотажная
+41,Наталья Макаева,realtor,https://www.cian.ru/rent/flat/254110679/,Москва,rent,flat,7,8,1,45.0,75000,0,Покровское-Стрешнево,Волоколамское шоссе,71к4,Трикотажная
+42,ID 19364112,homeowner,https://www.cian.ru/rent/flat/222088314/,Москва,rent,flat,12,16,1,37.0,50000,0,Северное Тушино, Героев Панфиловцев,7К1,Трикотажная
+43,Моя Недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/304860154/,Москва,rent,flat,7,8,1,34.0,67000,0,Хорошевский, Куусинена,17к1,Зорге
+44,ID 11281744,realtor,https://www.cian.ru/rent/flat/217491574/,Москва,rent,flat,6,16,1,35.0,55000,0,Хорошево-Мневники, Мневники,13К1,Народное Ополчение
+45,ID 176308,realtor,https://www.cian.ru/rent/flat/307413419/,Москва,rent,flat,2,12,2,37.4,47000,0,Северное Тушино,бульвар Яна Райниса,16К2,Трикотажная
+46,ID 106985975,homeowner,https://www.cian.ru/rent/flat/306863750/,Москва,rent,flat,1,9,1,22.0,50000,0,Щукино, Расплетина,3К2,Октябрьское поле
+47,ID 127014,realtor,https://www.cian.ru/rent/flat/307632815/,Москва,rent,flat,4,12,2,40.0,45000,0,Северное Тушино, Героев Панфиловцев,41К1,Трикотажная
+48,ID 50570,realtor,https://www.cian.ru/rent/flat/307652272/,Москва,rent,flat,8,14,1,37.8,60000,0,Митино,Митинская ,49,Пятницкое шоссе
+49,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307405791/,Москва,rent,flat,5,5,2,41.0,55000,0,Покровское-Стрешнево,Полесский проезд,10,Щукинская
+50,EMPIRE HOME,real_estate_agent,https://www.cian.ru/rent/flat/307567397/,Москва,rent,flat,2,17,1,25.0,35000,0,Северное Тушино, Вилиса Лациса,27,Планерная
+51,ID 12431,realtor,https://www.cian.ru/rent/flat/306817484/,Москва,rent,flat,4,9,2,45.0,85000,0,Покровское-Стрешнево,Волоколамское шоссе,49,Щукинская

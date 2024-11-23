@@ -1,0 +1,49 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,ID 13114295,realtor,https://balashikha.cian.ru/rent/flat/307771245/,Москва,rent,flat,10,14,1,42.0,42000,0,, Колхозная,8,Железнодорожная
+1,Михаил Мальцев,realtor,https://balashikha.cian.ru/rent/flat/307746280/,Москва,rent,flat,10,19,1,38.0,30000,0,, Речная,12,Железнодорожная
+2,ID 15997179,homeowner,https://balashikha.cian.ru/rent/flat/307746227/,Москва,rent,flat,9,17,1,39.0,37000,0,, Рождественская,7,Железнодорожная
+3,МОЦАР,official_representative,https://balashikha.cian.ru/rent/flat/307742234/,Москва,rent,flat,7,22,1,39.0,37000,0,,проспект Героев,3,Железнодорожная
+4,ID 3746974,homeowner,https://staraya-kupavna.cian.ru/rent/flat/307735809/,Москва,rent,flat,6,18,1,42.0,35000,0,, Трудовая,19А,Железнодорожная
+5,Этажи Москва,real_estate_agent,https://losino-petrovskiy.cian.ru/rent/flat/307723679/,Москва,rent,flat,6,16,1,51.0,40000,0,Свердловский рп, Заречная,16,
+6,Анна Старченко,realtor,https://balashikha.cian.ru/rent/flat/307723027/,Москва,rent,flat,12,17,1,49.2,43000,0,, Жилгородок,4к1,Железнодорожная
+7,Елена Матвеева,realtor,https://balashikha.cian.ru/rent/flat/307716188/,Москва,rent,flat,15,18,1,38.0,32000,0,, Маяковского,30,Железнодорожная
+8,ID 77791480,homeowner,https://balashikha.cian.ru/rent/flat/307714133/,Москва,rent,flat,25,26,1,49.0,35000,0,,проспект Героев,10,Железнодорожная
+9,МИЭЛЬ - Офис в Железнодорожном,real_estate_agent,https://balashikha.cian.ru/rent/flat/307704166/,Москва,rent,flat,8,17,1,37.4,40000,0,, Жилгородок,2,Железнодорожная
+10,Наталья Морозова,realtor,https://staraya-kupavna.cian.ru/rent/flat/307700926/,Москва,rent,flat,8,18,1,42.0,42000,0,, Октябрьская,14А,Железнодорожная
+11,ОХОТНЫЙ РЯД офис Тверская,real_estate_agent,https://balashikha.cian.ru/rent/flat/307699720/,Москва,rent,flat,11,17,1,29.0,40000,0,, Пионерская,20,Железнодорожная
+12,ID 72629792,unknown,https://balashikha.cian.ru/rent/flat/307686857/,Москва,rent,flat,21,21,1,32.1,45000,0,,проспект Героев,18,Железнодорожная
+13,ID 13626796,unknown,https://balashikha.cian.ru/rent/flat/307679715/,Москва,rent,flat,13,19,1,38.0,35000,0,, Рождественская,10,Железнодорожная
+14,Замоскворечье,real_estate_agent,https://balashikha.cian.ru/rent/flat/307670971/,Москва,rent,flat,16,17,1,38.0,36000,0,, Граничная,36,Железнодорожная
+15,ID 63664685,unknown,https://balashikha.cian.ru/rent/flat/307649857/,Москва,rent,flat,13,17,1,42.0,50000,0,, Безымянная,16,Железнодорожная
+16,ID 13430916,unknown,https://balashikha.cian.ru/rent/flat/307629667/,Москва,rent,flat,16,21,1,33.0,27000,0,,проспект Героев,17,Железнодорожная
+17,Абсолют Капитал Недвижимость,real_estate_agent,https://balashikha.cian.ru/rent/flat/307611992/,Москва,rent,flat,5,6,1,36.0,45000,0,, Народного ополчения,1,Железнодорожная
+18,ОГРК,real_estate_agent,https://balashikha.cian.ru/rent/flat/307604849/,Москва,rent,flat,2,5,1,30.6,38000,0,, Маяковского,19,Железнодорожная
+19,На Петровке,real_estate_agent,https://balashikha.cian.ru/rent/flat/307545524/,Москва,rent,flat,11,22,1,49.2,45000,0,, Некрасова,6,Железнодорожная
+20,МИЭЛЬ - Офис в Железнодорожном,real_estate_agent,https://balashikha.cian.ru/rent/flat/307536017/,Москва,rent,flat,5,17,1,38.0,37000,0,, Маяковского,30,Железнодорожная
+21,Марина Ануфриева,realtor,https://balashikha.cian.ru/rent/flat/307523336/,Москва,rent,flat,15,22,1,40.0,37000,0,, Струве,3,Железнодорожная
+22,ID 13379422,homeowner,https://staraya-kupavna.cian.ru/rent/flat/307478180/,Москва,rent,flat,14,17,1,34.0,45000,0,, Трудовая,19А,Железнодорожная
+23,Владислав Сахнов,realtor,https://noginsk.cian.ru/rent/flat/307416516/,Москва,rent,flat,2,6,1,31.0,29000,0,,,,
+24,Игорь Белоусов,realtor,https://balashikha.cian.ru/rent/flat/307403492/,Москва,rent,flat,18,23,1,39.0,36000,0,,проспект Героев,8,Железнодорожная
+25,ID 97694580,homeowner,https://balashikha.cian.ru/rent/flat/307387143/,Москва,rent,flat,15,17,1,40.0,45000,0,, Речная,5,Железнодорожная
+26,Юнион,real_estate_agent,https://balashikha.cian.ru/rent/flat/307382162/,Москва,rent,flat,5,7,1,34.0,30000,0,, Народного ополчения,2,Железнодорожная
+27,ID 103660983,homeowner,https://balashikha.cian.ru/rent/flat/307371677/,Москва,rent,flat,16,17,1,43.0,45000,0,, Шестая,11,Железнодорожная
+28,ID 13339455,unknown,https://balashikha.cian.ru/rent/flat/307356929/,Москва,rent,flat,14,17,1,54.0,35000,0,, Лесопарковая,12,Железнодорожная
+29,Анна Климова,realtor,https://balashikha.cian.ru/rent/flat/306977365/,Москва,rent,flat,10,14,1,41.0,38000,0,, Колхозная,8,Железнодорожная
+30,МИЭЛЬ - Офис в Железнодорожном,real_estate_agent,https://balashikha.cian.ru/rent/flat/306751980/,Москва,rent,flat,19,22,1,32.3,45000,0,,проспект Героев,18,Железнодорожная
+31,ID 13112369,homeowner,https://balashikha.cian.ru/rent/flat/305372037/,Москва,rent,flat,7,14,1,43.0,42000,0,, Колхозная,8,Железнодорожная
+32,ID 93262431,homeowner,https://balashikha.cian.ru/rent/flat/291701698/,Москва,rent,flat,8,18,1,32.0,33000,0,, Калинина,18,Железнодорожная
+33,Виталий Зарицкий,realtor,https://balashikha.cian.ru/rent/flat/288113173/,Москва,rent,flat,4,12,1,34.0,35000,0,, Корнилаева,5,Железнодорожная
+34,ID 102954778,homeowner,https://drezna.cian.ru/rent/flat/287213271/,Москва,rent,flat,1,2,1,34.0,15000,0,, 2-я Ленинская,,Железнодорожная
+35,ID 102189648,homeowner,https://balashikha.cian.ru/rent/flat/286384864/,Москва,rent,flat,9,17,1,32.0,37000,0,, Безымянная,6,Железнодорожная
+36,Алевтина Красильникова,realtor,https://balashikha.cian.ru/rent/flat/274391962/,Москва,rent,flat,2,14,1,40.0,40000,0,, Октябрьская,29,Железнодорожная
+37,ID 374025,homeowner,https://noginsk.cian.ru/rent/flat/257958346/,Москва,rent,flat,4,5,1,34.0,30000,0,Имени Воровского рп, Рабочая,10,
+38,ID 13334940,homeowner,https://balashikha.cian.ru/rent/flat/177828542/,Москва,rent,flat,11,17,1,39.0,40000,0,, Лесопарковая,18,Железнодорожная
+39,Светлана Болдырева,realtor,https://balashikha.cian.ru/rent/flat/158131406/,Москва,rent,flat,10,17,1,40.0,30000,0,, Кольцевая,18,Щёлковская
+40,ID 93917071,realtor,https://balashikha.cian.ru/rent/flat/307625037/,Москва,rent,flat,9,23,1,31.0,30000,0,, Бояринова,23,Ольгино
+41,ВАШ ДОМ,real_estate_agent,https://balashikha.cian.ru/rent/flat/307444040/,Москва,rent,flat,5,5,1,33.0,40000,0,,проспект Жуковского,9,Кучино
+42,ID 2753,real_estate_agent,https://balashikha.cian.ru/rent/flat/307585000/,Москва,rent,flat,5,14,2,52.0,35000,0,,,5,Кучино
+43,ID 55348226,homeowner,https://balashikha.cian.ru/rent/flat/307664643/,Москва,rent,flat,10,23,1,21.0,26000,0,, Бояринова,25,Железнодорожная
+44,Антонина Басенко,realtor,https://balashikha.cian.ru/rent/flat/307380754/,Москва,rent,flat,9,23,1,38.0,32000,0,, Романычева,5,Ольгино
+45,Региональное,real_estate_agent,https://balashikha.cian.ru/rent/flat/307319147/,Москва,rent,flat,5,17,1,36.0,30000,0,, Твардовского,20,Кучино
+46,ID 98027866,homeowner,https://balashikha.cian.ru/rent/flat/307636079/,Москва,rent,flat,19,23,2,36.44,47000,0,, Бояринова,23,Ольгино
+47,ID 113581160,homeowner,https://balashikha.cian.ru/rent/flat/298877849/,Москва,rent,flat,16,25,1,34.1,35000,0,, Яганова,9,Щёлковская

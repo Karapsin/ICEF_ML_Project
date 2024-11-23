@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Дмитрий Дмитриев,realtor,https://www.cian.ru/rent/flat/307738862/,Москва,rent,flat,12,13,1,36.0,90000,0,Таганский,Новоспасский переулок,5,Таганская
+1,Артем Худайберганов,realtor,https://www.cian.ru/rent/flat/307703256/,Москва,rent,flat,4,5,1,30.5,70000,0,Таганский,переулок Маяковского,2,Таганская
+2,Фортуна-М,real_estate_agent,https://www.cian.ru/rent/flat/307701913/,Москва,rent,flat,9,16,1,35.7,90000,0,Таганский,Марксистская ,1к1,Таганская
+3,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307656475/,Москва,rent,flat,4,5,1,15.0,120000,0,Таганский, Малые Каменщики,16,Таганская
+4,Наталья Бондаренко,realtor,https://www.cian.ru/rent/flat/306708730/,Москва,rent,flat,5,9,1,32.0,99000,0,Замоскворечье, Зацепский Вал,2С2,Таганская
+5,Игорь Шергин,realtor,https://www.cian.ru/rent/flat/268632627/,Москва,rent,flat,4,7,1,40.0,140000,0,Замоскворечье,Шлюзовая набережная,2А,Таганская
+6,Альберт Ишуков,realtor,https://www.cian.ru/rent/flat/214173985/,Москва,rent,flat,3,9,1,35.0,70000,0,Таганский,Большой Факельный переулок,3,Таганская
+7,Алексей Шестернин,realtor,https://www.cian.ru/rent/flat/212903076/,Москва,rent,flat,3,13,1,42.0,150000,0,Таганский, Большие Каменщики,4,Таганская
+8,Андрей Вокин,realtor,https://www.cian.ru/rent/flat/307647164/,Москва,rent,flat,7,8,1,35.0,65000,0,Хамовники,Новодевичий проезд,4,Спортивная
+9,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307581343/,Москва,rent,flat,1,5,1,24.0,50000,0,Таганский, Талалихина,39,Волгоградский проспект
+10,ID 23956980,realtor,https://www.cian.ru/rent/flat/307625261/,Москва,rent,flat,1,5,1,33.0,65000,0,Якиманка,2-й Добрынинский переулок,5/9,Добрынинская
+11,ID 8220,realtor,https://www.cian.ru/rent/flat/307541251/,Москва,rent,flat,2,14,1,39.0,60000,0,Замоскворечье,Люсиновская ,12,Серпуховская
+12,Профриелтинвест,real_estate_agent,https://www.cian.ru/rent/flat/296664284/,Москва,rent,flat,4,8,1,18.0,26000,0,Таганский,Нижегородская ,32С3,Калитники
+13,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307537332/,Москва,rent,flat,2,4,1,35.0,110000,0,Тверской,Малый Гнездниковский переулок,10,Тверская
+14,ID 69392442,homeowner,https://www.cian.ru/rent/flat/251955241/,Москва,rent,flat,6,8,1,40.0,80000,0,Басманный, Земляной Вал,39/1С1,Чкаловская
+15,Александр Насилевский,realtor,https://www.cian.ru/rent/flat/307099137/,Москва,rent,flat,7,9,1,33.0,65000,0,Басманный,Большая Почтовая ,1/33,Бауманская
+16,White Lion,real_estate_agent,https://www.cian.ru/rent/flat/306691602/,Москва,rent,flat,15,16,1,25.0,65000,0,Даниловский,Автозаводская ,23С120,ЗИЛ
+17,Panorama Realty,real_estate_agent,https://www.cian.ru/rent/flat/307527940/,Москва,rent,flat,1,14,1,45.0,75000,0,Тверской,3-й Самотечный переулок,19,Достоевская
+18,ID 16276255,unknown,https://www.cian.ru/rent/flat/307538535/,Москва,rent,flat,3,4,1,45.0,128000,0,Басманный,Старосадский переулок,10С1,Китай-город
+19,Vershina Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307674450/,Москва,rent,flat,10,13,2,34.0,85000,0,Тверской, Малая Дмитровка,24/2,Маяковская
+20,Юлия Паниотова,realtor,https://www.cian.ru/rent/flat/292701750/,Москва,rent,flat,5,8,3,90.5,155000,0,Таганский,Котельническая набережная,25к2,Таганская
+21,ID 51829504,homeowner,https://www.cian.ru/rent/flat/307669288/,Москва,rent,flat,11,12,1,35.0,74000,0,Таганский,Большая Андроньевская ,20,Марксистская
+22,ID 62510879,realtor,https://www.cian.ru/rent/flat/273123954/,Москва,rent,flat,4,14,2,40.0,57000,0,Таганский,Брошевский переулок,4,Пролетарская
+23,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307628673/,Москва,rent,flat,2,10,1,35.0,72000,0,Лефортово, Золоторожский Вал,8,Серп и Молот
+24,ID 50513,realtor,https://www.cian.ru/rent/flat/307308337/,Москва,rent,flat,4,9,1,35.0,62000,0,Замоскворечье,6-й Монетчиковский переулок,15/17,Павелецкая

@@ -1,0 +1,51 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Ирина Кравченко,realtor,https://www.cian.ru/rent/flat/307745416/,Москва,rent,flat,2,6,2,60.0,115000,0,Хорошевский, Острякова,8,Сокол
+1,ID 65978,realtor,https://www.cian.ru/rent/flat/307739568/,Москва,rent,flat,5,8,2,52.0,80000,0,Аэропорт, Асеева,2,Сокол
+2,Квартирный вопрос,real_estate_agent,https://www.cian.ru/rent/flat/307738433/,Москва,rent,flat,4,9,2,62.0,80000,0,Аэропорт, Лизы Чайкиной,6,Сокол
+3,ID 5419,realtor,https://www.cian.ru/rent/flat/307727055/,Москва,rent,flat,3,7,2,49.7,85000,0,Сокол,Чапаевский переулок,12к3,Сокол
+4,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307714161/,Москва,rent,flat,2,8,2,60.0,70000,0,Сокол, Панфилова,12,Сокол
+5,Максим Мальцев,realtor,https://www.cian.ru/rent/flat/307707813/,Москва,rent,flat,8,9,2,54.0,75000,0,Сокол,Волоколамское шоссе,13,Сокол
+6,ID 2288866,realtor,https://www.cian.ru/rent/flat/307702505/,Москва,rent,flat,5,8,2,60.2,90000,0,Сокол,Ленинградское шоссе,3С1,Сокол
+7,ID 108146113,realtor,https://www.cian.ru/rent/flat/307694595/,Москва,rent,flat,5,16,2,60.0,90000,0,Сокол,Ленинградское шоссе,3к1,Сокол
+8,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307680372/,Москва,rent,flat,2,21,2,63.0,110000,0,Сокол, Алабяна,13к2,Сокол
+9,ID 28036,realtor,https://www.cian.ru/rent/flat/307679619/,Москва,rent,flat,8,9,2,33.6,85000,0,Сокол, Сальвадора Альенде,4К2,Сокол
+10,Алексей Юршев,realtor,https://www.cian.ru/rent/flat/307672782/,Москва,rent,flat,8,16,2,51.4,130000,0,Хорошевский, Викторенко,11,Сокол
+11,СДЕЛКА,real_estate_agent,https://www.cian.ru/rent/flat/307666879/,Москва,rent,flat,3,5,2,55.0,74999,0,Аэропорт,3-й Балтийский переулок,4К4,Сокол
+12,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307658185/,Москва,rent,flat,4,16,2,55.0,215000,0,Хорошевский, Викторенко,11,Сокол
+13,Циан х ПИК-Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307636751/,Москва,rent,flat,5,5,2,58.9,130200,0,Сокол,Волоколамское шоссе,7,Сокол
+14,Ольга Постникова,realtor,https://www.cian.ru/rent/flat/307606039/,Москва,rent,flat,4,6,2,56.0,100000,0,Аэропорт,Ленинградский проспект,58,Сокол
+15,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307582084/,Москва,rent,flat,8,9,2,45.0,69000,0,Сокол,Песчаный переулок,20К1,Сокол
+16,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307541386/,Москва,rent,flat,8,9,2,42.0,69000,0,Сокол,Песчаный переулок,20К1,Сокол
+17,ID 21001,realtor,https://www.cian.ru/rent/flat/307536905/,Москва,rent,flat,7,8,2,63.0,80000,0,Сокол, Алабяна,10К6,Сокол
+18,GIGGRAD,real_estate_agent,https://www.cian.ru/rent/flat/307490024/,Москва,rent,flat,2,9,2,46.0,78000,0,Аэропорт,Красноармейская ,25,Сокол
+19,Сергей Андросов,realtor,https://www.cian.ru/rent/flat/307449940/,Москва,rent,flat,9,9,2,46.0,65000,0,Сокол,Песчаный переулок,8,Сокол
+20,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307390849/,Москва,rent,flat,8,9,2,65.0,100000,0,Аэропорт,Ленинградский проспект,74К1,Сокол
+21,ГК Недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/307365824/,Москва,rent,flat,8,9,2,65.0,100000,0,Аэропорт,Ленинградский проспект,74К1,Сокол
+22,ГЦН +,real_estate_agent,https://www.cian.ru/rent/flat/307334065/,Москва,rent,flat,3,14,2,67.0,80000,0,Коптево, Космонавта Волкова,29К1,Сокол
+23,Trust Realty,real_estate_agent,https://www.cian.ru/rent/flat/307325425/,Москва,rent,flat,3,15,2,54.0,230000,0,Сокол, Врубеля,4к1,Сокол
+24,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307247710/,Москва,rent,flat,14,25,2,105.0,160000,0,Аэропорт,Ленинградский проспект,76К4,Сокол
+25,ID 21825897,realtor,https://www.cian.ru/rent/flat/307201041/,Москва,rent,flat,11,14,2,70.0,95000,0,Сокол,Песчаный переулок,2/11,Сокол
+26,Сергей Кирилин,realtor,https://www.cian.ru/rent/flat/306919809/,Москва,rent,flat,2,9,2,42.0,114000,0,Сокол,Песчаный переулок,20К2,Сокол
+27,RENT_BAND,real_estate_agent,https://www.cian.ru/rent/flat/306907642/,Москва,rent,flat,4,6,2,55.0,150000,0,Сокол,Новопесчаная ,19к3,Сокол
+28,ID 4480,realtor,https://www.cian.ru/rent/flat/306637947/,Москва,rent,flat,1,8,2,52.0,55000,0,Аэропорт, Усиевича,1,Сокол
+29,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/306555453/,Москва,rent,flat,10,10,2,60.0,120000,0,Сокол,Волоколамское шоссе,6,Сокол
+30,Intermark Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/306183870/,Москва,rent,flat,11,12,2,65.0,120000,0,Сокол,Волоколамское шоссе,6,Сокол
+31,Юрий Мамонтов,realtor,https://www.cian.ru/rent/flat/306074514/,Москва,rent,flat,3,7,2,57.0,80000,0,Сокол,Новопесчаная ,23к1,Сокол
+32,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/306065278/,Москва,rent,flat,12,25,2,105.0,150000,0,Аэропорт,Ленинградский проспект,76К3,Сокол
+33,Penny Lane Moscow,real_estate_agent,https://www.cian.ru/rent/flat/306060843/,Москва,rent,flat,10,11,2,65.0,120000,0,Сокол,Волоколамское шоссе,6,Сокол
+34,МИЭЛЬ,real_estate_agent,https://www.cian.ru/rent/flat/305913487/,Москва,rent,flat,10,15,2,71.1,180000,0,Хорошевский, Викторенко,11,Сокол
+35,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/305860711/,Москва,rent,flat,10,10,2,60.0,120000,0,Сокол,Волоколамское шоссе,6,Сокол
+36,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/305830941/,Москва,rent,flat,11,12,2,60.0,120000,0,Сокол,Волоколамское шоссе,6,Сокол
+37,ID 120292880,homeowner,https://www.cian.ru/rent/flat/305828190/,Москва,rent,flat,10,10,2,60.0,130000,0,Сокол,Волоколамское шоссе,6,Сокол
+38,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/305749822/,Москва,rent,flat,8,9,2,63.0,160000,0,Сокол,Волоколамское шоссе,1кБ,Сокол
+39,ID 58694,realtor,https://www.cian.ru/rent/flat/305428345/,Москва,rent,flat,16,57,2,120.0,290000,0,Хорошевский,Чапаевский переулок,3,Сокол
+40,ID 78552985,homeowner,https://www.cian.ru/rent/flat/298283218/,Москва,rent,flat,8,9,2,45.0,69000,0,Сокол,Песчаный переулок,20К1,Сокол
+41,ID 66800037,homeowner,https://www.cian.ru/rent/flat/291930212/,Москва,rent,flat,4,16,2,53.0,215000,0,Хорошевский, Викторенко,11,Сокол
+42,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/287337857/,Москва,rent,flat,10,10,2,60.0,130500,0,Сокол,Волоколамское шоссе,6,Сокол
+43,ID 13781248,realtor,https://www.cian.ru/rent/flat/214998924/,Москва,rent,flat,2,21,2,63.0,110000,0,Сокол, Алабяна,13к2,Сокол
+44,MagAppArt,real_estate_agent,https://www.cian.ru/rent/flat/155763993/,Москва,rent,flat,3,5,2,55.0,80000,0,Аэропорт,Малый Коптевский проезд,4,Сокол
+45,Александра Мирошниченко,realtor,https://www.cian.ru/rent/flat/305944367/,Москва,rent,flat,9,14,1,20.0,60000,0,Сокол,Балтийская ,15,Сокол
+46,Вячеслав Цехместер,realtor,https://www.cian.ru/rent/flat/307314583/,Москва,rent,flat,12,28,2,47.0,95000,0,Щукино,Волоколамское шоссе,24к2,Стрешнево
+47,ЕГСН Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307586894/,Москва,rent,flat,4,6,2,62.0,70000,0,Хорошевский, Куусинена,7к3,Полежаевская
+48,ID 100465345,homeowner,https://www.cian.ru/rent/flat/307552263/,Москва,rent,flat,3,41,3,82.0,100000,0,Хорошевский,Ленинградский проспект,37/6,Аэропорт
+49,Александр Митряев,realtor,https://www.cian.ru/rent/flat/307651914/,Москва,rent,flat,3,12,1,39.0,75000,0,Хорошевский, Острякова,9,Сокол

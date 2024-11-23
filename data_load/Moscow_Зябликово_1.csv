@@ -1,0 +1,57 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Даниил Бризинский,realtor,https://vidnoye.cian.ru/rent/flat/307753801/,Москва,rent,flat,2,16,1,39.0,37000,0,,,,
+1,Ольга Пашкевич,realtor,https://domodedovo.cian.ru/rent/flat/307752396/,Москва,rent,flat,8,17,1,35.0,40000,0,с. Ям, Мезенцева,13,
+2,ID 121548188,realtor,https://www.cian.ru/rent/flat/307751699/,Москва,rent,flat,10,14,1,37.7,85000,0,Орехово-Борисово Южное,Каширское шоссе,65К1,Зябликово
+3,Ма-Трёшка,real_estate_agent,https://www.cian.ru/rent/flat/307750792/,Москва,rent,flat,1,9,1,20.0,44999,0,Орехово-Борисово Южное,Домодедовская ,37К2,Зябликово
+4,Ма-Трёшка,real_estate_agent,https://www.cian.ru/rent/flat/307748031/,Москва,rent,flat,1,9,1,14.0,34999,0,Орехово-Борисово Южное,Домодедовская ,37К2,Зябликово
+5,Ма-Трёшка,real_estate_agent,https://www.cian.ru/rent/flat/307747150/,Москва,rent,flat,2,14,1,20.0,44999,0,Орехово-Борисово Южное,Каширское шоссе,65к3,Зябликово
+6,Ольга Ланина,realtor,https://www.cian.ru/rent/flat/307746846/,Москва,rent,flat,18,22,1,39.0,55000,0,Зябликово, Мусы Джалиля,38К1,Зябликово
+7,ID 6977,real_estate_agent,https://vidnoye.cian.ru/rent/flat/307746387/,Москва,rent,flat,3,5,1,32.0,28000,0,,Советская ,3,Зябликово
+8,Дмитрий Касюкин,realtor,https://vidnoye.cian.ru/rent/flat/307743986/,Москва,rent,flat,5,17,1,35.0,38000,0,д. Мисайлово, Современников,7,
+9,HattEstate,real_estate_agent,https://vidnoye.cian.ru/rent/flat/307727917/,Москва,rent,flat,8,17,1,37.0,45000,0,д. Коробово, Авиаторов,2,
+10,ID 17978977,homeowner,https://vidnoye.cian.ru/rent/flat/307726897/,Москва,rent,flat,2,2,1,18.0,26500,0,д. Мисайлово,Первомайская ,207,
+11,ID 118158715,homeowner,https://vidnoye.cian.ru/rent/flat/307720629/,Москва,rent,flat,7,22,1,32.5,45000,0,пос. Развилка,проезд Римский,13,
+12,ID 496778,realtor,https://www.cian.ru/rent/flat/307718887/,Москва,rent,flat,1,9,1,38.0,40000,0,Зябликово,Задонский проезд,24К1,Зябликово
+13,ID 925,realtor,https://domodedovo.cian.ru/rent/flat/307716525/,Москва,rent,flat,3,10,1,40.0,35000,0,, Кирова,7/1,Зябликово
+14,ID 44797673,homeowner,https://www.cian.ru/rent/flat/307703542/,Москва,rent,flat,9,16,1,35.0,40000,0,Орехово-Борисово Южное,Ясеневая ,36/2,Зябликово
+15,ID 113130489,realtor,https://www.cian.ru/rent/flat/307698572/,Москва,rent,flat,6,9,1,37.0,45000,0,Орехово-Борисово Южное,Каширское шоссе,142К1,Зябликово
+16,ID 52792831,unknown,https://domodedovo.cian.ru/rent/flat/307698535/,Москва,rent,flat,3,9,1,52.9,50000,0,,Кутузовский проезд,17/1,Зябликово
+17,ID 72614839,homeowner,https://vidnoye.cian.ru/rent/flat/307697095/,Москва,rent,flat,2,4,1,30.0,30000,0,,,,
+18,Проспект24,real_estate_agent,https://vidnoye.cian.ru/rent/flat/307692654/,Москва,rent,flat,8,17,1,46.0,45000,0,, Радужная,6к2,Зябликово
+19,Светлана Сидорова,realtor,https://vidnoye.cian.ru/rent/flat/307684526/,Москва,rent,flat,6,12,1,35.0,40000,0,д. Коробово, Авиаторов,4,
+20,EstateLiga,real_estate_agent,https://vidnoye.cian.ru/rent/flat/307677949/,Москва,rent,flat,2,17,1,34.1,28000,0,д. Коробово, Авиаторов,2,
+21,ID 12510,realtor,https://vidnoye.cian.ru/rent/flat/307668804/,Москва,rent,flat,7,18,1,35.0,36000,0,д. Мисайлово, Полевая,4,
+22,Каскад,real_estate_agent,https://www.cian.ru/rent/flat/307665685/,Москва,rent,flat,9,16,1,35.0,38000,0,Орехово-Борисово Южное,Ясеневая ,36/2,Зябликово
+23,ID 14046670,homeowner,https://domodedovo.cian.ru/rent/flat/307665631/,Москва,rent,flat,16,19,1,40.0,45000,0,, Советская,50,Зябликово
+24,ГОРОБМЕН,real_estate_agent,https://vidnoye.cian.ru/rent/flat/307657287/,Москва,rent,flat,12,15,1,35.0,40000,0,д. Мисайлово, Современников,5,
+25,ID 74510507,homeowner,https://vidnoye.cian.ru/rent/flat/307652685/,Москва,rent,flat,12,17,1,34.0,54000,0,д. Мисайлово,шоссе Пригородное,2,
+26,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://domodedovo.cian.ru/rent/flat/307650572/,Москва,rent,flat,3,5,1,43.0,35000,0,,Каширское шоссе,29,Зябликово
+27,ID 96578224,homeowner,https://vidnoye.cian.ru/rent/flat/307638945/,Москва,rent,flat,8,13,1,36.0,40000,0,д. Мисайлово, Имени Л.И. Гоман,5,
+28,Яндекс Аренда,real_estate_agent,https://domodedovo.cian.ru/rent/flat/307636560/,Москва,rent,flat,4,16,1,35.0,49500,0,с. Ям, Мезенцева,10,
+29,EMPIRE HOME,real_estate_agent,https://www.cian.ru/rent/flat/307635075/,Москва,rent,flat,14,17,1,37.0,50000,0,Орехово-Борисово Южное,Тамбовская ,3/13,Зябликово
+30,ОГРК,real_estate_agent,https://vidnoye.cian.ru/rent/flat/307629200/,Москва,rent,flat,4,17,1,38.6,37000,0,, Березовая,12,Зябликово
+31,ID 346365,realtor,https://vidnoye.cian.ru/rent/flat/307626910/,Москва,rent,flat,8,16,1,34.8,45000,0,,проспект Ленинского Комсомола,15к2,Зябликово
+32,Шамиля Ахсянова,realtor,https://vidnoye.cian.ru/rent/flat/307625002/,Москва,rent,flat,12,17,1,36.0,38000,0,д. Мисайлово, Молодежная,2,
+33,ID 10999699,unknown,https://domodedovo.cian.ru/rent/flat/307619103/,Москва,rent,flat,10,17,1,44.0,35000,0,, Овражная,1к2,Зябликово
+34,ID 62506709,realtor,https://vidnoye.cian.ru/rent/flat/307614814/,Москва,rent,flat,5,14,1,41.0,55000,0,д. Сапроново, Калиновая,7,
+35,ID 15869,realtor,https://vidnoye.cian.ru/rent/flat/307611419/,Москва,rent,flat,7,12,1,34.8,35000,0,д. Коробово, Взлетная,2,
+36,Яна Пожарова,realtor,https://vidnoye.cian.ru/rent/flat/307608142/,Москва,rent,flat,8,15,1,35.1,50000,0,,,,
+37,ID 12732365,unknown,https://vidnoye.cian.ru/rent/flat/307607851/,Москва,rent,flat,2,18,1,35.0,40000,0,д. Мисайлово,бульвар Молодежный,10,
+38,MDco,real_estate_agent,https://www.cian.ru/rent/flat/307605932/,Москва,rent,flat,4,12,1,35.0,53000,0,Орехово-Борисово Южное,Каширское шоссе,132К1,Зябликово
+39,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307602664/,Москва,rent,flat,9,24,1,45.0,65000,0,Бирюлево Восточное,Ягодная ,6,Зябликово
+40,Анжелика Мещерякова,realtor,https://www.cian.ru/rent/flat/307601776/,Москва,rent,flat,3,9,1,34.0,58000,0,Орехово-Борисово Южное,Воронежская ,34К1,Зябликово
+41,Николай Хайминов,realtor,https://www.cian.ru/rent/flat/307600480/,Москва,rent,flat,11,17,1,39.0,58000,0,Братеево,Ключевая ,22К1,Зябликово
+42,Светлана Мордвинова,realtor,https://vidnoye.cian.ru/rent/flat/307598000/,Москва,rent,flat,12,17,1,38.0,38000,0,,,,
+43,Вячеслав Лукьянов,realtor,https://domodedovo.cian.ru/rent/flat/307590061/,Москва,rent,flat,13,19,1,41.0,38000,0,, Советская,50,Зябликово
+44,ID 121850361,homeowner,https://www.cian.ru/rent/flat/307588714/,Москва,rent,flat,6,25,1,38.9,65000,0,Братеево,Ключевая ,18,Зябликово
+45,АДВЕКС,real_estate_agent,https://domodedovo.cian.ru/rent/flat/307578435/,Москва,rent,flat,5,17,1,45.0,38000,0,, Северная,4,Зябликово
+46,Дмитрий Васильев,realtor,https://vidnoye.cian.ru/rent/flat/307570864/,Москва,rent,flat,4,14,1,32.0,35000,0,д. Сапроново, Калиновая,7,
+47,Наследие недвижимость,real_estate_agent,https://vidnoye.cian.ru/rent/flat/307567839/,Москва,rent,flat,17,17,1,30.0,35000,0,д. Мисайлово,шоссе Пригородное,6,
+48,Елена Бондарева,realtor,https://www.cian.ru/rent/flat/307567606/,Москва,rent,flat,7,16,1,38.0,60000,0,Орехово-Борисово Южное, Генерала Белова,45К1,Зябликово
+49,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307563786/,Москва,rent,flat,12,13,1,44.0,95000,0,Орехово-Борисово Южное,Каширское шоссе,65К1,Зябликово
+50,ID 855766,realtor,https://vidnoye.cian.ru/rent/flat/307520219/,Москва,rent,flat,10,17,1,39.0,40000,0,,,,
+51,Этажи Москва,real_estate_agent,https://domodedovo.cian.ru/rent/flat/307504962/,Москва,rent,flat,12,18,1,34.0,37000,0,с. Ям, Мезенцева,13,
+52,GardenGoldRealty,real_estate_agent,https://www.cian.ru/rent/flat/307445471/,Москва,rent,flat,12,13,1,44.0,95000,0,Орехово-Борисово Южное,Каширское шоссе,65К1,Зябликово
+53,ID 112679827,homeowner,https://domodedovo.cian.ru/rent/flat/307444400/,Москва,rent,flat,12,12,1,36.0,40000,0,с. Ям, Мезенцева,8,
+54,ГОРОБМЕН,real_estate_agent,https://vidnoye.cian.ru/rent/flat/307429771/,Москва,rent,flat,5,17,1,49.1,45000,0,д. Коробово, Авиаторов,3,
+55,МГСН,real_estate_agent,https://www.cian.ru/rent/flat/307385510/,Москва,rent,flat,13,17,1,38.1,48000,0,Зябликово, Мусы Джалиля,29К1,Зябликово

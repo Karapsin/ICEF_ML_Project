@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,ID 89709046,realtor,https://www.cian.ru/rent/flat/307603296/,Москва,rent,flat,2,7,3,120.0,150000,0,Тверской,Старопименовский переулок,14,Чеховская
+1,ID 99623,homeowner,https://www.cian.ru/rent/flat/307592111/,Москва,rent,flat,2,7,3,120.0,150000,0,Тверской,Старопименовский переулок,14,Чеховская
+2,Вертикаль,real_estate_agent,https://www.cian.ru/rent/flat/307505733/,Москва,rent,flat,3,6,3,150.0,200000,0,Тверской,Тверская ,12С8,Чеховская
+3,MERSI,real_estate_agent,https://www.cian.ru/rent/flat/307104701/,Москва,rent,flat,8,8,3,110.0,330000,0,Тверской, Малая Дмитровка,15,Чеховская
+4,Ольга Сергеева,realtor,https://www.cian.ru/rent/flat/307097058/,Москва,rent,flat,8,9,3,100.0,350000,0,Тверской,Страстной бульвар,2,Чеховская
+5,Whitewill Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307090897/,Москва,rent,flat,2,5,3,76.0,350000,0,Тверской, Малая Дмитровка,8С1,Чеховская
+6,ID 12383335,realtor,https://www.cian.ru/rent/flat/307025557/,Москва,rent,flat,3,9,3,75.0,158000,0,Тверской,Тверская ,15,Чеховская
+7,МОСКВА СИТИ,real_estate_agent,https://www.cian.ru/rent/flat/306967377/,Москва,rent,flat,2,5,3,90.0,300000,0,Тверской, Малая Дмитровка,8С1,Чеховская
+8,CapitalEstate,real_estate_agent,https://www.cian.ru/rent/flat/306950040/,Москва,rent,flat,2,5,3,76.0,350000,0,Тверской, Малая Дмитровка,8С1,Чеховская
+9,Penny Lane Moscow,real_estate_agent,https://www.cian.ru/rent/flat/306720500/,Москва,rent,flat,2,6,3,77.0,350000,0,Тверской, Малая Дмитровка,8С1,Чеховская
+10,Intermark Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/306635279/,Москва,rent,flat,2,5,3,90.0,350000,0,Тверской, Малая Дмитровка,8С1,Чеховская
+11,Delight Realty,real_estate_agent,https://www.cian.ru/rent/flat/306465451/,Москва,rent,flat,2,6,3,65.0,350000,0,Пресненский,Большая Бронная ,8,Чеховская
+12,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/306308716/,Москва,rent,flat,2,5,3,76.0,350000,0,Тверской, Малая Дмитровка,8С1,Чеховская
+13,ID 106302829,homeowner,https://www.cian.ru/rent/flat/306235512/,Москва,rent,flat,2,5,3,76.0,350000,0,Тверской, Малая Дмитровка,8С1,Чеховская
+14,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/299098150/,Москва,rent,flat,7,7,3,100.0,550000,0,Тверской,Тверская ,19А,Чеховская
+15,Ольга Ковалева,realtor,https://www.cian.ru/rent/flat/293288088/,Москва,rent,flat,2,4,3,73.0,110000,0,Тверской,Садовая-Самотечная ,4С2,Чеховская
+16,Владис,real_estate_agent,https://www.cian.ru/rent/flat/260590001/,Москва,rent,flat,3,6,3,95.9,300000,0,Тверской,Страстной бульвар,4С1,Чеховская
+17,Кварт-Отель,real_estate_agent,https://www.cian.ru/rent/flat/245466962/,Москва,rent,flat,4,6,3,76.0,190000,0,Тверской,Старопименовский переулок,16,Чеховская
+18,Intermark Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307521524/,Москва,rent,flat,14,16,3,88.0,200000,0,Хамовники,Малый Власьевский переулок,3к1,Кропоткинская
+19,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307447111/,Москва,rent,flat,5,6,2,55.0,175000,0,Тверской,Тверская ,6С5,Охотный ряд
+20,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307397815/,Москва,rent,flat,4,7,3,86.0,200000,0,Хамовники,Фрунзенская набережная,32,Фрунзенская
+21,Дипломат,real_estate_agent,https://www.cian.ru/rent/flat/307131445/,Москва,rent,flat,6,6,2,52.0,130000,0,Пресненский,Большой Патриарший переулок,10,Маяковская
+22,Easy Estate,real_estate_agent,https://www.cian.ru/rent/flat/307387142/,Москва,rent,flat,4,5,3,150.0,200000,0,Хамовники,Лопухинский переулок,1АС2,Кропоткинская
+23,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307711019/,Москва,rent,flat,7,7,5,123.0,230000,0,Арбат,Кривоарбатский переулок,3,Смоленская
+24,Самолет Плюс Москва,real_estate_agent,https://www.cian.ru/rent/flat/307540550/,Москва,rent,flat,4,5,4,110.0,180000,0,Хамовники,переулок Померанцев,9,Парк Культуры

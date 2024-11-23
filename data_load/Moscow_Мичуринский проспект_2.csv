@@ -1,0 +1,29 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307771166/,Москва,rent,flat,22,24,2,80.0,150000,0,Раменки,Мичуринский проспект,26,Мичуринский проспект
+1,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307753622/,Москва,rent,flat,5,17,2,52.0,75000,0,Раменки, Раменки,8К1,Мичуринский проспект
+2,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307742138/,Москва,rent,flat,2,25,2,80.0,150000,0,Очаково-Матвеевское,Аминьевское шоссе,4Дк3литБ,Мичуринский проспект
+3,Татьяна Федорова,realtor,https://www.cian.ru/rent/flat/307732302/,Москва,rent,flat,12,29,2,55.0,120000,0,Очаково-Матвеевское,Аминьевское шоссе,4Дк3литБ,Мичуринский проспект
+4,Злата Гончарова,realtor,https://www.cian.ru/rent/flat/307702502/,Москва,rent,flat,17,17,2,54.0,88000,0,Раменки, Раменки,7К1,Мичуринский проспект
+5,Perfect Manager House,real_estate_agent,https://www.cian.ru/rent/flat/307673499/,Москва,rent,flat,13,17,2,55.0,120000,0,Раменки, Раменки,11К3,Мичуринский проспект
+6,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307657049/,Москва,rent,flat,13,17,2,60.0,120000,0,Раменки, Раменки,11К3,Мичуринский проспект
+7,Perfect Manager House,real_estate_agent,https://www.cian.ru/rent/flat/307655698/,Москва,rent,flat,13,17,2,55.0,120000,0,Раменки, Раменки,11К3,Мичуринский проспект
+8,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307655477/,Москва,rent,flat,13,17,2,58.0,120000,0,Раменки, Раменки,11К3,Мичуринский проспект
+9,ID 71830,homeowner,https://www.cian.ru/rent/flat/307650159/,Москва,rent,flat,13,17,2,55.0,120000,0,Раменки, Раменки,11К3,Мичуринский проспект
+10,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307630554/,Москва,rent,flat,1,5,2,45.0,80000,0,Проспект Вернадского, Коштоянца,31,Мичуринский проспект
+11,Tat'iana Parkalova,realtor,https://www.cian.ru/rent/flat/307613824/,Москва,rent,flat,1,5,2,42.0,80000,0,Проспект Вернадского, Коштоянца,31,Мичуринский проспект
+12,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307612464/,Москва,rent,flat,1,5,2,49.0,70000,0,Проспект Вернадского, Лобачевского,82,Мичуринский проспект
+13,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307611680/,Москва,rent,flat,5,9,2,50.0,120000,0,Раменки,Винницкая ,3,Мичуринский проспект
+14,ID 1313,realtor,https://www.cian.ru/rent/flat/307553526/,Москва,rent,flat,7,17,2,57.7,60000,0,Раменки, Раменки,7К1,Мичуринский проспект
+15,ID 805810,homeowner,https://www.cian.ru/rent/flat/307553115/,Москва,rent,flat,6,12,2,75.0,149000,0,Проспект Вернадского, Удальцова,24,Мичуринский проспект
+16,ID 91321284,unknown,https://www.cian.ru/rent/flat/307550710/,Москва,rent,flat,8,12,2,78.0,93000,0,Проспект Вернадского, Удальцова,28,Мичуринский проспект
+17,Этажи Москва,real_estate_agent,https://www.cian.ru/rent/flat/307541354/,Москва,rent,flat,4,17,2,50.2,85000,0,Раменки, Раменки,9К4,Мичуринский проспект
+18,WHITE BROKER Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307537188/,Москва,rent,flat,22,25,2,84.0,150000,0,Раменки,Мичуринский проспект,26,Мичуринский проспект
+19,Денис Ложкин,realtor,https://www.cian.ru/rent/flat/307534724/,Москва,rent,flat,22,25,2,84.0,150000,0,Раменки,Мичуринский проспект,26,Мичуринский проспект
+20,Татьяна Иванкова,realtor,https://www.cian.ru/rent/flat/307499912/,Москва,rent,flat,3,12,2,46.0,70000,0,Раменки,Мичуринский проспект,38,Мичуринский проспект
+21,ID 1332226,realtor,https://www.cian.ru/rent/flat/307410275/,Москва,rent,flat,1,5,2,44.0,70000,0,Проспект Вернадского, Лобачевского,82,Мичуринский проспект
+22,ID 105005856,homeowner,https://www.cian.ru/rent/flat/307393335/,Москва,rent,flat,13,17,2,52.0,85000,0,Раменки, Раменки,7К3,Мичуринский проспект
+23,ID 19660,realtor,https://www.cian.ru/rent/flat/307365744/,Москва,rent,flat,5,9,2,51.0,115000,0,Раменки, Янковского,1к3,Мичуринский проспект
+24,Сергей Медведев,realtor,https://www.cian.ru/rent/flat/307313555/,Москва,rent,flat,21,28,2,40.0,125000,0,Очаково-Матвеевское,Аминьевское шоссе,4Дк3литА,Мичуринский проспект
+25,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307287374/,Москва,rent,flat,9,16,2,75.0,120000,0,Проспект Вернадского, Удальцова,85К1,Мичуринский проспект
+26,Центр Недвижимости плюс,real_estate_agent,https://www.cian.ru/rent/flat/307259929/,Москва,rent,flat,9,14,2,73.0,120000,0,Проспект Вернадского, Удальцова,85К1,Мичуринский проспект
+27,RENT_BAND,real_estate_agent,https://www.cian.ru/rent/flat/306812794/,Москва,rent,flat,12,29,2,56.0,130000,0,Очаково-Матвеевское,Аминьевское шоссе,4Дк3литБ,Мичуринский проспект

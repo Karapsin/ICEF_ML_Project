@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Ирина Шакула,realtor,https://www.cian.ru/rent/flat/307739692/,Москва,rent,flat,1,9,3,70.0,145000,0,Гагаринский, Косыгина,13,Воробьёвы горы
+1,ID 16329762,realtor,https://www.cian.ru/rent/flat/307657735/,Москва,rent,flat,2,9,3,70.0,175000,0,Гагаринский,Ленинский проспект,34/1,Воробьёвы горы
+2,Валерия Архипова,realtor,https://www.cian.ru/rent/flat/307654447/,Москва,rent,flat,2,8,3,86.0,290000,0,Хамовники, Хамовнический Вал,38,Воробьёвы горы
+3,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307499029/,Москва,rent,flat,2,8,3,84.0,290000,0,Хамовники, Хамовнический Вал,38,Воробьёвы горы
+4,Дарья Базылева,realtor,https://www.cian.ru/rent/flat/307433004/,Москва,rent,flat,5,8,3,80.0,190000,0,Хамовники, Хамовнический Вал,38,Воробьёвы горы
+5,МОСКВА СИТИ,real_estate_agent,https://www.cian.ru/rent/flat/307244178/,Москва,rent,flat,2,8,3,84.0,270000,0,Хамовники, Хамовнический Вал,38,Воробьёвы горы
+6,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307244150/,Москва,rent,flat,2,8,3,84.0,290000,0,Хамовники, Хамовнический Вал,38,Воробьёвы горы
+7,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307227393/,Москва,rent,flat,2,17,3,90.0,290000,0,Хамовники, Хамовнический Вал,38,Воробьёвы горы
+8,МЕЗОН,real_estate_agent,https://www.cian.ru/rent/flat/306338216/,Москва,rent,flat,3,6,3,120.0,270000,0,Гагаринский,Андреевская набережная,1К1,Воробьёвы горы
+9,ID 39842791,homeowner,https://www.cian.ru/rent/flat/303127925/,Москва,rent,flat,5,6,3,263.8,448000,0,Гагаринский,Андреевская набережная,1К1,Воробьёвы горы
+10,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/298265831/,Москва,rent,flat,2,8,3,66.0,80000,0,Гагаринский,Ленинский проспект,34/1,Воробьёвы горы
+11,ID 20435,realtor,https://www.cian.ru/rent/flat/285884524/,Москва,rent,flat,3,9,3,72.0,185000,0,Гагаринский,Ленинский проспект,32,Воробьёвы горы
+12,ID 78284392,homeowner,https://www.cian.ru/rent/flat/278539382/,Москва,rent,flat,8,8,3,83.0,230000,0,Хамовники,Комсомольский проспект,47,Воробьёвы горы
+13,Intermark Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307521524/,Москва,rent,flat,14,16,3,88.0,200000,0,Хамовники,Малый Власьевский переулок,3к1,Кропоткинская
+14,Инна Соломонова,realtor,https://www.cian.ru/rent/flat/307398003/,Москва,rent,flat,5,8,3,84.0,99000,0,Хамовники, Хамовнический Вал,24,Спортивная
+15,Easy Estate,real_estate_agent,https://www.cian.ru/rent/flat/307387142/,Москва,rent,flat,4,5,3,150.0,200000,0,Хамовники,Лопухинский переулок,1АС2,Кропоткинская
+16,HOUSE MALL - Городская недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/281836793/,Москва,rent,flat,7,12,3,110.0,300000,0,Якиманка, Серафимовича,2,Боровицкая
+17,ID 99241024,homeowner,https://www.cian.ru/rent/flat/297445018/,Москва,rent,flat,6,18,3,92.4,170000,0,Академический, Дмитрия Ульянова,6к1,Академическая
+18,Ashtons International Realty,real_estate_agent,https://www.cian.ru/rent/flat/307395361/,Москва,rent,flat,8,15,4,150.0,1200000,0,Хамовники,Трубецкая ,12,Фрунзенская
+19,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307397815/,Москва,rent,flat,4,7,3,86.0,200000,0,Хамовники,Фрунзенская набережная,32,Фрунзенская
+20,ID 88729001,realtor,https://www.cian.ru/rent/flat/307252431/,Москва,rent,flat,6,9,3,70.0,130000,0,Хамовники,Фрунзенская набережная,28,Фрунзенская
+21,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/306972543/,Москва,rent,flat,6,7,4,175.0,220000,0,Ломоносовский, Строителей,5К1,Университет
+22,Whitewill Аренда,real_estate_agent,https://www.cian.ru/rent/flat/305773252/,Москва,rent,flat,6,8,3,104.0,400000,0,Хамовники,Оболенский переулок,9К1,Фрунзенская
+23,ID 392452,official_representative,https://www.cian.ru/rent/flat/228417815/,Москва,rent,flat,7,9,3,87.0,299000,0,Хамовники,Саввинская набережная,3,Киевская
+24,ID 204086,unknown,https://www.cian.ru/rent/flat/303901298/,Москва,rent,flat,10,11,3,101.0,160000,0,Хамовники,1-я Фрунзенская ,6,Фрунзенская

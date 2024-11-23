@@ -1,0 +1,29 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,ID 157977,realtor,https://www.cian.ru/rent/flat/306597889/,Москва,rent,flat,8,9,3,74.0,150000,0,Фили-Давыдково,Аминьевское шоссе,36,Давыдково
+1,Дмитрий Иванцов,realtor,https://www.cian.ru/rent/flat/306585859/,Москва,rent,flat,16,23,3,112.0,295000,0,Можайский,Гжатская ,5к3,Давыдково
+2,Вертикаль,real_estate_agent,https://www.cian.ru/rent/flat/306538057/,Москва,rent,flat,9,23,3,134.0,180000,0,Фили-Давыдково,Давыдковская ,16,Давыдково
+3,KUNTSEVO,real_estate_agent,https://www.cian.ru/rent/flat/306530078/,Москва,rent,flat,11,25,3,131.0,170000,0,Можайский,Можайское шоссе,2,Давыдково
+4,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/306516385/,Москва,rent,flat,9,23,3,134.0,180000,0,Фили-Давыдково,Давыдковская ,16,Давыдково
+5,Point Estate Город,real_estate_agent,https://www.cian.ru/rent/flat/306474652/,Москва,rent,flat,10,23,3,140.0,180000,0,Фили-Давыдково,Давыдковская ,16,Давыдково
+6,EstateLiga,real_estate_agent,https://www.cian.ru/rent/flat/306357788/,Москва,rent,flat,6,23,3,110.0,280000,0,Можайский,Гжатская ,5к4,Давыдково
+7,Юлия Кутепова,realtor,https://www.cian.ru/rent/flat/306259874/,Москва,rent,flat,6,16,3,125.0,150000,0,Очаково-Матвеевское,Веерная ,30К2,Давыдково
+8,ID 116849936,homeowner,https://www.cian.ru/rent/flat/306106985/,Москва,rent,flat,3,31,3,100.0,40000,0,Можайский, Петра Алексеева,14,Давыдково
+9,My Hoyse,real_estate_agent,https://odintsovo.cian.ru/rent/flat/306100375/,Москва,rent,flat,9,9,3,150.0,140000,0,Заречье рп, Университетская,1,
+10,ID 348873,realtor,https://www.cian.ru/rent/flat/305959814/,Москва,rent,flat,16,25,3,70.0,115000,0,Фили-Давыдково,Славянский бульвар,9к6,Давыдково
+11,EstateLiga,real_estate_agent,https://www.cian.ru/rent/flat/305908552/,Москва,rent,flat,15,30,3,59.0,140000,0,Можайский, Петра Алексеева,14,Давыдково
+12,ID 51080547,homeowner,https://www.cian.ru/rent/flat/305278983/,Москва,rent,flat,6,23,3,110.0,300000,0,Можайский,Гжатская ,5к4,Давыдково
+13,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/305196975/,Москва,rent,flat,19,26,3,61.0,150000,0,Очаково-Матвеевское,Аминьевское шоссе,4Дк2,Давыдково
+14,Delight Realty,real_estate_agent,https://www.cian.ru/rent/flat/304973998/,Москва,rent,flat,8,14,3,92.0,140000,0,Можайский, Вересаева,12,Давыдково
+15,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/304535411/,Москва,rent,flat,4,15,3,229.0,250000,0,Можайский, Вересаева,6,Давыдково
+16,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/303824406/,Москва,rent,flat,11,25,3,155.0,195000,0,Можайский,Можайское шоссе,2,Давыдково
+17,ID 102827972,homeowner,https://www.cian.ru/rent/flat/303648136/,Москва,rent,flat,5,9,3,61.0,120000,0,Очаково-Матвеевское,Аминьевское шоссе,4Дк2,Давыдково
+18,ID 57079726,homeowner,https://www.cian.ru/rent/flat/296978696/,Москва,rent,flat,6,7,3,90.0,160000,0,Можайский,Верейская ,29С151,Давыдково
+19,ID 71143078,homeowner,https://www.cian.ru/rent/flat/295631500/,Москва,rent,flat,11,31,3,105.0,45000,0,Можайский, Петра Алексеева,14,Давыдково
+20,ID 54875172,unknown,https://www.cian.ru/rent/flat/294879295/,Москва,rent,flat,5,19,3,58.0,130000,0,Очаково-Матвеевское,Аминьевское шоссе,4Дк2,Давыдково
+21,ID 204921,real_estate_agent,https://www.cian.ru/rent/flat/293811834/,Москва,rent,flat,7,25,3,168.0,400000,0,Очаково-Матвеевское,Староволынская ,12к4,Давыдково
+22,ID 1539,realtor,https://www.cian.ru/rent/flat/292154301/,Москва,rent,flat,8,26,3,74.0,290000,0,Очаково-Матвеевское,Нежинская ,5к2,Давыдково
+23,ID 13004747,homeowner,https://www.cian.ru/rent/flat/273778229/,Москва,rent,flat,20,28,3,68.0,150000,0,Можайский,переулок 2-й Петра Алексеева,5,Давыдково
+24,ID 64959665,homeowner,https://www.cian.ru/rent/flat/247659866/,Москва,rent,flat,8,12,3,64.0,80000,0,Фили-Давыдково,Давыдковская ,10К6,Давыдково
+25,ID 21239956,realtor,https://www.cian.ru/rent/flat/307570941/,Москва,rent,flat,20,41,4,100.0,100000,0,Раменки,1-й Сетуньский проезд,8,Кутузовская
+26,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307700296/,Москва,rent,flat,12,12,3,105.0,200000,0,Раменки, Столетова,7к1,Раменки
+27,ID 15391555,unknown,https://www.cian.ru/rent/flat/306903913/,Москва,rent,flat,10,25,2,75.0,100000,0,Проспект Вернадского, Удальцова,46,Мичуринский проспект

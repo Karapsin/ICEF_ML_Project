@@ -1,0 +1,53 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,ID 86266694,unknown,https://www.cian.ru/rent/flat/307740922/,Москва,rent,flat,2,5,2,45.0,60000,0,Кунцево, Академика Павлова,8к1,Молодёжная
+1,Мария Шихкеримова,realtor,https://www.cian.ru/rent/flat/307738907/,Москва,rent,flat,2,17,2,60.0,110000,0,Крылатское,Осенний бульвар,15,Молодёжная
+2,Ирина Юркив,realtor,https://www.cian.ru/rent/flat/307738555/,Москва,rent,flat,15,15,2,47.0,100000,0,Кунцево,Ярцевская ,24К1,Молодёжная
+3,ID 11592,realtor,https://www.cian.ru/rent/flat/307717860/,Москва,rent,flat,4,5,2,48.0,60000,0,Кунцево,Бобруйская ,18К3,Молодёжная
+4,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307714877/,Москва,rent,flat,5,12,2,52.0,87000,0,Кунцево, Ивана Франко,40К1,Молодёжная
+5,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307704866/,Москва,rent,flat,13,28,2,60.0,140000,0,Кунцево, Академика Павлова,28,Молодёжная
+6,ID 68286046,realtor,https://www.cian.ru/rent/flat/307684878/,Москва,rent,flat,20,33,2,58.3,160000,0,Кунцево, Академика Павлова,56к1,Молодёжная
+7,ПИК-Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307683102/,Москва,rent,flat,3,15,2,60.0,104600,0,Кунцево, Академика Павлова,56к1,Молодёжная
+8,ID 12815580,unknown,https://www.cian.ru/rent/flat/307659278/,Москва,rent,flat,2,17,2,55.0,75000,0,Крылатское,Осенний бульвар,16К2,Молодёжная
+9,Perfect Manager House,real_estate_agent,https://www.cian.ru/rent/flat/307651935/,Москва,rent,flat,13,28,2,60.0,140000,0,Кунцево, Академика Павлова,28,Молодёжная
+10,WestHills,real_estate_agent,https://www.cian.ru/rent/flat/307651265/,Москва,rent,flat,8,19,2,51.0,120000,0,Кунцево,Рублевское шоссе,101,Молодёжная
+11,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307649426/,Москва,rent,flat,6,33,2,50.0,110000,0,Кунцево, Академика Павлова,38к1,Молодёжная
+12,ID 20233064,unknown,https://www.cian.ru/rent/flat/307633469/,Москва,rent,flat,7,17,2,65.0,67000,0,Кунцево,Молодогвардейская ,34,Молодёжная
+13,Квартирный центр,real_estate_agent,https://www.cian.ru/rent/flat/307613812/,Москва,rent,flat,3,17,2,60.0,75000,0,Кунцево,Кунцевская ,8К1,Молодёжная
+14,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307606931/,Москва,rent,flat,6,33,2,50.0,110000,0,Кунцево, Академика Павлова,38к1,Молодёжная
+15,ID 10316256,realtor,https://www.cian.ru/rent/flat/307605308/,Москва,rent,flat,10,21,2,58.0,90000,0,Кунцево, Маршала Сергеева,3,Молодёжная
+16,Арбат,real_estate_agent,https://www.cian.ru/rent/flat/307564311/,Москва,rent,flat,9,17,2,56.0,75000,0,Крылатское,Осенний бульвар,3,Молодёжная
+17,ID 72244063,unknown,https://www.cian.ru/rent/flat/307550272/,Москва,rent,flat,16,17,2,58.0,80000,0,Крылатское,Осенний бульвар,5К1,Молодёжная
+18,Парус,real_estate_agent,https://www.cian.ru/rent/flat/307534015/,Москва,rent,flat,2,17,2,52.0,63000,0,Кунцево,Кунцевская ,8К1,Молодёжная
+19,ID 8125,realtor,https://www.cian.ru/rent/flat/307476686/,Москва,rent,flat,7,17,2,60.0,130000,0,Кунцево,Партизанская ,36,Молодёжная
+20,ID 107813158,homeowner,https://www.cian.ru/rent/flat/307460632/,Москва,rent,flat,7,9,2,44.0,127000,0,Кунцево,Истринская ,10К1,Молодёжная
+21,ПИК-Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307456796/,Москва,rent,flat,15,33,2,50.5,100000,0,Кунцево, Академика Павлова,38к1,Молодёжная
+22,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307452903/,Москва,rent,flat,3,40,2,80.0,125000,0,Кунцево,Рублевское шоссе,107,Молодёжная
+23,ЕГСН Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307448520/,Москва,rent,flat,9,25,2,70.0,110000,0,Кунцево,Ярцевская ,24К1,Молодёжная
+24,Вертикаль,real_estate_agent,https://www.cian.ru/rent/flat/307441905/,Москва,rent,flat,3,40,2,80.0,125000,0,Кунцево,Рублевское шоссе,107,Молодёжная
+25,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307436359/,Москва,rent,flat,3,40,2,80.0,125000,0,Кунцево,Рублевское шоссе,107,Молодёжная
+26,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307416827/,Москва,rent,flat,5,9,2,48.0,87000,0,Кунцево, Леси Украинки,4К1,Молодёжная
+27,ID 121789755,homeowner,https://www.cian.ru/rent/flat/307400477/,Москва,rent,flat,2,17,2,51.0,63000,0,Кунцево,Кунцевская ,8К1,Молодёжная
+28,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307361947/,Москва,rent,flat,9,25,2,70.0,110000,0,Кунцево,Ярцевская ,24К1,Молодёжная
+29,СТОЛИЦА Департамент недвижимости,real_estate_agent,https://www.cian.ru/rent/flat/307360210/,Москва,rent,flat,9,25,2,70.0,110000,0,Кунцево,Ярцевская ,24К1,Молодёжная
+30,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307312872/,Москва,rent,flat,5,9,2,47.0,90000,0,Кунцево, Леси Украинки,4К1,Молодёжная
+31,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307215432/,Москва,rent,flat,2,17,2,52.0,61000,0,Кунцево,Кунцевская ,8К1,Молодёжная
+32,Мой Дом - отделение Добрынинское,real_estate_agent,https://www.cian.ru/rent/flat/307205092/,Москва,rent,flat,2,17,2,52.0,63000,0,Кунцево,Кунцевская ,8К1,Молодёжная
+33,Екатерина Глазкова,realtor,https://www.cian.ru/rent/flat/307110936/,Москва,rent,flat,10,17,2,53.0,100000,0,Крылатское,Рублевское шоссе,50,Молодёжная
+34,ID 60233868,homeowner,https://www.cian.ru/rent/flat/306954360/,Москва,rent,flat,6,33,2,50.0,110000,0,Кунцево, Академика Павлова,38к1,Молодёжная
+35,Марина Ерлина,realtor,https://www.cian.ru/rent/flat/306951981/,Москва,rent,flat,13,22,2,56.0,100000,0,Крылатское, Крылатские Холмы,30К8,Молодёжная
+36,Елена Светличная,realtor,https://www.cian.ru/rent/flat/306883831/,Москва,rent,flat,5,23,2,53.0,100000,0,Кунцево, Екатерины Будановой,5,Молодёжная
+37,ПИК-Аренда,real_estate_agent,https://www.cian.ru/rent/flat/306770308/,Москва,rent,flat,4,30,2,51.0,120000,0,Кунцево,Ярцевская ,32,Молодёжная
+38,ID 53350091,realtor,https://www.cian.ru/rent/flat/306283807/,Москва,rent,flat,2,16,2,70.0,75000,0,Кунцево,Рублевское шоссе,20К1,Молодёжная
+39,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/306271883/,Москва,rent,flat,6,30,2,50.0,120000,0,Кунцево,Ярцевская ,32,Молодёжная
+40,ID 150681,realtor,https://www.cian.ru/rent/flat/306214089/,Москва,rent,flat,6,30,2,46.3,120000,0,Кунцево,Ярцевская ,32,Молодёжная
+41,Светлана Кострова,realtor,https://www.cian.ru/rent/flat/303018994/,Москва,rent,flat,16,17,2,55.0,80000,0,Крылатское,Рублевское шоссе,52,Молодёжная
+42,ГОРОДСКОЙ КВАРТАЛ,real_estate_agent,https://www.cian.ru/rent/flat/295980103/,Москва,rent,flat,10,33,2,45.0,100000,0,Кунцево, Академика Павлова,38к1,Молодёжная
+43,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/294642981/,Москва,rent,flat,12,26,2,56.0,110000,0,Кунцево,Рублевское шоссе,101,Молодёжная
+44,ID 50083812,homeowner,https://www.cian.ru/rent/flat/291025759/,Москва,rent,flat,13,17,2,53.0,79000,0,Крылатское,Осенний бульвар,18К1,Молодёжная
+45,Светлана Бессмертных,realtor,https://www.cian.ru/rent/flat/264562820/,Москва,rent,flat,1,5,2,46.0,60000,0,Кунцево,Ярцевская ,9,Молодёжная
+46,ID 10963561,homeowner,https://www.cian.ru/rent/flat/253313662/,Москва,rent,flat,7,25,2,49.0,110000,0,Кунцево,Ярцевская ,24К2,Молодёжная
+47,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307494461/,Москва,rent,flat,5,5,1,33.0,50000,0,Фили-Давыдково, Алексея Свиридова,3,Кунцевская
+48,ID 309085,realtor,https://www.cian.ru/rent/flat/275766035/,Москва,rent,flat,21,22,1,40.0,55000,0,Крылатское,Осенняя ,16,Крылатское
+49,ID 103832583,homeowner,https://www.cian.ru/rent/flat/288276223/,Москва,rent,flat,6,17,2,60.0,78000,0,Филевский парк,Филевский бульвар,39,Фили
+50,ЕГСН Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307359009/,Москва,rent,flat,2,16,2,58.0,95000,0,Хорошево-Мневники, Мневники,23,Народное Ополчение
+51,ID 12589892,homeowner,https://www.cian.ru/rent/flat/307437746/,Москва,rent,flat,16,17,1,37.9,76000,0,Крылатское,Осенний бульвар,8К1,Молодёжная

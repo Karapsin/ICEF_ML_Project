@@ -1,0 +1,32 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307779927/,Москва,rent,flat,3,5,2,41.0,82000,0,Аэропорт,Часовая ,14,Красный Балтиец
+1,Центр Недвижимости плюс,real_estate_agent,https://www.cian.ru/rent/flat/307752880/,Москва,rent,flat,8,14,2,54.0,85000,0,Коптево, Приорова,30,Красный Балтиец
+2,ID 65978,realtor,https://www.cian.ru/rent/flat/307739568/,Москва,rent,flat,5,8,2,52.0,75000,0,Аэропорт, Асеева,2,Красный Балтиец
+3,Квартирный вопрос,real_estate_agent,https://www.cian.ru/rent/flat/307738433/,Москва,rent,flat,4,9,2,62.0,80000,0,Аэропорт, Лизы Чайкиной,6,Красный Балтиец
+4,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307724971/,Москва,rent,flat,5,12,2,55.0,70000,0,Войковский, Клары Цеткин,25К2,Красный Балтиец
+5,Наталья Васина,realtor,https://www.cian.ru/rent/flat/307702157/,Москва,rent,flat,6,14,2,48.0,83000,0,Коптево,Новопетровская ,14,Красный Балтиец
+6,СДЕЛКА,real_estate_agent,https://www.cian.ru/rent/flat/307666879/,Москва,rent,flat,3,5,2,55.0,74999,0,Аэропорт,3-й Балтийский переулок,4К4,Красный Балтиец
+7,ИскИн,real_estate_agent,https://www.cian.ru/rent/flat/307657030/,Москва,rent,flat,5,12,2,55.0,70000,0,Войковский, Клары Цеткин,25К2,Красный Балтиец
+8,Антон Репин,realtor,https://www.cian.ru/rent/flat/307616939/,Москва,rent,flat,5,5,2,45.0,60000,0,Коптево,Большая Академическая ,35А,Красный Балтиец
+9,Парус,real_estate_agent,https://www.cian.ru/rent/flat/307523018/,Москва,rent,flat,3,5,2,43.0,75000,0,Аэропорт,Планетная ,38,Красный Балтиец
+10,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307390849/,Москва,rent,flat,8,9,2,65.0,100000,0,Аэропорт,Ленинградский проспект,74К1,Красный Балтиец
+11,ГК Недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/307365824/,Москва,rent,flat,8,9,2,65.0,100000,0,Аэропорт,Ленинградский проспект,74К1,Красный Балтиец
+12,ГЦН +,real_estate_agent,https://www.cian.ru/rent/flat/307334065/,Москва,rent,flat,3,14,2,67.0,80000,0,Коптево, Космонавта Волкова,29К1,Красный Балтиец
+13,Егор Егоров,realtor,https://www.cian.ru/rent/flat/307295979/,Москва,rent,flat,4,9,2,57.0,90000,0,Аэропорт,Планетная ,47к1,Красный Балтиец
+14,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307247710/,Москва,rent,flat,14,25,2,105.0,160000,0,Аэропорт,Ленинградский проспект,76К4,Красный Балтиец
+15,Виталий Никифоров,realtor,https://www.cian.ru/rent/flat/307200740/,Москва,rent,flat,5,5,2,42.7,75000,0,Аэропорт,Планетная ,40,Красный Балтиец
+16,Уют,real_estate_agent,https://www.cian.ru/rent/flat/306865797/,Москва,rent,flat,3,5,2,42.2,55000,0,Коптево,3-й Михалковский переулок,9,Красный Балтиец
+17,ID 4480,realtor,https://www.cian.ru/rent/flat/306637947/,Москва,rent,flat,1,8,2,52.0,55000,0,Аэропорт, Усиевича,1,Красный Балтиец
+18,ID 3926,realtor,https://www.cian.ru/rent/flat/306180149/,Москва,rent,flat,1,5,2,44.0,70000,0,Аэропорт,1-й Амбулаторный проезд,5К1,Красный Балтиец
+19,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/306065278/,Москва,rent,flat,12,25,2,105.0,150000,0,Аэропорт,Ленинградский проспект,76К3,Красный Балтиец
+20,ID 47081741,homeowner,https://www.cian.ru/rent/flat/304750702/,Москва,rent,flat,5,5,2,40.2,75000,0,Войковский, Космонавта Волкова,15К1,Красный Балтиец
+21,Иван Музалевский,realtor,https://www.cian.ru/rent/flat/302123949/,Москва,rent,flat,3,5,2,40.9,62000,0,Коптево, Приорова,22,Красный Балтиец
+22,ID 15110248,homeowner,https://www.cian.ru/rent/flat/300012030/,Москва,rent,flat,6,7,2,58.4,75000,0,Коптево, Космонавта Волкова,25/2,Красный Балтиец
+23,ID 95248183,unknown,https://www.cian.ru/rent/flat/297726149/,Москва,rent,flat,3,5,2,43.0,78000,0,Аэропорт,Планетная ,38,Красный Балтиец
+24,Римма Бахтигаряева,realtor,https://www.cian.ru/rent/flat/279491652/,Москва,rent,flat,2,5,2,46.0,74000,0,Аэропорт,Часовая ,14,Красный Балтиец
+25,ID 85338515,homeowner,https://www.cian.ru/rent/flat/272444996/,Москва,rent,flat,8,14,2,52.0,85000,0,Коптево, Приорова,30,Красный Балтиец
+26,ID 467657,real_estate_agent,https://www.cian.ru/rent/flat/193102986/,Москва,rent,flat,25,34,2,80.0,140000,0,Аэропорт,Кочновский проезд,4к2,Красный Балтиец
+27,MagAppArt,real_estate_agent,https://www.cian.ru/rent/flat/155763993/,Москва,rent,flat,3,5,2,55.0,80000,0,Аэропорт,Малый Коптевский проезд,4,Красный Балтиец
+28,Вячеслав Гордеев,realtor,https://www.cian.ru/rent/flat/307631791/,Москва,rent,flat,1,5,2,45.0,65000,0,Тверской,Угловой переулок,21,Савёловская
+29,Александра Мирошниченко,realtor,https://www.cian.ru/rent/flat/305944367/,Москва,rent,flat,9,14,1,20.0,60000,0,Сокол,Балтийская ,15,Красный Балтиец
+30,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307305431/,Москва,rent,flat,7,9,2,45.0,55000,0,Войковский,Ленинградское шоссе,9К1,Войковская

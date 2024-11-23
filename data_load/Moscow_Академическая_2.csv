@@ -1,0 +1,29 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307725702/,Москва,rent,flat,3,8,2,45.0,120000,0,Гагаринский, Вавилова,46,Академическая
+1,ID 98855841,unknown,https://www.cian.ru/rent/flat/307724888/,Москва,rent,flat,3,8,2,45.0,120000,0,Гагаринский, Вавилова,46,Академическая
+2,LaRichesse,real_estate_agent,https://www.cian.ru/rent/flat/307681010/,Москва,rent,flat,16,20,2,55.0,100000,0,Академический, Дмитрия Ульянова,27к1,Академическая
+3,Юлия Бударина,realtor,https://www.cian.ru/rent/flat/307654564/,Москва,rent,flat,4,9,2,38.0,70000,0,Котловка, Винокурова,26К1,Академическая
+4,Мария  Тимина,realtor,https://www.cian.ru/rent/flat/307644127/,Москва,rent,flat,2,5,2,44.0,70000,0,Черемушки,Профсоюзная ,29К3,Академическая
+5,Олеся Шевченко,realtor,https://www.cian.ru/rent/flat/307636625/,Москва,rent,flat,5,8,2,60.0,90000,0,Академический,Профсоюзная ,19,Академическая
+6,EstateLiga,real_estate_agent,https://www.cian.ru/rent/flat/307609075/,Москва,rent,flat,5,5,2,42.0,60000,0,Котловка,Большая Черемушкинская ,15К1,Академическая
+7,ID 49842840,realtor,https://www.cian.ru/rent/flat/307607772/,Москва,rent,flat,2,9,2,38.0,75000,0,Черемушки,Нахимовский проспект,37К2,Академическая
+8,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307547705/,Москва,rent,flat,12,12,2,67.0,130500,0,Академический, Ивана Бабушкина,9,Академическая
+9,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307501909/,Москва,rent,flat,7,8,2,65.0,150000,0,Гагаринский,Молодежная ,3,Академическая
+10,ID 113816042,homeowner,https://www.cian.ru/rent/flat/307501170/,Москва,rent,flat,7,8,2,60.0,150000,0,Гагаринский,Молодежная ,3,Академическая
+11,Наталья Кудрявцева,realtor,https://www.cian.ru/rent/flat/307498982/,Москва,rent,flat,2,9,2,40.0,70000,0,Черемушки,Новочеремушкинская ,53К3,Академическая
+12,Классика,real_estate_agent,https://www.cian.ru/rent/flat/307497094/,Москва,rent,flat,1,8,2,53.0,90000,0,Гагаринский,Молодежная ,3,Академическая
+13,Александр Петров,realtor,https://www.cian.ru/rent/flat/307484606/,Москва,rent,flat,2,20,2,70.0,95000,0,Черемушки,Новочеремушкинская ,44К3,Академическая
+14,Марина Макарова,realtor,https://www.cian.ru/rent/flat/307484079/,Москва,rent,flat,9,9,2,60.0,100000,0,Ломоносовский,Ленинский проспект,74,Академическая
+15,ID 21526,realtor,https://www.cian.ru/rent/flat/307475855/,Москва,rent,flat,8,28,2,90.0,150000,0,Ломоносовский, Архитектора Власова,8,Академическая
+16,ID 8618,realtor,https://www.cian.ru/rent/flat/307468599/,Москва,rent,flat,18,27,2,68.0,125000,0,Академический,Нахимовский проспект,56,Академическая
+17,ID 352326,realtor,https://www.cian.ru/rent/flat/307462834/,Москва,rent,flat,8,8,2,44.0,87000,0,Академический,Нахимовский проспект,40,Академическая
+18,ID 62674,realtor,https://www.cian.ru/rent/flat/307458452/,Москва,rent,flat,4,10,2,60.0,150000,0,Гагаринский,Ленинский проспект,64/2,Академическая
+19,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307435043/,Москва,rent,flat,5,22,2,58.0,120000,0,Котловка, Дмитрия Ульянова,47,Академическая
+20,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307434970/,Москва,rent,flat,5,22,2,62.0,110000,0,Котловка, Дмитрия Ульянова,47,Академическая
+21,ОЛИМПИК СТАР,real_estate_agent,https://www.cian.ru/rent/flat/307431659/,Москва,rent,flat,5,22,2,58.0,110000,0,Котловка, Дмитрия Ульянова,47,Академическая
+22,Евгений Тогобицкий,realtor,https://www.cian.ru/rent/flat/307429802/,Москва,rent,flat,1,5,2,45.6,80000,0,Академический, Винокурова,12К1,Академическая
+23,Юлия Богунова,realtor,https://www.cian.ru/rent/flat/307361109/,Москва,rent,flat,11,28,2,60.0,125000,0,Ломоносовский, Архитектора Власова,8,Академическая
+24,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307311805/,Москва,rent,flat,13,14,2,49.0,93000,0,Котловка, Дмитрия Ульянова,47,Академическая
+25,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307294348/,Москва,rent,flat,3,5,2,47.0,75000,0,Академический, Винокурова,15К1,Академическая
+26,Артём Морев,realtor,https://www.cian.ru/rent/flat/307205986/,Москва,rent,flat,2,5,2,65.0,85000,0,Академический,Большая Черемушкинская ,32К2,Академическая
+27,CENTURY 21 Milestone,real_estate_agent,https://www.cian.ru/rent/flat/307103359/,Москва,rent,flat,2,12,2,47.3,100000,0,Котловка, Винокурова,20,Академическая

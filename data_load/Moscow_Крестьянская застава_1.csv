@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Дмитрий Вологжанин,realtor,https://www.cian.ru/rent/flat/307717423/,Москва,rent,flat,9,14,1,35.4,80000,0,Таганский,Брошевский переулок,8,Крестьянская застава
+1,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307706575/,Москва,rent,flat,4,17,1,38.0,80000,0,Таганский,Марксистская ,9,Крестьянская застава
+2,Фортуна-М,real_estate_agent,https://www.cian.ru/rent/flat/307701913/,Москва,rent,flat,9,16,1,35.7,90000,0,Таганский,Марксистская ,1к1,Крестьянская застава
+3,ID 41076883,realtor,https://www.cian.ru/rent/flat/307684711/,Москва,rent,flat,11,12,1,42.0,70000,0,Южнопортовый,1-я Дубровская ,2БК2,Крестьянская застава
+4,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307665440/,Москва,rent,flat,9,14,1,35.0,80000,0,Таганский,Брошевский переулок,8,Крестьянская застава
+5,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307656475/,Москва,rent,flat,4,5,1,15.0,120000,0,Таганский, Малые Каменщики,16,Крестьянская застава
+6,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307632085/,Москва,rent,flat,4,17,1,40.0,80000,0,Таганский,Марксистская ,9,Крестьянская застава
+7,Инна Небесная,realtor,https://www.cian.ru/rent/flat/307604140/,Москва,rent,flat,11,14,1,34.0,70000,0,Таганский,Брошевский переулок,4,Крестьянская застава
+8,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307581343/,Москва,rent,flat,1,5,1,24.0,50000,0,Таганский, Талалихина,39,Крестьянская застава
+9,ID 65950402,unknown,https://www.cian.ru/rent/flat/307575001/,Москва,rent,flat,6,9,1,30.1,85000,0,Даниловский,Дербеневская набережная,13/17К1,Крестьянская застава
+10,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307544561/,Москва,rent,flat,17,17,1,33.0,90000,0,Таганский,Марксистская ,9,Крестьянская застава
+11,ID 88729001,realtor,https://www.cian.ru/rent/flat/307462661/,Москва,rent,flat,1,9,1,35.0,60000,0,Даниловский, Симоновский Вал,8,Крестьянская застава
+12,ID 28519,realtor,https://www.cian.ru/rent/flat/307302212/,Москва,rent,flat,8,12,1,39.2,80000,0,Таганский,Таганская ,44,Крестьянская застава
+13,Инвестправо,real_estate_agent,https://www.cian.ru/rent/flat/307262630/,Москва,rent,flat,8,12,1,42.0,110000,0,Даниловский,3-й Павелецкий проезд,3,Крестьянская застава
+14,ID 119539,homeowner,https://www.cian.ru/rent/flat/306708246/,Москва,rent,flat,17,17,1,33.4,90000,0,Таганский,Марксистская ,9,Крестьянская застава
+15,ID 119976948,realtor,https://www.cian.ru/rent/flat/306185121/,Москва,rent,flat,2,12,1,38.0,80000,0,Таганский,Таганская ,44,Крестьянская застава
+16,Марина Морозова,realtor,https://www.cian.ru/rent/flat/306074068/,Москва,rent,flat,7,12,1,40.0,100000,0,Таганский,Малая Калитниковская ,2К2,Крестьянская застава
+17,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/305931038/,Москва,rent,flat,6,12,1,32.0,130000,0,Таганский,Малая Калитниковская ,2К2,Крестьянская застава
+18,ГОРОБМЕН,real_estate_agent,https://www.cian.ru/rent/flat/305534265/,Москва,rent,flat,7,8,1,41.0,100000,0,Даниловский,2-й Павелецкий проезд,5С1,Крестьянская застава
+19,ID 92492764,realtor,https://www.cian.ru/rent/flat/283742181/,Москва,rent,flat,5,9,1,30.0,70000,0,Даниловский, Симоновский Вал,8,Крестьянская застава
+20,Алексей Шестернин,realtor,https://www.cian.ru/rent/flat/212903076/,Москва,rent,flat,3,13,1,42.0,150000,0,Таганский, Большие Каменщики,4,Крестьянская застава
+21,ID 207178,realtor,https://www.cian.ru/rent/flat/154846552/,Москва,rent,flat,3,12,1,40.0,65000,0,Южнопортовый,1-я Дубровская ,2БК2,Крестьянская застава
+22,Юлия Литвинова,realtor,https://www.cian.ru/rent/flat/307633305/,Москва,rent,flat,2,14,2,42.0,80000,0,Таганский,Николоямский переулок,3АК4,Таганская
+23,АКРУС-сити,real_estate_agent,https://www.cian.ru/rent/flat/307295604/,Москва,rent,flat,8,8,2,58.0,60000,0,Южнопортовый,Новоостаповская ,6,Дубровка
+24,Любовь Щербакова,realtor,https://www.cian.ru/rent/flat/307334054/,Москва,rent,flat,9,9,1,34.0,60000,0,Пресненский,Звенигородское шоссе,3АС1,Улица 1905 года

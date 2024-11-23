@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Монолит,real_estate_agent,https://www.cian.ru/rent/flat/307784970/,Москва,rent,flat,2,9,1,30.0,35000,0,Перово, Металлургов,8/20,Кусково
+1,Галина Цопанова,realtor,https://www.cian.ru/rent/flat/307779414/,Москва,rent,flat,11,21,1,43.0,65000,0,Новогиреево,Утренняя ,20А,Кусково
+2,ID 70294715,unknown,https://www.cian.ru/rent/flat/307740602/,Москва,rent,flat,2,5,1,30.5,55000,0,Перово,Зеленый проспект,23/43,Кусково
+3,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307728489/,Москва,rent,flat,4,5,1,32.0,43000,0,Перово,Новогиреевская ,13,Кусково
+4,Анна Проскурина,realtor,https://www.cian.ru/rent/flat/307661219/,Москва,rent,flat,9,17,1,35.0,55000,0,Новогиреево,Перовская ,66к4,Кусково
+5,ID 12418332,realtor,https://www.cian.ru/rent/flat/307613971/,Москва,rent,flat,3,16,1,45.0,55000,0,Новогиреево,Перовская ,66к6,Кусково
+6,ID 60305268,realtor,https://www.cian.ru/rent/flat/307515517/,Москва,rent,flat,5,12,1,39.0,42000,0,Новогиреево,Кусковская ,17К1,Кусково
+7,SolariEstate,real_estate_agent,https://www.cian.ru/rent/flat/307268344/,Москва,rent,flat,6,16,1,35.0,50000,0,Перово,2-я Владимирская ,8К2,Кусково
+8,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307132768/,Москва,rent,flat,3,5,1,32.0,40000,0,Новогиреево,Кусковская ,25К1,Кусково
+9,ID 44825581,real_estate_agent,https://www.cian.ru/rent/flat/295664419/,Москва,rent,flat,4,5,1,15.0,40000,0,Перово,Зеленый проспект,25К3,Кусково
+10,Центральный Департамент Недвижимости,real_estate_agent,https://www.cian.ru/rent/flat/208785158/,Москва,rent,flat,8,8,1,37.0,40000,0,Перово,3-я Владимирская ,3К1,Кусково
+11,Алла Михайлова,realtor,https://www.cian.ru/rent/flat/169375170/,Москва,rent,flat,1,12,1,35.0,40000,0,Новогиреево,Утренняя ,18К2,Кусково
+12,MARNIS-GROUP,real_estate_agent,https://www.cian.ru/rent/flat/290909514/,Москва,rent,flat,6,9,1,32.0,42000,0,Свиблово,проезд Русанова,35,Свиблово
+13,Антон Осмелкин,realtor,https://www.cian.ru/rent/flat/307553502/,Москва,rent,flat,2,14,1,42.4,45000,0,Гольяново,Байкальская ,23,Щёлковская
+14,Елизавета Гибова,realtor,https://www.cian.ru/rent/flat/298669566/,Москва,rent,flat,5,9,2,45.0,45000,0,Богородское,Просторная ,11,Бульвар Рокоссовского
+15,ID 84553139,unknown,https://www.cian.ru/rent/flat/307149929/,Москва,rent,flat,3,5,1,32.0,41000,0,Рязанский,Яснополянская ,3К1,Окская
+16,ЕГСН Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307489051/,Москва,rent,flat,4,9,1,35.0,40000,0,Кузьминки, Федора Полетаева,32К5,Кузьминки
+17,i-deal,real_estate_agent,https://www.cian.ru/rent/flat/307636594/,Москва,rent,flat,4,12,2,45.0,54000,0,Новогиреево,Союзный проспект,9К2,Новогиреево
+18,ID 118024453,homeowner,https://www.cian.ru/rent/flat/307640512/,Москва,rent,flat,2,16,2,54.0,43000,0,Ивановское,Малый Купавенский проезд,3,Новогиреево
+19,Юлия Рубан,realtor,https://www.cian.ru/rent/flat/161853191/,Москва,rent,flat,3,5,1,36.0,43000,0,Нижегородский,Подъемная ,3,Калитники
+20,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307670503/,Москва,rent,flat,11,14,1,35.0,45000,0,Гольяново,Уральская ,6К8,Щёлковская
+21,ID 583323,realtor,https://www.cian.ru/rent/flat/307509773/,Москва,rent,flat,5,5,2,44.2,50000,0,Соколиная гора,проспект Буденного,20К1,Соколиная гора
+22,Михаил Мальцев,realtor,https://www.cian.ru/rent/flat/307602380/,Москва,rent,flat,9,9,2,45.0,50000,0,Новогиреево,Полимерная ,7,Кусково
+23,ID 52726,unknown,https://www.cian.ru/rent/flat/307649967/,Москва,rent,flat,15,17,1,39.0,45000,0,Рязанский,Мещерский переулок,6К2,Окская
+24,Вадим Орехов,realtor,https://www.cian.ru/rent/flat/303866185/,Москва,rent,flat,7,9,1,28.8,46000,0,Выхино-Жулебино,Рязанский проспект,62,Рязанский проспект

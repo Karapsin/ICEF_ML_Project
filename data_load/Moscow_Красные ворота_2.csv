@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Наталья Салтыкова,realtor,https://www.cian.ru/rent/flat/307678302/,Москва,rent,flat,2,6,2,56.7,95000,0,Красносельский,Новорязанская ,2/7,Красные ворота
+1,На Петровке,real_estate_agent,https://www.cian.ru/rent/flat/307518460/,Москва,rent,flat,5,5,2,70.0,330000,0,Басманный, Машкова,13С1,Красные ворота
+2,Vershina Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307476383/,Москва,rent,flat,5,5,2,48.0,110000,0,Басманный, Чаплыгина,8С1,Красные ворота
+3,Intermark Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307435339/,Москва,rent,flat,8,18,2,70.0,240000,0,Красносельский,Басманный переулок,5,Красные ворота
+4,ID 1042054,realtor,https://www.cian.ru/rent/flat/307363029/,Москва,rent,flat,14,19,2,57.0,175000,0,Красносельский,переулок Докучаев,2с3,Красные ворота
+5,ID 26742302,realtor,https://www.cian.ru/rent/flat/306958749/,Москва,rent,flat,3,5,2,65.0,220000,0,Басманный,Большой Козловский переулок,11С2,Красные ворота
+6,ID 15858718,homeowner,https://www.cian.ru/rent/flat/306264766/,Москва,rent,flat,4,8,2,35.0,125000,0,Басманный,Новая Басманная ,4-6С3,Красные ворота
+7,ID 20178549,realtor,https://www.cian.ru/rent/flat/304846961/,Москва,rent,flat,4,6,2,75.0,170000,0,Басманный,Фурманный переулок,16С1,Красные ворота
+8,NF Group - ex-Knight Frank,real_estate_agent,https://www.cian.ru/rent/flat/303832410/,Москва,rent,flat,7,10,2,61.7,230000,0,Басманный,Садовая-Черногрязская ,13/3С1,Красные ворота
+9,Юлия Мясоедова,realtor,https://www.cian.ru/rent/flat/273601224/,Москва,rent,flat,4,8,2,50.0,120000,0,Басманный,Большой Харитоньевский переулок,2/7,Красные ворота
+10,MosDomEstate,real_estate_agent,https://www.cian.ru/rent/flat/271401566/,Москва,rent,flat,3,5,2,62.0,150000,0,Басманный, Чаплыгина,15С5,Красные ворота
+11,ID 16276255,unknown,https://www.cian.ru/rent/flat/307538535/,Москва,rent,flat,3,4,1,45.0,128000,0,Басманный,Старосадский переулок,10С1,Китай-город
+12,Юлия Паниотова,realtor,https://www.cian.ru/rent/flat/292701750/,Москва,rent,flat,5,8,3,90.5,155000,0,Таганский,Котельническая набережная,25к2,Таганская
+13,ID 24419,real_estate_agent,https://www.cian.ru/rent/flat/307470965/,Москва,rent,flat,4,8,2,46.0,150000,0,Хамовники,переулок Сивцев Вражек,15/25,Кропоткинская
+14,ID 48976342,unknown,https://www.cian.ru/rent/flat/307046940/,Москва,rent,flat,3,5,2,42.0,85000,0,Тверской, Петровка,26С5,Трубная
+15,ID 18835544,official_representative,https://www.cian.ru/rent/flat/281664247/,Москва,rent,flat,5,12,2,80.0,1200000,0,Тверской, Охотный Ряд,2,Охотный ряд
+16,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/303632194/,Москва,rent,flat,5,5,3,65.2,130000,0,Замоскворечье,Пятницкая ,28,Третьяковская
+17,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307126701/,Москва,rent,flat,21,24,2,67.0,160000,0,Таганский,Котельническая набережная,1/15кБ,Китай-город
+18,Дипломат,real_estate_agent,https://www.cian.ru/rent/flat/307131445/,Москва,rent,flat,6,6,2,52.0,130000,0,Пресненский,Большой Патриарший переулок,10,Маяковская
+19,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307447111/,Москва,rent,flat,5,6,2,55.0,175000,0,Тверской,Тверская ,6С5,Охотный ряд
+20,ID 36706777,real_estate_agent,https://www.cian.ru/rent/flat/307041346/,Москва,rent,flat,2,8,3,75.0,120000,0,Басманный, Земляной Вал,24/32,Курская
+21,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307210998/,Москва,rent,flat,7,10,2,70.0,145000,0,Пресненский,Ермолаевский переулок,18А,Маяковская
+22,PANDA ESTATE,real_estate_agent,https://www.cian.ru/rent/flat/305572564/,Москва,rent,flat,6,6,2,60.0,140000,0,Пресненский,Богословский переулок,5,Тверская
+23,Сергей Гризодуб,realtor,https://www.cian.ru/rent/flat/307506381/,Москва,rent,flat,9,16,2,56.0,100000,0,Красносельский,Большая Спасская ,27,Площадь трёх вокзалов
+24,ИП Исмаилов А. А.,real_estate_agent,https://www.cian.ru/rent/flat/307589179/,Москва,rent,flat,4,8,3,60.0,160000,0,Басманный,Потаповский переулок,9,Чистые пруды

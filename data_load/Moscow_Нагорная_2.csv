@@ -1,0 +1,53 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Елизавета Холодионова,realtor,https://www.cian.ru/rent/flat/307735815/,Москва,rent,flat,34,42,2,42.5,110000,0,Котловка,Севастопольский проспект,22А,Нагорная
+1,ID 12510,realtor,https://www.cian.ru/rent/flat/307675347/,Москва,rent,flat,1,5,2,46.0,60000,0,Котловка,Нагорная ,29К3,Нагорная
+2,Сорин Мокану,realtor,https://www.cian.ru/rent/flat/307672535/,Москва,rent,flat,11,25,2,53.0,110000,0,Нагорный,Электролитный проезд,16к7,Нагорная
+3,ID 94299412,unknown,https://www.cian.ru/rent/flat/307670392/,Москва,rent,flat,22,27,2,42.0,130000,0,Нагорный,Электролитный проезд,7,Нагорная
+4,ID 15075,realtor,https://www.cian.ru/rent/flat/307646999/,Москва,rent,flat,8,15,2,55.0,65000,0,Котловка,Нахимовский проспект,22,Нагорная
+5,Наталья Тен,realtor,https://www.cian.ru/rent/flat/307635452/,Москва,rent,flat,11,27,2,42.0,120000,0,Нагорный,Электролитный проезд,7,Нагорная
+6,Оксана Жванко,realtor,https://www.cian.ru/rent/flat/307631607/,Москва,rent,flat,1,12,2,45.0,75000,0,Котловка,Нагорная ,25К1,Нагорная
+7,EstateLiga,real_estate_agent,https://www.cian.ru/rent/flat/307609075/,Москва,rent,flat,5,5,2,42.0,60000,0,Котловка,Большая Черемушкинская ,15К1,Нагорная
+8,Марина Храпова,realtor,https://www.cian.ru/rent/flat/307606875/,Москва,rent,flat,3,5,2,45.0,60000,0,Котловка,Севастопольский проспект,31К1,Нагорная
+9,Las Vegas,real_estate_agent,https://www.cian.ru/rent/flat/307541244/,Москва,rent,flat,14,24,2,75.0,165000,0,Нагорный,Электролитный проезд,16к7,Нагорная
+10,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307525564/,Москва,rent,flat,2,25,2,56.0,110000,0,Нагорный,Электролитный проезд,16к3,Нагорная
+11,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307519376/,Москва,rent,flat,2,25,2,60.0,110000,0,Нагорный,Электролитный проезд,16к3,Нагорная
+12,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307499955/,Москва,rent,flat,2,25,2,60.0,110000,0,Нагорный,Электролитный проезд,16к3,Нагорная
+13,Заур Саймаев,realtor,https://www.cian.ru/rent/flat/307495714/,Москва,rent,flat,2,25,2,56.4,110000,0,Нагорный,Электролитный проезд,16к3,Нагорная
+14,EMPIRE HOME,real_estate_agent,https://www.cian.ru/rent/flat/307484738/,Москва,rent,flat,8,19,2,45.8,50000,0,Котловка,Севастопольский проспект,22,Нагорная
+15,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307435043/,Москва,rent,flat,5,22,2,58.0,120000,0,Котловка, Дмитрия Ульянова,47,Нагорная
+16,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307434970/,Москва,rent,flat,5,22,2,62.0,110000,0,Котловка, Дмитрия Ульянова,47,Нагорная
+17,ОЛИМПИК СТАР,real_estate_agent,https://www.cian.ru/rent/flat/307431659/,Москва,rent,flat,5,22,2,58.0,110000,0,Котловка, Дмитрия Ульянова,47,Нагорная
+18,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307429164/,Москва,rent,flat,5,22,2,60.0,110000,0,Котловка, Дмитрия Ульянова,47,Нагорная
+19,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307393872/,Москва,rent,flat,6,12,2,40.0,90000,0,Нагатино-Садовники,Нагатинская ,11К1,Нагорная
+20,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307382797/,Москва,rent,flat,1,7,2,66.0,90000,0,Котловка,Нагорная ,7К1,Нагорная
+21,EMPIRE HOME,real_estate_agent,https://www.cian.ru/rent/flat/307366998/,Москва,rent,flat,1,8,2,70.0,90000,0,Котловка,Нагорная ,7К1,Нагорная
+22,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307360001/,Москва,rent,flat,8,20,2,80.0,180000,0,Котловка,Нагорный бульвар,19к1,Нагорная
+23,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307311805/,Москва,rent,flat,13,14,2,49.0,93000,0,Котловка, Дмитрия Ульянова,47,Нагорная
+24,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307294348/,Москва,rent,flat,3,5,2,47.0,75000,0,Академический, Винокурова,15К1,Нагорная
+25,Ольга Надолинская,realtor,https://www.cian.ru/rent/flat/307262624/,Москва,rent,flat,7,15,2,59.0,100000,0,Котловка, Дмитрия Ульянова,47,Нагорная
+26,Артём Морев,realtor,https://www.cian.ru/rent/flat/307205986/,Москва,rent,flat,2,5,2,65.0,85000,0,Академический,Большая Черемушкинская ,32К2,Нагорная
+27,Наталья Каретова,realtor,https://www.cian.ru/rent/flat/306948577/,Москва,rent,flat,18,42,2,47.4,140000,0,Котловка,Севастопольский проспект,22А,Нагорная
+28,Александр Филатов,realtor,https://www.cian.ru/rent/flat/306854301/,Москва,rent,flat,1,5,2,45.0,80000,0,Котловка,Севастопольский проспект,19К1,Нагорная
+29,ЕГСН Аренда,real_estate_agent,https://www.cian.ru/rent/flat/306795495/,Москва,rent,flat,4,8,2,45.0,75000,0,Нагорный,Варшавское шоссе,69К2,Нагорная
+30,ID 5216,real_estate_agent,https://www.cian.ru/rent/flat/306709102/,Москва,rent,flat,3,33,2,73.0,110000,0,Нагатино-Садовники,1-й Нагатинский проезд,11к2,Нагорная
+31,ID 110035555,realtor,https://www.cian.ru/rent/flat/306309040/,Москва,rent,flat,21,26,2,35.0,115000,0,Нагорный,Электролитный проезд,7,Нагорная
+32,100 Квартир,real_estate_agent,https://www.cian.ru/rent/flat/304976455/,Москва,rent,flat,19,22,2,59.9,93000,0,Котловка, Дмитрия Ульянова,47,Нагорная
+33,Парус,real_estate_agent,https://www.cian.ru/rent/flat/304747022/,Москва,rent,flat,8,12,2,40.0,123000,0,Академический,Большая Черемушкинская ,10К1,Нагорная
+34,Вертикаль,real_estate_agent,https://www.cian.ru/rent/flat/304383749/,Москва,rent,flat,3,5,2,57.0,80000,0,Котловка,Нагорная ,27К1,Нагорная
+35,Александр Жуковский,realtor,https://www.cian.ru/rent/flat/302917207/,Москва,rent,flat,1,5,2,45.0,65000,0,Котловка,Нагорный бульвар,11,Нагорная
+36,ID 69655281,realtor,https://www.cian.ru/rent/flat/299676042/,Москва,rent,flat,4,5,2,45.0,80000,0,Академический, Винокурова,15К1,Нагорная
+37,ID 97032831,homeowner,https://www.cian.ru/rent/flat/282531940/,Москва,rent,flat,8,20,2,74.0,180000,0,Котловка,Нагорный бульвар,19к1,Нагорная
+38,Александр Долгов,realtor,https://www.cian.ru/rent/flat/277797504/,Москва,rent,flat,4,5,2,43.0,65000,0,Нагорный,Варшавское шоссе,52/2,Нагорная
+39,ID 94841363,homeowner,https://www.cian.ru/rent/flat/277336910/,Москва,rent,flat,18,33,2,60.0,100000,0,Нагатино-Садовники,1-й Нагатинский проезд,11к3,Нагорная
+40,ID 298055,unknown,https://www.cian.ru/rent/flat/267544919/,Москва,rent,flat,17,25,2,60.2,95000,0,Нагорный,Электролитный проезд,16к3,Нагорная
+41,Столичный квартал,real_estate_agent,https://www.cian.ru/rent/flat/222881563/,Москва,rent,flat,21,25,2,60.0,80000,0,Нагорный,Электролитный проезд,16к3,Нагорная
+42,Елена Кондратенко,realtor,https://www.cian.ru/rent/flat/267379173/,Москва,rent,flat,1,9,2,37.2,65000,0,Зюзино,Болотниковская ,21К1,Каховская
+43,Александр Мирошниченко,realtor,https://www.cian.ru/rent/flat/307458397/,Москва,rent,flat,3,14,3,78.0,85000,0,Черемушки, Наметкина,9К1,Новые Черёмушки
+44,ID 12242829,realtor,https://www.cian.ru/rent/flat/307522434/,Москва,rent,flat,4,5,2,42.9,65000,0,Зюзино, Каховка,5К1,Каховская
+45,Елена Хмелярская,realtor,https://www.cian.ru/rent/flat/267574535/,Москва,rent,flat,1,5,2,45.0,70000,0,Зюзино,Болотниковская ,44К1,Зюзино
+46,Любовь Черемисина,realtor,https://www.cian.ru/rent/flat/307413398/,Москва,rent,flat,2,9,2,50.0,80000,0,Даниловский,Мытная ,62,Тульская
+47,ID 40430859,homeowner,https://www.cian.ru/rent/flat/271620360/,Москва,rent,flat,6,16,2,54.0,89000,0,Даниловский,Большая Тульская ,2,Тульская
+48,Светлана Чикунова,realtor,https://www.cian.ru/rent/flat/307229118/,Москва,rent,flat,6,17,2,51.0,70000,0,Обручевский,Профсоюзная ,60,Новые Черёмушки
+49,ID 322714,realtor,https://www.cian.ru/rent/flat/287399373/,Москва,rent,flat,10,14,2,75.0,100000,0,Черемушки, Гарибальди,36,Новые Черёмушки
+50,ЕВРОНЕДВИЖИМОСТЬ на Павелецкой,real_estate_agent,https://www.cian.ru/rent/flat/306459022/,Москва,rent,flat,18,24,1,41.0,85000,0,Нагорный,Электролитный проезд,7,Нагорная
+51,ID 121850326,homeowner,https://www.cian.ru/rent/flat/307407001/,Москва,rent,flat,2,10,2,50.0,95000,0,Даниловский,Люсиновская ,53,Серпуховская

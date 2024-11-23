@@ -1,0 +1,52 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,EstateLiga,real_estate_agent,https://www.cian.ru/rent/flat/307701466/,Москва,rent,flat,23,24,2,60.0,200000,0,Соколиная гора,Окружной проезд,10Б,Локомотив
+1,ID 112706334,homeowner,https://www.cian.ru/rent/flat/307685462/,Москва,rent,flat,19,33,2,52.0,105000,0,Гольяново,Амурская ,2к2,Локомотив
+2,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307664322/,Москва,rent,flat,14,16,2,60.0,72000,0,Гольяново,Амурская ,1к1,Локомотив
+3,Паскаль,real_estate_agent,https://www.cian.ru/rent/flat/307622922/,Москва,rent,flat,13,24,2,39.0,75000,0,Метрогородок,Тагильская ,4В,Локомотив
+4,ID 122047841,homeowner,https://www.cian.ru/rent/flat/307612902/,Москва,rent,flat,13,16,2,59.0,78000,0,Гольяново,Амурская ,1к1,Локомотив
+5,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307609572/,Москва,rent,flat,15,27,2,76.0,120000,0,Гольяново,Амурская ,1Ак2,Локомотив
+6,ID 118814065,homeowner,https://www.cian.ru/rent/flat/307552354/,Москва,rent,flat,22,24,2,58.0,70000,0,Гольяново,Амурская ,1/2/2,Локомотив
+7,ID 338487,unknown,https://www.cian.ru/rent/flat/307552154/,Москва,rent,flat,6,16,2,45.0,70000,0,Преображенское,Большая Черкизовская ,12К1,Локомотив
+8,ID 10329198,real_estate_agent,https://www.cian.ru/rent/flat/307533498/,Москва,rent,flat,22,24,2,58.0,80000,0,Гольяново,Амурская ,1/2/1,Локомотив
+9,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307458451/,Москва,rent,flat,19,33,2,55.0,110000,0,Гольяново,Амурская ,2Ак2,Локомотив
+10,EMPIRE HOME,real_estate_agent,https://www.cian.ru/rent/flat/307449146/,Москва,rent,flat,4,22,2,55.0,68000,0,Гольяново,Щелковское шоссе,21К2,Локомотив
+11,ID 65344426,realtor,https://www.cian.ru/rent/flat/307325765/,Москва,rent,flat,4,14,2,60.0,80000,0,Гольяново,Амурская ,1/2/2,Локомотив
+12,Нью Сити,real_estate_agent,https://www.cian.ru/rent/flat/307265144/,Москва,rent,flat,24,24,2,58.0,85000,0,Гольяново,Амурская ,1/2/2,Локомотив
+13,ID 44381,realtor,https://www.cian.ru/rent/flat/307219618/,Москва,rent,flat,5,5,2,45.0,65000,0,Гольяново,Амурская ,16к1,Локомотив
+14,ID 21448858,unknown,https://www.cian.ru/rent/flat/307195378/,Москва,rent,flat,5,5,2,45.1,58000,0,Северное Измайлово,Щелковское шоссе,18,Локомотив
+15,Юрий Козубенко,realtor,https://www.cian.ru/rent/flat/307128695/,Москва,rent,flat,33,33,2,50.0,85000,0,Гольяново,Амурская ,2к2,Локомотив
+16,ID 121569771,homeowner,https://www.cian.ru/rent/flat/307094467/,Москва,rent,flat,7,14,2,30.0,60000,0,Преображенское,Халтуринская ,2,Локомотив
+17,ID 121423406,homeowner,https://www.cian.ru/rent/flat/306946964/,Москва,rent,flat,1,5,2,45.0,95000,0,Преображенское,2-я Пугачевская ,4К2,Локомотив
+18,Central-arenda,real_estate_agent,https://www.cian.ru/rent/flat/306824758/,Москва,rent,flat,28,33,2,58.0,85000,0,Гольяново,Амурская ,2к2,Локомотив
+19,New Life,real_estate_agent,https://www.cian.ru/rent/flat/306757061/,Москва,rent,flat,3,17,2,35.4,80000,0,Гольяново,Амурская ,2Ак1,Локомотив
+20,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/306605220/,Москва,rent,flat,1,5,2,43.0,90000,0,Преображенское,2-я Пугачевская ,4К2,Локомотив
+21,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/306604160/,Москва,rent,flat,9,10,2,59.0,90000,0,Гольяново,Амурская ,1к1,Локомотив
+22,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/306595009/,Москва,rent,flat,1,5,2,50.0,90000,0,Преображенское,2-я Пугачевская ,4К2,Локомотив
+23,ID 263350,unknown,https://www.cian.ru/rent/flat/306550542/,Москва,rent,flat,9,17,2,59.9,90000,0,Гольяново,Амурская ,1к1,Локомотив
+24,ID 89038361,homeowner,https://www.cian.ru/rent/flat/306389713/,Москва,rent,flat,23,23,2,57.0,80000,0,Измайлово,Сиреневый бульвар,4/1,Локомотив
+25,ID 76442518,unknown,https://www.cian.ru/rent/flat/279449684/,Москва,rent,flat,6,14,2,47.0,70000,0,Преображенское,Халтуринская ,4К2,Локомотив
+26,ID 86163526,homeowner,https://www.cian.ru/rent/flat/279231102/,Москва,rent,flat,10,25,2,42.0,80000,0,Метрогородок,Тагильская ,4А,Локомотив
+27,ID 47209379,unknown,https://www.cian.ru/rent/flat/272847553/,Москва,rent,flat,1,5,2,52.0,72000,0,Гольяново,Амурская ,14,Локомотив
+28,ID 5454,realtor,https://www.cian.ru/rent/flat/262619453/,Москва,rent,flat,8,9,2,48.0,78000,0,Преображенское,Большая Черкизовская ,14К1,Локомотив
+29,Илья Солдатенков,realtor,https://www.cian.ru/rent/flat/196194658/,Москва,rent,flat,14,17,2,54.0,75000,0,Алексеевский,3-я Мытищинская ,3к2,Алексеевская
+30,Моя Недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/250969698/,Москва,rent,flat,5,8,1,38.0,65000,0,Преображенское,Большая Черкизовская ,4К1,Преображенская площадь
+31,КОНСИНГО,real_estate_agent,https://www.cian.ru/rent/flat/307539344/,Москва,rent,flat,5,9,2,45.0,60000,0,Преображенское,2-я Пугачевская ,10К1,Преображенская площадь
+32,Светлана Захарова,realtor,https://www.cian.ru/rent/flat/307275521/,Москва,rent,flat,8,9,2,50.0,89000,0,Сокольники,Старослободская ,16/17,Сокольники
+33,Елена Мойса,realtor,https://www.cian.ru/rent/flat/242651088/,Москва,rent,flat,12,17,2,52.0,70000,0,Восточное Дегунино,Дубнинская ,13,Верхние Лихоборы
+34,ID 74338273,unknown,https://www.cian.ru/rent/flat/307544373/,Москва,rent,flat,5,16,2,54.0,75000,0,Сокольники,Сокольническая площадь,9,Сокольники
+35,ID 103757520,homeowner,https://www.cian.ru/rent/flat/302571453/,Москва,rent,flat,2,33,3,47.0,80000,0,Гольяново,Амурская ,2Ак2,Локомотив
+36,ID 16366,realtor,https://www.cian.ru/rent/flat/307314554/,Москва,rent,flat,2,4,2,56.0,70000,0,Восточное Измайлово,Первомайская ,76,Первомайская
+37,Павел Пинек,realtor,https://www.cian.ru/rent/flat/307448334/,Москва,rent,flat,13,26,2,60.0,85000,0,Соколиная гора,Вольная ,28/4к2,Соколиная гора
+38,Елена Иванова,realtor,https://www.cian.ru/rent/flat/306372495/,Москва,rent,flat,4,9,2,50.0,70000,0,Тимирязевский,Дмитровское шоссе,33К1,Петровско-Разумовская
+39,ID 23956980,realtor,https://www.cian.ru/rent/flat/239801992/,Москва,rent,flat,3,9,2,45.0,80000,0,Мещанский,проспект Мира,58,Проспект Мира
+40,EMPIRE HOME,real_estate_agent,https://www.cian.ru/rent/flat/306220289/,Москва,rent,flat,9,12,2,55.0,70000,0,Сокольники,Егерская ,5К1,Сокольники
+41,АКРУС-сити,real_estate_agent,https://www.cian.ru/rent/flat/278475310/,Москва,rent,flat,10,12,3,65.0,75000,0,Басманный, Госпитальный Вал,3К5,Лефортово
+42,Сергей Давыдов,realtor,https://www.cian.ru/rent/flat/306579063/,Москва,rent,flat,5,5,1,37.0,64990,0,Сокольники, 4-я Сокольническая,2,Сокольники
+43,Денис Феофанов,realtor,https://www.cian.ru/rent/flat/307590245/,Москва,rent,flat,12,12,2,52.8,75000,0,Сокольники,3-я Рыбинская ,21К3,Сокольники
+44,Егор Холодов,realtor,https://www.cian.ru/rent/flat/204286755/,Москва,rent,flat,5,15,2,40.0,75000,0,Марьина роща,Октябрьская ,42,Марьина Роща
+45,Александр Ваймугин,realtor,https://www.cian.ru/rent/flat/307668320/,Москва,rent,flat,26,30,2,45.0,80000,0,Богородское,бульвар Маршала Рокоссовского,6к1,Бульвар Рокоссовского
+46,РОДНЫЕ СТЕНЫ,real_estate_agent,https://www.cian.ru/rent/flat/306417887/,Москва,rent,flat,5,9,2,58.0,85000,0,Басманный,Спартаковская площадь,1/2,Бауманская
+47,Шираз Чнаваян,realtor,https://www.cian.ru/rent/flat/293030129/,Москва,rent,flat,5,12,2,50.0,80000,0,Сокольники,Русаковская ,22,Сокольники
+48,MDco,real_estate_agent,https://www.cian.ru/rent/flat/307536584/,Москва,rent,flat,5,9,2,45.0,70000,0,Восточное Измайлово,Нижняя Первомайская ,29,Первомайская
+49,Activ Realty,real_estate_agent,https://www.cian.ru/rent/flat/307548002/,Москва,rent,flat,3,12,2,52.5,70000,0,Ивановское,Челябинская ,3,Новогиреево
+50,Светлана Фалеева,realtor,https://www.cian.ru/rent/flat/195840488/,Москва,rent,flat,7,14,2,47.0,65000,0,Измайлово,Измайловский проезд,5К2,Измайловская

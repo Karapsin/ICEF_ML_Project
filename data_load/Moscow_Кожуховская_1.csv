@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Александр Гайдуков,realtor,https://www.cian.ru/rent/flat/307659205/,Москва,rent,flat,2,9,1,38.0,50000,0,Южнопортовый, Петра Романова,1,Кожуховская
+1,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307610299/,Москва,rent,flat,8,13,1,49.0,120000,0,Южнопортовый,6-я Кожуховская ,11К2,Кожуховская
+2,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307605417/,Москва,rent,flat,14,17,1,40.0,70000,0,Южнопортовый, Трофимова,32К1,Кожуховская
+3,Три Ступени,real_estate_agent,https://www.cian.ru/rent/flat/307525027/,Москва,rent,flat,11,30,1,40.0,80000,0,Южнопортовый, 1-я Машиностроения,10,Кожуховская
+4,ID 121513117,homeowner,https://www.cian.ru/rent/flat/307061201/,Москва,rent,flat,8,13,1,50.0,105000,0,Южнопортовый,6-я Кожуховская ,11К2,Кожуховская
+5,Парус,real_estate_agent,https://www.cian.ru/rent/flat/306834956/,Москва,rent,flat,14,14,1,40.0,85000,0,Южнопортовый,5-я Кожуховская ,14К1,Кожуховская
+6,ID 120882345,homeowner,https://www.cian.ru/rent/flat/306389007/,Москва,rent,flat,7,8,1,30.8,55000,0,Южнопортовый, Трофимова,15,Кожуховская
+7,Людмила Белозорова-Анисимова,realtor,https://www.cian.ru/rent/flat/294931225/,Москва,rent,flat,7,9,1,32.0,55000,0,Южнопортовый, 2-я Машиностроения,9,Кожуховская
+8,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307581343/,Москва,rent,flat,1,5,1,24.0,50000,0,Таганский, Талалихина,39,Волгоградский проспект
+9,Ирина Манукян,realtor,https://www.cian.ru/rent/flat/307604336/,Москва,rent,flat,3,9,1,33.0,45000,0,Нагатинский затон,Якорная ,9,Кленовый бульвар
+10,Елена Закора,realtor,https://www.cian.ru/rent/flat/307345481/,Москва,rent,flat,3,4,1,30.0,53000,0,Даниловский,Автозаводская ,23С928,ЗИЛ
+11,АКРУС-сити,real_estate_agent,https://www.cian.ru/rent/flat/307295604/,Москва,rent,flat,8,8,2,58.0,60000,0,Южнопортовый,Новоостаповская ,6,Дубровка
+12,ID 116088,realtor,https://www.cian.ru/rent/flat/307592086/,Москва,rent,flat,8,12,2,38.5,52000,0,Нагатинский затон,Затонная ,14К2,Кленовый бульвар
+13,Моя Недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/266816134/,Москва,rent,flat,8,12,1,37.0,54000,0,Текстильщики,Волжский бульвар,20А,Текстильщики
+14,ID 102999917,unknown,https://www.cian.ru/rent/flat/307627422/,Москва,rent,flat,12,16,1,46.0,90000,0,Даниловский,Автозаводская ,23С120,ЗИЛ
+15,Александр Зернов,realtor,https://www.cian.ru/rent/flat/307344568/,Москва,rent,flat,9,12,1,33.4,60000,0,Нагатинский затон,Кленовый бульвар,24,Кленовый бульвар
+16,EMPIRE HOME,real_estate_agent,https://www.cian.ru/rent/flat/307434590/,Москва,rent,flat,1,9,1,40.0,60000,0,Нагатино-Садовники,Каширское шоссе,7К1,Нагорная
+17,Мой Дом - отделение Добрынинское,real_estate_agent,https://www.cian.ru/rent/flat/307635931/,Москва,rent,flat,7,9,1,36.0,45000,0,Донской,Загородное шоссе,8кВ,Крымская
+18,Татьяна  Шарыгина,realtor,https://www.cian.ru/rent/flat/307600741/,Москва,rent,flat,2,9,1,31.0,60000,0,Нагатинский затон,Затонная ,7К1,Кленовый бульвар
+19,ВЗЛЕТ Недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/307542193/,Москва,rent,flat,2,9,1,30.0,60000,0,Даниловский, Лобанова,2/21,Автозаводская
+20,ID 277227,unknown,https://www.cian.ru/rent/flat/301320108/,Москва,rent,flat,10,10,2,38.0,100000,0,Даниловский,проспект Лихачева,12к3,Технопарк
+21,Estes,real_estate_agent,https://www.cian.ru/rent/flat/307391650/,Москва,rent,flat,5,17,1,37.0,75000,0,Нагатинский затон,Коломенская набережная,12,Нагатинский Затон
+22,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307632113/,Москва,rent,flat,2,5,1,45.0,50000,0,Кузьминки,Волгоградский проспект,131К2,Кузьминки
+23,White Lion,real_estate_agent,https://www.cian.ru/rent/flat/306691602/,Москва,rent,flat,15,16,1,25.0,65000,0,Даниловский,Автозаводская ,23С120,ЗИЛ
+24,Олимп,real_estate_agent,https://www.cian.ru/rent/flat/267385655/,Москва,rent,flat,2,26,2,38.0,70000,0,Даниловский,Автозаводская ,23Бк2,ЗИЛ

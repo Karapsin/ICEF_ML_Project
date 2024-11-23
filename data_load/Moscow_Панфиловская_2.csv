@@ -1,0 +1,57 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,ID 29637,realtor,https://www.cian.ru/rent/flat/307755247/,Москва,rent,flat,17,25,2,54.0,235000,0,Хорошево-Мневники,Живописная ,21А,Панфиловская
+1,Игорь Кудрявцев,realtor,https://www.cian.ru/rent/flat/307752583/,Москва,rent,flat,16,24,2,58.1,125000,0,Щукино, Берзарина,32,Панфиловская
+2,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307745594/,Москва,rent,flat,25,25,2,60.0,120000,0,Щукино, Берзарина,32,Панфиловская
+3,Ирина Кравченко,realtor,https://www.cian.ru/rent/flat/307745416/,Москва,rent,flat,2,6,2,60.0,115000,0,Хорошевский, Острякова,8,Панфиловская
+4,Las Vegas,real_estate_agent,https://www.cian.ru/rent/flat/307745328/,Москва,rent,flat,31,32,2,110.0,120000,0,Щукино, Расплетина,21,Панфиловская
+5,ID 5419,realtor,https://www.cian.ru/rent/flat/307727055/,Москва,rent,flat,3,7,2,49.7,85000,0,Сокол,Чапаевский переулок,12к3,Панфиловская
+6,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307714161/,Москва,rent,flat,2,8,2,60.0,70000,0,Сокол, Панфилова,12,Панфиловская
+7,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307713667/,Москва,rent,flat,8,20,2,69.0,250000,0,Хорошево-Мневники, Паршина,10,Панфиловская
+8,Максим Мальцев,realtor,https://www.cian.ru/rent/flat/307707813/,Москва,rent,flat,8,9,2,54.0,75000,0,Сокол,Волоколамское шоссе,13,Панфиловская
+9,ID 2439,realtor,https://www.cian.ru/rent/flat/307706518/,Москва,rent,flat,12,12,2,56.0,90000,0,Хорошево-Мневники, Генерала Глаголева,30К3,Панфиловская
+10,Хозяин Сервис,real_estate_agent,https://www.cian.ru/rent/flat/307699242/,Москва,rent,flat,30,31,2,62.0,160000,0,Хорошево-Мневники,бульвар Генерала Карбышева,13А,Панфиловская
+11,Мой Дом - отделение Добрынинское,real_estate_agent,https://www.cian.ru/rent/flat/307683945/,Москва,rent,flat,9,14,2,39.0,75000,0,Хорошево-Мневники, Маршала Тухачевского,54,Панфиловская
+12,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307680372/,Москва,rent,flat,2,21,2,63.0,110000,0,Сокол, Алабяна,13к2,Панфиловская
+13,ID 28036,realtor,https://www.cian.ru/rent/flat/307679619/,Москва,rent,flat,8,9,2,33.6,85000,0,Сокол, Сальвадора Альенде,4К2,Панфиловская
+14,Ольга Медведева,realtor,https://www.cian.ru/rent/flat/307662477/,Москва,rent,flat,2,5,2,63.0,80000,0,Щукино, Маршала Бирюзова,16,Панфиловская
+15,Империя недвижимости,real_estate_agent,https://www.cian.ru/rent/flat/307649072/,Москва,rent,flat,4,12,2,45.0,50000,0,Хорошево-Мневники, Маршала Тухачевского,48,Панфиловская
+16,Циан х ПИК-Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307636751/,Москва,rent,flat,5,5,2,58.9,130200,0,Сокол,Волоколамское шоссе,7,Панфиловская
+17,Михаил Мальцев,realtor,https://www.cian.ru/rent/flat/307622850/,Москва,rent,flat,18,22,2,56.0,145000,0,Щукино, Берзарина,30А,Панфиловская
+18,ID 4272,realtor,https://www.cian.ru/rent/flat/307605415/,Москва,rent,flat,10,20,2,65.0,90000,0,Хорошево-Мневники, Маршала Тухачевского,37/21,Панфиловская
+19,ID 12460270,unknown,https://www.cian.ru/rent/flat/307590453/,Москва,rent,flat,4,22,2,50.0,85000,0,Хорошево-Мневники, Маршала Тухачевского,41к1,Панфиловская
+20,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307582415/,Москва,rent,flat,20,32,2,51.0,120000,0,Хорошево-Мневники,бульвар Генерала Карбышева,15,Панфиловская
+21,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307582084/,Москва,rent,flat,8,9,2,45.0,69000,0,Сокол,Песчаный переулок,20К1,Панфиловская
+22,Станислав Прокофьев,realtor,https://www.cian.ru/rent/flat/307549754/,Москва,rent,flat,8,24,2,68.0,150000,0,Щукино, Берзарина,30А,Панфиловская
+23,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307541386/,Москва,rent,flat,8,9,2,42.0,69000,0,Сокол,Песчаный переулок,20К1,Панфиловская
+24,ID 21001,realtor,https://www.cian.ru/rent/flat/307536905/,Москва,rent,flat,7,8,2,63.0,80000,0,Сокол, Алабяна,10К6,Панфиловская
+25,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307531119/,Москва,rent,flat,10,21,2,47.0,120000,0,Хорошево-Мневники, Паршина,10,Панфиловская
+26,Неля Гарипова,realtor,https://www.cian.ru/rent/flat/307515623/,Москва,rent,flat,16,25,2,60.0,125000,0,Щукино, Берзарина,32/2,Панфиловская
+27,Наталия Миронова,realtor,https://www.cian.ru/rent/flat/307509909/,Москва,rent,flat,3,14,2,39.0,54000,0,Хорошево-Мневники, Маршала Тухачевского,25К2,Панфиловская
+28,ID 5095,realtor,https://www.cian.ru/rent/flat/307495587/,Москва,rent,flat,4,25,2,60.0,120000,0,Щукино, Берзарина,32к2.2,Панфиловская
+29,ID 4751,realtor,https://www.cian.ru/rent/flat/307486179/,Москва,rent,flat,4,11,2,54.8,100000,0,Щукино, Маршала Рыбалко,2к6,Панфиловская
+30,,,https://www.cian.ru/rent/flat/307474786/,Москва,rent,flat,5,20,2,80.0,236999,0,Хорошево-Мневники, Паршина,10,Панфиловская
+31,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307458352/,Москва,rent,flat,9,12,2,38.0,70000,0,Хорошево-Мневники, Маршала Тухачевского,54,Панфиловская
+32,Сергей Андросов,realtor,https://www.cian.ru/rent/flat/307449940/,Москва,rent,flat,9,9,2,46.0,65000,0,Сокол,Песчаный переулок,8,Панфиловская
+33,ID 98085123,homeowner,https://www.cian.ru/rent/flat/307357625/,Москва,rent,flat,25,25,2,60.0,125000,0,Щукино, Берзарина,32к2.2,Панфиловская
+34,Trust Realty,real_estate_agent,https://www.cian.ru/rent/flat/307325425/,Москва,rent,flat,3,15,2,54.0,230000,0,Сокол, Врубеля,4к1,Панфиловская
+35,EuroDoma,real_estate_agent,https://www.cian.ru/rent/flat/307261289/,Москва,rent,flat,14,14,2,38.0,65000,0,Хорошево-Мневники, Берзарина,7к1,Панфиловская
+36,Михаил Маркаров,realtor,https://www.cian.ru/rent/flat/307151736/,Москва,rent,flat,3,5,2,45.0,67000,0,Щукино,3-й Волоколамский проезд,10К2,Панфиловская
+37,Екатерина Юрченко,realtor,https://www.cian.ru/rent/flat/307123335/,Москва,rent,flat,5,5,2,58.0,80000,0,Щукино, Маршала Рыбалко,12К2,Панфиловская
+38,Макромир,real_estate_agent,https://www.cian.ru/rent/flat/307036999/,Москва,rent,flat,8,24,2,56.4,90000,0,Щукино, Берзарина,32,Панфиловская
+39,Сергей Кирилин,realtor,https://www.cian.ru/rent/flat/306919809/,Москва,rent,flat,2,9,2,42.0,114000,0,Сокол,Песчаный переулок,20К2,Панфиловская
+40,RENT_BAND,real_estate_agent,https://www.cian.ru/rent/flat/306907642/,Москва,rent,flat,4,6,2,55.0,150000,0,Сокол,Новопесчаная ,19к3,Панфиловская
+41,ID 73418663,homeowner,https://www.cian.ru/rent/flat/306691429/,Москва,rent,flat,8,20,2,69.0,250000,0,Хорошево-Мневники, Паршина,10,Панфиловская
+42,APARTMENTS,real_estate_agent,https://www.cian.ru/rent/flat/306572338/,Москва,rent,flat,15,22,2,55.0,110000,0,Щукино, Берзарина,32,Панфиловская
+43,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/306456565/,Москва,rent,flat,7,13,2,50.0,131500,0,Хорошево-Мневники,3-я Хорошевская ,25к5,Панфиловская
+44,Юрий Мамонтов,realtor,https://www.cian.ru/rent/flat/306074514/,Москва,rent,flat,3,7,2,57.0,80000,0,Сокол,Новопесчаная ,23к1,Панфиловская
+45,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/306069924/,Москва,rent,flat,14,19,2,60.0,110000,0,Щукино,Тепличный переулок,4,Панфиловская
+46,Ольга Тегай,realtor,https://www.cian.ru/rent/flat/305750894/,Москва,rent,flat,9,12,2,38.6,75000,0,Хорошево-Мневники, Маршала Тухачевского,54,Панфиловская
+47,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/305749822/,Москва,rent,flat,8,9,2,63.0,160000,0,Сокол,Волоколамское шоссе,1кБ,Панфиловская
+48,Enkelman Development,real_estate_agent,https://www.cian.ru/rent/flat/305509588/,Москва,rent,flat,7,25,2,57.5,110000,0,Щукино, Берзарина,32,Панфиловская
+49,ID 58694,realtor,https://www.cian.ru/rent/flat/305428345/,Москва,rent,flat,16,57,2,120.0,290000,0,Хорошевский,Чапаевский переулок,3,Панфиловская
+50,ID 99173745,homeowner,https://www.cian.ru/rent/flat/304534122/,Москва,rent,flat,2,5,2,43.0,78000,0,Покровское-Стрешнево,Волоколамское шоссе,80А,Панфиловская
+51,Виктория Рогозина,realtor,https://www.cian.ru/rent/flat/301825645/,Москва,rent,flat,13,25,2,65.0,150000,0,Щукино, Берзарина,30Б,Панфиловская
+52,ID 78552985,homeowner,https://www.cian.ru/rent/flat/298283218/,Москва,rent,flat,8,9,2,45.0,69000,0,Сокол,Песчаный переулок,20К1,Панфиловская
+53,Антон Осмелкин,realtor,https://www.cian.ru/rent/flat/293754560/,Москва,rent,flat,9,9,2,45.0,65000,0,Хорошево-Мневники, Маршала Тухачевского,23К3,Панфиловская
+54,ЛН-недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/276258336/,Москва,rent,flat,14,22,2,48.0,220000,0,Хорошево-Мневники,Живописная ,21А,Панфиловская
+55,ID 79423908,homeowner,https://www.cian.ru/rent/flat/275230834/,Москва,rent,flat,5,9,2,58.0,120000,0,Щукино, Маршала Рыбалко,2к6,Панфиловская

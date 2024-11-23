@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Алексей Грипич,realtor,https://www.cian.ru/rent/flat/307739148/,Москва,rent,flat,10,16,2,65.0,80000,0,Соколиная гора, Бориса Жигуленкова,7,Соколиная гора
+1,Марина Коваль,realtor,https://www.cian.ru/rent/flat/307722948/,Москва,rent,flat,5,12,2,52.0,65000,0,Соколиная гора, 5-я Соколиной Горы,25К4,Соколиная гора
+2,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307660533/,Москва,rent,flat,8,17,2,60.0,80000,0,Соколиная гора, Бориса Жигуленкова,7,Соколиная гора
+3,ГОРОБМЕН,real_estate_agent,https://www.cian.ru/rent/flat/307634350/,Москва,rent,flat,9,9,2,37.0,50000,0,Соколиная гора, 9-я Соколиной Горы,1,Соколиная гора
+4,ID 583323,realtor,https://www.cian.ru/rent/flat/307509773/,Москва,rent,flat,5,5,2,44.2,50000,0,Соколиная гора,проспект Буденного,20К1,Соколиная гора
+5,Павел Пинек,realtor,https://www.cian.ru/rent/flat/307448334/,Москва,rent,flat,13,26,2,60.0,85000,0,Соколиная гора,Вольная ,28/4к2,Соколиная гора
+6,ID 116129834,homeowner,https://www.cian.ru/rent/flat/307405628/,Москва,rent,flat,1,12,2,58.0,93000,0,Соколиная гора, 9-я Соколиной Горы,19,Соколиная гора
+7,i-deal,real_estate_agent,https://www.cian.ru/rent/flat/307206474/,Москва,rent,flat,6,13,2,61.3,80000,0,Соколиная гора, 9-я Соколиной Горы,9,Соколиная гора
+8,Сити Недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/307166080/,Москва,rent,flat,4,5,2,52.0,70000,0,Соколиная гора, Бориса Жигуленкова,4,Соколиная гора
+9,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/305055453/,Москва,rent,flat,18,23,2,60.0,120000,0,Соколиная гора,проспект Буденного,51к5,Соколиная гора
+10,i-deal,real_estate_agent,https://www.cian.ru/rent/flat/307636594/,Москва,rent,flat,4,12,2,45.0,54000,0,Новогиреево,Союзный проспект,9К2,Новогиреево
+11,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307428761/,Москва,rent,flat,16,25,1,36.0,55000,0,Соколиная гора,Вольная ,28/4к1,Соколиная гора
+12,ID 121569771,homeowner,https://www.cian.ru/rent/flat/307094467/,Москва,rent,flat,7,14,2,30.0,60000,0,Преображенское,Халтуринская ,2,Преображенская площадь
+13,ID 76442518,unknown,https://www.cian.ru/rent/flat/279449684/,Москва,rent,flat,6,14,2,47.0,70000,0,Преображенское,Халтуринская ,4К2,Преображенская площадь
+14,КОНСИНГО,real_estate_agent,https://www.cian.ru/rent/flat/307539344/,Москва,rent,flat,5,9,2,45.0,60000,0,Преображенское,2-я Пугачевская ,10К1,Преображенская площадь
+15,Светлана Захарова,realtor,https://www.cian.ru/rent/flat/307275521/,Москва,rent,flat,8,9,2,50.0,89000,0,Сокольники,Старослободская ,16/17,Сокольники
+16,ID 74338273,unknown,https://www.cian.ru/rent/flat/307544373/,Москва,rent,flat,5,16,2,54.0,75000,0,Сокольники,Сокольническая площадь,9,Сокольники
+17,ID 103757520,homeowner,https://www.cian.ru/rent/flat/302571453/,Москва,rent,flat,2,33,3,47.0,80000,0,Гольяново,Амурская ,2Ак2,Черкизовская
+18,ID 16366,realtor,https://www.cian.ru/rent/flat/307314554/,Москва,rent,flat,2,4,2,56.0,70000,0,Восточное Измайлово,Первомайская ,76,Первомайская
+19,ID 3134638,realtor,https://www.cian.ru/rent/flat/307574527/,Москва,rent,flat,4,5,2,55.0,55000,0,Измайлово,Измайловская площадь,4,Измайловская
+20,EMPIRE HOME,real_estate_agent,https://www.cian.ru/rent/flat/306220289/,Москва,rent,flat,9,12,2,55.0,70000,0,Сокольники,Егерская ,5К1,Сокольники
+21,АКРУС-сити,real_estate_agent,https://www.cian.ru/rent/flat/278475310/,Москва,rent,flat,10,12,3,65.0,75000,0,Басманный, Госпитальный Вал,3К5,Лефортово
+22,EMPIRE HOME,real_estate_agent,https://www.cian.ru/rent/flat/307432607/,Москва,rent,flat,2,4,3,50.0,75000,0,Измайлово,Измайловский проезд,6,Измайловская
+23,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307435842/,Москва,rent,flat,8,10,2,50.0,60000,0,Гольяново,Уральская ,6К1,Щёлковская
+24,Шираз Чнаваян,realtor,https://www.cian.ru/rent/flat/293030129/,Москва,rent,flat,5,12,2,50.0,80000,0,Сокольники,Русаковская ,22,Сокольники

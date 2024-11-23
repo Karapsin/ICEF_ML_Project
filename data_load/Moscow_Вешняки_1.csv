@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Татьяна Ермолаева,realtor,https://www.cian.ru/rent/flat/307722979/,Москва,rent,flat,8,17,1,39.0,50000,0,Вешняки,Вешняковская ,14К1,Вешняки
+1,Анжела Тимошенкова,realtor,https://www.cian.ru/rent/flat/307704118/,Москва,rent,flat,4,9,1,32.0,40000,0,Вешняки,Вешняковская ,6К3,Вешняки
+2,ID 9964,realtor,https://www.cian.ru/rent/flat/307699528/,Москва,rent,flat,9,16,1,40.0,45000,0,Рязанский, Академика Скрябина,16к1,Вешняки
+3,ID 12364,realtor,https://www.cian.ru/rent/flat/307683949/,Москва,rent,flat,6,9,1,35.0,39900,0,Вешняки,Реутовская ,24,Вешняки
+4,Елизавета Романова,realtor,https://www.cian.ru/rent/flat/307633480/,Москва,rent,flat,1,6,1,14.7,45000,0,Вешняки,аллея Первой Маевки,15с3,Вешняки
+5,ID 121709490,homeowner,https://www.cian.ru/rent/flat/307536721/,Москва,rent,flat,2,12,1,38.0,52000,0,Вешняки,Вешняковская ,37,Вешняки
+6,EMPIRE HOME,real_estate_agent,https://www.cian.ru/rent/flat/307497729/,Москва,rent,flat,9,9,1,35.0,55000,0,Вешняки, Молдагуловой,10К2,Вешняки
+7,Андрей Самарцев,realtor,https://www.cian.ru/rent/flat/307311873/,Москва,rent,flat,13,25,1,40.0,60000,0,Вешняки,Вешняковская ,24К1,Вешняки
+8,ID 84553139,unknown,https://www.cian.ru/rent/flat/307149929/,Москва,rent,flat,3,5,1,32.0,41000,0,Рязанский,Яснополянская ,3К1,Вешняки
+9,Вадим Орехов,realtor,https://www.cian.ru/rent/flat/303866185/,Москва,rent,flat,7,9,1,28.8,46000,0,Выхино-Жулебино,Рязанский проспект,62,Вешняки
+10,МИЭЛЬ,real_estate_agent,https://www.cian.ru/rent/flat/307653819/,Москва,rent,flat,3,5,1,30.0,45000,0,Кузьминки,Волгоградский проспект,147/5К1,Кузьминки
+11,ID 122045706,homeowner,https://www.cian.ru/rent/flat/307612045/,Москва,rent,flat,2,14,1,38.9,50000,0,Ярославский,Палехская ,21,Медведково
+12,Леонид Васильев,realtor,https://www.cian.ru/rent/flat/307662317/,Москва,rent,flat,8,17,1,38.0,50000,0,Донской,Загородное шоссе,4К3,Крымская
+13,ID 88463561,realtor,https://www.cian.ru/rent/flat/307369755/,Москва,rent,flat,1,5,1,32.0,45000,0,Рязанский, Федора Полетаева,5К2,Окская
+14,Антон Осмелкин,realtor,https://www.cian.ru/rent/flat/307553502/,Москва,rent,flat,2,14,1,42.4,45000,0,Гольяново,Байкальская ,23,Щёлковская
+15,Диалог Риэлт,real_estate_agent,https://www.cian.ru/rent/flat/299429592/,Москва,rent,flat,17,21,1,37.0,40000,0,Некрасовка,Рождественская ,29,Некрасовка
+16,ID 79753856,homeowner,https://www.cian.ru/rent/flat/307452933/,Москва,rent,flat,3,5,1,31.0,40000,0,Богородское,Бойцовая ,10К9,Бульвар Рокоссовского
+17,ЕГСН Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307489051/,Москва,rent,flat,4,9,1,35.0,40000,0,Кузьминки, Федора Полетаева,32К5,Кузьминки
+18,i-deal,real_estate_agent,https://www.cian.ru/rent/flat/307636594/,Москва,rent,flat,4,12,2,45.0,54000,0,Новогиреево,Союзный проспект,9К2,Новогиреево
+19,Юлия Рубан,realtor,https://www.cian.ru/rent/flat/161853191/,Москва,rent,flat,3,5,1,36.0,43000,0,Нижегородский,Подъемная ,3,Калитники
+20,Юлия Гуртина,realtor,https://www.cian.ru/rent/flat/296061852/,Москва,rent,flat,2,5,1,30.4,45000,0,Кузьминки, Юных Ленинцев,40К1,Кузьминки
+21,ID 55045676,unknown,https://www.cian.ru/rent/flat/307614424/,Москва,rent,flat,7,22,1,40.0,45000,0,Орехово-Борисово Северное,Борисовский проезд,16,Шипиловская
+22,ID 92733090,unknown,https://www.cian.ru/rent/flat/307593250/,Москва,rent,flat,10,19,1,38.0,40000,0,Некрасовка,Рождественская ,21к2,Некрасовка
+23,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307670503/,Москва,rent,flat,11,14,1,35.0,45000,0,Гольяново,Уральская ,6К8,Щёлковская
+24,ID 44825581,real_estate_agent,https://www.cian.ru/rent/flat/295664419/,Москва,rent,flat,4,5,1,15.0,40000,0,Перово,Зеленый проспект,25К3,Перово

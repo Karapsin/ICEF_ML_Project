@@ -1,0 +1,54 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Chase R.E.S.,real_estate_agent,https://www.cian.ru/rent/flat/307721119/,Москва,rent,flat,16,19,2,60.0,130000,0,Беговой,Ленинградский проспект,29к3,Динамо
+1,Lucky Realty,real_estate_agent,https://www.cian.ru/rent/flat/307718751/,Москва,rent,flat,11,37,2,51.0,250000,0,Хорошевский,Ленинградский проспект,37/6,Динамо
+2,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307705652/,Москва,rent,flat,10,12,2,45.0,140000,0,Беговой,Ленинградский проспект,29к1,Динамо
+3,Андрей Смирнов,realtor,https://www.cian.ru/rent/flat/307704209/,Москва,rent,flat,11,37,2,55.0,250000,0,Хорошевский,Ленинградский проспект,37/6,Динамо
+4,ID 15534709,homeowner,https://www.cian.ru/rent/flat/307703283/,Москва,rent,flat,11,37,2,51.0,250000,0,Хорошевский,Ленинградский проспект,37/6,Динамо
+5,Las Vegas,real_estate_agent,https://www.cian.ru/rent/flat/307700613/,Москва,rent,flat,10,12,2,75.0,325000,0,Аэропорт,Ленинградский проспект,36с36,Динамо
+6,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307700338/,Москва,rent,flat,11,36,2,52.0,250000,0,Хорошевский,Ленинградский проспект,37/6,Динамо
+7,ID 56661392,unknown,https://www.cian.ru/rent/flat/307693053/,Москва,rent,flat,4,5,2,45.0,75000,0,Савеловский,Петровско-Разумовский проезд,8А,Динамо
+8,Валерий Никишкин,realtor,https://www.cian.ru/rent/flat/307686991/,Москва,rent,flat,2,7,2,39.2,90000,0,Савеловский,Писцовая ,15,Динамо
+9,Лариса Стручкова,realtor,https://www.cian.ru/rent/flat/307684208/,Москва,rent,flat,10,37,2,56.0,95000,0,Хорошевский,Хорошевское шоссе,12к1,Динамо
+10,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307677051/,Москва,rent,flat,10,12,2,44.0,65000,0,Савеловский, Мишина,4,Динамо
+11,CapitalEstate,real_estate_agent,https://www.cian.ru/rent/flat/307671474/,Москва,rent,flat,6,17,2,90.0,260000,0,Беговой,Ленинградский проспект,35С2,Динамо
+12,SKOLKOVO НЕДВИЖИМОСТЬ,real_estate_agent,https://www.cian.ru/rent/flat/307660317/,Москва,rent,flat,3,40,2,60.0,330000,0,Хорошевский,Ленинградский проспект,37К3,Динамо
+13,Perfect Manager House,real_estate_agent,https://www.cian.ru/rent/flat/307657525/,Москва,rent,flat,3,10,2,55.0,190000,0,Беговой,Ленинградский проспект,35,Динамо
+14,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307656060/,Москва,rent,flat,3,10,2,58.0,185000,0,Беговой,Ленинградский проспект,35,Динамо
+15,Las Vegas,real_estate_agent,https://www.cian.ru/rent/flat/307655651/,Москва,rent,flat,5,17,2,70.0,230000,0,Беговой,Ленинградский проспект,29к1,Динамо
+16,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307654921/,Москва,rent,flat,3,10,2,58.0,185000,0,Беговой,Ленинградский проспект,35,Динамо
+17,Паскаль,real_estate_agent,https://www.cian.ru/rent/flat/307650124/,Москва,rent,flat,15,19,2,43.0,130000,0,Беговой,Ленинградский проспект,29к3,Динамо
+18,Елизавета Трушина,realtor,https://www.cian.ru/rent/flat/307649802/,Москва,rent,flat,3,18,2,58.0,200000,0,Беговой,Ленинградский проспект,29к1,Динамо
+19,Las Vegas,real_estate_agent,https://www.cian.ru/rent/flat/307632890/,Москва,rent,flat,3,25,2,40.0,120000,0,Савеловский, Юннатов,4кБ,Динамо
+20,Заира Гаджиева,realtor,https://www.cian.ru/rent/flat/307630469/,Москва,rent,flat,3,18,2,58.0,175000,0,Беговой,Ленинградский проспект,29к1,Динамо
+21,Дипломат,real_estate_agent,https://www.cian.ru/rent/flat/307624534/,Москва,rent,flat,3,5,2,45.0,120000,0,Беговой, Новая Башиловка,6,Динамо
+22,МИЭЛЬ,real_estate_agent,https://www.cian.ru/rent/flat/307609956/,Москва,rent,flat,9,11,2,56.0,80000,0,Беговой,Беговая ,7,Динамо
+23,ID 11672329,realtor,https://www.cian.ru/rent/flat/307608189/,Москва,rent,flat,9,14,2,48.0,160000,0,Савеловский, Юннатов,4кА,Динамо
+24,Сергей Зилотов,realtor,https://www.cian.ru/rent/flat/307564321/,Москва,rent,flat,1,5,2,45.0,65000,0,Савеловский, 1-я Бебеля,3,Динамо
+25,Заира Гаджиева,realtor,https://www.cian.ru/rent/flat/307551241/,Москва,rent,flat,8,14,2,70.0,175000,0,Беговой,Ленинградский проспект,29к4,Динамо
+26,ID 15697509,unknown,https://www.cian.ru/rent/flat/307550665/,Москва,rent,flat,4,5,2,45.0,77000,0,Беговой, Новая Башиловка,14,Динамо
+27,ID 20435,realtor,https://www.cian.ru/rent/flat/307534355/,Москва,rent,flat,2,8,2,71.8,130000,0,Беговой,Беговая ,13,Динамо
+28,ID 11242446,unknown,https://www.cian.ru/rent/flat/305649608/,Москва,rent,flat,6,25,2,57.0,150000,0,Савеловский, Юннатов,4кБ,Динамо
+29,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/305594122/,Москва,rent,flat,6,8,2,56.0,135000,0,Беговой,Ленинградский проспект,11,Динамо
+30,Метриум Премиум Городская недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/305049729/,Москва,rent,flat,12,18,2,82.0,400000,0,Беговой,Ленинградский проспект,29к1,Динамо
+31,Дарья Румянцева,realtor,https://www.cian.ru/rent/flat/304380247/,Москва,rent,flat,3,18,2,68.0,250000,0,Беговой,Ленинградский проспект,29к3,Динамо
+32,Холдинг Профи,real_estate_agent,https://www.cian.ru/rent/flat/304105402/,Москва,rent,flat,4,25,2,63.0,250000,0,Аэропорт,Ленинградский проспект,36с40,Динамо
+33,ID 57245889,homeowner,https://www.cian.ru/rent/flat/304065965/,Москва,rent,flat,6,14,2,53.0,78000,0,Беговой,Беговая ,6К2,Динамо
+34,ID 98450929,homeowner,https://www.cian.ru/rent/flat/303955357/,Москва,rent,flat,4,15,2,47.0,130000,0,Хорошевский,Ходынский бульвар,2,Динамо
+35,Intermark Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/301964707/,Москва,rent,flat,14,36,2,70.0,160000,0,Хорошевский,Хорошевское шоссе,12к1,Динамо
+36,Наталья Караман,realtor,https://www.cian.ru/rent/flat/294310329/,Москва,rent,flat,4,14,2,46.0,70000,0,Савеловский, 8 Марта,2/10к2,Динамо
+37,Кварт-Отель,real_estate_agent,https://www.cian.ru/rent/flat/292043096/,Москва,rent,flat,8,9,2,36.0,110000,0,Беговой,Верхняя ,1,Динамо
+38,АВИА-АПАРТ,real_estate_agent,https://www.cian.ru/rent/flat/288753502/,Москва,rent,flat,3,15,2,58.0,141900,0,Хорошевский,Ходынский бульвар,2,Динамо
+39,Ирина Якунина,realtor,https://www.cian.ru/rent/flat/287624200/,Москва,rent,flat,14,15,2,50.0,130000,0,Хорошевский,Ходынский бульвар,2,Динамо
+40,АВИА-АПАРТ,real_estate_agent,https://www.cian.ru/rent/flat/271069378/,Москва,rent,flat,13,13,2,63.0,147900,0,Хорошевский,Ходынский бульвар,2,Динамо
+41,ID 12546617,realtor,https://www.cian.ru/rent/flat/258520248/,Москва,rent,flat,11,21,2,45.0,150000,0,Беговой,Ленинградский проспект,29к2,Динамо
+42,Лайк Стрит,real_estate_agent,https://www.cian.ru/rent/flat/240110878/,Москва,rent,flat,4,14,2,38.0,120000,0,Беговой,Ленинградский проспект,29к2,Динамо
+43,ID 100465345,homeowner,https://www.cian.ru/rent/flat/307552263/,Москва,rent,flat,3,41,3,82.0,100000,0,Хорошевский,Ленинградский проспект,37/6,Динамо
+44,ID 121892460,homeowner,https://www.cian.ru/rent/flat/307458363/,Москва,rent,flat,20,25,2,46.0,120000,0,Хорошевский, Маргелова,3к1,Беговая
+45,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/306679176/,Москва,rent,flat,8,10,2,38.0,80000,0,Савеловский,Петровско-Разумовский проезд,5,Динамо
+46,Кварт-Отель,real_estate_agent,https://www.cian.ru/rent/flat/245466318/,Москва,rent,flat,4,9,2,39.0,118000,0,Пресненский,Большая Грузинская ,63С1,Белорусская
+47,ПИК-Аренда,real_estate_agent,https://www.cian.ru/rent/flat/306179899/,Москва,rent,flat,9,14,1,43.1,99900,0,Беговой,Верхняя ,6,Белорусская
+48,Этажи Москва,real_estate_agent,https://www.cian.ru/rent/flat/306786492/,Москва,rent,flat,3,17,2,42.0,100000,0,Беговой,Ленинградский проспект,35С2,Динамо
+49,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307080269/,Москва,rent,flat,8,24,2,45.0,150000,0,Красносельский,Большая Спасская ,35,Площадь трёх вокзалов
+50,Юлия Алимова,realtor,https://www.cian.ru/rent/flat/293148990/,Москва,rent,flat,2,15,1,35.0,110000,0,Хорошевский,Ходынский бульвар,20А,ЦСКА
+51,Ashtons International Realty,real_estate_agent,https://www.cian.ru/rent/flat/307252688/,Москва,rent,flat,10,12,2,55.0,210000,0,Тверской,2-я Брестская ,6,Маяковская
+52,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/306831373/,Москва,rent,flat,19,44,3,67.0,220000,0,Пресненский,Ходынская ,2,Улица 1905 года

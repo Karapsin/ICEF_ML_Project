@@ -1,0 +1,53 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,ID 18408685,unknown,https://krasnogorsk.cian.ru/rent/flat/307778581/,Москва,rent,flat,4,9,1,40.0,25000,0,Нахабино рп, Красноармейская,54,
+1,ID 421,realtor,https://krasnogorsk.cian.ru/rent/flat/307776597/,Москва,rent,flat,7,9,1,45.0,30000,0,, Карбышева,29,Опалиха
+2,Альтернатива,real_estate_agent,https://krasnogorsk.cian.ru/rent/flat/307750336/,Москва,rent,flat,7,9,1,33.0,32000,0,, Ленина,63,Опалиха
+3,ID 107285052,homeowner,https://krasnogorsk.cian.ru/rent/flat/307747301/,Москва,rent,flat,7,9,1,41.7,42000,0,,проезд Островского,19,Опалиха
+4,ID 105927269,homeowner,https://krasnogorsk.cian.ru/rent/flat/307708321/,Москва,rent,flat,8,9,1,34.0,54000,0,пос. Ильинское-Усово, Заповедная,13,
+5,Денис Мастяев,realtor,https://krasnogorsk.cian.ru/rent/flat/307706917/,Москва,rent,flat,1,14,1,50.0,40000,0,Нахабино рп, Новая Лесная,7,
+6,Денис Мастяев,realtor,https://krasnogorsk.cian.ru/rent/flat/307704437/,Москва,rent,flat,8,8,1,47.0,35000,0,, Алексеевская,3,Опалиха
+7,Яндекс Аренда,real_estate_agent,https://istra.cian.ru/rent/flat/307699746/,Москва,rent,flat,8,13,1,44.0,39000,0,Новоснегиревский ЖК,бульвар Сиреневый,5,
+8,ID 135892,realtor,https://krasnogorsk.cian.ru/rent/flat/307678658/,Москва,rent,flat,6,9,1,33.7,45000,0,пос. Ильинское-Усово, Заповедная,13,
+9,ID 122104171,homeowner,https://krasnogorsk.cian.ru/rent/flat/307659790/,Москва,rent,flat,1,8,1,33.4,40000,0,, Дежнева,6,Опалиха
+10,MOTYLEK - департамент недвижимости,real_estate_agent,https://krasnogorsk.cian.ru/rent/flat/307650127/,Москва,rent,flat,1,9,1,32.0,40000,0,, Пришвина,1к1,Опалиха
+11,Владис,real_estate_agent,https://krasnogorsk.cian.ru/rent/flat/307635592/,Москва,rent,flat,6,8,1,42.0,65000,0,,бульвар Серебряный,4,Опалиха
+12,Самолет Плюс Красногорск,real_estate_agent,https://krasnogorsk.cian.ru/rent/flat/307633380/,Москва,rent,flat,14,25,1,41.0,48000,0,,бульвар Космонавтов,13,Опалиха
+13,ПИК-Аренда,real_estate_agent,https://krasnogorsk.cian.ru/rent/flat/307631897/,Москва,rent,flat,4,9,1,34.0,56700,0,пос. Ильинское-Усово, Архангельская,6,
+14,Андрей Мосякин,realtor,https://krasnogorsk.cian.ru/rent/flat/307614676/,Москва,rent,flat,16,24,1,40.0,47000,0,,бульвар Космонавтов,17,Опалиха
+15,ПИК-Аренда,real_estate_agent,https://krasnogorsk.cian.ru/rent/flat/307604287/,Москва,rent,flat,7,9,1,23.0,49000,0,пос. Ильинское-Усово, Заповедная,13,
+16,ID 324199,homeowner,https://istra.cian.ru/rent/flat/307587777/,Москва,rent,flat,4,4,1,58.0,70000,0,с. Павловская Слобода, Изумрудная,5к2,
+17,Инна Шмелева,realtor,https://krasnogorsk.cian.ru/rent/flat/307567135/,Москва,rent,flat,5,8,1,41.0,65000,0,, Пришвина,3,Опалиха
+18,Руслан Кощуг,realtor,https://krasnogorsk.cian.ru/rent/flat/307564255/,Москва,rent,flat,16,18,1,38.0,40000,0,, Вилора Трифонова,3,Опалиха
+19,ID 157884,realtor,https://krasnogorsk.cian.ru/rent/flat/307519659/,Москва,rent,flat,4,6,1,29.0,15000,0,с. Николо-Урюпино, Сергея Жадобкина,2к1,
+20,ID 31400,realtor,https://krasnogorsk.cian.ru/rent/flat/307411403/,Москва,rent,flat,4,18,1,40.0,45000,0,Нахабино рп, Красноармейская,49А,
+21,ID 95762941,realtor,https://istra.cian.ru/rent/flat/307386214/,Москва,rent,flat,1,3,1,46.9,90000,0,д. Новинки, Малахитовая,7,
+22,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://krasnogorsk.cian.ru/rent/flat/307249132/,Москва,rent,flat,4,8,1,30.0,36000,0,д. Глухово, Романовская,19,
+23,ID 27650,realtor,https://krasnogorsk.cian.ru/rent/flat/307131648/,Москва,rent,flat,18,26,1,43.3,45000,0,, Игоря Мерлушкина,10,Опалиха
+24,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://krasnogorsk.cian.ru/rent/flat/307129647/,Москва,rent,flat,11,25,1,40.0,35000,0,,бульвар Космонавтов,1,Опалиха
+25,ID 498586,homeowner,https://istra.cian.ru/rent/flat/307062528/,Москва,rent,flat,3,9,1,52.0,37000,0,Новоснегиревский ЖК,бульвар Сиреневый,4,
+26,ID 11473722,realtor,https://krasnogorsk.cian.ru/rent/flat/307036497/,Москва,rent,flat,6,17,1,46.0,45000,0,,Успенская ,28,Опалиха
+27,ID 83947223,homeowner,https://krasnogorsk.cian.ru/rent/flat/306932702/,Москва,rent,flat,5,8,1,35.0,15000,0,Нахабино рп, Стартовая,6,
+28,ID 58839052,homeowner,https://krasnogorsk.cian.ru/rent/flat/306910348/,Москва,rent,flat,6,8,1,38.0,60000,0,д. Глухово, Романовская,11,
+29,ID 84626831,homeowner,https://krasnogorsk.cian.ru/rent/flat/306907339/,Москва,rent,flat,2,4,1,37.0,25000,0,с. Николо-Урюпино, Полковника Глазунова,14,
+30,Лофт Инвест,real_estate_agent,https://istra.cian.ru/rent/flat/306785681/,Москва,rent,flat,3,4,1,30.0,39000,0,Снегири дп, Московская,12,
+31,SC Realty,real_estate_agent,https://krasnogorsk.cian.ru/rent/flat/306670366/,Москва,rent,flat,20,25,1,37.0,50000,0,,бульвар Космонавтов,12к1,Опалиха
+32,ID 16073,realtor,https://krasnogorsk.cian.ru/rent/flat/306592346/,Москва,rent,flat,7,10,1,40.0,44000,0,, Братьев Горожанкиных,26,Опалиха
+33,ID 213582,unknown,https://krasnogorsk.cian.ru/rent/flat/305526444/,Москва,rent,flat,21,25,1,44.0,50000,0,,бульвар Космонавтов,7,Опалиха
+34,ID 203305,unknown,https://krasnogorsk.cian.ru/rent/flat/300341829/,Москва,rent,flat,3,9,1,31.9,32000,0,пос. Ильинское-Усово, Архангельская,9,
+35,Марина Стовбуник,realtor,https://krasnogorsk.cian.ru/rent/flat/297503807/,Москва,rent,flat,8,26,1,36.0,45000,0,,бульвар Космонавтов,11,Опалиха
+36,ID 103723865,homeowner,https://istra.cian.ru/rent/flat/295422813/,Москва,rent,flat,1,3,1,40.0,50000,0,Сампо ЖК, Фадеева,19,
+37,Антон Репин,realtor,https://krasnogorsk.cian.ru/rent/flat/295241237/,Москва,rent,flat,5,6,1,36.0,35000,0,с. Николо-Урюпино, Сергея Жадобкина,2к1,
+38,ID 100659148,homeowner,https://istra.cian.ru/rent/flat/293341074/,Москва,rent,flat,1,3,1,43.0,78000,0,д. Новинки, Малахитовая,5,
+39,ID 105764997,homeowner,https://krasnogorsk.cian.ru/rent/flat/290512768/,Москва,rent,flat,7,8,1,37.0,55000,0,д. Глухово, Романовская,13,
+40,ID 708,realtor,https://krasnogorsk.cian.ru/rent/flat/285334650/,Москва,rent,flat,6,9,1,32.0,40000,0,д. Глухово, Романовская,11,
+41,ID 93603509,homeowner,https://istra.cian.ru/rent/flat/279371779/,Москва,rent,flat,3,4,1,37.0,30000,0,д. Исаково, Рябиновая,12,
+42,ID 6323,realtor,https://dedovsk.cian.ru/rent/flat/276353277/,Москва,rent,flat,1,5,1,45.0,26000,0,, 1-я Волоколамская,60,Опалиха
+43,ID 84226717,homeowner,https://istra.cian.ru/rent/flat/274987566/,Москва,rent,flat,1,4,1,45.0,90000,0,,,,
+44,ID 60790649,unknown,https://istra.cian.ru/rent/flat/262549899/,Москва,rent,flat,2,3,1,44.0,50000,0,Павловский квартал ЖК, Новая,2,
+45,ID 101793,unknown,https://istra.cian.ru/rent/flat/257506148/,Москва,rent,flat,3,9,1,45.7,35000,0,Новоснегиревский ЖК,бульвар Сиреневый,22,
+46,ID 8929,realtor,https://krasnogorsk.cian.ru/rent/flat/252565390/,Москва,rent,flat,3,9,1,36.6,30000,0,пос. Ильинское-Усово, Заповедная,2,
+47,Дмитрий Саченко,realtor,https://krasnogorsk.cian.ru/rent/flat/234400931/,Москва,rent,flat,6,7,1,44.0,45000,0,д. Глухово, Рублевское Предместье,30,
+48,ID 5629,realtor,https://krasnogorsk.cian.ru/rent/flat/226394558/,Москва,rent,flat,7,8,1,40.0,40000,0,Нахабино рп, Белобородова,4,
+49,ID 44733,realtor,https://istra.cian.ru/rent/flat/224822582/,Москва,rent,flat,2,5,1,49.3,85000,0,,,,
+50,Анастасия Сергеева,realtor,https://dedovsk.cian.ru/rent/flat/201184969/,Москва,rent,flat,2,5,1,32.0,28000,0,, Красный Октябрь,5,Опалиха
+51,Евгений Менщиков,realtor,https://krasnogorsk.cian.ru/rent/flat/190411854/,Москва,rent,flat,2,3,1,23.0,20000,0,,Черневская ,79,Опалиха

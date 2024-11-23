@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,ID 23889245,unknown,https://www.cian.ru/rent/flat/307612368/,Москва,rent,flat,5,9,1,35.0,85000,0,Якиманка, Большая Якиманка,58/2,Полянка
+1,Тимур Гарипов,realtor,https://www.cian.ru/rent/flat/307447396/,Москва,rent,flat,8,9,1,33.0,75000,0,Даниловский,Дубининская ,65К2,Полянка
+2,Евгения Филимонова,realtor,https://www.cian.ru/rent/flat/240975788/,Москва,rent,flat,9,14,1,43.0,120000,0,Якиманка, Большая Якиманка,19,Полянка
+3,Андрей Вокин,realtor,https://www.cian.ru/rent/flat/307647164/,Москва,rent,flat,7,8,1,35.0,65000,0,Хамовники,Новодевичий проезд,4,Спортивная
+4,Любовь Щербакова,realtor,https://www.cian.ru/rent/flat/307334054/,Москва,rent,flat,9,9,1,34.0,60000,0,Пресненский,Звенигородское шоссе,3АС1,Улица 1905 года
+5,ID 23956980,realtor,https://www.cian.ru/rent/flat/307625261/,Москва,rent,flat,1,5,1,33.0,65000,0,Якиманка,2-й Добрынинский переулок,5/9,Добрынинская
+6,ID 8220,realtor,https://www.cian.ru/rent/flat/307541251/,Москва,rent,flat,2,14,1,39.0,60000,0,Замоскворечье,Люсиновская ,12,Серпуховская
+7,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307537332/,Москва,rent,flat,2,4,1,35.0,110000,0,Тверской,Малый Гнездниковский переулок,10,Тверская
+8,ID 53162893,realtor,https://www.cian.ru/rent/flat/240605830/,Москва,rent,flat,5,9,1,32.5,66000,0,Якиманка,Донская ,17,Шаболовская
+9,ID 69392442,homeowner,https://www.cian.ru/rent/flat/251955241/,Москва,rent,flat,6,8,1,40.0,80000,0,Басманный, Земляной Вал,39/1С1,Чкаловская
+10,ID 1723,realtor,https://www.cian.ru/rent/flat/307661096/,Москва,rent,flat,7,9,1,31.0,80000,0,Арбат,Смоленская ,10,Смоленская
+11,ID 48976342,unknown,https://www.cian.ru/rent/flat/307046940/,Москва,rent,flat,3,5,2,42.0,85000,0,Тверской, Петровка,26С5,Трубная
+12,Любовь Черемисина,realtor,https://www.cian.ru/rent/flat/307413398/,Москва,rent,flat,2,9,2,50.0,80000,0,Даниловский,Мытная ,62,Тульская
+13,ID 16276255,unknown,https://www.cian.ru/rent/flat/307538535/,Москва,rent,flat,3,4,1,45.0,128000,0,Басманный,Старосадский переулок,10С1,Китай-город
+14,ID 40430859,homeowner,https://www.cian.ru/rent/flat/271620360/,Москва,rent,flat,6,16,2,54.0,89000,0,Даниловский,Большая Тульская ,2,Тульская
+15,SPENСER ESTATE,real_estate_agent,https://www.cian.ru/rent/flat/307646459/,Москва,rent,flat,5,12,2,54.0,100000,0,Дорогомилово,Кутузовский проспект,4/2,Киевская
+16,ID 8506,realtor,https://www.cian.ru/rent/flat/220405659/,Москва,rent,flat,14,16,1,36.0,65000,0,Котловка,Большая Черемушкинская ,9К2,Крымская
+17,ID 121850326,homeowner,https://www.cian.ru/rent/flat/307407001/,Москва,rent,flat,2,10,2,50.0,95000,0,Даниловский,Люсиновская ,53,Серпуховская
+18,ПАРТНЕР,real_estate_agent,https://www.cian.ru/rent/flat/307661928/,Москва,rent,flat,2,9,1,35.0,80000,0,Донской, Орджоникидзе,6/9,Ленинский проспект
+19,ID 18707,realtor,https://www.cian.ru/rent/flat/307236441/,Москва,rent,flat,6,8,2,45.0,97000,0,Хамовники,Комсомольский проспект,30,Фрунзенская
+20,ID 50513,realtor,https://www.cian.ru/rent/flat/307308337/,Москва,rent,flat,4,9,1,35.0,62000,0,Замоскворечье,6-й Монетчиковский переулок,15/17,Павелецкая
+21,Инвестправо,real_estate_agent,https://www.cian.ru/rent/flat/307617033/,Москва,rent,flat,3,9,2,37.1,68000,0,Донской, Орджоникидзе,6К2,Ленинский проспект
+22,ID 8584,unknown,https://www.cian.ru/rent/flat/307345482/,Москва,rent,flat,3,5,2,44.0,75000,0,Пресненский, Малая Грузинская,21,Улица 1905 года
+23,Егор Холодов,realtor,https://www.cian.ru/rent/flat/194394056/,Москва,rent,flat,1,7,1,50.0,90000,0,Тверской, Фадеева,6С1,Маяковская
+24,Квадраты Москвы,real_estate_agent,https://www.cian.ru/rent/flat/307651895/,Москва,rent,flat,1,4,1,42.0,70000,0,Басманный,Подсосенский переулок,18/5,Курская

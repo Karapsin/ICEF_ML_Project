@@ -1,0 +1,29 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,ID 122201673,homeowner,https://odintsovo.cian.ru/rent/flat/307752598/,Москва,rent,flat,19,23,2,54.0,70000,0,, Сколковская,1Б,Немчиновка
+1,ID 12235630,unknown,https://odintsovo.cian.ru/rent/flat/307725593/,Москва,rent,flat,2,2,2,60.0,75000,0,с. Немчиновка,проспект Революции,18,
+2,ID 12269152,unknown,https://odintsovo.cian.ru/rent/flat/307707462/,Москва,rent,flat,9,10,2,57.6,55000,0,,,,
+3,ID 11213132,homeowner,https://odintsovo.cian.ru/rent/flat/307673984/,Москва,rent,flat,6,25,2,46.0,70000,0,Новоивановское рп, Западная,85,
+4,ID 13363203,realtor,https://odintsovo.cian.ru/rent/flat/307665431/,Москва,rent,flat,10,25,2,68.0,75000,0,, Сколковская,3В,Немчиновка
+5,Гармония,real_estate_agent,https://odintsovo.cian.ru/rent/flat/307649508/,Москва,rent,flat,4,26,2,64.0,65000,0,, Чистяковой,16,Немчиновка
+6,Михаил Мальцев,realtor,https://www.cian.ru/rent/flat/307639122/,Москва,rent,flat,7,9,2,45.0,70000,0,Можайский,Беловежская ,21,Немчиновка
+7,Las Vegas,real_estate_agent,https://www.cian.ru/rent/flat/307632885/,Москва,rent,flat,11,16,2,45.0,80000,0,Можайский,Беловежская ,17К2,Немчиновка
+8,Елена Гаспарян,realtor,https://odintsovo.cian.ru/rent/flat/307627682/,Москва,rent,flat,2,26,2,52.0,55000,0,, Сколковская,5А,Немчиновка
+9,ID 26781824,homeowner,https://odintsovo.cian.ru/rent/flat/307625010/,Москва,rent,flat,3,24,2,40.0,85000,0,Новоивановское рп,бульвар Эйнштейна,5,
+10,My Hoyse,real_estate_agent,https://odintsovo.cian.ru/rent/flat/307610308/,Москва,rent,flat,5,5,2,90.0,95000,0,с. Ромашково, Никольская,8к1,
+11,Евгений Черняк,realtor,https://odintsovo.cian.ru/rent/flat/307609571/,Москва,rent,flat,11,24,2,55.6,40000,0,, Чистяковой,67,Немчиновка
+12,Парус,real_estate_agent,https://odintsovo.cian.ru/rent/flat/307590611/,Москва,rent,flat,21,25,2,61.0,65000,0,, Чистяковой,40,Немчиновка
+13,Каскад,real_estate_agent,https://odintsovo.cian.ru/rent/flat/307571042/,Москва,rent,flat,7,17,2,37.0,75000,0,Новоивановское рп, Западная,85,
+14,YU HOME,real_estate_agent,https://odintsovo.cian.ru/rent/flat/307538372/,Москва,rent,flat,2,26,2,50.0,55000,0,, Сколковская,5А,Немчиновка
+15,ID 121917216,homeowner,https://odintsovo.cian.ru/rent/flat/307479055/,Москва,rent,flat,26,33,2,65.0,108000,0,Новоивановское рп,Можайское шоссе,54,
+16,ID 217850,real_estate_agent,https://odintsovo.cian.ru/rent/flat/307381506/,Москва,rent,flat,28,33,2,46.0,70000,0,Новоивановское рп,Можайское шоссе,55,
+17,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://odintsovo.cian.ru/rent/flat/307305441/,Москва,rent,flat,10,25,2,68.0,75000,0,, Сколковская,3В,Немчиновка
+18,ID 40336612,realtor,https://odintsovo.cian.ru/rent/flat/307257532/,Москва,rent,flat,13,34,2,63.0,30000,0,Новоивановское рп,Можайское шоссе,54,
+19,ID 9649438,unknown,https://odintsovo.cian.ru/rent/flat/307256524/,Москва,rent,flat,18,33,2,66.0,90000,0,Новоивановское рп,Можайское шоссе,55,
+20,ID 3987,realtor,https://odintsovo.cian.ru/rent/flat/306995115/,Москва,rent,flat,14,17,2,62.0,55000,0,с. Немчиновка, Связистов,4,
+21,Алина Радева,realtor,https://odintsovo.cian.ru/rent/flat/306654754/,Москва,rent,flat,6,25,2,65.5,76000,0,, Сколковская,3А,Немчиновка
+22,Георгий Иванов,realtor,https://odintsovo.cian.ru/rent/flat/306522793/,Москва,rent,flat,15,22,2,42.0,60000,0,Новоивановское рп,бульвар Эйнштейна,5,
+23,МИЭЛЬ,real_estate_agent,https://odintsovo.cian.ru/rent/flat/306168593/,Москва,rent,flat,5,15,2,51.4,53000,0,с. Немчиновка,Советский проспект,104,
+24,Chase R.E.S.,real_estate_agent,https://odintsovo.cian.ru/rent/flat/305329355/,Москва,rent,flat,1,7,2,185.0,300000,0,в непосредственной близости вся инфраструктура Жуковки,Усово и Ильинского шоссе.,,
+25,ID 104664412,homeowner,https://odintsovo.cian.ru/rent/flat/305301883/,Москва,rent,flat,8,34,2,50.0,86000,0,Новоивановское рп,Можайское шоссе,55,
+26,ID 31301142,homeowner,https://odintsovo.cian.ru/rent/flat/304533662/,Москва,rent,flat,2,2,2,42.0,45000,0,,,,
+27,Алина Радева,realtor,https://odintsovo.cian.ru/rent/flat/303919102/,Москва,rent,flat,6,25,2,62.5,75000,0,, Сколковская,3А,Немчиновка

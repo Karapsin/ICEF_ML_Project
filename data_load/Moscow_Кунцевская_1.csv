@@ -1,0 +1,29 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Этажи Москва,real_estate_agent,https://www.cian.ru/rent/flat/307716891/,Москва,rent,flat,6,9,1,33.1,50000,0,Можайский,Можайское шоссе,24,Кунцевская
+1,Авеню-Мск,real_estate_agent,https://www.cian.ru/rent/flat/307705901/,Москва,rent,flat,14,29,1,43.0,110000,0,Фили-Давыдково, Ивана Франко,6,Кунцевская
+2,My Hoyse,real_estate_agent,https://www.cian.ru/rent/flat/307701697/,Москва,rent,flat,16,25,1,37.0,85000,0,Можайский,Рябиновая ,3к4,Кунцевская
+3,Юлия Вишневская,realtor,https://www.cian.ru/rent/flat/307691834/,Москва,rent,flat,13,15,1,42.0,50000,0,Можайский,проезд Загорского,7К2,Кунцевская
+4,Алексей Ладан,realtor,https://www.cian.ru/rent/flat/307676970/,Москва,rent,flat,11,29,1,42.3,120000,0,Фили-Давыдково, Ивана Франко,6,Кунцевская
+5,ID 4720,realtor,https://odintsovo.cian.ru/rent/flat/307657694/,Москва,rent,flat,24,24,1,42.0,41000,0,, Кутузовская,15,Кунцевская
+6,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307613898/,Москва,rent,flat,5,5,1,26.0,46000,0,Фили-Давыдково,Кременчугская ,44К3,Кунцевская
+7,ID 107567954,unknown,https://www.cian.ru/rent/flat/307613877/,Москва,rent,flat,5,5,1,30.0,55000,0,Фили-Давыдково,Кременчугская ,44К2,Кунцевская
+8,Алексей Лупарев,realtor,https://www.cian.ru/rent/flat/307587488/,Москва,rent,flat,9,14,1,38.5,53500,0,Фили-Давыдково, Ватутина,16к3,Кунцевская
+9,ФОКУС,official_representative,https://www.cian.ru/rent/flat/307531852/,Москва,rent,flat,8,12,1,34.9,50000,0,Можайский, Красных Зорь,51,Кунцевская
+10,ID 62501951,unknown,https://www.cian.ru/rent/flat/307523624/,Москва,rent,flat,11,22,1,35.0,85000,0,Можайский,Рябиновая ,3к2,Кунцевская
+11,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307494461/,Москва,rent,flat,5,5,1,33.0,50000,0,Фили-Давыдково, Алексея Свиридова,3,Кунцевская
+12,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307441789/,Москва,rent,flat,4,22,1,56.0,85000,0,Можайский,Можайское шоссе,6К1,Кунцевская
+13,Анна Кравцова,realtor,https://www.cian.ru/rent/flat/307427137/,Москва,rent,flat,9,12,1,41.1,75000,0,Можайский,Сколковское шоссе,40к1,Кунцевская
+14,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307286979/,Москва,rent,flat,10,12,1,43.0,95000,0,Можайский, Багрицкого,10К1,Кунцевская
+15,КС-Риэлти,real_estate_agent,https://www.cian.ru/rent/flat/307205771/,Москва,rent,flat,12,12,1,35.0,53000,0,Можайский,Сколковское шоссе,16,Кунцевская
+16,Замоскворечье Жилая Недвижимость,real_estate_agent,https://odintsovo.cian.ru/rent/flat/306510058/,Москва,rent,flat,19,21,1,40.0,49000,0,, Кутузовская,10,Кунцевская
+17,Наталья Лоскутова,realtor,https://www.cian.ru/rent/flat/305396087/,Москва,rent,flat,3,5,1,29.8,58000,0,Можайский,Гжатская ,4К2,Кунцевская
+18,Ольга Шиховцева,realtor,https://www.cian.ru/rent/flat/290104303/,Москва,rent,flat,11,12,1,51.0,115000,0,Фили-Давыдково, Ивана Франко,6,Кунцевская
+19,ID 663571,homeowner,https://www.cian.ru/rent/flat/279795633/,Москва,rent,flat,8,14,1,40.0,60000,0,Можайский,Беловежская ,13,Кунцевская
+20,ID 646777,realtor,https://www.cian.ru/rent/flat/274781517/,Москва,rent,flat,6,9,1,38.2,69000,0,Фили-Давыдково,Аминьевское шоссе,36,Кунцевская
+21,ID 231375,unknown,https://odintsovo.cian.ru/rent/flat/264425113/,Москва,rent,flat,7,19,1,46.0,40000,0,, Кутузовская,31,Кунцевская
+22,ID 28907,realtor,https://odintsovo.cian.ru/rent/flat/260544953/,Москва,rent,flat,14,24,1,43.0,40000,0,, Кутузовская,7,Кунцевская
+23,ID 15471158,realtor,https://odintsovo.cian.ru/rent/flat/230075910/,Москва,rent,flat,10,19,1,48.0,43990,0,, Кутузовская,23,Кунцевская
+24,ID 17167772,homeowner,https://www.cian.ru/rent/flat/228261915/,Москва,rent,flat,4,14,1,42.0,70000,0,Можайский, Багрицкого,10к4,Кунцевская
+25,ID 161274,real_estate_agent,https://www.cian.ru/rent/flat/307502571/,Москва,rent,flat,1,14,1,40.0,40000,0,Раменки,проспект Генерала Дорохова,39к1,Минская
+26,Алексей Князев,realtor,https://www.cian.ru/rent/flat/231237521/,Москва,rent,flat,2,9,1,38.0,45000,0,Кунцево, Академика Павлова,11К2,Крылатское
+27,ID 13647888,realtor,https://www.cian.ru/rent/flat/307057804/,Москва,rent,flat,3,4,1,35.0,55000,0,Кунцево,Ярцевская ,7,Молодёжная

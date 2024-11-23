@@ -1,0 +1,29 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,ID 77116866,homeowner,https://balashikha.cian.ru/rent/flat/307796628/,Москва,rent,flat,2,8,3,76.0,60000,0,,проспект Ленина,32а,Новокосино
+1,ID 17642,real_estate_agent,https://reutov.cian.ru/rent/flat/307772548/,Москва,rent,flat,11,22,3,110.0,90000,0,, Октября,22,Новокосино
+2,Инна Клименко,realtor,https://balashikha.cian.ru/rent/flat/307710967/,Москва,rent,flat,2,5,3,54.0,55000,0,, Белякова,16,Новокосино
+3,Елена Леонова,realtor,https://reutov.cian.ru/rent/flat/307707590/,Москва,rent,flat,6,17,3,75.0,70000,0,,Молодежная ,1,Новокосино
+4,Capital Mars,real_estate_agent,https://reutov.cian.ru/rent/flat/307676687/,Москва,rent,flat,6,25,3,100.0,100000,0,,Юбилейный проспект,16,Новокосино
+5,AGORA,real_estate_agent,https://reutov.cian.ru/rent/flat/307676001/,Москва,rent,flat,6,25,3,100.0,100000,0,,Юбилейный проспект,16,Новокосино
+6,Наталья Гнатюк,realtor,https://balashikha.cian.ru/rent/flat/307661397/,Москва,rent,flat,4,5,3,60.0,50000,0,,проспект Ленина,50,Новокосино
+7,ID 89230336,realtor,https://reutov.cian.ru/rent/flat/307636822/,Москва,rent,flat,6,29,3,100.0,100000,0,,Юбилейный проспект,16,Новокосино
+8,Евгения Мамаева,realtor,https://balashikha.cian.ru/rent/flat/307634848/,Москва,rent,flat,1,11,3,65.0,45000,0,,проспект Ленина,38А,Новокосино
+9,ID 105936587,homeowner,https://balashikha.cian.ru/rent/flat/307627178/,Москва,rent,flat,13,25,3,71.0,84000,0,, Реутовская,21,Новокосино
+10,ID 122041839,homeowner,https://www.cian.ru/rent/flat/307626769/,Москва,rent,flat,15,22,3,51.0,149000,0,Косино-Ухтомский,Салтыковская ,6/2к1,Новокосино
+11,EMPIRE HOME,real_estate_agent,https://balashikha.cian.ru/rent/flat/307544419/,Москва,rent,flat,17,17,3,100.0,80000,0,,проспект Ленина,32в,Новокосино
+12,Наталья Ульянова,realtor,https://reutov.cian.ru/rent/flat/307528964/,Москва,rent,flat,14,25,3,132.0,90000,0,, Реутовских ополченцев,14,Новокосино
+13,Дмитрий Корольков,realtor,https://www.cian.ru/rent/flat/307483232/,Москва,rent,flat,19,25,3,58.0,55000,0,Косино-Ухтомский,Салтыковская ,6/1к7,Новокосино
+14,Парус,real_estate_agent,https://reutov.cian.ru/rent/flat/307458646/,Москва,rent,flat,9,15,3,93.0,80000,0,,Парковая ,6,Новокосино
+15,ID 19655015,homeowner,https://balashikha.cian.ru/rent/flat/307443284/,Москва,rent,flat,10,15,3,90.0,79000,0,, Реутовская,6,Новокосино
+16,ID 213008,official_representative,https://reutov.cian.ru/rent/flat/307432104/,Москва,rent,flat,1,9,3,77.0,90000,0,, Г.И. Котовского,11,Новокосино
+17,ID 83764,realtor,https://www.cian.ru/rent/flat/307399185/,Москва,rent,flat,2,17,3,74.0,80000,0,Новокосино,Городецкая ,13/19К2,Новокосино
+18,Алексей Липович,realtor,https://reutov.cian.ru/rent/flat/307399032/,Москва,rent,flat,13,25,3,90.0,60000,0,,Юбилейный проспект,72,Новокосино
+19,ID 18115,real_estate_agent,https://balashikha.cian.ru/rent/flat/307349059/,Москва,rent,flat,12,17,3,76.5,65000,0,, Твардовского,18,Новокосино
+20,Юлия Вашура,realtor,https://www.cian.ru/rent/flat/307338099/,Москва,rent,flat,14,14,3,85.0,109999,0,Новокосино,Суздальская ,26К3,Новокосино
+21,ID 16515215,homeowner,https://www.cian.ru/rent/flat/307234935/,Москва,rent,flat,7,7,3,81.0,70000,0,Новокосино,Суздальская ,8К3,Новокосино
+22,ID 7666,realtor,https://www.cian.ru/rent/flat/307218242/,Москва,rent,flat,9,12,3,75.0,100000,0,Новокосино,Суздальская ,10К2,Новокосино
+23,Уют,real_estate_agent,https://reutov.cian.ru/rent/flat/307122211/,Москва,rent,flat,9,25,3,82.4,70000,0,,Садовый проезд,9,Новокосино
+24,Мой Дом - отделение Добрынинское,real_estate_agent,https://www.cian.ru/rent/flat/306894439/,Москва,rent,flat,5,17,3,78.0,75000,0,Косино-Ухтомский,Салтыковская ,6/1к5,Новокосино
+25,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/306547113/,Москва,rent,flat,2,7,3,110.0,80000,0,Новокосино, Николая Старостина,5,Новокосино
+26,Ольга Радченко,realtor,https://www.cian.ru/rent/flat/306005333/,Москва,rent,flat,7,12,3,80.0,90000,0,Новокосино,Суздальская ,10К1,Новокосино
+27,Елена Куренкова,realtor,https://reutov.cian.ru/rent/flat/305165020/,Москва,rent,flat,5,16,3,81.0,85000,0,,Комсомольская ,18/2,Новокосино

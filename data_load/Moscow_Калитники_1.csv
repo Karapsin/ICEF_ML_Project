@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,ПАРТНЕР,real_estate_agent,https://www.cian.ru/rent/flat/307778799/,Москва,rent,flat,4,5,1,30.0,45000,0,Таганский,Большая Калитниковская ,38,Калитники
+1,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307776264/,Москва,rent,flat,5,12,1,38.0,80000,0,Нижегородский,Подъемный переулок,5,Калитники
+2,EstateLiga,real_estate_agent,https://www.cian.ru/rent/flat/307761710/,Москва,rent,flat,3,33,1,40.0,70000,0,Нижегородский,Новохохловская ,15к1,Калитники
+3,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307739287/,Москва,rent,flat,5,12,1,40.0,80000,0,Нижегородский,Подъемный переулок,5,Калитники
+4,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307718512/,Москва,rent,flat,27,33,1,35.0,75000,0,Нижегородский,Новохохловская ,15к2,Калитники
+5,ID 80795598,homeowner,https://www.cian.ru/rent/flat/307687495/,Москва,rent,flat,8,18,1,40.6,65000,0,Нижегородский, Нижняя Хохловка,8,Калитники
+6,Ольга Нагорнова,realtor,https://www.cian.ru/rent/flat/307680420/,Москва,rent,flat,16,21,1,42.0,60000,0,Нижегородский, Нижняя Хохловка,8,Калитники
+7,ПИК-Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307590877/,Москва,rent,flat,28,33,1,19.9,57700,0,Нижегородский,Новохохловская ,15к3,Калитники
+8,ПИК-Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307527838/,Москва,rent,flat,6,7,1,36.3,90000,0,Таганский,Нижегородская ,32С3,Калитники
+9,Александра Рудская,realtor,https://www.cian.ru/rent/flat/307232894/,Москва,rent,flat,1,9,1,35.1,65000,0,Таганский,Новорогожская ,36,Калитники
+10,Юлия Вашура,realtor,https://www.cian.ru/rent/flat/306940640/,Москва,rent,flat,7,33,1,40.0,79999,0,Нижегородский,Новохохловская ,15к3,Калитники
+11,Профриелтинвест,real_estate_agent,https://www.cian.ru/rent/flat/296664284/,Москва,rent,flat,4,8,1,18.0,26000,0,Таганский,Нижегородская ,32С3,Калитники
+12,Анатолий Карандашов,realtor,https://www.cian.ru/rent/flat/279574255/,Москва,rent,flat,3,7,1,31.0,80000,0,Таганский,Нижегородская ,32С3,Калитники
+13,Юлия Рубан,realtor,https://www.cian.ru/rent/flat/161853191/,Москва,rent,flat,3,5,1,36.0,43000,0,Нижегородский,Подъемная ,3,Калитники
+14,ID 11630609,homeowner,https://www.cian.ru/rent/flat/299551839/,Москва,rent,flat,1,5,1,31.0,70000,0,Марьина роща, Сущевский Вал,67,Марьина Роща
+15,ID 122008115,realtor,https://www.cian.ru/rent/flat/307575538/,Москва,rent,flat,1,6,1,42.3,55000,0,Марьина роща,площадь Борьбы,13,Достоевская
+16,Елена Закора,realtor,https://www.cian.ru/rent/flat/307345481/,Москва,rent,flat,3,4,1,30.0,53000,0,Даниловский,Автозаводская ,23С928,ЗИЛ
+17,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307581343/,Москва,rent,flat,1,5,1,24.0,50000,0,Таганский, Талалихина,39,Волгоградский проспект
+18,ID 111202318,homeowner,https://www.cian.ru/rent/flat/307643098/,Москва,rent,flat,2,14,2,87.0,70000,0,Таганский,Сосинская ,6,Пролетарская
+19,ID 73362477,unknown,https://www.cian.ru/rent/flat/307606844/,Москва,rent,flat,3,25,1,35.0,69000,0,Метрогородок,Тагильская ,2к1,Бульвар Рокоссовского
+20,ID 122068143,realtor,https://www.cian.ru/rent/flat/307626016/,Москва,rent,flat,9,9,1,33.0,60000,0,Тимирязевский,Тимирязевская ,9,Дмитровская
+21,EMPIRE HOME,real_estate_agent,https://www.cian.ru/rent/flat/307434590/,Москва,rent,flat,1,9,1,40.0,60000,0,Нагатино-Садовники,Каширское шоссе,7К1,Нагорная
+22,Моя Недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/266816134/,Москва,rent,flat,8,12,1,37.0,54000,0,Текстильщики,Волжский бульвар,20А,Текстильщики
+23,White Lion,real_estate_agent,https://www.cian.ru/rent/flat/306691602/,Москва,rent,flat,15,16,1,25.0,65000,0,Даниловский,Автозаводская ,23С120,ЗИЛ
+24,Александр Гайдуков,realtor,https://www.cian.ru/rent/flat/307659205/,Москва,rent,flat,2,8,1,38.0,50000,0,Южнопортовый, Петра Романова,2,Дубровка

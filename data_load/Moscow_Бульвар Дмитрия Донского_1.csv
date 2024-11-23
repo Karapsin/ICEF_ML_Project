@@ -1,0 +1,29 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Дмитрий Иванов,realtor,https://www.cian.ru/rent/flat/307604653/,Москва,rent,flat,7,10,1,36.0,40000,0,, Рабочая,9,Бульвар Дмитрия Донского
+1,Виктория Сотникова,realtor,https://vidnoye.cian.ru/rent/flat/307604311/,Москва,rent,flat,10,18,1,35.0,42000,0,Южная Битца ЖК,бульвар Южный,6,
+2,ID 20437165,homeowner,https://vidnoye.cian.ru/rent/flat/307604077/,Москва,rent,flat,13,16,1,31.0,36000,0,Боброво рп, Лесная,24,
+3,АВАНГАРД,real_estate_agent,https://vidnoye.cian.ru/rent/flat/307603359/,Москва,rent,flat,2,10,1,43.0,42000,0,Лопатино рп, Сухановская,28,
+4,ПИК-Аренда,real_estate_agent,https://vidnoye.cian.ru/rent/flat/307588287/,Москва,rent,flat,13,25,1,40.1,50000,0,Дрожжино рп, Южная,9к1,
+5,ПИК-Аренда,real_estate_agent,https://vidnoye.cian.ru/rent/flat/307572736/,Москва,rent,flat,5,25,1,39.3,52600,0,Боброво рп, Крымская,7к1,
+6,ПИК-Аренда,real_estate_agent,https://vidnoye.cian.ru/rent/flat/307546273/,Москва,rent,flat,4,25,1,38.7,44900,0,Дрожжино рп, Южная,9к3,
+7,ID 91946334,homeowner,https://vidnoye.cian.ru/rent/flat/307539936/,Москва,rent,flat,3,10,1,39.0,37000,0,Лопатино рп,бульвар Солнечный,8,
+8,ID 7098,realtor,https://vidnoye.cian.ru/rent/flat/307537455/,Москва,rent,flat,10,25,1,34.0,53000,0,Боброво рп, Лесная,6к2,
+9,Самолет Плюс Москва,real_estate_agent,https://vidnoye.cian.ru/rent/flat/307528436/,Москва,rent,flat,12,22,1,40.0,85000,0,,,,
+10,ID 75694,realtor,https://vidnoye.cian.ru/rent/flat/307524014/,Москва,rent,flat,13,22,1,34.0,45000,0,Южная Битца ЖК,бульвар Южный,6,
+11,Евгений Герасимов,realtor,https://www.cian.ru/rent/flat/307523610/,Москва,rent,flat,1,14,1,45.0,55000,0,Северное Бутово, Знаменские Садки,9К1,Бульвар Дмитрия Донского
+12,Мой Дом - отделение Добрынинское,real_estate_agent,https://www.cian.ru/rent/flat/307522939/,Москва,rent,flat,2,17,1,39.0,58500,0,Северное Бутово,бульвар Дмитрия Донского,10,Бульвар Дмитрия Донского
+13,ID 93433616,unknown,https://vidnoye.cian.ru/rent/flat/307509037/,Москва,rent,flat,3,18,1,34.0,45000,0,Дрожжино рп,шоссе Новое,4,
+14,ID 102746299,homeowner,https://vidnoye.cian.ru/rent/flat/307507929/,Москва,rent,flat,12,19,1,46.0,40000,0,Дрожжино рп,шоссе Новое,3к1,
+15,Квартирный центр,real_estate_agent,https://www.cian.ru/rent/flat/307506522/,Москва,rent,flat,3,9,1,40.0,50000,0,Северное Бутово, Знаменские Садки,3К3,Бульвар Дмитрия Донского
+16,СТОЛИЦА Департамент недвижимости,real_estate_agent,https://vidnoye.cian.ru/rent/flat/307495750/,Москва,rent,flat,11,19,1,41.0,40000,0,,,,
+17,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307490009/,Москва,rent,flat,11,32,1,50.0,65000,0,Южное Бутово, Поляны,5Ак1,Бульвар Дмитрия Донского
+18,Татьяна Михайлова,realtor,https://vidnoye.cian.ru/rent/flat/307488227/,Москва,rent,flat,8,19,1,42.0,45000,0,Дрожжино рп, Южная,9,
+19,ПИК-Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307442767/,Москва,rent,flat,22,25,1,40.3,57700,0,Южное Бутово, Поляны,5Ак1,Бульвар Дмитрия Донского
+20,ID 369978,realtor,https://vidnoye.cian.ru/rent/flat/307424339/,Москва,rent,flat,11,15,1,40.0,53000,0,Дрожжино рп, Южная,16,
+21,Алексей Абрамов,realtor,https://vidnoye.cian.ru/rent/flat/307416902/,Москва,rent,flat,12,19,1,42.0,40000,0,Боброво рп, Крымская,9к1,
+22,ID 70761475,homeowner,https://vidnoye.cian.ru/rent/flat/307412707/,Москва,rent,flat,16,24,1,42.0,50000,0,,,,
+23,МИЭЛЬ,real_estate_agent,https://vidnoye.cian.ru/rent/flat/307410623/,Москва,rent,flat,1,9,1,19.0,20000,0,Лопатино рп, Сухановская,29,
+24,ID 92254362,homeowner,https://vidnoye.cian.ru/rent/flat/307403776/,Москва,rent,flat,9,17,1,38.0,50000,0,,,,
+25,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307403671/,Москва,rent,flat,11,16,1,50.0,65000,0,Южное Бутово, Поляны,5Ак1,Бульвар Дмитрия Донского
+26,Оксана Башкина,realtor,https://vidnoye.cian.ru/rent/flat/307368002/,Москва,rent,flat,16,19,1,42.0,40000,0,,,,
+27,Мой Дом - отделение Добрынинское,real_estate_agent,https://vidnoye.cian.ru/rent/flat/307349049/,Москва,rent,flat,4,25,1,36.0,41000,0,Южная Битца ЖК,бульвар Южный,4,

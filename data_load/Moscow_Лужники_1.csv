@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Андрей Вокин,realtor,https://www.cian.ru/rent/flat/307647164/,Москва,rent,flat,7,8,1,35.0,65000,0,Хамовники,Новодевичий проезд,4,Лужники
+1,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307344836/,Москва,rent,flat,3,8,1,41.0,79900,0,Хамовники,Комсомольский проспект,40,Лужники
+2,Maroom,real_estate_agent,https://www.cian.ru/rent/flat/307062999/,Москва,rent,flat,8,14,1,35.5,88000,0,Хамовники,Малая Пироговская ,27К1,Лужники
+3,ID 121350793,homeowner,https://www.cian.ru/rent/flat/306869299/,Москва,rent,flat,3,8,1,41.0,79900,0,Хамовники,Комсомольский проспект,40,Лужники
+4,Moscow Estate,real_estate_agent,https://www.cian.ru/rent/flat/306608571/,Москва,rent,flat,8,15,1,70.0,270000,0,Хамовники,Малая Пироговская ,8,Лужники
+5,АРМ-Недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/294557811/,Москва,rent,flat,13,14,1,40.0,105000,0,Хамовники, Усачева,4,Лужники
+6,ID 23956980,realtor,https://www.cian.ru/rent/flat/307625261/,Москва,rent,flat,1,5,1,33.0,65000,0,Якиманка,2-й Добрынинский переулок,5/9,Добрынинская
+7,Вартан Вартанян,realtor,https://www.cian.ru/rent/flat/307525401/,Москва,rent,flat,12,12,2,49.0,100000,0,Арбат,Староконюшенный переулок,30,Кропоткинская
+8,Олег Кочнев,realtor,https://www.cian.ru/rent/flat/306897340/,Москва,rent,flat,3,12,2,53.0,145000,0,Хамовники,Большая Пироговская ,53-55,Лужники
+9,ID 24419,real_estate_agent,https://www.cian.ru/rent/flat/307470965/,Москва,rent,flat,4,8,2,46.0,150000,0,Хамовники,переулок Сивцев Вражек,15/25,Кропоткинская
+10,ID 8220,realtor,https://www.cian.ru/rent/flat/307541251/,Москва,rent,flat,2,14,1,39.0,60000,0,Замоскворечье,Люсиновская ,12,Серпуховская
+11,Геннадий Гаина,realtor,https://www.cian.ru/rent/flat/251289983/,Москва,rent,flat,3,9,1,38.0,60000,0,Гагаринский, Вавилова,54К2,Академическая
+12,ID 44635371,homeowner,https://www.cian.ru/rent/flat/293542836/,Москва,rent,flat,3,8,2,57.0,140000,0,Хамовники, Хамовнический Вал,28,Лужники
+13,ID 53162893,realtor,https://www.cian.ru/rent/flat/240605830/,Москва,rent,flat,5,9,1,32.5,66000,0,Якиманка,Донская ,17,Шаболовская
+14,Оксана Новикова,realtor,https://www.cian.ru/rent/flat/307632968/,Москва,rent,flat,13,13,1,41.2,65000,0,Раменки,проспект Вернадского,10к1,Университет
+15,ID 20510,real_estate_agent,https://www.cian.ru/rent/flat/191432213/,Москва,rent,flat,5,16,1,40.0,60000,0,Академический, Кедрова,3,Академическая
+16,ID 69392442,homeowner,https://www.cian.ru/rent/flat/251955241/,Москва,rent,flat,6,8,1,40.0,80000,0,Басманный, Земляной Вал,39/1С1,Чкаловская
+17,Alfa Forum Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307677528/,Москва,rent,flat,13,14,1,42.0,110000,0,Тверской,Лесная ,10-16,Белорусская
+18,ID 1723,realtor,https://www.cian.ru/rent/flat/307661096/,Москва,rent,flat,7,9,1,31.0,80000,0,Арбат,Смоленская ,10,Смоленская
+19,Инна Соломонова,realtor,https://www.cian.ru/rent/flat/307398003/,Москва,rent,flat,5,8,3,84.0,99000,0,Хамовники, Хамовнический Вал,24,Лужники
+20,ID 16276255,unknown,https://www.cian.ru/rent/flat/307538535/,Москва,rent,flat,3,4,1,45.0,128000,0,Басманный,Старосадский переулок,10С1,Китай-город
+21,ID 101776928,homeowner,https://www.cian.ru/rent/flat/296048389/,Москва,rent,flat,4,9,2,50.0,90000,0,Гагаринский,Ленинский проспект,32,Ленинский проспект
+22,ID 270373,realtor,https://www.cian.ru/rent/flat/307577056/,Москва,rent,flat,3,7,2,54.0,85000,0,Гагаринский,Молодежная ,6,Университет
+23,Мой Дом - отделение Добрынинское,real_estate_agent,https://www.cian.ru/rent/flat/307401554/,Москва,rent,flat,3,5,3,74.0,85000,0,Хамовники, Усачева,29К8,Лужники
+24,Классика,real_estate_agent,https://www.cian.ru/rent/flat/307497094/,Москва,rent,flat,1,8,2,53.0,90000,0,Гагаринский,Молодежная ,3,Университет

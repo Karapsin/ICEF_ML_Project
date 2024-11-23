@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Илья Соловьев,realtor,https://www.cian.ru/rent/flat/307781000/,Москва,rent,flat,1,7,3,67.7,120000,0,Мещанский,переулок Печатников,15А,Трубная
+1,Елена Воинова,realtor,https://www.cian.ru/rent/flat/307461319/,Москва,rent,flat,4,8,3,58.0,500000,0,Мещанский,Садовая-Сухаревская ,13/15,Трубная
+2,Александр Буряков,realtor,https://www.cian.ru/rent/flat/307437516/,Москва,rent,flat,1,5,3,150.0,650000,0,Мещанский,Трубная площадь,2,Трубная
+3,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307344850/,Москва,rent,flat,3,3,3,62.0,143000,0,Мещанский,переулок Пушкарев,20/17,Трубная
+4,Intermark Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307322747/,Москва,rent,flat,3,8,3,115.0,350000,0,Мещанский,Большой Сухаревский переулок,11,Трубная
+5,ID 34771,real_estate_agent,https://www.cian.ru/rent/flat/307264348/,Москва,rent,flat,6,11,3,115.0,170000,0,Мещанский,Троицкая ,9К1,Трубная
+6,ID 15919760,unknown,https://www.cian.ru/rent/flat/306907860/,Москва,rent,flat,2,6,3,105.2,190000,0,Тверской,1-й Колобовский переулок,18,Трубная
+7,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/305506265/,Москва,rent,flat,2,5,3,84.0,180000,0,Мещанский,Последний переулок,3,Трубная
+8,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/305459524/,Москва,rent,flat,4,8,3,58.0,500000,0,Мещанский,Садовая-Сухаревская ,13/15,Трубная
+9,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/305362900/,Москва,rent,flat,2,5,3,84.0,180000,0,Мещанский,Последний переулок,3,Трубная
+10,ID 69807890,homeowner,https://www.cian.ru/rent/flat/305297047/,Москва,rent,flat,4,8,3,58.0,500000,0,Мещанский,Садовая-Сухаревская ,13/15,Трубная
+11,Эльмира Шиткова,realtor,https://www.cian.ru/rent/flat/305006872/,Москва,rent,flat,3,7,3,103.7,280000,0,Мещанский,Рождественский бульвар,5/7С1,Трубная
+12,OXE CAPITAL - Элитная Недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/303819986/,Москва,rent,flat,5,8,3,58.0,500000,0,Мещанский,Садовая-Сухаревская ,13/15,Трубная
+13,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/303680176/,Москва,rent,flat,4,8,3,48.0,520000,0,Мещанский,Садовая-Сухаревская ,13/15,Трубная
+14,Ashtons International Realty,real_estate_agent,https://www.cian.ru/rent/flat/302898994/,Москва,rent,flat,5,5,3,80.0,200000,0,Тверской,1-й Колобовский переулок,10С1,Трубная
+15,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/300578284/,Москва,rent,flat,4,8,3,65.0,500000,0,Мещанский,Садовая-Сухаревская ,13/15,Трубная
+16,ID 81158915,homeowner,https://www.cian.ru/rent/flat/283768361/,Москва,rent,flat,2,5,3,84.0,180000,0,Мещанский,Последний переулок,3,Трубная
+17,ID 16921690,realtor,https://www.cian.ru/rent/flat/215194648/,Москва,rent,flat,5,6,3,106.0,280000,0,Мещанский,переулок Печатников,3С1,Трубная
+18,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307447111/,Москва,rent,flat,5,6,2,55.0,175000,0,Тверской,Тверская ,6С5,Охотный ряд
+19,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/303632194/,Москва,rent,flat,5,5,3,65.2,130000,0,Замоскворечье,Пятницкая ,28,Третьяковская
+20,Дмитрий Любовский,realtor,https://www.cian.ru/rent/flat/266096327/,Москва,rent,flat,7,7,3,82.2,160000,0,Басманный,Большой Златоустинский переулок,3АС2,Лубянка
+21,Дипломат,real_estate_agent,https://www.cian.ru/rent/flat/307131445/,Москва,rent,flat,6,6,2,52.0,130000,0,Пресненский,Большой Патриарший переулок,10,Маяковская
+22,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307711019/,Москва,rent,flat,7,7,5,123.0,230000,0,Арбат,Кривоарбатский переулок,3,Смоленская
+23,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307494381/,Москва,rent,flat,3,12,4,163.0,230000,0,Пресненский,Большой Тишинский переулок,38С1,Улица 1905 года
+24,ИП Исмаилов А. А.,real_estate_agent,https://www.cian.ru/rent/flat/307589179/,Москва,rent,flat,4,8,3,60.0,160000,0,Басманный,Потаповский переулок,9,Чистые пруды

@@ -1,0 +1,24 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Наталья Сеногноева,realtor,https://ramenskoye.cian.ru/rent/flat/307778676/,Москва,rent,flat,2,5,1,40.0,25000,0,Центральный,Железнодорожный проезд,9,Ипподром
+1,ID 122177731,homeowner,https://ramenskoye.cian.ru/rent/flat/307728302/,Москва,rent,flat,11,15,1,39.6,34000,0,Северный, Молодежная,30,Ипподром
+2,Ирина Вьюговская,realtor,https://ramenskoye.cian.ru/rent/flat/307633939/,Москва,rent,flat,1,5,1,40.2,35000,0,Центральный,Красноармейская ,9,Ипподром
+3,ID 90650974,realtor,https://voskresensk.cian.ru/rent/flat/307608433/,Москва,rent,flat,4,4,1,30.5,22000,0,Белоозерский пгт,Молодежная ,2,
+4,ID 20304979,homeowner,https://ramenskoye.cian.ru/rent/flat/307549195/,Москва,rent,flat,1,17,1,41.5,30000,0,Центральный, Приборостроителей,14,Ипподром
+5,ID 108356299,unknown,https://ramenskoye.cian.ru/rent/flat/307517297/,Москва,rent,flat,3,3,1,33.0,25000,0,Залинейный,Десантная ,10,Ипподром
+6,ДОМУС,real_estate_agent,https://ramenskoye.cian.ru/rent/flat/307146063/,Москва,rent,flat,5,5,1,38.0,27000,0,Центральный, Гурьева,16,Ипподром
+7,Enp Realty Partner,real_estate_agent,https://voskresensk.cian.ru/rent/flat/305718113/,Москва,rent,flat,5,5,1,24.9,5000,0,Белоозерский пгт,Молодежная ,8,
+8,ID 20122,realtor,https://ramenskoye.cian.ru/rent/flat/302225604/,Москва,rent,flat,6,22,1,40.0,28000,0,Западный,Северное шоссе,22,Ипподром
+9,ID 6601978,realtor,https://lyubertsy.cian.ru/rent/flat/307635326/,Москва,rent,flat,1,5,1,33.0,23500,0,д. Марусино, Заречная,37к5,
+10,УЮТ,real_estate_agent,https://zhukovsky.cian.ru/rent/flat/307151002/,Москва,rent,flat,2,5,2,30.0,26000,0,, Амет-хан Султана,1,Отдых
+11,МИРА,real_estate_agent,https://lyubertsy.cian.ru/rent/flat/304669585/,Москва,rent,flat,2,3,1,34.0,25000,0,Томилино рп, Гоголя,15,
+12,Ирина Попова,realtor,https://lyubertsy.cian.ru/rent/flat/307630518/,Москва,rent,flat,10,18,1,28.0,27000,0,пос. Мирный, Крымская,12/11,
+13,АРЕАЛ,real_estate_agent,https://lyubertsy.cian.ru/rent/flat/307562024/,Москва,rent,flat,3,4,1,35.0,28000,0,,,,
+14,ID 231632,realtor,https://zhukovsky.cian.ru/rent/flat/307639525/,Москва,rent,flat,5,5,2,47.0,25000,0,, Гагарина,32к3,Ильинская
+15,ID 80683912,realtor,https://lyubertsy.cian.ru/rent/flat/306103625/,Москва,rent,flat,1,17,-1,73.0,18000,0,пос. Мирный, Академика Северина,10,
+16,Сто Ключей - офис Воскресенск. ул.Менделеева д.1,real_estate_agent,https://ramenskoye.cian.ru/rent/flat/304741381/,Москва,rent,flat,5,5,2,53.9,30000,0,пос. Дружба, Первомайская,3,
+17,МИРА  - городская недвижимость,real_estate_agent,https://lyubertsy.cian.ru/rent/flat/305008455/,Москва,rent,flat,3,5,-1,16.0,17000,0,, Кирова,49,Люберцы
+18,HOME-REALTY,real_estate_agent,https://lyubertsy.cian.ru/rent/flat/307541760/,Москва,rent,flat,3,19,1,36.0,30000,0,Октябрьский рп, Ленина,22,
+19,ID 344423,homeowner,https://lyubertsy.cian.ru/rent/flat/304004147/,Москва,rent,flat,10,18,1,35.0,25000,0,пос. Мирный, Академика Северина,10,
+20,ID 95101614,homeowner,https://lyubertsy.cian.ru/rent/flat/306898000/,Москва,rent,flat,2,2,-1,16.0,15000,0,Микрорайон экопарк, Есенина,,
+21,ID 80978729,homeowner,https://zhukovsky.cian.ru/rent/flat/307642127/,Москва,rent,flat,16,26,1,39.0,40000,0,, Гагарина,62,Ильинская
+22,ID 96322292,homeowner,https://lyubertsy.cian.ru/rent/flat/307607803/,Москва,rent,flat,19,23,-1,22.0,25000,0,, Кирова,12к2,Жулебино

@@ -1,0 +1,29 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307773242/,Москва,rent,flat,26,29,3,90.0,250000,0,Фили-Давыдково, Ивана Франко,6,Кунцевская
+1,Максим Лапенко,realtor,https://www.cian.ru/rent/flat/307763590/,Москва,rent,flat,6,23,3,110.0,300000,0,Можайский,Гжатская ,5к8,Кунцевская
+2,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307704983/,Москва,rent,flat,5,16,3,70.0,170000,0,Можайский,Гжатская ,5к1,Кунцевская
+3,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307704868/,Москва,rent,flat,10,16,3,97.0,150000,0,Кунцево,Рублевское шоссе,12,Кунцевская
+4,ID 30970714,official_representative,https://www.cian.ru/rent/flat/307679647/,Москва,rent,flat,12,31,3,65.0,200000,0,Фили-Давыдково, Ивана Франко,6,Кунцевская
+5,ID 116366625,unknown,https://www.cian.ru/rent/flat/307678191/,Москва,rent,flat,10,16,3,97.2,150000,0,Кунцево,Рублевское шоссе,12,Кунцевская
+6,ВИАЛ,real_estate_agent,https://www.cian.ru/rent/flat/307661345/,Москва,rent,flat,6,13,3,68.0,130000,0,Фили-Давыдково,Славянский бульвар,9К1,Кунцевская
+7,Владимир Фетискин,realtor,https://www.cian.ru/rent/flat/307657123/,Москва,rent,flat,15,23,3,78.0,110000,0,Можайский,Гродненская ,9,Кунцевская
+8,Ольга Королева,realtor,https://www.cian.ru/rent/flat/307646715/,Москва,rent,flat,7,22,3,120.0,250000,0,Кунцево,Истринская ,8к3,Кунцевская
+9,АЛЬТЕРНАТИВА,real_estate_agent,https://www.cian.ru/rent/flat/307528465/,Москва,rent,flat,5,5,3,67.0,100000,0,Фили-Давыдково, Артамонова,4К2,Кунцевская
+10,Светлана Калинина,realtor,https://www.cian.ru/rent/flat/307499049/,Москва,rent,flat,2,9,3,63.0,75000,0,Можайский,Беловежская ,77,Кунцевская
+11,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307498922/,Москва,rent,flat,11,17,3,135.0,99000,0,Можайский, Толбухина,3К2,Кунцевская
+12,Vershina Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307356791/,Москва,rent,flat,12,25,3,68.0,95000,0,Кунцево, Ивана Франко,20к1,Кунцевская
+13,Лала Чурсина,realtor,https://www.cian.ru/rent/flat/307345798/,Москва,rent,flat,2,9,3,140.0,450000,0,Можайский, Вересаева,9,Кунцевская
+14,Lucky Realty,real_estate_agent,https://www.cian.ru/rent/flat/307319207/,Москва,rent,flat,24,29,3,66.0,160000,0,Фили-Давыдково, Ивана Франко,6,Кунцевская
+15,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/306970732/,Москва,rent,flat,8,11,3,128.0,100000,0,Можайский, Толбухина,3К2,Кунцевская
+16,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/306955643/,Москва,rent,flat,9,16,3,135.0,100000,0,Можайский, Толбухина,3К2,Кунцевская
+17,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/306876636/,Москва,rent,flat,3,5,3,58.0,80000,0,Можайский,Гвардейская ,8,Кунцевская
+18,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/306835413/,Москва,rent,flat,4,18,3,72.0,250000,0,Можайский,Гжатская ,5к7,Кунцевская
+19,ID 40042908,homeowner,https://www.cian.ru/rent/flat/306824552/,Москва,rent,flat,4,18,3,67.8,250000,0,Можайский,Гжатская ,5к7,Кунцевская
+20,Наталья Малкина,realtor,https://www.cian.ru/rent/flat/306785781/,Москва,rent,flat,5,17,3,68.0,170000,0,Можайский,Гжатская ,5к1,Кунцевская
+21,ID 157977,realtor,https://www.cian.ru/rent/flat/306597889/,Москва,rent,flat,8,9,3,74.0,150000,0,Фили-Давыдково,Аминьевское шоссе,36,Кунцевская
+22,KUNTSEVO,real_estate_agent,https://www.cian.ru/rent/flat/306530078/,Москва,rent,flat,11,25,3,131.0,170000,0,Можайский,Можайское шоссе,2,Кунцевская
+23,ID 431043,unknown,https://www.cian.ru/rent/flat/306269724/,Москва,rent,flat,9,9,3,57.0,120000,0,Можайский, Багрицкого,10К2,Кунцевская
+24,ЛИДЕР Риэлти,real_estate_agent,https://www.cian.ru/rent/flat/306138672/,Москва,rent,flat,12,25,3,93.6,180000,0,Фили-Давыдково, Ивана Франко,6,Кунцевская
+25,EstateLiga,real_estate_agent,https://www.cian.ru/rent/flat/305908552/,Москва,rent,flat,15,30,3,59.0,140000,0,Можайский, Петра Алексеева,14,Кунцевская
+26,Delight Realty,real_estate_agent,https://www.cian.ru/rent/flat/304973998/,Москва,rent,flat,8,14,3,92.0,140000,0,Можайский, Вересаева,12,Кунцевская
+27,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/304535411/,Москва,rent,flat,4,15,3,229.0,250000,0,Можайский, Вересаева,6,Кунцевская

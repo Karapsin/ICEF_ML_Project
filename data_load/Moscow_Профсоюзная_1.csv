@@ -1,0 +1,29 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,ID 57010733,realtor,https://www.cian.ru/rent/flat/307741359/,Москва,rent,flat,1,9,1,32.5,55000,0,Черемушки,Перекопская ,30к1,Профсоюзная
+1,Владис,real_estate_agent,https://www.cian.ru/rent/flat/307723977/,Москва,rent,flat,6,12,1,38.0,80000,0,Академический,Большая Черемушкинская ,20К4,Профсоюзная
+2,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307717564/,Москва,rent,flat,1,5,1,20.0,50000,0,Академический,Большая Черемушкинская ,40К2,Профсоюзная
+3,Century21 VICTORY,real_estate_agent,https://www.cian.ru/rent/flat/307711793/,Москва,rent,flat,2,17,1,38.0,70000,0,Черемушки,Нахимовский проспект,33/2,Профсоюзная
+4,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307702120/,Москва,rent,flat,1,5,1,25.0,50000,0,Академический,Большая Черемушкинская ,40К2,Профсоюзная
+5,ID 124884,realtor,https://www.cian.ru/rent/flat/307694131/,Москва,rent,flat,18,27,1,45.0,110000,0,Черемушки,Нахимовский проспект,31к3,Профсоюзная
+6,ID 238591,realtor,https://www.cian.ru/rent/flat/307685554/,Москва,rent,flat,16,26,1,56.0,99000,0,Гагаринский,Ленинский проспект,67к1,Профсоюзная
+7,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307681345/,Москва,rent,flat,15,19,1,37.0,79500,0,Академический, Дмитрия Ульянова,23к1,Профсоюзная
+8,EMPIRE HOME,real_estate_agent,https://www.cian.ru/rent/flat/307672417/,Москва,rent,flat,5,9,1,32.0,65000,0,Ломоносовский, Гарибальди,13К2,Профсоюзная
+9,СТОЛИЦА Департамент недвижимости,real_estate_agent,https://www.cian.ru/rent/flat/307661309/,Москва,rent,flat,16,17,1,58.0,65000,0,Ломоносовский, Академика Пилюгина,4,Профсоюзная
+10,ID 15059281,homeowner,https://www.cian.ru/rent/flat/307658780/,Москва,rent,flat,9,14,1,43.0,95000,0,Ломоносовский, Вавилова,84К4,Профсоюзная
+11,Виктор Плотников,realtor,https://www.cian.ru/rent/flat/307655071/,Москва,rent,flat,1,9,1,20.0,50000,0,Академический, Кржижановского,28,Профсоюзная
+12,Виктор Плотников,realtor,https://www.cian.ru/rent/flat/307629672/,Москва,rent,flat,1,5,1,25.0,60000,0,Академический, Кржижановского,17К1,Профсоюзная
+13,MOTYLEK - департамент недвижимости,real_estate_agent,https://www.cian.ru/rent/flat/307612258/,Москва,rent,flat,12,17,1,36.1,70000,0,Академический,Новочеремушкинская ,20/23,Профсоюзная
+14,ID 46344,realtor,https://www.cian.ru/rent/flat/307610337/,Москва,rent,flat,17,17,1,37.9,63000,0,Черемушки, Цюрупы,12К6,Профсоюзная
+15,Виктория Шмакова,realtor,https://www.cian.ru/rent/flat/307605586/,Москва,rent,flat,7,9,1,33.0,58000,0,Черемушки, Архитектора Власова,19К4,Профсоюзная
+16,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307587819/,Москва,rent,flat,19,19,1,40.0,85000,0,Академический, Дмитрия Ульянова,27к1,Профсоюзная
+17,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307545360/,Москва,rent,flat,7,9,1,32.0,80000,0,Черемушки, Цюрупы,4,Профсоюзная
+18,Олег Акулов,realtor,https://www.cian.ru/rent/flat/307528085/,Москва,rent,flat,1,17,1,40.0,70000,0,Академический, Дмитрия Ульянова,28К2,Профсоюзная
+19,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307484734/,Москва,rent,flat,7,19,1,37.0,130000,0,Академический, Дмитрия Ульянова,27,Профсоюзная
+20,Михаил Мальцев,realtor,https://www.cian.ru/rent/flat/307414413/,Москва,rent,flat,1,5,1,33.0,60000,0,Черемушки,Профсоюзная ,27К7,Профсоюзная
+21,МИЭЛЬ,real_estate_agent,https://www.cian.ru/rent/flat/307406049/,Москва,rent,flat,3,9,1,31.9,60000,0,Обручевский, Гарибальди,20/29К2,Профсоюзная
+22,ПИК-Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307362295/,Москва,rent,flat,2,18,1,43.9,99900,0,Академический,Новочеремушкинская ,17,Профсоюзная
+23,Георгий Черемский,realtor,https://www.cian.ru/rent/flat/307340532/,Москва,rent,flat,7,25,1,46.0,95000,0,Черемушки,Нахимовский проспект,31к3,Профсоюзная
+24,Изумрудный город,real_estate_agent,https://www.cian.ru/rent/flat/307289150/,Москва,rent,flat,9,17,1,45.0,100000,0,Черемушки,Нахимовский проспект,31к3,Профсоюзная
+25,Елена Носкова,realtor,https://www.cian.ru/rent/flat/307261317/,Москва,rent,flat,3,5,1,38.0,65000,0,Котловка,Нагорный бульвар,9,Профсоюзная
+26,Мой Дом - отделение Добрынинское,real_estate_agent,https://www.cian.ru/rent/flat/307101235/,Москва,rent,flat,12,17,1,38.0,60000,0,Черемушки,Новочеремушкинская ,57к2,Профсоюзная
+27,Мой Дом - отделение Добрынинское,real_estate_agent,https://www.cian.ru/rent/flat/307022730/,Москва,rent,flat,8,14,1,38.0,75000,0,Гагаринский, Вавилова,44К4,Профсоюзная

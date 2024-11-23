@@ -1,0 +1,29 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307739878/,Москва,rent,flat,5,5,2,50.0,75000,0,Тверской,Порядковый переулок,8,Менделеевская
+1,На Петровке,real_estate_agent,https://www.cian.ru/rent/flat/307682909/,Москва,rent,flat,3,7,2,80.0,300000,0,Тверской, Фадеева,4А,Менделеевская
+2,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307668457/,Москва,rent,flat,7,14,2,110.0,200000,0,Тверской,1-я Миусская ,2С1,Менделеевская
+3,ID 47577375,unknown,https://www.cian.ru/rent/flat/307666578/,Москва,rent,flat,6,9,2,58.0,125000,0,Тверской,Новолесная ,6А,Менделеевская
+4,Вертикаль,real_estate_agent,https://www.cian.ru/rent/flat/307653051/,Москва,rent,flat,4,10,2,50.0,100000,0,Тверской,Угловой переулок,2,Менделеевская
+5,СТОЛИЦА Департамент недвижимости,real_estate_agent,https://www.cian.ru/rent/flat/307576555/,Москва,rent,flat,4,5,2,46.0,80000,0,Тверской,Новосущевская ,14,Менделеевская
+6,ID 52843833,realtor,https://www.cian.ru/rent/flat/307570501/,Москва,rent,flat,15,15,2,50.0,120000,0,Тверской,Селезневская ,34К1,Менделеевская
+7,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307497179/,Москва,rent,flat,2,7,2,54.0,140000,0,Тверской,Долгоруковская ,39/6,Менделеевская
+8,ID 72629792,unknown,https://www.cian.ru/rent/flat/307431973/,Москва,rent,flat,9,12,2,56.2,115000,0,Тверской,Тихвинская ,17С1,Менделеевская
+9,SENATOR,real_estate_agent,https://www.cian.ru/rent/flat/307353260/,Москва,rent,flat,3,5,2,52.0,100000,0,Тверской,Тихвинский переулок,10-12к9,Менделеевская
+10,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307336316/,Москва,rent,flat,8,9,2,62.0,109000,0,Тверской, Достоевского,1/21С1,Менделеевская
+11,Полина Магриева,realtor,https://www.cian.ru/rent/flat/307306552/,Москва,rent,flat,5,14,2,74.0,160000,0,Марьина роща,Новосущевская ,15,Менделеевская
+12,Мой Дом - отделение Добрынинское,real_estate_agent,https://www.cian.ru/rent/flat/307129097/,Москва,rent,flat,4,5,2,76.0,135000,0,Тверской,Новослободская ,57/65,Менделеевская
+13,APARTMENTS,real_estate_agent,https://www.cian.ru/rent/flat/307107998/,Москва,rent,flat,2,15,2,49.0,100000,0,Тверской,Селезневская ,30К3,Менделеевская
+14,ID 403826,realtor,https://www.cian.ru/rent/flat/306187392/,Москва,rent,flat,2,7,2,54.0,140000,0,Тверской,Долгоруковская ,39/6,Менделеевская
+15,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/304690347/,Москва,rent,flat,2,15,2,46.0,100000,0,Тверской,Селезневская ,30К3,Менделеевская
+16,Золотой ключ,real_estate_agent,https://www.cian.ru/rent/flat/302649002/,Москва,rent,flat,5,10,2,66.0,97000,0,Тверской,Новослободская ,50/1С2,Менделеевская
+17,Whitewill Аренда,real_estate_agent,https://www.cian.ru/rent/flat/296556608/,Москва,rent,flat,6,10,2,70.0,550000,0,Тверской, Фадеева,4А,Менделеевская
+18,ID 108397584,homeowner,https://www.cian.ru/rent/flat/293359854/,Москва,rent,flat,5,5,2,46.0,75000,0,Тверской,Порядковый переулок,8,Менделеевская
+19,Вадим Волков,realtor,https://www.cian.ru/rent/flat/285230568/,Москва,rent,flat,6,9,2,37.0,67000,0,Тверской,Перуновский переулок,4-8,Менделеевская
+20,Tverskaya Street,real_estate_agent,https://www.cian.ru/rent/flat/270877486/,Москва,rent,flat,5,9,2,37.0,129000,0,Беговой,Верхняя ,1,Менделеевская
+21,ID 41968358,realtor,https://www.cian.ru/rent/flat/264907195/,Москва,rent,flat,9,9,2,50.2,110000,0,Тверской,Тихвинский переулок,13,Менделеевская
+22,Денис Михайлов,realtor,https://www.cian.ru/rent/flat/257279089/,Москва,rent,flat,6,12,2,57.0,120000,0,Тверской,Краснопролетарская ,9,Менделеевская
+23,Ирина Бортникова,realtor,https://www.cian.ru/rent/flat/245340851/,Москва,rent,flat,4,9,2,54.0,120000,0,Тверской, Бутырский Вал,32,Менделеевская
+24,Инесса Никуличева,realtor,https://www.cian.ru/rent/flat/241094848/,Москва,rent,flat,4,9,2,70.0,150000,0,Тверской, Достоевского,1/21С1,Менделеевская
+25,Михаил Иванов,realtor,https://www.cian.ru/rent/flat/307586651/,Москва,rent,flat,2,7,3,75.9,95000,0,Хамовники,переулок Сивцев Вражек,21,Смоленская
+26,Вертикаль,real_estate_agent,https://www.cian.ru/rent/flat/307656261/,Москва,rent,flat,2,8,2,40.0,90000,0,Пресненский,Большой Кондратьевский переулок,6,Белорусская
+27,Ольга Ковалева,realtor,https://www.cian.ru/rent/flat/293288088/,Москва,rent,flat,2,4,3,73.0,100000,0,Тверской,Садовая-Самотечная ,4С2,Цветной бульвар

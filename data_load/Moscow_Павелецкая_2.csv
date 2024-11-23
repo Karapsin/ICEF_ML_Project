@@ -1,0 +1,57 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,ID 713695,realtor,https://www.cian.ru/rent/flat/307742206/,Москва,rent,flat,6,9,2,37.0,98000,0,Замоскворечье,6-й Монетчиковский переулок,5,Павелецкая
+1,Марина Пескова,realtor,https://www.cian.ru/rent/flat/307724964/,Москва,rent,flat,2,8,2,63.0,95000,0,Замоскворечье,Валовая ,2-4/44С1,Павелецкая
+2,Елена Видерская,realtor,https://www.cian.ru/rent/flat/307721075/,Москва,rent,flat,9,12,2,40.0,75000,0,Замоскворечье,5-й Монетчиковский переулок,13,Павелецкая
+3,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307701687/,Москва,rent,flat,2,4,2,72.0,160000,0,Замоскворечье,Озерковский переулок,7С1,Павелецкая
+4,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307700847/,Москва,rent,flat,2,4,2,74.7,150000,0,Замоскворечье,Озерковский переулок,7С1,Павелецкая
+5,Дом сервис плюс,real_estate_agent,https://www.cian.ru/rent/flat/307678559/,Москва,rent,flat,8,8,2,45.0,100000,0,Даниловский,Дербеневская набережная,11А,Павелецкая
+6,ID 100272700,unknown,https://www.cian.ru/rent/flat/307611012/,Москва,rent,flat,6,8,2,70.0,350000,0,Замоскворечье,Климентовский переулок,6,Павелецкая
+7,Интеллект-Риэлт,real_estate_agent,https://www.cian.ru/rent/flat/307589743/,Москва,rent,flat,8,9,2,39.0,100000,0,Замоскворечье,Новокузнецкая ,35-37С2,Павелецкая
+8,Прометей,real_estate_agent,https://www.cian.ru/rent/flat/307574282/,Москва,rent,flat,6,9,2,44.0,110000,0,Замоскворечье,6-й Монетчиковский переулок,5,Павелецкая
+9,Ярослав Бибиков,realtor,https://www.cian.ru/rent/flat/307572019/,Москва,rent,flat,1,5,2,45.4,179990,0,Замоскворечье,Татарская ,1/7,Павелецкая
+10,RENT_BAND,real_estate_agent,https://www.cian.ru/rent/flat/307551758/,Москва,rent,flat,7,8,2,58.0,100000,0,Замоскворечье,Дубининская ,11С1,Павелецкая
+11,Дмитрий Шлык,realtor,https://www.cian.ru/rent/flat/307509573/,Москва,rent,flat,6,48,2,60.0,170000,0,Даниловский,Дубининская ,59А,Павелецкая
+12,Дом сервис плюс,real_estate_agent,https://www.cian.ru/rent/flat/307497573/,Москва,rent,flat,4,8,2,45.0,80000,0,Даниловский,Дербеневская набережная,11А,Павелецкая
+13,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307481747/,Москва,rent,flat,7,8,2,56.0,100000,0,Замоскворечье,Дубининская ,11С1,Павелецкая
+14,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307474956/,Москва,rent,flat,10,48,2,42.0,135000,0,Даниловский,Дубининская ,59А,Павелецкая
+15,ID 52564885,homeowner,https://www.cian.ru/rent/flat/307473002/,Москва,rent,flat,10,48,2,39.1,135000,0,Даниловский,Дубининская ,59А,Павелецкая
+16,Парус,real_estate_agent,https://www.cian.ru/rent/flat/307453784/,Москва,rent,flat,2,7,2,60.0,230000,0,Замоскворечье,Шлюзовая набережная,2А,Павелецкая
+17,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307435029/,Москва,rent,flat,2,7,2,61.0,230000,0,Замоскворечье,Шлюзовая набережная,2А,Павелецкая
+18,Андрей царев,realtor,https://www.cian.ru/rent/flat/307427246/,Москва,rent,flat,6,12,2,52.2,90000,0,Замоскворечье,Большая Пионерская ,15С1,Павелецкая
+19,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307367489/,Москва,rent,flat,2,14,2,60.0,220000,0,Замоскворечье,Большой Строченовский переулок,9,Павелецкая
+20,ID 121810868,homeowner,https://www.cian.ru/rent/flat/307364876/,Москва,rent,flat,2,14,2,56.0,225000,0,Замоскворечье,Большой Строченовский переулок,9,Павелецкая
+21,Этажи Москва,real_estate_agent,https://www.cian.ru/rent/flat/307364049/,Москва,rent,flat,22,46,2,58.0,200000,0,Даниловский,Дубининская ,59А,Павелецкая
+22,Дмитрий Вологжанин,realtor,https://www.cian.ru/rent/flat/307362587/,Москва,rent,flat,9,14,2,56.0,110000,0,Замоскворечье, Зацепа,22,Павелецкая
+23,СТОЛИЦА Департамент недвижимости,real_estate_agent,https://www.cian.ru/rent/flat/307261388/,Москва,rent,flat,8,8,2,45.0,100000,0,Даниловский,Дербеневская набережная,11А,Павелецкая
+24,Оксана Царимон,realtor,https://www.cian.ru/rent/flat/307250840/,Москва,rent,flat,2,10,2,50.0,160000,0,Замоскворечье,Стремянный переулок,2,Павелецкая
+25,ID 21724323,homeowner,https://www.cian.ru/rent/flat/307227635/,Москва,rent,flat,7,8,2,56.0,100000,0,Замоскворечье,Дубининская ,11С1,Павелецкая
+26,Этажи Москва,real_estate_agent,https://www.cian.ru/rent/flat/307147122/,Москва,rent,flat,2,7,2,60.0,230000,0,Замоскворечье,Шлюзовая набережная,2А,Павелецкая
+27,Las Vegas,real_estate_agent,https://www.cian.ru/rent/flat/307105046/,Москва,rent,flat,2,7,2,63.0,220000,0,Замоскворечье,Шлюзовая набережная,2А,Павелецкая
+28,Ashtons International Realty,real_estate_agent,https://www.cian.ru/rent/flat/307096208/,Москва,rent,flat,2,7,2,60.0,230000,0,Замоскворечье,Шлюзовая набережная,2А,Павелецкая
+29,Дарья Ефремова,realtor,https://www.cian.ru/rent/flat/306948614/,Москва,rent,flat,4,8,2,45.0,60000,0,Даниловский,Дербеневская набережная,13/17К4,Павелецкая
+30,Марина Коновалова,realtor,https://www.cian.ru/rent/flat/306905453/,Москва,rent,flat,6,8,2,45.0,89000,0,Даниловский,Дербеневская набережная,11А,Павелецкая
+31,ID 115602653,homeowner,https://www.cian.ru/rent/flat/306882231/,Москва,rent,flat,5,5,2,74.0,150000,0,Даниловский,Дербеневская ,18,Павелецкая
+32,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/306876606/,Москва,rent,flat,9,14,2,56.0,120000,0,Замоскворечье, Зацепа,22,Павелецкая
+33,Chase R.E.S.,real_estate_agent,https://www.cian.ru/rent/flat/306844782/,Москва,rent,flat,2,7,2,61.0,230000,0,Замоскворечье,Шлюзовая набережная,2А,Павелецкая
+34,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/306797882/,Москва,rent,flat,9,14,2,60.0,120000,0,Замоскворечье, Зацепа,22,Павелецкая
+35,Intermark Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/306790081/,Москва,rent,flat,2,7,2,60.0,230000,0,Замоскворечье,Шлюзовая набережная,2А,Павелецкая
+36,CENTURY 21 RnB Estate,real_estate_agent,https://www.cian.ru/rent/flat/306781543/,Москва,rent,flat,2,7,2,60.1,230000,0,Замоскворечье,Шлюзовая набережная,2А,Павелецкая
+37,AMG,real_estate_agent,https://www.cian.ru/rent/flat/306763705/,Москва,rent,flat,16,48,2,45.0,180000,0,Даниловский,Дубининская ,59А,Павелецкая
+38,SPENСER ESTATE,real_estate_agent,https://www.cian.ru/rent/flat/306731018/,Москва,rent,flat,22,48,2,41.5,140000,0,Даниловский,Дубининская ,59А,Павелецкая
+39,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/306672329/,Москва,rent,flat,2,7,2,60.0,230000,0,Замоскворечье,Шлюзовая набережная,2А,Павелецкая
+40,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/306672209/,Москва,rent,flat,2,7,2,65.0,230000,0,Замоскворечье,Шлюзовая набережная,2А,Павелецкая
+41,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/306636182/,Москва,rent,flat,2,14,2,62.0,273000,0,Замоскворечье,Большой Строченовский переулок,9,Павелецкая
+42,Самолет Плюс Москва,real_estate_agent,https://www.cian.ru/rent/flat/306608568/,Москва,rent,flat,2,5,2,70.0,230000,0,Замоскворечье,Озерковская набережная,48/50с2,Павелецкая
+43,Анна Сегеди,realtor,https://www.cian.ru/rent/flat/306415379/,Москва,rent,flat,23,28,2,60.0,230000,0,Даниловский,Дубининская ,59С1,Павелецкая
+44,Александр Борисенко,realtor,https://www.cian.ru/rent/flat/306362924/,Москва,rent,flat,2,14,2,56.0,220000,0,Замоскворечье,Большой Строченовский переулок,9,Павелецкая
+45,ID 41938836,homeowner,https://www.cian.ru/rent/flat/306326721/,Москва,rent,flat,6,8,2,43.9,100000,0,Даниловский,Дербеневская набережная,13/17К4,Павелецкая
+46,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/306205836/,Москва,rent,flat,10,48,2,39.0,135000,0,Даниловский,Дубининская ,59А,Павелецкая
+47,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/306079011/,Москва,rent,flat,2,14,2,68.0,230000,0,Замоскворечье,Большой Строченовский переулок,9,Павелецкая
+48,ID 4451,realtor,https://www.cian.ru/rent/flat/305844699/,Москва,rent,flat,9,48,2,52.0,150000,0,Даниловский,Дубининская ,59А,Павелецкая
+49,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/305783489/,Москва,rent,flat,2,14,2,65.0,250000,0,Замоскворечье,Большой Строченовский переулок,9,Павелецкая
+50,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/305635000/,Москва,rent,flat,2,5,2,71.0,230000,0,Замоскворечье,Озерковская набережная,48/50с2,Павелецкая
+51,Иван Димов,realtor,https://www.cian.ru/rent/flat/305607983/,Москва,rent,flat,4,13,2,49.0,120000,0,Замоскворечье,Новокузнецкая ,13С1,Павелецкая
+52,CENTURY 21 RnB Estate,real_estate_agent,https://www.cian.ru/rent/flat/305338524/,Москва,rent,flat,2,5,2,71.0,230000,0,Замоскворечье,Озерковская набережная,48/50с2,Павелецкая
+53,ID 19566554,homeowner,https://www.cian.ru/rent/flat/305217221/,Москва,rent,flat,2,5,2,71.0,230000,0,Замоскворечье,Озерковская набережная,48/50с2,Павелецкая
+54,ID 15747,realtor,https://www.cian.ru/rent/flat/305141968/,Москва,rent,flat,30,46,2,56.5,180000,0,Даниловский,Дубининская ,59А,Павелецкая
+55,Светлана Богославец,realtor,https://www.cian.ru/rent/flat/305077245/,Москва,rent,flat,3,18,2,60.0,170000,0,Даниловский,Дубининская ,59С1,Павелецкая

@@ -1,0 +1,8 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Антон Осмелкин,realtor,https://www.cian.ru/rent/flat/299983236/,Москва,rent,flat,8,12,2,40.0,55000,0,Черемушки,Херсонская ,29,Зюзино
+1,ID 453149,realtor,https://www.cian.ru/rent/flat/307699808/,Москва,rent,flat,5,16,1,35.0,45000,0,,бульвар Скандинавский,6,Потапово
+2,First Broker,real_estate_agent,https://www.cian.ru/rent/flat/307661426/,Москва,rent,flat,3,5,2,40.2,75000,0,Черемушки,Херсонская ,36К3,Зюзино
+3,ПИК-Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307007810/,Москва,rent,flat,12,17,2,50.8,54900,0,Южное Бутово,Варшавское шоссе,282к1,Бульвар Дмитрия Донского
+4,ID 420842,realtor,https://www.cian.ru/rent/flat/307356975/,Москва,rent,flat,13,15,1,26.0,33000,0,,шоссе Остафьевское,12к2,Щербинка
+5,Виолетта Ермакова,realtor,https://www.cian.ru/rent/flat/299947604/,Москва,rent,flat,3,12,2,50.0,90000,0,Обручевский, Академика Челомея,8К1,Воронцовская
+6,Chase R.E.S.,real_estate_agent,https://www.cian.ru/rent/flat/307079692/,Москва,rent,flat,7,16,2,37.0,70000,0,,,5с3,Румянцево

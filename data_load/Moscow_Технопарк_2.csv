@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/306994782/,Москва,rent,flat,9,22,2,70.0,250000,0,Даниловский,бульвар Братьев Весниных,1,Технопарк
+1,БЕСТ на Проспекте Мира,real_estate_agent,https://www.cian.ru/rent/flat/306911930/,Москва,rent,flat,9,24,2,63.0,125000,0,Даниловский,Автозаводская ,23Бк2,Технопарк
+2,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/306892423/,Москва,rent,flat,4,17,2,63.0,135000,0,Даниловский,проспект Лихачева,18к2,Технопарк
+3,RENT_BAND,real_estate_agent,https://www.cian.ru/rent/flat/306813537/,Москва,rent,flat,9,22,2,65.0,199000,0,Даниловский,бульвар Братьев Весниных,1,Технопарк
+4,Денис Алференко,realtor,https://www.cian.ru/rent/flat/306733419/,Москва,rent,flat,3,17,2,42.0,120000,0,Даниловский,проспект Лихачева,18к1,Технопарк
+5,ID 13094180,unknown,https://www.cian.ru/rent/flat/306707694/,Москва,rent,flat,11,23,2,72.0,75000,0,Нагатинский затон,Нагатинская набережная,40/1,Технопарк
+6,Никита Перекальский,realtor,https://www.cian.ru/rent/flat/306681598/,Москва,rent,flat,19,20,2,65.0,180000,0,Даниловский,бульвар Братьев Весниных,2,Технопарк
+7,ID 23333728,realtor,https://www.cian.ru/rent/flat/306663456/,Москва,rent,flat,6,17,2,50.0,145000,0,Даниловский,бульвар Братьев Весниных,2,Технопарк
+8,МГСН,real_estate_agent,https://www.cian.ru/rent/flat/306269665/,Москва,rent,flat,3,14,2,61.0,160000,0,Даниловский,проспект Лихачева,20,Технопарк
+9,Олег Кочнев,realtor,https://www.cian.ru/rent/flat/306130758/,Москва,rent,flat,5,26,2,68.0,125000,0,Даниловский,Автозаводская ,23Бк2,Технопарк
+10,ID 20056067,realtor,https://www.cian.ru/rent/flat/305835002/,Москва,rent,flat,6,8,2,66.0,175000,0,Даниловский,проспект Лихачева,20,Технопарк
+11,Аслан Хет,realtor,https://www.cian.ru/rent/flat/305726801/,Москва,rent,flat,21,22,2,45.0,115000,0,Даниловский,бульвар Братьев Весниных,1,Технопарк
+12,ID 13352292,unknown,https://www.cian.ru/rent/flat/305516331/,Москва,rent,flat,11,13,2,53.0,100000,0,Даниловский, Лобанова,7К2,Технопарк
+13,Элитный Дом,real_estate_agent,https://www.cian.ru/rent/flat/304679956/,Москва,rent,flat,5,20,2,65.0,135000,0,Даниловский,проспект Лихачева,18к2,Технопарк
+14,ID 277227,unknown,https://www.cian.ru/rent/flat/301320108/,Москва,rent,flat,10,10,2,38.0,100000,0,Даниловский,проспект Лихачева,12к3,Технопарк
+15,Вера Айнетдинова,realtor,https://www.cian.ru/rent/flat/295372330/,Москва,rent,flat,12,16,2,40.6,100000,0,Южнопортовый, Трофимова,16,Технопарк
+16,ID 81212274,realtor,https://www.cian.ru/rent/flat/293502777/,Москва,rent,flat,15,20,2,70.0,95000,0,Нагатино-Садовники,Нагатинская набережная,10к3,Технопарк
+17,ID 48096369,homeowner,https://www.cian.ru/rent/flat/292591872/,Москва,rent,flat,5,17,2,42.0,250000,0,Даниловский,бульвар Братьев Весниных,2Б,Технопарк
+18,ID 88353013,homeowner,https://www.cian.ru/rent/flat/271014066/,Москва,rent,flat,11,25,2,75.0,110000,0,Нагатино-Садовники,Нагатинская набережная,18к1,Технопарк
+19,Олимп,real_estate_agent,https://www.cian.ru/rent/flat/267385655/,Москва,rent,flat,2,26,2,38.0,70000,0,Даниловский,Автозаводская ,23Бк2,Технопарк
+20,ID 3040276,homeowner,https://www.cian.ru/rent/flat/202676014/,Москва,rent,flat,9,9,2,84.0,95500,0,Даниловский, Трофимова,1/17,Технопарк
+21,АКРУС-сити,real_estate_agent,https://www.cian.ru/rent/flat/307219810/,Москва,rent,flat,2,11,2,50.4,145000,0,Даниловский, Архитектора Щусева,5к1,ЗИЛ
+22,ID 94841363,homeowner,https://www.cian.ru/rent/flat/277336910/,Москва,rent,flat,18,33,2,60.0,100000,0,Нагатино-Садовники,1-й Нагатинский проезд,11к3,Нагатинская
+23,Penny Lane Moscow,real_estate_agent,https://www.cian.ru/rent/flat/307549492/,Москва,rent,flat,3,33,3,100.0,120000,0,Нагатино-Садовники,1-й Нагатинский проезд,11к3,Нагатинская
+24,МИЭЛЬ,real_estate_agent,https://www.cian.ru/rent/flat/307660487/,Москва,rent,flat,26,33,2,43.0,90000,0,Нагатино-Садовники,2-й Нагатинский проезд,2/2к1,Коломенская

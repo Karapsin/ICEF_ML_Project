@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,EMPIRE HOME,real_estate_agent,https://www.cian.ru/rent/flat/307779235/,Москва,rent,flat,4,25,2,40.0,75000,0,, Саларьевская,8к1,Румянцево
+1,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307775482/,Москва,rent,flat,2,9,2,47.3,109000,0,, Инженера Кнорре,7к4,Румянцево
+2,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307747288/,Москва,rent,flat,1,22,2,46.0,70000,0,,Родниковая ,30к1,Румянцево
+3,ID 332295,realtor,https://www.cian.ru/rent/flat/307728701/,Москва,rent,flat,15,15,2,70.0,85000,0,, Саларьевская,14к2,Румянцево
+4,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307724875/,Москва,rent,flat,2,25,2,65.0,80000,0,,Родниковая ,30к3,Румянцево
+5,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307673589/,Москва,rent,flat,15,15,2,60.0,75000,0,, Саларьевская,14к2,Румянцево
+6,Вероника Брагинская,realtor,https://www.cian.ru/rent/flat/307662845/,Москва,rent,flat,2,16,2,43.0,80000,0,,,5с1,Румянцево
+7,ID 12383328,realtor,https://www.cian.ru/rent/flat/307659419/,Москва,rent,flat,5,10,2,50.0,120000,0,, Инженера Кнорре,7к1,Румянцево
+8,Кермен Иванова,realtor,https://www.cian.ru/rent/flat/307608223/,Москва,rent,flat,20,22,2,61.9,75000,0,,Родниковая ,30к3,Румянцево
+9,ID 284374,realtor,https://www.cian.ru/rent/flat/307593159/,Москва,rent,flat,7,22,2,70.0,95000,0,,Родниковая ,30к3,Румянцево
+10,ID 54991615,unknown,https://www.cian.ru/rent/flat/307539943/,Москва,rent,flat,8,16,2,45.0,95000,0,,,5с3,Румянцево
+11,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307411598/,Москва,rent,flat,13,17,2,50.0,80000,0,,,5с3,Румянцево
+12,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307386770/,Москва,rent,flat,8,9,2,51.0,122500,0,, Инженера Кнорре,7к4,Румянцево
+13,Анна Тюрина,realtor,https://www.cian.ru/rent/flat/307313992/,Москва,rent,flat,20,22,2,63.0,99900,0,,Родниковая ,30к2,Румянцево
+14,Chase R.E.S.,real_estate_agent,https://www.cian.ru/rent/flat/307079692/,Москва,rent,flat,7,16,2,37.0,70000,0,,,5с3,Румянцево
+15,Столичный Проспект,real_estate_agent,https://www.cian.ru/rent/flat/307073879/,Москва,rent,flat,15,16,2,48.0,85000,0,,,5с1,Румянцево
+16,ID 52716715,homeowner,https://www.cian.ru/rent/flat/306942530/,Москва,rent,flat,13,16,2,50.8,80000,0,,,5с3,Румянцево
+17,Замоскворечье,real_estate_agent,https://www.cian.ru/rent/flat/306896089/,Москва,rent,flat,3,16,2,56.0,85000,0,выезд на мкад и Ленинский проспект,и проспект Вернадского. Отличный вариант для длительного проживания!,к2.1,Румянцево
+18,BEST,real_estate_agent,https://www.cian.ru/rent/flat/306453113/,Москва,rent,flat,10,25,2,65.5,95000,0,, Саларьевская,8к1,Румянцево
+19,SC Realty,real_estate_agent,https://www.cian.ru/rent/flat/302898432/,Москва,rent,flat,6,22,2,62.0,100000,0,, Родниковая,30к3,Румянцево
+20,ID 80376003,unknown,https://www.cian.ru/rent/flat/287811322/,Москва,rent,flat,3,3,2,82.0,85000,0,,,62,Румянцево
+21,Ольга Петрова,realtor,https://www.cian.ru/rent/flat/277957336/,Москва,rent,flat,10,24,1,45.0,65000,0,Солнцево,Боровское шоссе,2к5,Говорово
+22,Замоскворечье,real_estate_agent,https://www.cian.ru/rent/flat/307360988/,Москва,rent,flat,6,15,1,42.0,60000,0,, Малое Понизовье,10,Филатов Луг
+23,ID 81427696,unknown,https://www.cian.ru/rent/flat/301871495/,Москва,rent,flat,14,17,3,52.0,60000,0,, Сосенский Стан,11,Новомосковская
+24,Самолет плюс Троицк,real_estate_agent,https://www.cian.ru/rent/flat/307273441/,Москва,rent,flat,4,14,2,70.0,65000,0,, Александры Монаховой,5к2,Ольховая

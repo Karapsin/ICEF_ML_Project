@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Татьяна Пичурина,realtor,https://lobnya.cian.ru/rent/flat/307744177/,Москва,rent,flat,6,9,2,54.6,45000,0,, Чайковского,17к1,Физтех
+1,Андрей Поймёнов,realtor,https://www.cian.ru/rent/flat/307739014/,Москва,rent,flat,3,16,2,60.0,60000,0,Северный,Долгопрудная аллея,14к4,Физтех
+2,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307719643/,Москва,rent,flat,3,16,2,60.0,70000,0,Северный,Долгопрудная аллея,14к4,Физтех
+3,Классика,real_estate_agent,https://khimki.cian.ru/rent/flat/307705025/,Москва,rent,flat,3,9,2,45.0,50000,0,, Генерала Дьяконова,4,Физтех
+4,Северная слобода,real_estate_agent,https://www.cian.ru/rent/flat/307703549/,Москва,rent,flat,2,14,2,74.4,90000,0,Северный,Дмитровское шоссе,124А,Физтех
+5,Про Жильё,real_estate_agent,https://mytishchi.cian.ru/rent/flat/307702512/,Москва,rent,flat,3,6,2,55.0,65000,0,д. Грибки, Адмиральская,6с1,
+6,ID 10601,realtor,https://mytishchi.cian.ru/rent/flat/307585753/,Москва,rent,flat,8,9,2,51.0,40000,0,,,,
+7,ID 12855403,unknown,https://mytishchi.cian.ru/rent/flat/307520061/,Москва,rent,flat,2,6,2,65.0,100000,0,д. Грибки, Адмиральская,6с1,
+8,ID 99734266,unknown,https://mytishchi.cian.ru/rent/flat/307312985/,Москва,rent,flat,4,6,2,70.0,125000,0,пос. Поведники, Санаторная,9,
+9,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/306788852/,Москва,rent,flat,3,14,2,60.0,65000,0,Северный,Долгопрудная аллея,14к4,Физтех
+10,ID 16314669,homeowner,https://khimki.cian.ru/rent/flat/302547412/,Москва,rent,flat,7,9,2,53.0,70000,0,, Летчика Ивана Федорова,5,Физтех
+11,ID 87949698,homeowner,https://www.cian.ru/rent/flat/291625403/,Москва,rent,flat,6,17,2,53.2,75000,0,Северный,Долгопрудная аллея,14к1,Физтех
+12,Наталья Сазанова,realtor,https://www.cian.ru/rent/flat/271171252/,Москва,rent,flat,13,14,2,55.0,58000,0,Северный,Долгопрудная аллея,14к1,Физтех
+13,ID 13465034,homeowner,https://dolgoprudny.cian.ru/rent/flat/307394297/,Москва,rent,flat,22,23,1,25.0,47000,0,,Парковая ,52,Водники
+14,Самолет плюс - Москва,real_estate_agent,https://dolgoprudny.cian.ru/rent/flat/307668168/,Москва,rent,flat,15,22,2,57.0,40000,0,,Набережная ,27,Водники
+15,ID 122109532,homeowner,https://dolgoprudny.cian.ru/rent/flat/307664538/,Москва,rent,flat,12,17,1,32.9,40000,0,,Молодежная ,4,Долгопрудная
+16,ID 119886752,homeowner,https://krasnogorsk.cian.ru/rent/flat/307659253/,Москва,rent,flat,7,9,1,32.3,45000,0,д. Сабурово, Парковая,24,
+17,ID 58780286,homeowner,https://dolgoprudny.cian.ru/rent/flat/294177311/,Москва,rent,flat,10,19,2,55.0,60000,0,,Набережная ,29к1,Водники
+18,Елена Хмелярская,realtor,https://ivanteyevka.cian.ru/rent/flat/307641379/,Москва,rent,flat,4,14,2,82.0,55000,0,Ивантеевка,Школьная ,16,
+19,ID 17978977,homeowner,https://dolgoprudny.cian.ru/rent/flat/307626760/,Москва,rent,flat,3,3,1,20.0,37000,0,, Лизы Чайкиной,14/15,Шереметьевская
+20,Домклик Аренда,real_estate_agent,https://khimki.cian.ru/rent/flat/307632606/,Москва,rent,flat,1,4,2,38.9,38500,0,,,,
+21,ID 523711,homeowner,https://khimki.cian.ru/rent/flat/307630437/,Москва,rent,flat,4,5,3,83.2,70000,0,, Ивановская,2к2,Молжаниново
+22,Елена Гольцман,realtor,https://mytishchi.cian.ru/rent/flat/307362187/,Москва,rent,flat,3,4,3,112.0,75000,0,пос. Поведники, Центральная,14А,
+23,ID 82843099,homeowner,https://krasnogorsk.cian.ru/rent/flat/294624201/,Москва,rent,flat,8,26,2,58.0,55000,0,д. Путилково, Сходненская,17,
+24,ID 16149813,homeowner,https://krasnogorsk.cian.ru/rent/flat/307652753/,Москва,rent,flat,2,12,2,63.9,15000,0,пос. Отрадное, Пятницкая,10,

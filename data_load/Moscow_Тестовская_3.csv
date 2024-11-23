@@ -1,0 +1,29 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,capital city,real_estate_agent,https://www.cian.ru/rent/flat/307828235/,Москва,rent,flat,58,78,3,105.0,300000,0,Пресненский,1-й Красногвардейский проезд,22с2,Москва-Сити
+1,EXCLUSIVE CITY,real_estate_agent,https://www.cian.ru/rent/flat/307820044/,Москва,rent,flat,61,68,3,101.2,580000,0,Пресненский,1-й Красногвардейский проезд,22с1,Москва-Сити
+2,Виктория Светлова,realtor,https://www.cian.ru/rent/flat/307816731/,Москва,rent,flat,55,78,3,124.0,500000,0,Пресненский,1-й Красногвардейский проезд,22с2,Москва-Сити
+3,МОСКВА СИТИ,real_estate_agent,https://www.cian.ru/rent/flat/307797499/,Москва,rent,flat,10,17,3,200.0,550000,0,Пресненский,Студенецкий переулок,3,Москва-Сити
+4,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307773376/,Москва,rent,flat,5,42,3,75.0,300000,0,Хорошево-Мневники,Шелепихинская набережная,34к1,Москва-Сити
+5,Елена Климова,realtor,https://www.cian.ru/rent/flat/307748993/,Москва,rent,flat,17,53,3,81.0,270000,0,Пресненский,Шмитовский проезд,39к8,Москва-Сити
+6,SKOLKOVO НЕДВИЖИМОСТЬ,real_estate_agent,https://www.cian.ru/rent/flat/307723651/,Москва,rent,flat,35,70,3,125.0,700000,0,Пресненский,1-й Красногвардейский проезд,22с2,Москва-Сити
+7,HOMECITY - НЕДВИЖИМОСТЬ МОСКВЫ,real_estate_agent,https://www.cian.ru/rent/flat/307707502/,Москва,rent,flat,12,37,3,96.0,260000,0,Хорошево-Мневники,Шелепихинская набережная,34,Москва-Сити
+8,Smart Estate Brokerage,real_estate_agent,https://www.cian.ru/rent/flat/307677279/,Москва,rent,flat,33,78,3,68.0,400000,0,Пресненский,1-й Красногвардейский проезд,22с2,Москва-Сити
+9,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307671957/,Москва,rent,flat,4,16,3,85.0,150000,0,Пресненский,Шелепихинское шоссе,13С4,Москва-Сити
+10,Юлия Снежная,realtor,https://www.cian.ru/rent/flat/307651299/,Москва,rent,flat,48,78,3,92.0,550000,0,Пресненский,1-й Красногвардейский проезд,22с2,Москва-Сити
+11,Smart Estate Brokerage,real_estate_agent,https://www.cian.ru/rent/flat/307630617/,Москва,rent,flat,69,78,3,134.0,450000,0,Пресненский,1-й Красногвардейский проезд,22с2,Москва-Сити
+12,ID 712298,homeowner,https://www.cian.ru/rent/flat/307607170/,Москва,rent,flat,5,17,3,85.0,160000,0,Пресненский,Шелепихинское шоссе,13С4,Москва-Сити
+13,ID 9814684,homeowner,https://www.cian.ru/rent/flat/307582462/,Москва,rent,flat,13,22,3,92.0,300000,0,Пресненский,Шмитовский проезд,16С2,Москва-Сити
+14,RENT_BAND,real_estate_agent,https://www.cian.ru/rent/flat/307574843/,Москва,rent,flat,50,51,3,68.0,150000,0,Пресненский,Шмитовский проезд,39к1,Москва-Сити
+15,ID 260935,unknown,https://www.cian.ru/rent/flat/307554487/,Москва,rent,flat,22,53,3,81.0,195000,0,Пресненский,Шмитовский проезд,39к8,Москва-Сити
+16,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307501322/,Москва,rent,flat,8,17,3,72.0,128000,0,Пресненский,Шелепихинское шоссе,19,Москва-Сити
+17,MOSCOW CITY LAB,real_estate_agent,https://www.cian.ru/rent/flat/307492275/,Москва,rent,flat,35,78,3,120.0,699999,0,Пресненский,1-й Красногвардейский проезд,22с2,Москва-Сити
+18,MC REALTY,real_estate_agent,https://www.cian.ru/rent/flat/307484903/,Москва,rent,flat,35,68,3,125.0,700000,0,Пресненский,1-й Красногвардейский проезд,22с1,Москва-Сити
+19,GardenGoldRealty,real_estate_agent,https://www.cian.ru/rent/flat/307445475/,Москва,rent,flat,8,17,3,76.0,158000,0,Пресненский,Шелепихинское шоссе,19,Москва-Сити
+20,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307432389/,Москва,rent,flat,8,17,3,76.0,158000,0,Пресненский,Шелепихинское шоссе,19,Москва-Сити
+21,ID 260935,unknown,https://www.cian.ru/rent/flat/307416638/,Москва,rent,flat,14,53,3,72.0,180000,0,Пресненский,Шмитовский проезд,39к8,Москва-Сити
+22,Эльмира Эмирова,realtor,https://www.cian.ru/rent/flat/307387621/,Москва,rent,flat,31,68,3,80.0,450000,0,Пресненский,1-й Красногвардейский проезд,22с1,Москва-Сити
+23,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307365055/,Москва,rent,flat,26,37,3,70.0,260000,0,Хорошево-Мневники,Шелепихинская набережная,34к1,Москва-Сити
+24,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307363600/,Москва,rent,flat,26,37,3,70.0,250000,0,Хорошево-Мневники,Шелепихинская набережная,34к1зд5,Москва-Сити
+25,Las Vegas,real_estate_agent,https://www.cian.ru/rent/flat/307336956/,Москва,rent,flat,16,42,3,75.0,250000,0,Хорошево-Мневники,Шелепихинская набережная,34к1,Москва-Сити
+26,capital city,real_estate_agent,https://www.cian.ru/rent/flat/307315544/,Москва,rent,flat,49,78,3,134.0,400000,0,Пресненский,1-й Красногвардейский проезд,22с2,Москва-Сити
+27,capital city,real_estate_agent,https://www.cian.ru/rent/flat/307311461/,Москва,rent,flat,41,68,3,130.0,400000,0,Пресненский,1-й Красногвардейский проезд,22с1,Москва-Сити

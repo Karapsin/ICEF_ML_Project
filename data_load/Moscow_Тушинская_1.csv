@@ -1,0 +1,29 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Александр Глухов,realtor,https://www.cian.ru/rent/flat/307722737/,Москва,rent,flat,2,19,1,43.0,90000,0,Покровское-Стрешнево,Волоколамское шоссе,71к1,Тушинская
+1,Юлия Аллегрова,realtor,https://www.cian.ru/rent/flat/307682797/,Москва,rent,flat,12,18,1,46.0,75000,0,Южное Тушино,Лодочная ,11,Тушинская
+2,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307680413/,Москва,rent,flat,2,5,1,30.0,60000,0,Южное Тушино, Фабрициуса,12,Тушинская
+3,ID 52443511,realtor,https://www.cian.ru/rent/flat/307671403/,Москва,rent,flat,18,22,1,40.0,95000,0,Покровское-Стрешнево,Волоколамское шоссе,71/22к3,Тушинская
+4,ПРАКТИК,real_estate_agent,https://www.cian.ru/rent/flat/307664721/,Москва,rent,flat,8,12,1,39.0,45000,0,Покровское-Стрешнево, Большая Набережная,5,Тушинская
+5,ID 2879,realtor,https://www.cian.ru/rent/flat/307633769/,Москва,rent,flat,5,12,1,39.0,57000,0,Южное Тушино,проезд Досфлота,3,Тушинская
+6,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307630523/,Москва,rent,flat,16,19,1,40.0,79500,0,Покровское-Стрешнево,Волоколамское шоссе,71к1,Тушинская
+7,ID 26390354,homeowner,https://www.cian.ru/rent/flat/307617764/,Москва,rent,flat,2,21,1,44.0,95000,0,Покровское-Стрешнево,Волоколамское шоссе,71/8к1,Тушинская
+8,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307613848/,Москва,rent,flat,17,26,1,59.0,200000,0,Покровское-Стрешнево,бульвар Небесный,1к1,Тушинская
+9,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307610216/,Москва,rent,flat,3,5,1,30.0,70000,0,Южное Тушино,Лодочная ,25С1,Тушинская
+10,Столичный Проспект,real_estate_agent,https://www.cian.ru/rent/flat/307604148/,Москва,rent,flat,2,5,1,30.0,43000,0,Южное Тушино,Лодочная ,39С1,Тушинская
+11,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307586964/,Москва,rent,flat,2,5,1,35.6,60000,0,Покровское-Стрешнево, Большая Набережная,1к1,Тушинская
+12,Парус,real_estate_agent,https://www.cian.ru/rent/flat/307496098/,Москва,rent,flat,8,12,1,35.0,55000,0,Южное Тушино,Лодочная ,33С2,Тушинская
+13,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307486262/,Москва,rent,flat,19,19,1,39.0,105000,0,Покровское-Стрешнево,Летная ,95Бк2,Тушинская
+14,Dream Realty,real_estate_agent,https://www.cian.ru/rent/flat/307482364/,Москва,rent,flat,20,26,1,41.3,100000,0,Покровское-Стрешнево,бульвар Небесный,1к1,Тушинская
+15,ID 121892959,homeowner,https://www.cian.ru/rent/flat/307458453/,Москва,rent,flat,17,26,1,59.0,200000,0,Покровское-Стрешнево,бульвар Небесный,1к1,Тушинская
+16,Андрей Филиппов,realtor,https://www.cian.ru/rent/flat/307288139/,Москва,rent,flat,2,13,1,38.0,78000,0,Покровское-Стрешнево,Волоколамское шоссе,71/22к2,Тушинская
+17,ГОРОБМЕН,real_estate_agent,https://www.cian.ru/rent/flat/307277411/,Москва,rent,flat,1,3,1,22.0,55000,0,Покровское-Стрешнево,Волоколамское шоссе,вл116,Тушинская
+18,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307268420/,Москва,rent,flat,9,13,1,20.0,75000,0,Покровское-Стрешнево,Волоколамское шоссе,71/22к2,Тушинская
+19,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307183314/,Москва,rent,flat,10,14,1,48.0,55000,0,Покровское-Стрешнево,проезд Стратонавтов,14К1,Тушинская
+20,Алексей Фильчук,realtor,https://www.cian.ru/rent/flat/307060059/,Москва,rent,flat,7,20,1,44.0,68000,0,Покровское-Стрешнево, Циолковского,7,Тушинская
+21,EstateLiga,real_estate_agent,https://www.cian.ru/rent/flat/307006764/,Москва,rent,flat,19,19,1,39.0,105000,0,Покровское-Стрешнево,Летная ,95Бк2,Тушинская
+22,ID 12378243,homeowner,https://www.cian.ru/rent/flat/306774135/,Москва,rent,flat,6,22,1,42.0,25500,0,Покровское-Стрешнево,бульвар Чкаловский,6,Тушинская
+23,Правовой Центр Недвижимости,real_estate_agent,https://www.cian.ru/rent/flat/306768920/,Москва,rent,flat,12,13,1,37.5,80000,0,Покровское-Стрешнево,Волоколамское шоссе,71/22к3,Тушинская
+24,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/306511591/,Москва,rent,flat,15,24,1,40.0,130500,0,Покровское-Стрешнево,Волоколамское шоссе,71/13к1,Тушинская
+25,ID 81392050,homeowner,https://www.cian.ru/rent/flat/306494332/,Москва,rent,flat,4,19,1,40.0,90000,0,Покровское-Стрешнево,Волоколамское шоссе,71к2,Тушинская
+26,М БЭСТ ХАУС,real_estate_agent,https://www.cian.ru/rent/flat/289274323/,Москва,rent,flat,10,26,1,36.0,90000,0,Покровское-Стрешнево,Летная ,95Бк2,Тушинская
+27,ID 467657,real_estate_agent,https://www.cian.ru/rent/flat/287561243/,Москва,rent,flat,18,23,1,45.0,105000,0,Покровское-Стрешнево,Волоколамское шоссе,71к2,Тушинская

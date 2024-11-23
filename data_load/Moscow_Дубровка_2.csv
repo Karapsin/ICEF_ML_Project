@@ -1,0 +1,29 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307712626/,Москва,rent,flat,1,5,2,45.0,70000,0,Даниловский, Симоновский Вал,24К3,Дубровка
+1,Наталья Воронова,realtor,https://www.cian.ru/rent/flat/307707370/,Москва,rent,flat,5,21,2,75.0,140000,0,Южнопортовый, Мельникова,3к5,Дубровка
+2,Homeprice,real_estate_agent,https://www.cian.ru/rent/flat/307686992/,Москва,rent,flat,11,14,2,54.0,110000,0,Южнопортовый,Шарикоподшипниковская ,18,Дубровка
+3,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307678450/,Москва,rent,flat,6,16,2,67.0,190000,0,Даниловский,3-й Автозаводский проезд,3,Дубровка
+4,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307652162/,Москва,rent,flat,10,16,2,63.0,180000,0,Даниловский,3-й Автозаводский проезд,3,Дубровка
+5,PRO ОБМЕН,real_estate_agent,https://www.cian.ru/rent/flat/307647092/,Москва,rent,flat,3,14,2,60.0,70000,0,Даниловский,Восточная ,15/6,Дубровка
+6,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307640437/,Москва,rent,flat,7,30,2,45.0,109000,0,Южнопортовый,Волгоградский проспект,32/3к5,Дубровка
+7,ID 67874273,realtor,https://www.cian.ru/rent/flat/307636826/,Москва,rent,flat,4,9,2,38.0,55000,0,Южнопортовый, Симоновский Вал,11/31,Дубровка
+8,Элитный Дом,real_estate_agent,https://www.cian.ru/rent/flat/307635613/,Москва,rent,flat,15,30,2,41.0,90000,0,Южнопортовый,Волгоградский проспект,32/5к1,Дубровка
+9,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307628861/,Москва,rent,flat,6,16,2,67.0,190000,0,Даниловский,3-й Автозаводский проезд,3,Дубровка
+10,BOND недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/307627325/,Москва,rent,flat,8,30,2,45.0,120000,0,Южнопортовый,Волгоградский проспект,32/3к4,Дубровка
+11,EstateLiga,real_estate_agent,https://www.cian.ru/rent/flat/307611427/,Москва,rent,flat,7,30,2,45.0,100000,0,Южнопортовый,Волгоградский проспект,32/5к1,Дубровка
+12,Наталья Караман,realtor,https://www.cian.ru/rent/flat/307608126/,Москва,rent,flat,4,9,2,45.0,70000,0,Южнопортовый, Симоновский Вал,7К2,Дубровка
+13,ГОРОБМЕН,real_estate_agent,https://www.cian.ru/rent/flat/307574705/,Москва,rent,flat,19,29,2,45.0,180000,0,Даниловский, Виктора Маслова,2,Дубровка
+14,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307574502/,Москва,rent,flat,8,30,2,50.0,120000,0,Южнопортовый,Волгоградский проспект,32/3к4,Дубровка
+15,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307530482/,Москва,rent,flat,2,7,2,56.0,110000,0,Южнопортовый,Новоостаповская ,4К1,Дубровка
+16,Лайк Стрит,real_estate_agent,https://www.cian.ru/rent/flat/307508480/,Москва,rent,flat,9,30,2,57.0,105000,0,Южнопортовый, 1-я Машиностроения,10,Дубровка
+17,Элитный Дом,real_estate_agent,https://www.cian.ru/rent/flat/307502652/,Москва,rent,flat,9,30,2,46.0,110000,0,Южнопортовый,Волгоградский проспект,32/5к1,Дубровка
+18,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307499919/,Москва,rent,flat,27,30,2,41.0,140000,0,Южнопортовый,Волгоградский проспект,32/5к1,Дубровка
+19,ID 121927601,homeowner,https://www.cian.ru/rent/flat/307493725/,Москва,rent,flat,19,30,2,37.2,110000,0,Южнопортовый,Волгоградский проспект,32/3к2,Дубровка
+20,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307492996/,Москва,rent,flat,2,7,2,60.0,110000,0,Южнопортовый,Новоостаповская ,4К1,Дубровка
+21,Манхэттен эстейт,real_estate_agent,https://www.cian.ru/rent/flat/307447108/,Москва,rent,flat,2,5,2,43.0,70000,0,Южнопортовый, Мельникова,15/10,Дубровка
+22,ID 72204760,homeowner,https://www.cian.ru/rent/flat/307438400/,Москва,rent,flat,8,21,2,66.1,126000,0,Даниловский, Виктора Маслова,2,Дубровка
+23,ID 114093931,homeowner,https://www.cian.ru/rent/flat/307400505/,Москва,rent,flat,2,15,2,43.0,120000,0,Южнопортовый, 1-я Машиностроения,7,Дубровка
+24,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307367406/,Москва,rent,flat,8,30,2,50.0,120000,0,Южнопортовый,Волгоградский проспект,32/3к4,Дубровка
+25,EstateLiga,real_estate_agent,https://www.cian.ru/rent/flat/307341462/,Москва,rent,flat,4,11,2,69.0,80000,0,Южнопортовый,Велозаводская ,11/1,Дубровка
+26,ID 80990212,realtor,https://www.cian.ru/rent/flat/307341270/,Москва,rent,flat,24,30,2,41.0,170000,0,Южнопортовый,Волгоградский проспект,32/5к1,Дубровка
+27,АКРУС-сити,real_estate_agent,https://www.cian.ru/rent/flat/307295604/,Москва,rent,flat,8,8,2,58.0,60000,0,Южнопортовый,Новоостаповская ,6,Дубровка

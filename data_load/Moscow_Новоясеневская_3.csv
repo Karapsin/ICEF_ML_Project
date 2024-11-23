@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Дмитрий Кравченко,realtor,https://www.cian.ru/rent/flat/307780208/,Москва,rent,flat,8,16,3,80.0,95000,0,Ясенево,Новоясеневский проспект,32К1,Новоясеневская
+1,ID 7336229,realtor,https://www.cian.ru/rent/flat/307775670/,Москва,rent,flat,2,9,3,54.0,60000,0,Ясенево,Соловьиный проезд,8,Новоясеневская
+2,ID 48564703,realtor,https://www.cian.ru/rent/flat/307731442/,Москва,rent,flat,11,17,3,76.0,85000,0,Ясенево,Вильнюсская ,13,Новоясеневская
+3,ID 24351,realtor,https://www.cian.ru/rent/flat/307649321/,Москва,rent,flat,7,16,3,73.0,90000,0,Ясенево, Айвазовского,2,Новоясеневская
+4,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307619192/,Москва,rent,flat,10,16,3,80.0,95000,0,Ясенево,Новоясеневский проспект,вл17/50,Новоясеневская
+5,EMPIRE HOME,real_estate_agent,https://www.cian.ru/rent/flat/307584522/,Москва,rent,flat,9,9,3,60.0,60000,0,Ясенево,проезд Карамзина,1К3,Новоясеневская
+6,ID 15058544,unknown,https://www.cian.ru/rent/flat/307183238/,Москва,rent,flat,1,10,3,53.0,75000,0,,проспект Новосередневский,17к2,Новоясеневская
+7,ID 1766830,realtor,https://www.cian.ru/rent/flat/306132986/,Москва,rent,flat,3,9,3,58.0,75000,0,Ясенево,Литовский бульвар,11К3,Новоясеневская
+8,Вадим Куркин,realtor,https://www.cian.ru/rent/flat/294059391/,Москва,rent,flat,9,9,3,56.0,60000,0,Ясенево,Тарусская ,8,Новоясеневская
+9,ЕГСН Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307572603/,Москва,rent,flat,7,16,2,53.0,60000,0,Теплый Стан, Островитянова,26К1,Коньково
+10,ID 460133,realtor,https://www.cian.ru/rent/flat/307339131/,Москва,rent,flat,3,22,1,41.0,60000,0,Ясенево,Ясногорская ,13К1,Новоясеневская
+11,ID 72329732,realtor,https://www.cian.ru/rent/flat/305831164/,Москва,rent,flat,8,9,-1,60.0,18000,0,Ясенево,Литовский бульвар,46К2,Новоясеневская
+12,ID 74788133,homeowner,https://www.cian.ru/rent/flat/280504992/,Москва,rent,flat,5,9,3,65.0,75000,0,Теплый Стан,Профсоюзная ,156К3,Тёплый Стан
+13,ID 117778273,homeowner,https://www.cian.ru/rent/flat/307593202/,Москва,rent,flat,2,9,3,60.0,65000,0,Бирюлево Восточное,Бирюлевская ,5К1,Царицыно
+14,Елена Петряшова,realtor,https://www.cian.ru/rent/flat/287364676/,Москва,rent,flat,8,10,3,64.0,75000,0,Проспект Вернадского, Удальцова,10,Проспект Вернадского
+15,Артем Тугумов,realtor,https://www.cian.ru/rent/flat/307361905/,Москва,rent,flat,3,5,3,54.6,70000,0,Зюзино,Севастопольский проспект,71,Зюзино
+16,Владимир Гучев,realtor,https://www.cian.ru/rent/flat/307192407/,Москва,rent,flat,5,22,2,58.0,75000,0,Теплый Стан,Профсоюзная ,142,Коньково
+17,MDco,real_estate_agent,https://www.cian.ru/rent/flat/307429622/,Москва,rent,flat,1,9,3,76.0,65000,0,Зябликово,Шипиловская ,41К1,Шипиловская
+18,ID 105645593,homeowner,https://www.cian.ru/rent/flat/307345533/,Москва,rent,flat,4,9,2,49.3,65000,0,Ясенево,Ясногорская ,3,Новоясеневская
+19,ID 88720357,unknown,https://www.cian.ru/rent/flat/307579707/,Москва,rent,flat,7,8,3,80.0,90000,0,Академический,Нахимовский проспект,50,Профсоюзная
+20,ID 425383,realtor,https://www.cian.ru/rent/flat/307589369/,Москва,rent,flat,2,22,1,39.0,60000,0,Ясенево,Литовский бульвар,15К1,Новоясеневская
+21,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307666923/,Москва,rent,flat,8,12,1,32.0,48000,0,Теплый Стан, Теплый Стан,11К2,Генерала Тюленева
+22,Елена Куракова,realtor,https://www.cian.ru/rent/flat/307632987/,Москва,rent,flat,14,24,1,42.0,50000,0,Ясенево,проезд Одоевского,7К7,Ясенево
+23,Вячеслав Кан,realtor,https://www.cian.ru/rent/flat/307391162/,Москва,rent,flat,13,14,3,76.0,85000,0,Ломоносовский, Гарибальди,10К4,Новые Черёмушки
+24,Сергей Медведев,realtor,https://www.cian.ru/rent/flat/306983923/,Москва,rent,flat,6,9,3,60.0,70000,0,Ломоносовский,Ленинский проспект,93К3,Новаторская

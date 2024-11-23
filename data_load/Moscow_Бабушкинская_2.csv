@@ -1,0 +1,57 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,ID 70825,realtor,https://www.cian.ru/rent/flat/307614680/,Москва,rent,flat,3,5,2,42.0,52000,0,Лосиноостровский,Шушенская ,3К2,Бабушкинская
+1,Las Vegas,real_estate_agent,https://mytishchi.cian.ru/rent/flat/307607322/,Москва,rent,flat,9,9,2,44.4,75000,0,д. Пирогово, Ильинского,4к1,
+2,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307588198/,Москва,rent,flat,9,17,2,55.0,70000,0,Бабушкинский,Осташковская ,9К2,Бабушкинская
+3,Юлия Рубан,realtor,https://www.cian.ru/rent/flat/307583408/,Москва,rent,flat,4,14,2,45.0,60000,0,Свиблово,Уржумская ,1К2,Бабушкинская
+4,Сфера недвижимости,real_estate_agent,https://mytishchi.cian.ru/rent/flat/307578765/,Москва,rent,flat,5,10,2,65.0,70000,0,д. Бородино, Малая Бородинская,3к1,
+5,Елена Гольцман,realtor,https://www.cian.ru/rent/flat/307578227/,Москва,rent,flat,9,12,2,56.0,75000,0,Южное Медведково,Заповедная ,8,Бабушкинская
+6,Суламит-НГС,real_estate_agent,https://www.cian.ru/rent/flat/307571974/,Москва,rent,flat,7,16,2,55.0,90000,0,Южное Медведково,Заповедная ,16к2,Бабушкинская
+7,Наталия Чурсина,realtor,https://www.cian.ru/rent/flat/307567202/,Москва,rent,flat,1,9,2,45.0,55000,0,Лосиноостровский,Анадырский проезд,47К2,Бабушкинская
+8,Горизонт,real_estate_agent,https://www.cian.ru/rent/flat/307567038/,Москва,rent,flat,7,16,2,55.0,90000,0,Южное Медведково,Заповедная ,16к2,Бабушкинская
+9,ID 7150120,unknown,https://www.cian.ru/rent/flat/307560621/,Москва,rent,flat,20,25,2,55.0,91000,0,Бабушкинский,Кольская ,8к2,Бабушкинская
+10,Мария Проскокова,realtor,https://www.cian.ru/rent/flat/307555821/,Москва,rent,flat,17,17,2,51.2,80000,0,Лосиноостровский,Стартовая ,7,Бабушкинская
+11,Сергей Бондарев,realtor,https://www.cian.ru/rent/flat/307551997/,Москва,rent,flat,7,16,2,55.0,90000,0,Южное Медведково,Заповедная ,16к2,Бабушкинская
+12,ID 24871561,homeowner,https://mytishchi.cian.ru/rent/flat/307551625/,Москва,rent,flat,12,20,2,45.0,45000,0,,переулок 1-й Стрелковый,1,Бабушкинская
+13,EMPIRE HOME,real_estate_agent,https://mytishchi.cian.ru/rent/flat/307549630/,Москва,rent,flat,7,17,2,33.0,45000,0,,переулок 1-й Стрелковый,3,Бабушкинская
+14,ID 13688881,unknown,https://www.cian.ru/rent/flat/307547600/,Москва,rent,flat,10,17,2,53.0,80000,0,Лосиноостровский,Стартовая ,7,Бабушкинская
+15,Виктория Русин,realtor,https://www.cian.ru/rent/flat/307546150/,Москва,rent,flat,8,12,2,60.0,70000,0,Южное Медведково,проезд Дежнева,11к1,Бабушкинская
+16,АЖС-недвижимость,real_estate_agent,https://mytishchi.cian.ru/rent/flat/307544644/,Москва,rent,flat,11,17,2,34.0,40000,0,,переулок 1-й Стрелковый,1,Бабушкинская
+17,ID 64537955,unknown,https://www.cian.ru/rent/flat/307542477/,Москва,rent,flat,5,14,2,45.0,70000,0,Свиблово,Уржумская ,3К2,Бабушкинская
+18,ID 88054572,realtor,https://www.cian.ru/rent/flat/307536762/,Москва,rent,flat,15,17,2,68.8,87000,0,Свиблово,проезд Нансена,3,Бабушкинская
+19,Дмитрий Соловьев,realtor,https://www.cian.ru/rent/flat/307535992/,Москва,rent,flat,4,5,2,37.4,50000,0,Ярославский,Лосевская ,22,Бабушкинская
+20,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307527494/,Москва,rent,flat,6,17,2,56.0,87000,0,Бабушкинский,Чукотский проезд,4,Бабушкинская
+21,ID 2287060,realtor,https://mytishchi.cian.ru/rent/flat/307519350/,Москва,rent,flat,1,10,2,43.0,38000,0,пос. Мебельной Фабрики, Рассветная,3,
+22,ID 12925366,unknown,https://www.cian.ru/rent/flat/307515380/,Москва,rent,flat,15,25,2,42.0,85000,0,Лосиноостровский,Тайнинская ,9,Бабушкинская
+23,ГОРОД,real_estate_agent,https://mytishchi.cian.ru/rent/flat/307509122/,Москва,rent,flat,7,15,2,43.0,60000,0,, Стрельбище Динамо,10,Бабушкинская
+24,BDC,real_estate_agent,https://www.cian.ru/rent/flat/307507303/,Москва,rent,flat,20,25,2,36.0,89898,0,Бабушкинский,Кольская ,8к2,Бабушкинская
+25,Денис Феофанов,realtor,https://www.cian.ru/rent/flat/307506479/,Москва,rent,flat,7,16,2,55.0,100000,0,Южное Медведково,Заповедная ,16к2,Бабушкинская
+26,ID 17403355,realtor,https://mytishchi.cian.ru/rent/flat/307504382/,Москва,rent,flat,7,7,2,45.0,55000,0,,Осташковское шоссе,22к5,Бабушкинская
+27,СТОЛИЦА. Москва и МО,real_estate_agent,https://www.cian.ru/rent/flat/307486388/,Москва,rent,flat,5,14,2,52.0,50000,0,Ярославский,Хибинский проезд,30К2,Бабушкинская
+28,ID 49045523,real_estate_agent,https://mytishchi.cian.ru/rent/flat/307484016/,Москва,rent,flat,8,16,2,58.0,57000,0,, Борисовка,8,Бабушкинская
+29,На Петровке,real_estate_agent,https://mytishchi.cian.ru/rent/flat/307480933/,Москва,rent,flat,15,17,2,49.9,60000,0,,переулок 1-й Стрелковый,1,Бабушкинская
+30,Парус,real_estate_agent,https://www.cian.ru/rent/flat/307451243/,Москва,rent,flat,1,16,2,40.0,80000,0,Северное Медведково,Заревый проезд,12,Бабушкинская
+31,FROM HOMELAND,real_estate_agent,https://www.cian.ru/rent/flat/307440377/,Москва,rent,flat,6,17,2,61.0,80000,0,Бабушкинский,Чукотский проезд,4,Бабушкинская
+32,Сергей Комбаров,realtor,https://pushkino.cian.ru/rent/flat/307412147/,Москва,rent,flat,1,1,2,62.0,35000,0,, Водопьянова,12,Бабушкинская
+33,Олег Харченко,realtor,https://www.cian.ru/rent/flat/307405948/,Москва,rent,flat,5,15,2,57.0,110000,0,Южное Медведково,Полярная ,25к2,Бабушкинская
+34,Артур Бейдулаев,realtor,https://www.cian.ru/rent/flat/307388479/,Москва,rent,flat,4,25,2,50.0,100000,0,Бабушкинский,Кольская ,8к2,Бабушкинская
+35,ИНГРУПП,real_estate_agent,https://mytishchi.cian.ru/rent/flat/307342203/,Москва,rent,flat,2,5,2,42.0,45000,0,,Новомытищинский проспект,80к5,Бабушкинская
+36,МосГарант,real_estate_agent,https://mytishchi.cian.ru/rent/flat/307341258/,Москва,rent,flat,5,6,2,70.0,62000,0,, Красная Слобода,9,Бабушкинская
+37,ID 60305268,realtor,https://www.cian.ru/rent/flat/307333792/,Москва,rent,flat,10,25,2,58.0,65000,0,Лосиноостровский,Шушенская ,5,Бабушкинская
+38,ID 121747143,homeowner,https://mytishchi.cian.ru/rent/flat/307319003/,Москва,rent,flat,4,6,2,70.4,50000,0,, Красная Слобода,9,Бабушкинская
+39,Столичный Проспект,real_estate_agent,https://www.cian.ru/rent/flat/307305142/,Москва,rent,flat,6,9,2,45.0,55000,0,Ярославский,Ярославское шоссе,111К3,Бабушкинская
+40,Виктория Шмакова,realtor,https://mytishchi.cian.ru/rent/flat/307301941/,Москва,rent,flat,7,9,2,56.0,52000,0,,Станционная ,3к4,Бабушкинская
+41,Этажи Москва,real_estate_agent,https://mytishchi.cian.ru/rent/flat/307277194/,Москва,rent,flat,2,17,2,50.0,50000,0,, Стрельбище Динамо,10,Бабушкинская
+42,Абсолют Капитал Недвижимость,real_estate_agent,https://mytishchi.cian.ru/rent/flat/307252763/,Москва,rent,flat,5,20,2,50.0,45000,0,, Стрелковая,6,Бабушкинская
+43,Егор Ратенков,realtor,https://mytishchi.cian.ru/rent/flat/307202014/,Москва,rent,flat,17,26,2,65.6,60000,0,,Олимпийский проспект,12,Бабушкинская
+44,Ольга Фраткина,realtor,https://www.cian.ru/rent/flat/307197854/,Москва,rent,flat,4,19,2,59.2,67000,0,Свиблово,проезд Русанова,25к1,Бабушкинская
+45,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/306898381/,Москва,rent,flat,3,9,2,45.0,65000,0,Южное Медведково,Полярная ,7К1,Бабушкинская
+46,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/306871256/,Москва,rent,flat,3,16,2,55.0,110000,0,Бабушкинский, Менжинского,32К1,Бабушкинская
+47,ID 66712818,homeowner,https://mytishchi.cian.ru/rent/flat/306652589/,Москва,rent,flat,9,18,2,60.1,25000,0,Датский квартал ЖК, Полковника Романова,11,
+48,ID 111594503,homeowner,https://www.cian.ru/rent/flat/306553125/,Москва,rent,flat,9,9,2,46.1,70000,0,Северное Медведково,Широкая ,1К2,Бабушкинская
+49,ID 114446738,homeowner,https://mytishchi.cian.ru/rent/flat/306478324/,Москва,rent,flat,5,9,2,51.0,61000,0,,Новомытищинский проспект,1к2,Бабушкинская
+50,ID 89919508,unknown,https://mytishchi.cian.ru/rent/flat/306401190/,Москва,rent,flat,9,10,2,60.0,60000,0,д. Пирогово, Сурикова,1,
+51,ID 181694,real_estate_agent,https://mytishchi.cian.ru/rent/flat/306178442/,Москва,rent,flat,8,16,2,57.0,55000,0,, Семашко,10к2,Бабушкинская
+52,Екатерина Дрозд,realtor,https://mytishchi.cian.ru/rent/flat/306089293/,Москва,rent,flat,2,6,2,58.0,47000,0,,бульвар Тенистый,3,Бабушкинская
+53,Домклик Аренда,real_estate_agent,https://mytishchi.cian.ru/rent/flat/305815939/,Москва,rent,flat,10,17,2,30.6,47955,0,,переулок 1-й Стрелковый,1,Бабушкинская
+54,Надежда Жвикова,realtor,https://mytishchi.cian.ru/rent/flat/305608522/,Москва,rent,flat,9,17,2,46.0,50000,0,,переулок 1-й Стрелковый,3,Бабушкинская
+55,Зульфия  Галяутдинова,realtor,https://www.cian.ru/rent/flat/305497170/,Москва,rent,flat,7,16,2,52.0,57000,0,Северное Медведково,Северодвинская ,19,Бабушкинская

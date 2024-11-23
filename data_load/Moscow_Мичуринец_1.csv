@@ -1,0 +1,53 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,KeyPoint Realty,real_estate_agent,https://www.cian.ru/rent/flat/307781630/,Москва,rent,flat,2,4,1,30.0,40000,0,,переулок Гаражный,1,Мичуринец
+1,Сити Недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/307757294/,Москва,rent,flat,1,3,1,60.0,70000,0,, Ленина,21А,Мичуринец
+2,ID 90439500,unknown,https://www.cian.ru/rent/flat/307685553/,Москва,rent,flat,6,22,1,42.0,55000,0,, Анны Ахматовой,20,Мичуринец
+3,ID 51386155,homeowner,https://www.cian.ru/rent/flat/307645945/,Москва,rent,flat,17,23,1,26.0,65000,0,, Анны Ахматовой,11к1,Мичуринец
+4,Этажи Москва,real_estate_agent,https://www.cian.ru/rent/flat/307582268/,Москва,rent,flat,11,22,1,59.0,80000,0,,бульвар Андрея Тарковского,11,Мичуринец
+5,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307567455/,Москва,rent,flat,20,22,1,45.0,85000,0,, Анны Ахматовой,16,Мичуринец
+6,ID 47586865,realtor,https://www.cian.ru/rent/flat/307535739/,Москва,rent,flat,8,11,1,43.0,85000,0,,бульвар Андрея Тарковского,9,Мичуринец
+7,ГОРОБМЕН,real_estate_agent,https://www.cian.ru/rent/flat/307438418/,Москва,rent,flat,9,17,1,38.0,48000,0,, Бориса Пастернака,31к1,Мичуринец
+8,ID 492181,homeowner,https://www.cian.ru/rent/flat/307433288/,Москва,rent,flat,8,25,1,46.0,80000,0,, Анны Ахматовой,8,Мичуринец
+9,Михаил Мальцев,realtor,https://www.cian.ru/rent/flat/307415269/,Москва,rent,flat,2,19,1,37.0,50000,0,, Бориса Пастернака,35,Мичуринец
+10,ID 12789447,homeowner,https://www.cian.ru/rent/flat/307394886/,Москва,rent,flat,13,19,1,38.0,54000,0,, Самуила Маршака,23к1,Мичуринец
+11,ID 97371988,unknown,https://www.cian.ru/rent/flat/307368543/,Москва,rent,flat,9,17,1,38.0,55000,0,, Бориса Пастернака,15,Мичуринец
+12,ID 266055,realtor,https://www.cian.ru/rent/flat/307366860/,Москва,rent,flat,9,25,1,44.0,48000,0,, Авиаконструктора Петлякова,31,Мичуринец
+13,ID 10489468,realtor,https://www.cian.ru/rent/flat/307242709/,Москва,rent,flat,5,9,1,39.0,70000,0,,бульвар Андрея Тарковского,11,Мичуринец
+14,Жанна Беляева,realtor,https://odintsovo.cian.ru/rent/flat/307164959/,Москва,rent,flat,1,1,1,25.0,35000,0,, Военный Городок,40,Мичуринец
+15,ИП Уварова А. И.,real_estate_agent,https://www.cian.ru/rent/flat/307138344/,Москва,rent,flat,10,19,1,41.0,45000,0,, Бианки,8к2,Мичуринец
+16,ID 112424575,homeowner,https://www.cian.ru/rent/flat/306863914/,Москва,rent,flat,17,23,1,26.0,70000,0,, Анны Ахматовой,11к1,Мичуринец
+17,ID 23087733,homeowner,https://www.cian.ru/rent/flat/306515423/,Москва,rent,flat,10,12,1,42.0,110000,0,, Бориса Пастернака,8,Мичуринец
+18,ID 10481092,realtor,https://www.cian.ru/rent/flat/304222934/,Москва,rent,flat,1,2,1,32.0,45000,0,, Карла Маркса,31,Мичуринец
+19,ID 86864575,homeowner,https://www.cian.ru/rent/flat/301081236/,Москва,rent,flat,4,12,1,43.5,75000,0,, Бориса Пастернака,6,Мичуринец
+20,ID 11446579,unknown,https://www.cian.ru/rent/flat/298706252/,Москва,rent,flat,3,24,1,40.0,70000,0,,бульвар Андрея Тарковского,11,Мичуринец
+21,Жанна Беляева,realtor,https://odintsovo.cian.ru/rent/flat/297795682/,Москва,rent,flat,1,2,1,50.0,45000,0,, Военный Городок,40,Мичуринец
+22,ID 75067988,unknown,https://www.cian.ru/rent/flat/292766291/,Москва,rent,flat,2,22,1,36.0,80000,0,, Анны Ахматовой,11к1,Мичуринец
+23,ID 68211798,unknown,https://www.cian.ru/rent/flat/285300474/,Москва,rent,flat,22,22,1,35.8,70000,0,,бульвар Андрея Тарковского,11,Мичуринец
+24,ID 99051987,homeowner,https://www.cian.ru/rent/flat/282642730/,Москва,rent,flat,4,20,1,34.0,65000,0,, Анны Ахматовой,11к1,Мичуринец
+25,ID 74899473,homeowner,https://www.cian.ru/rent/flat/279480332/,Москва,rent,flat,14,17,1,40.0,60000,0,, Самуила Маршака,23к1,Мичуринец
+26,ID 13021304,unknown,https://www.cian.ru/rent/flat/279065048/,Москва,rent,flat,14,17,1,37.0,50000,0,, Бианки,4к1,Мичуринец
+27,SC Realty,real_estate_agent,https://www.cian.ru/rent/flat/276649261/,Москва,rent,flat,15,17,1,40.0,55000,0,, Корнея Чуковского,1,Мичуринец
+28,ID 80251646,homeowner,https://www.cian.ru/rent/flat/264337664/,Москва,rent,flat,5,25,1,45.0,80000,0,, Анны Ахматовой,8,Мичуринец
+29,ID 15478631,homeowner,https://www.cian.ru/rent/flat/256795763/,Москва,rent,flat,3,19,1,42.2,45000,0,,,9,Мичуринец
+30,Вадим Данченко,realtor,https://www.cian.ru/rent/flat/248691635/,Москва,rent,flat,12,13,1,23.8,45000,0,, Летчика Ульянина,3А,Мичуринец
+31,Альфия Аминова,realtor,https://www.cian.ru/rent/flat/235447997/,Москва,rent,flat,16,17,1,38.0,55000,0,, Бориса Пастернака,13,Мичуринец
+32,Михаил Кольба,realtor,https://www.cian.ru/rent/flat/307542959/,Москва,rent,flat,19,19,1,42.0,43000,0,, Летчика Ульянина,7А,Пыхтино
+33,ID 6763918,homeowner,https://www.cian.ru/rent/flat/182935015/,Москва,rent,flat,6,17,1,38.0,45000,0,, Бориса Пастернака,7,Рассказовка
+34,ID 10825752,homeowner,https://www.cian.ru/rent/flat/280002311/,Москва,rent,flat,1,1,1,22.0,36000,0,,,5с1,Аэропорт Внуково
+35,МГАН,real_estate_agent,https://www.cian.ru/rent/flat/307645511/,Москва,rent,flat,13,25,2,63.0,40000,0,, Авиаконструктора Петлякова,31,Мичуринец
+36,ID 12971082,homeowner,https://www.cian.ru/rent/flat/297413990/,Москва,rent,flat,3,4,1,30.0,60000,0,, Жемчужная,1к9,Филатов Луг
+37,Марина Пескова,realtor,https://www.cian.ru/rent/flat/307500038/,Москва,rent,flat,5,17,1,40.0,44000,0,Ново-Переделкино,Боровское шоссе,30,Новопеределкино
+38,Ольга Петрова,realtor,https://www.cian.ru/rent/flat/277957336/,Москва,rent,flat,10,24,1,45.0,65000,0,Солнцево,Боровское шоссе,2к5,Говорово
+39,Замоскворечье,real_estate_agent,https://www.cian.ru/rent/flat/307360988/,Москва,rent,flat,6,15,1,42.0,60000,0,, Малое Понизовье,10,Филатов Луг
+40,Монолит,real_estate_agent,https://www.cian.ru/rent/flat/285968262/,Москва,rent,flat,10,15,1,40.0,52000,0,, Летчика Грицевца,14А,Пыхтино
+41,ID 92569743,homeowner,https://www.cian.ru/rent/flat/307585469/,Москва,rent,flat,6,13,3,60.0,60000,0,, Летчика Грицевца,,Пыхтино
+42,МИЭЛЬ,real_estate_agent,https://www.cian.ru/rent/flat/306109957/,Москва,rent,flat,3,17,1,36.0,39000,0,, Никитина,18к1,Рассказовка
+43,Изумрудный город,real_estate_agent,https://www.cian.ru/rent/flat/277875028/,Москва,rent,flat,12,22,1,36.6,65000,0,Солнцево,Производственная ,8к1,Солнцево
+44,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307606852/,Москва,rent,flat,17,22,1,40.0,60000,0,Ново-Переделкино,Боровское шоссе,33К1,Новопеределкино
+45,ID 10481092,realtor,https://www.cian.ru/rent/flat/270887111/,Москва,rent,flat,12,17,1,32.0,55000,0,Ново-Переделкино,Чоботовская ,2к1,Новопеределкино
+46,Оксана Ерофеева,realtor,https://www.cian.ru/rent/flat/307651903/,Москва,rent,flat,12,24,1,37.0,70000,0,Солнцево,Производственная ,10к2,Солнцево
+47,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307570552/,Москва,rent,flat,2,17,1,40.0,55000,0,, Летчика Грицевца,5,Пыхтино
+48,Елена Круглова,realtor,https://www.cian.ru/rent/flat/273013525/,Москва,rent,flat,14,25,1,41.0,50000,0,, Никитина,11к5,Рассказовка
+49,ID 25794523,homeowner,https://www.cian.ru/rent/flat/304691902/,Москва,rent,flat,4,4,2,41.0,60000,0,Солнцево,Наро-Фоминская ,15,Солнечная
+50,ID 77811520,homeowner,https://www.cian.ru/rent/flat/301386726/,Москва,rent,flat,15,22,1,38.0,60000,0,Ново-Переделкино,Боровское шоссе,33,Новопеределкино
+51,Наталья Тараскина,realtor,https://www.cian.ru/rent/flat/299692896/,Москва,rent,flat,12,18,1,39.0,50000,0,, Родниковая,9Ак2,Саларьево

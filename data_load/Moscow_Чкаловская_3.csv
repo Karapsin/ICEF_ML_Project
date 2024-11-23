@@ -1,0 +1,48 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307755546/,Москва,rent,flat,2,8,3,75.0,120000,0,Басманный, Земляной Вал,24/32,Чкаловская
+1,GardenGoldRealty,real_estate_agent,https://www.cian.ru/rent/flat/307657252/,Москва,rent,flat,4,11,3,62.0,220000,0,Басманный,Старая Басманная ,10С5,Чкаловская
+2,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307605499/,Москва,rent,flat,8,12,3,60.0,250000,0,Басманный, Казакова,7,Чкаловская
+3,Whitewill Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307492779/,Москва,rent,flat,8,11,3,55.0,280000,0,Басманный, Казакова,7,Чкаловская
+4,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307491563/,Москва,rent,flat,4,11,3,65.0,220000,0,Басманный, Казакова,7,Чкаловская
+5,Тимур Илалов,realtor,https://www.cian.ru/rent/flat/307414203/,Москва,rent,flat,7,7,3,88.0,130000,0,Басманный,Садовая-Черногрязская ,11/2,Чкаловская
+6,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307401001/,Москва,rent,flat,18,23,3,125.0,200000,0,Басманный,набережная Академика Туполева,15,Чкаловская
+7,ID 46363554,unknown,https://www.cian.ru/rent/flat/307358587/,Москва,rent,flat,6,6,3,100.0,195000,0,Басманный,Старая Басманная ,12С5,Чкаловская
+8,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307255493/,Москва,rent,flat,2,10,3,100.0,270000,0,Таганский,Наставнический переулок,3,Чкаловская
+9,Бест офис на Таганской,real_estate_agent,https://www.cian.ru/rent/flat/307127730/,Москва,rent,flat,2,10,3,100.0,270000,0,Таганский,Наставнический переулок,3,Чкаловская
+10,Самолет Плюс,real_estate_agent,https://www.cian.ru/rent/flat/307096942/,Москва,rent,flat,2,5,3,80.0,125000,0,Басманный, Радио,10С9,Чкаловская
+11,ID 55045676,unknown,https://www.cian.ru/rent/flat/307085806/,Москва,rent,flat,2,7,3,90.0,525000,0,Таганский,Серебрянический переулок,8,Чкаловская
+12,ID 36706777,real_estate_agent,https://www.cian.ru/rent/flat/307041346/,Москва,rent,flat,2,8,3,75.0,120000,0,Басманный, Земляной Вал,24/32,Чкаловская
+13,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/306971481/,Москва,rent,flat,4,11,3,62.0,210000,0,Басманный, Казакова,7,Чкаловская
+14,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/306893834/,Москва,rent,flat,17,23,3,114.0,380000,0,Басманный,набережная Академика Туполева,15,Чкаловская
+15,Девятая типография,official_representative,https://www.cian.ru/rent/flat/306815223/,Москва,rent,flat,17,23,3,114.8,380000,0,Басманный,набережная Академика Туполева,15,Чкаловская
+16,ID 170359,unknown,https://www.cian.ru/rent/flat/306797025/,Москва,rent,flat,3,3,3,64.0,120000,0,Басманный,Гороховский переулок,4к5с7,Чкаловская
+17,Intermark Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/306790059/,Москва,rent,flat,2,9,3,70.0,150000,0,Таганский,Подколокольный переулок,16/2С1,Чкаловская
+18,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/306608129/,Москва,rent,flat,5,7,3,138.0,375000,0,Басманный,переулок Лялин,19К1,Чкаловская
+19,Point Estate Город,real_estate_agent,https://www.cian.ru/rent/flat/306592286/,Москва,rent,flat,5,7,3,138.0,375000,0,Басманный,переулок Лялин,19К1,Чкаловская
+20,Trust Realty,real_estate_agent,https://www.cian.ru/rent/flat/306573129/,Москва,rent,flat,5,7,3,138.0,375000,0,Басманный,переулок Лялин,19К1,Чкаловская
+21,Метриум Премиум Городская недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/306566775/,Москва,rent,flat,6,11,3,165.0,350000,0,Басманный,Казарменный переулок,3,Чкаловская
+22,Лилия Рахматуллина,realtor,https://www.cian.ru/rent/flat/306339560/,Москва,rent,flat,3,6,3,84.4,185000,0,Басманный,Подкопаевский переулок,9С1,Чкаловская
+23,Олеся Аляева,realtor,https://www.cian.ru/rent/flat/306331839/,Москва,rent,flat,4,10,3,152.0,350000,0,Таганский,Наставнический переулок,3,Чкаловская
+24,Александр Гойда,realtor,https://www.cian.ru/rent/flat/296599916/,Москва,rent,flat,5,7,3,92.0,130000,0,Басманный, Земляной Вал,3/1С7,Чкаловская
+25,ID 44589587,homeowner,https://www.cian.ru/rent/flat/294730002/,Москва,rent,flat,5,8,3,89.0,250000,0,Басманный, Земляной Вал,18-22С2,Чкаловская
+26,City Towers,official_representative,https://www.cian.ru/rent/flat/293078695/,Москва,rent,flat,5,11,3,72.0,230000,0,Басманный, Казакова,7,Чкаловская
+27,Алексей Комиссаров,realtor,https://www.cian.ru/rent/flat/283377416/,Москва,rent,flat,6,11,3,55.0,170000,0,Басманный, Казакова,7,Чкаловская
+28,Римма Куликова,realtor,https://www.cian.ru/rent/flat/263653802/,Москва,rent,flat,7,23,3,154.0,290000,0,Басманный,набережная Академика Туполева,15,Чкаловская
+29,Intermark Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307435339/,Москва,rent,flat,8,18,2,70.0,240000,0,Красносельский,Басманный переулок,5,Комсомольская
+30,ИП Исмаилов А. А.,real_estate_agent,https://www.cian.ru/rent/flat/307589179/,Москва,rent,flat,4,8,3,60.0,160000,0,Басманный,Потаповский переулок,9,Чистые пруды
+31,ID 208463,real_estate_agent,https://www.cian.ru/rent/flat/292639218/,Москва,rent,flat,8,9,2,54.0,135000,0,Басманный,Большая Почтовая ,32к9,Электрозаводская
+32,Елена Кобзон,realtor,https://www.cian.ru/rent/flat/307244199/,Москва,rent,flat,2,15,4,110.0,180000,0,Мещанский, Гиляровского,7,Сухаревская
+33,ID 87484330,homeowner,https://www.cian.ru/rent/flat/293720088/,Москва,rent,flat,3,3,3,77.0,187000,0,Басманный, Покровка,14/2С1,Чистые пруды
+34,ID 122095580,homeowner,https://www.cian.ru/rent/flat/307647191/,Москва,rent,flat,4,15,4,96.0,260000,0,Хорошевский,Ходынский бульвар,2,ЦСКА
+35,Николай Шевченко,realtor,https://www.cian.ru/rent/flat/307665487/,Москва,rent,flat,6,11,4,118.7,150000,0,Соколиная гора,Щербаковская ,40,Семёновская
+36,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/304131642/,Москва,rent,flat,4,4,5,190.0,220000,0,Басманный,переулок Лялин,7/2С1,Чкаловская
+37,ID 398803,realtor,https://www.cian.ru/rent/flat/307414606/,Москва,rent,flat,6,10,2,52.0,134000,0,Басманный,Большая Почтовая ,28к4,Электрозаводская
+38,Intermark Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307649499/,Москва,rent,flat,4,8,3,109.0,300000,0,Басманный,Потаповский переулок,10,Чистые пруды
+39,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307490217/,Москва,rent,flat,6,23,3,90.0,140000,0,Измайлово,Первомайская ,42к3,Измайловская
+40,Светлана Попова,realtor,https://www.cian.ru/rent/flat/282341744/,Москва,rent,flat,4,10,2,56.0,150000,0,Даниловский,Летниковская ,13,Павелецкая
+41,Александр Арно,realtor,https://www.cian.ru/rent/flat/306607880/,Москва,rent,flat,3,11,4,97.8,119000,0,Басманный,Семеновская набережная,3/1К7,Электрозаводская
+42,Вариант,real_estate_agent,https://www.cian.ru/rent/flat/305835366/,Москва,rent,flat,2,6,4,105.0,170000,0,Замоскворечье,Большой Строченовский переулок,4С1,Павелецкая
+43,ID 423731,realtor,https://www.cian.ru/rent/flat/262600966/,Москва,rent,flat,19,35,4,102.5,150000,0,Измайлово,Первомайская ,42к3,Измайловская
+44,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307706382/,Москва,rent,flat,2,5,4,158.0,300000,0,Тверской,Петровский переулок,5С1,Пушкинская
+45,ID 121869630,homeowner,https://www.cian.ru/rent/flat/307461929/,Москва,rent,flat,9,10,2,73.3,160000,0,Басманный, Фридриха Энгельса,31/35,Бауманская
+46,ID 101824331,homeowner,https://www.cian.ru/rent/flat/290917076/,Москва,rent,flat,5,9,4,89.0,220000,0,Лефортово,шоссе Энтузиастов,1к1,Москва-Товарная

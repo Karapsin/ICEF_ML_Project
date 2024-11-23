@@ -1,0 +1,57 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307759720/,Москва,rent,flat,5,21,2,42.0,120000,0,Очаково-Матвеевское,Очаковское шоссе,9А,Давыдково
+1,Unique Property,real_estate_agent,https://www.cian.ru/rent/flat/307759094/,Москва,rent,flat,11,23,2,50.0,120000,0,Можайский,Гжатская ,5к2,Давыдково
+2,Центр Недвижимости плюс,real_estate_agent,https://www.cian.ru/rent/flat/307756241/,Москва,rent,flat,11,23,2,50.0,120000,0,Можайский,Гжатская ,5к2,Давыдково
+3,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307756047/,Москва,rent,flat,11,23,2,55.0,120000,0,Можайский,Гжатская ,5к2,Давыдково
+4,ID 510481,homeowner,https://www.cian.ru/rent/flat/307745938/,Москва,rent,flat,5,5,2,43.8,65000,0,Фили-Давыдково,Кременчугская ,44К1,Давыдково
+5,ID 56665336,unknown,https://www.cian.ru/rent/flat/307736346/,Москва,rent,flat,5,9,2,65.0,75000,0,Очаково-Матвеевское,Матвеевская ,10К5,Давыдково
+6,Perfect Manager House,real_estate_agent,https://www.cian.ru/rent/flat/307725079/,Москва,rent,flat,11,23,2,50.0,120000,0,Можайский,Гжатская ,5к2,Давыдково
+7,Арбат Престиж,real_estate_agent,https://www.cian.ru/rent/flat/307723702/,Москва,rent,flat,11,26,2,43.0,165000,0,Очаково-Матвеевское,Нежинская ,5к2,Давыдково
+8,Юлия Соколова,realtor,https://www.cian.ru/rent/flat/307712559/,Москва,rent,flat,8,20,2,60.0,90000,0,Фили-Давыдково,Давыдковская ,10К1,Давыдково
+9,Альфия Рахматуллина,realtor,https://www.cian.ru/rent/flat/307707662/,Москва,rent,flat,2,7,2,74.0,110000,0,Можайский,Верейская ,29С151,Давыдково
+10,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307706350/,Москва,rent,flat,11,12,2,45.0,98000,0,Очаково-Матвеевское,Веерная ,40К1,Давыдково
+11,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307704870/,Москва,rent,flat,6,23,2,57.0,125000,0,Можайский,Можайское шоссе,6К1,Давыдково
+12,Vershina Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307699710/,Москва,rent,flat,2,31,2,52.0,120000,0,Можайский, Петра Алексеева,14,Давыдково
+13,Елена Мамаева,realtor,https://www.cian.ru/rent/flat/307682153/,Москва,rent,flat,6,25,2,107.1,220000,0,Очаково-Матвеевское,Нежинская ,8К1,Давыдково
+14,ID 28036,realtor,https://www.cian.ru/rent/flat/307680786/,Москва,rent,flat,6,31,2,39.2,120000,0,Можайский, Петра Алексеева,14,Давыдково
+15,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307676782/,Москва,rent,flat,6,18,2,60.0,110000,0,Фили-Давыдково,Давыдковская ,10,Давыдково
+16,Анна Тюрина,realtor,https://www.cian.ru/rent/flat/307671884/,Москва,rent,flat,13,27,2,40.0,100000,0,Очаково-Матвеевское,Аминьевское шоссе,4Дк2,Давыдково
+17,Квадраты Москвы,real_estate_agent,https://www.cian.ru/rent/flat/307669243/,Москва,rent,flat,6,18,2,60.0,110000,0,Фили-Давыдково,Давыдковская ,10,Давыдково
+18,SKOLKOVO НЕДВИЖИМОСТЬ,real_estate_agent,https://www.cian.ru/rent/flat/307651587/,Москва,rent,flat,3,25,2,42.0,195000,0,Очаково-Матвеевское,Нежинская ,5к2,Давыдково
+19,ID 296973,realtor,https://www.cian.ru/rent/flat/307646380/,Москва,rent,flat,9,9,2,46.0,60000,0,Очаково-Матвеевское,Матвеевская ,42К4,Давыдково
+20,Столичный Проспект,real_estate_agent,https://www.cian.ru/rent/flat/307643476/,Москва,rent,flat,24,28,2,56.8,130000,0,Фили-Давыдково,Славянский бульвар,9к6,Давыдково
+21,Дмитрий Орлов,realtor,https://www.cian.ru/rent/flat/307641504/,Москва,rent,flat,33,33,2,41.0,105000,0,Очаково-Матвеевское,Очаковское шоссе,5к4,Давыдково
+22,На Петровке,real_estate_agent,https://www.cian.ru/rent/flat/307638640/,Москва,rent,flat,4,5,2,42.0,78000,0,Очаково-Матвеевское,Матвеевская ,30,Давыдково
+23,ID 1455994,unknown,https://www.cian.ru/rent/flat/307632000/,Москва,rent,flat,7,27,2,60.0,230000,0,Очаково-Матвеевское,Аминьевское шоссе,4Дк2,Давыдково
+24,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307627951/,Москва,rent,flat,6,9,2,46.0,75000,0,Очаково-Матвеевское,Матвеевская ,10К5,Давыдково
+25,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307626170/,Москва,rent,flat,6,31,2,43.0,110000,0,Можайский, Петра Алексеева,14,Давыдково
+26,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307619102/,Москва,rent,flat,6,31,2,40.0,115000,0,Можайский, Петра Алексеева,14,Давыдково
+27,ID 72773896,homeowner,https://www.cian.ru/rent/flat/307609511/,Москва,rent,flat,5,21,2,41.0,120000,0,Очаково-Матвеевское,Очаковское шоссе,9А,Давыдково
+28,ID 28908867,homeowner,https://www.cian.ru/rent/flat/307584324/,Москва,rent,flat,12,29,2,65.0,185000,0,Можайский,переулок 2-й Петра Алексеева,5,Давыдково
+29,Елена Юлбарцева,realtor,https://www.cian.ru/rent/flat/307575627/,Москва,rent,flat,11,23,2,72.3,160000,0,Можайский,Гжатская ,5к1,Давыдково
+30,ID 70531377,homeowner,https://www.cian.ru/rent/flat/307546757/,Москва,rent,flat,11,12,2,45.3,90000,0,Очаково-Матвеевское,Веерная ,40К1,Давыдково
+31,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307543508/,Москва,rent,flat,7,7,2,54.0,120000,0,Можайский,Верейская ,29С151,Давыдково
+32,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307539174/,Москва,rent,flat,4,5,2,60.0,100000,0,Фили-Давыдково,Кутузовский проспект,71,Давыдково
+33,ID 93025113,homeowner,https://www.cian.ru/rent/flat/307529712/,Москва,rent,flat,10,32,2,51.3,80000,0,Очаково-Матвеевское,Очаковское шоссе,5к4,Давыдково
+34,ID 61572460,homeowner,https://www.cian.ru/rent/flat/307521310/,Москва,rent,flat,16,18,2,61.5,120000,0,Фили-Давыдково,Давыдковская ,10К1,Давыдково
+35,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307437906/,Москва,rent,flat,14,31,2,80.0,200000,0,Очаково-Матвеевское,Нежинская ,1к3,Давыдково
+36,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307434146/,Москва,rent,flat,18,33,2,45.0,105000,0,Очаково-Матвеевское,Очаковское шоссе,5к4,Давыдково
+37,Елена Юлбарцева,realtor,https://www.cian.ru/rent/flat/307401738/,Москва,rent,flat,13,23,2,71.2,170000,0,Можайский,Гжатская ,5к1,Давыдково
+38,EstateLiga,real_estate_agent,https://www.cian.ru/rent/flat/307397104/,Москва,rent,flat,22,30,2,43.0,80000,0,Можайский, Петра Алексеева,14,Давыдково
+39,ID 5279512,realtor,https://www.cian.ru/rent/flat/307377294/,Москва,rent,flat,2,31,2,60.0,200000,0,Очаково-Матвеевское,Нежинская ,1к1,Давыдково
+40,ID 54062260,homeowner,https://www.cian.ru/rent/flat/307368433/,Москва,rent,flat,3,16,2,45.0,110000,0,Очаково-Матвеевское,Нежинская ,9,Давыдково
+41,VIСTORY GROUP,real_estate_agent,https://www.cian.ru/rent/flat/307343297/,Москва,rent,flat,2,25,2,60.1,195000,0,Очаково-Матвеевское,Нежинская ,3А,Давыдково
+42,ID 64925364,homeowner,https://www.cian.ru/rent/flat/307323540/,Москва,rent,flat,2,14,2,45.0,70000,0,Очаково-Матвеевское,Нежинская ,15К3,Давыдково
+43,Антон Уймин,realtor,https://www.cian.ru/rent/flat/307318404/,Москва,rent,flat,8,23,2,101.0,185000,0,Можайский,Можайское шоссе,6К1,Давыдково
+44,Ла Терра,real_estate_agent,https://www.cian.ru/rent/flat/307220397/,Москва,rent,flat,13,22,2,59.1,80000,0,Фили-Давыдково,Кременчугская ,5К3,Давыдково
+45,ID 13715922,unknown,https://www.cian.ru/rent/flat/307122758/,Москва,rent,flat,6,9,2,47.0,75000,0,Фили-Давыдково, Ватутина,7К3,Давыдково
+46,Ирина Барановская,realtor,https://www.cian.ru/rent/flat/307112898/,Москва,rent,flat,14,31,2,80.0,200000,0,Очаково-Матвеевское,Нежинская ,1к3,Давыдково
+47,Этажи Москва,real_estate_agent,https://www.cian.ru/rent/flat/307094056/,Москва,rent,flat,20,25,2,58.2,120000,0,Очаково-Матвеевское,Аминьевское шоссе,4Дк1,Давыдково
+48,ID 7169236,unknown,https://www.cian.ru/rent/flat/307091329/,Москва,rent,flat,8,14,2,47.0,75000,0,Очаково-Матвеевское,Нежинская ,23К1,Давыдково
+49,ПИК-Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307065808/,Москва,rent,flat,23,33,2,54.2,129900,0,Очаково-Матвеевское,Очаковское шоссе,5к4,Давыдково
+50,Олеся Леонова,realtor,https://www.cian.ru/rent/flat/307055828/,Москва,rent,flat,27,33,2,52.0,110000,0,Очаково-Матвеевское,Очаковское шоссе,5к4,Давыдково
+51,ID 833239,realtor,https://www.cian.ru/rent/flat/306999167/,Москва,rent,flat,5,27,2,44.5,110000,0,Очаково-Матвеевское,Аминьевское шоссе,4Дк2,Давыдково
+52,BDC,real_estate_agent,https://www.cian.ru/rent/flat/306845703/,Москва,rent,flat,11,33,2,35.0,90000,0,Очаково-Матвеевское,Очаковское шоссе,5к4,Давыдково
+53,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/306826550/,Москва,rent,flat,3,22,2,50.0,130000,0,Очаково-Матвеевское,Аминьевское шоссе,6,Давыдково
+54,БЕСТ на Октябрьской,real_estate_agent,https://www.cian.ru/rent/flat/306790058/,Москва,rent,flat,16,16,2,45.0,115000,0,Очаково-Матвеевское,Нежинская ,9,Давыдково
+55,DOORS AGENCY,real_estate_agent,https://www.cian.ru/rent/flat/306590131/,Москва,rent,flat,4,5,2,60.0,90000,0,Фили-Давыдково,Кутузовский проспект,71,Давыдково

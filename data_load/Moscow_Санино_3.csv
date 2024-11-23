@@ -1,0 +1,24 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307828090/,Москва,rent,flat,3,3,3,62.0,87000,0,, Черничная,57к1,Санино
+1,EMPIRE HOME,real_estate_agent,https://www.cian.ru/rent/flat/307496368/,Москва,rent,flat,8,15,3,50.0,55000,0,, Стожарова,7,Санино
+2,ID 120296723,homeowner,https://golitsyno.cian.ru/rent/flat/305830076/,Москва,rent,flat,4,5,3,41.6,36000,0,,Западный проспект,2,Санино
+3,Homeprice,real_estate_agent,https://odintsovo.cian.ru/rent/flat/307616882/,Москва,rent,flat,7,12,-1,16.0,25000,0,,Можайское шоссе,129,Одинцово
+4,Людмила Кокурина,realtor,https://odintsovo.cian.ru/rent/flat/257056170/,Москва,rent,flat,7,17,1,50.0,35000,0,пос. ВНИИССОК, Дружбы,13,
+5,ID 78223565,homeowner,https://odintsovo.cian.ru/rent/flat/307414642/,Москва,rent,flat,18,25,-1,30.0,26400,0,, Сколковская,1А,Сколково
+6,Замоскворечье,real_estate_agent,https://odintsovo.cian.ru/rent/flat/307407383/,Москва,rent,flat,5,5,-1,20.0,26000,0,Новоивановское рп, Мичурина,5,
+7,ID 315895,realtor,https://odintsovo.cian.ru/rent/flat/307534112/,Москва,rent,flat,3,3,2,50.0,35000,0,,,,
+8,Михаил Кузьмин,realtor,https://odintsovo.cian.ru/rent/flat/307724391/,Москва,rent,flat,3,4,2,43.0,43000,0,МЖК Изумрудная Долина тер., Дюма,35,
+9,ID 79820519,homeowner,https://odintsovo.cian.ru/rent/flat/294966514/,Москва,rent,flat,11,14,-1,107.0,35000,0,,,,
+10,Антон Самойлов,realtor,https://odintsovo.cian.ru/rent/flat/307697605/,Москва,rent,flat,1,9,1,34.0,32000,0,, Маршала Неделина,9,Одинцово
+11,Геннадий Малолетников,realtor,https://odintsovo.cian.ru/rent/flat/307594317/,Москва,rent,flat,17,17,1,42.5,33000,0,пос. ВНИИССОК,Рябиновая ,3,
+12,ID 15353,realtor,https://zvenigorod.cian.ru/rent/flat/251927040/,Москва,rent,flat,2,6,1,49.0,38000,0,Звенигород, Чехова,1,
+13,ID 109107273,homeowner,https://odintsovo.cian.ru/rent/flat/307252823/,Москва,rent,flat,14,17,2,52.0,25000,0,, Триумфальная,4,Одинцово
+14,ID 50387557,realtor,https://odintsovo.cian.ru/rent/flat/303366335/,Москва,rent,flat,1,17,-1,18.0,23000,0,пос. ВНИИССОК, Бородинская,3,
+15,ID 12269152,unknown,https://odintsovo.cian.ru/rent/flat/307707462/,Москва,rent,flat,9,10,2,57.6,55000,0,,,,
+16,Александр Иванов,realtor,https://odintsovo.cian.ru/rent/flat/307496472/,Москва,rent,flat,10,26,1,16.0,37000,0,, Каштановая,8,Внуково
+17,Сергей Яковлев,realtor,https://naro-fominsk.cian.ru/rent/flat/307679781/,Москва,rent,flat,2,5,2,55.0,35000,0,Селятино рп, Спортивная,44,
+18,EMPIRE HOME,real_estate_agent,https://odintsovo.cian.ru/rent/flat/303530009/,Москва,rent,flat,1,5,1,33.0,40000,0,,Садовая ,14,Одинцово
+19,ID 85560843,homeowner,https://odintsovo.cian.ru/rent/flat/289730168/,Москва,rent,flat,5,8,1,23.0,30000,0,,,,
+20,ID 40336612,realtor,https://odintsovo.cian.ru/rent/flat/307257532/,Москва,rent,flat,13,34,2,63.0,30000,0,Новоивановское рп,Можайское шоссе,54,
+21,Олеся Девяткина,realtor,https://naro-fominsk.cian.ru/rent/flat/307125228/,Москва,rent,flat,5,5,2,54.0,31000,0,Наро-Фоминск, Маршала Куркоткина,3,
+22,Карпов и Партнёры,real_estate_agent,https://naro-fominsk.cian.ru/rent/flat/300748202/,Москва,rent,flat,14,17,1,50.0,35000,0,Наро-Фоминск, Войкова,3,

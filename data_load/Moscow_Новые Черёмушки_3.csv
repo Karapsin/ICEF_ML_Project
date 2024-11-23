@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,БРАЙТХОУМ,real_estate_agent,https://www.cian.ru/rent/flat/306817719/,Москва,rent,flat,3,23,3,170.0,230000,0,Черемушки,Севастопольский проспект,28к3,Новые Черёмушки
+1,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/306772685/,Москва,rent,flat,7,40,3,110.0,200000,0,Обручевский,Профсоюзная ,64к2,Новые Черёмушки
+2,БРАЙТХОУМ,real_estate_agent,https://www.cian.ru/rent/flat/306763811/,Москва,rent,flat,3,23,3,170.0,230000,0,Черемушки,Севастопольский проспект,28к3,Новые Черёмушки
+3,Надежда Пузикова,realtor,https://www.cian.ru/rent/flat/306691082/,Москва,rent,flat,9,17,3,76.5,130000,0,Черемушки,Нахимовский проспект,33/2,Новые Черёмушки
+4,Ashtons International Realty,real_estate_agent,https://www.cian.ru/rent/flat/306505859/,Москва,rent,flat,3,23,3,170.0,230000,0,Черемушки,Севастопольский проспект,28к3,Новые Черёмушки
+5,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/306415145/,Москва,rent,flat,3,12,3,110.0,250000,0,Черемушки,Профсоюзная ,45К1,Новые Черёмушки
+6,ID 74338273,unknown,https://www.cian.ru/rent/flat/306392665/,Москва,rent,flat,9,15,3,136.6,230000,0,Ломоносовский, Гарибальди,6К1,Новые Черёмушки
+7,ID 69037650,unknown,https://www.cian.ru/rent/flat/306190440/,Москва,rent,flat,22,27,3,125.0,220000,0,Академический,Нахимовский проспект,56,Новые Черёмушки
+8,ID 57426428,unknown,https://www.cian.ru/rent/flat/305059463/,Москва,rent,flat,13,17,3,133.0,230000,0,Ломоносовский, Гарибальди,3,Новые Черёмушки
+9,ID 71151495,unknown,https://www.cian.ru/rent/flat/304695350/,Москва,rent,flat,22,27,3,120.0,230000,0,Академический,Нахимовский проспект,56,Новые Черёмушки
+10,Ксения Михайлова,realtor,https://www.cian.ru/rent/flat/299187731/,Москва,rent,flat,8,17,3,84.0,180000,0,Черемушки, Цюрупы,8К1,Новые Черёмушки
+11,ID 83305363,homeowner,https://www.cian.ru/rent/flat/298517722/,Москва,rent,flat,10,17,3,83.0,170000,0,Черемушки,Профсоюзная ,30К2,Новые Черёмушки
+12,ID 76463806,homeowner,https://www.cian.ru/rent/flat/296801941/,Москва,rent,flat,37,40,3,110.3,240000,0,Обручевский,Профсоюзная ,64к2,Новые Черёмушки
+13,ID 16175,realtor,https://www.cian.ru/rent/flat/296307236/,Москва,rent,flat,2,16,3,125.0,200000,0,Обручевский, Архитектора Власова,22,Новые Черёмушки
+14,ID 78861789,homeowner,https://www.cian.ru/rent/flat/280981589/,Москва,rent,flat,12,22,3,118.0,260000,0,Ломоносовский, Вавилова,69А,Новые Черёмушки
+15,ID 88435630,homeowner,https://www.cian.ru/rent/flat/279508846/,Москва,rent,flat,7,40,3,110.0,200000,0,Обручевский,Профсоюзная ,64к2,Новые Черёмушки
+16,ID 99241024,homeowner,https://www.cian.ru/rent/flat/297445018/,Москва,rent,flat,6,18,3,92.4,170000,0,Академический, Дмитрия Ульянова,6к1,Академическая
+17,Verges of estate,real_estate_agent,https://www.cian.ru/rent/flat/307264309/,Москва,rent,flat,17,34,3,118.0,165000,0,Обручевский,Ленинский проспект,111к1,Новаторская
+18,ID 1276876,unknown,https://www.cian.ru/rent/flat/307396749/,Москва,rent,flat,19,50,3,78.0,260000,0,Раменки,Мичуринский проспект,56,Раменки
+19,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/306972543/,Москва,rent,flat,6,7,4,175.0,220000,0,Ломоносовский, Строителей,5К1,Университет
+20,Виктория Рояк,realtor,https://www.cian.ru/rent/flat/307214185/,Москва,rent,flat,10,16,3,70.0,115000,0,Черемушки, Обручева,65/54,Зюзино
+21,Левченко-реалти,real_estate_agent,https://www.cian.ru/rent/flat/307402144/,Москва,rent,flat,4,16,4,92.2,130000,0,Академический, Шверника,3К1,Академическая
+22,Владимир Фетискин,realtor,https://www.cian.ru/rent/flat/306336762/,Москва,rent,flat,5,18,3,120.0,140000,0,Тропарево-Никулино,Никулинская ,5к2,Озёрная
+23,ID 13699008,homeowner,https://www.cian.ru/rent/flat/307508653/,Москва,rent,flat,14,25,4,150.0,250000,0,Проспект Вернадского, Удальцова,46,Мичуринский проспект
+24,333980,real_estate_agent,https://www.cian.ru/rent/flat/307567406/,Москва,rent,flat,4,14,3,120.0,250000,0,Раменки,Ломоносовский проспект,25к5,Университет

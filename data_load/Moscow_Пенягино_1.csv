@@ -1,0 +1,54 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Михаил Мальцев,realtor,https://krasnogorsk.cian.ru/rent/flat/307781833/,Москва,rent,flat,3,17,1,38.0,55000,0,,бульвар Ильинский,2,Пенягино
+1,ID 33136713,homeowner,https://krasnogorsk.cian.ru/rent/flat/307760212/,Москва,rent,flat,7,29,1,30.0,60000,0,, Большая Воскресенская,1,Пенягино
+2,ОХОТНЫЙ РЯД офис Тверская,real_estate_agent,https://krasnogorsk.cian.ru/rent/flat/307755880/,Москва,rent,flat,9,14,1,45.0,60000,0,,Дачная ,11,Пенягино
+3,ID 105927269,homeowner,https://krasnogorsk.cian.ru/rent/flat/307708321/,Москва,rent,flat,8,9,1,34.0,54000,0,пос. Ильинское-Усово, Заповедная,13,
+4,Анжелика Николаевна Мерзликина,realtor,https://krasnogorsk.cian.ru/rent/flat/307706291/,Москва,rent,flat,3,17,1,42.0,49000,0,,бульвар Подмосковный,6,Пенягино
+5,ID 82796878,homeowner,https://krasnogorsk.cian.ru/rent/flat/307705382/,Москва,rent,flat,19,22,1,49.3,70000,0,,бульвар Красногорский,17,Пенягино
+6,ID 90471668,homeowner,https://krasnogorsk.cian.ru/rent/flat/307704043/,Москва,rent,flat,24,26,1,38.0,75000,0,,бульвар Красногорский,26,Пенягино
+7,ПОЙМА24 РУ,real_estate_agent,https://krasnogorsk.cian.ru/rent/flat/307693779/,Москва,rent,flat,3,3,1,15.0,31000,0,,бульвар Павшинский,41,Пенягино
+8,ID 75909460,realtor,https://krasnogorsk.cian.ru/rent/flat/307688568/,Москва,rent,flat,28,46,1,38.1,65000,0,, Авангардная,4,Пенягино
+9,ID 135892,realtor,https://krasnogorsk.cian.ru/rent/flat/307678658/,Москва,rent,flat,6,9,1,33.7,45000,0,пос. Ильинское-Усово, Заповедная,13,
+10,ID 13352358,realtor,https://krasnogorsk.cian.ru/rent/flat/307678602/,Москва,rent,flat,9,16,1,43.0,60000,0,, Спасская,4,Пенягино
+11,Татьяна Иванова,realtor,https://krasnogorsk.cian.ru/rent/flat/307671439/,Москва,rent,flat,13,14,1,35.0,40000,0,,Железнодорожная ,1б,Пенягино
+12,Надежда Шамсидинова,realtor,https://krasnogorsk.cian.ru/rent/flat/307666771/,Москва,rent,flat,13,24,1,43.0,53000,0,,бульвар Подмосковный,9,Пенягино
+13,ID 57244895,realtor,https://krasnogorsk.cian.ru/rent/flat/307657552/,Москва,rent,flat,7,17,1,45.0,50000,0,,бульвар Красногорский,19,Пенягино
+14,ПИК-Аренда,real_estate_agent,https://krasnogorsk.cian.ru/rent/flat/307631897/,Москва,rent,flat,4,9,1,34.0,56700,0,пос. Ильинское-Усово, Архангельская,6,
+15,ID 105722935,realtor,https://krasnogorsk.cian.ru/rent/flat/307617129/,Москва,rent,flat,9,23,1,46.4,70000,0,, Спасская,1к1,Пенягино
+16,ПИК-Аренда,real_estate_agent,https://krasnogorsk.cian.ru/rent/flat/307604287/,Москва,rent,flat,7,9,1,23.0,49000,0,пос. Ильинское-Усово, Заповедная,13,
+17,Континент-Недвижимость,real_estate_agent,https://krasnogorsk.cian.ru/rent/flat/307581846/,Москва,rent,flat,19,30,1,43.0,70000,0,,бульвар Красногорский,25,Пенягино
+18,Марат Мкртумов,realtor,https://krasnogorsk.cian.ru/rent/flat/307549647/,Москва,rent,flat,13,17,1,38.0,58000,0,, Имени Зверева,8,Пенягино
+19,ID 22091063,homeowner,https://krasnogorsk.cian.ru/rent/flat/307504397/,Москва,rent,flat,6,30,1,30.0,65000,0,, Большая Воскресенская,1,Пенягино
+20,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307454857/,Москва,rent,flat,25,25,1,33.0,69000,0,Кунцево,№ 100 кв-л,1к3,Пенягино
+21,Андрей Алябьев,realtor,https://krasnogorsk.cian.ru/rent/flat/307391497/,Москва,rent,flat,2,17,1,43.0,60000,0,, Спасская,6,Пенягино
+22,Елена Скугаревская,realtor,https://krasnogorsk.cian.ru/rent/flat/307259464/,Москва,rent,flat,11,16,1,42.0,54000,0,, Спасская,4,Пенягино
+23,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://krasnogorsk.cian.ru/rent/flat/307249132/,Москва,rent,flat,4,8,1,30.0,36000,0,д. Глухово, Романовская,19,
+24,ID 56650852,unknown,https://krasnogorsk.cian.ru/rent/flat/307134873/,Москва,rent,flat,5,23,1,50.0,73000,0,,бульвар Красногорский,20,Пенягино
+25,ПОЙМА24 РУ,real_estate_agent,https://krasnogorsk.cian.ru/rent/flat/307121592/,Москва,rent,flat,3,22,1,30.0,43998,0,,бульвар Красногорский,21,Пенягино
+26,ПИК-Аренда,real_estate_agent,https://krasnogorsk.cian.ru/rent/flat/307007809/,Москва,rent,flat,9,9,1,20.7,35000,0,тихий 1-комн. квартира,9/9 этаж,9/9 этаж,
+27,ГК Недвижимость,real_estate_agent,https://krasnogorsk.cian.ru/rent/flat/306948891/,Москва,rent,flat,3,10,1,62.1,75000,0,пос. Ильинское-Усово,проезд Александра Невского,3,
+28,ID 89686131,homeowner,https://krasnogorsk.cian.ru/rent/flat/306942645/,Москва,rent,flat,3,10,1,62.1,75000,0,пос. Ильинское-Усово,проезд Александра Невского,3,
+29,ID 58839052,homeowner,https://krasnogorsk.cian.ru/rent/flat/306910348/,Москва,rent,flat,6,8,1,38.0,60000,0,д. Глухово, Романовская,11,
+30,EMPIRE HOME,real_estate_agent,https://krasnogorsk.cian.ru/rent/flat/306853758/,Москва,rent,flat,9,17,1,40.0,52000,0,, Имени Зверева,4,Пенягино
+31,Наталья Сысоева,realtor,https://krasnogorsk.cian.ru/rent/flat/306444613/,Москва,rent,flat,17,17,1,65.0,80000,0,,бульвар Красногорский,14,Пенягино
+32,ID 1572058,homeowner,https://krasnogorsk.cian.ru/rent/flat/305361374/,Москва,rent,flat,17,25,1,45.0,55000,0,, Жуковского,19,Пенягино
+33,ПОЙМА24 РУ,real_estate_agent,https://krasnogorsk.cian.ru/rent/flat/304216231/,Москва,rent,flat,2,17,1,43.0,60000,0,, Спасская,6,Пенягино
+34,ПОЙМА24 РУ,real_estate_agent,https://krasnogorsk.cian.ru/rent/flat/303108114/,Москва,rent,flat,16,26,1,35.0,45000,0,, Молодежная,3,Пенягино
+35,ID 203305,unknown,https://krasnogorsk.cian.ru/rent/flat/300341829/,Москва,rent,flat,3,9,1,31.9,32000,0,пос. Ильинское-Усово, Архангельская,9,
+36,Профессионал Недвижимость,real_estate_agent,https://krasnogorsk.cian.ru/rent/flat/294940277/,Москва,rent,flat,2,3,1,35.0,30000,0,с. Петрово-Дальнее, Озерная,15,
+37,Игорь Ястребов,realtor,https://krasnogorsk.cian.ru/rent/flat/294025551/,Москва,rent,flat,20,24,1,52.4,65000,0,, Жуковского,19,Пенягино
+38,ID 107796858,unknown,https://krasnogorsk.cian.ru/rent/flat/292672368/,Москва,rent,flat,2,3,1,25.0,45000,0,, Имени Головкина,6,Пенягино
+39,ID 13351514,realtor,https://krasnogorsk.cian.ru/rent/flat/292606940/,Москва,rent,flat,1,3,1,39.0,50000,0,,бульвар Павшинский,41,Пенягино
+40,ID 105764997,homeowner,https://krasnogorsk.cian.ru/rent/flat/290512768/,Москва,rent,flat,7,8,1,37.0,55000,0,д. Глухово, Романовская,13,
+41,ID 708,realtor,https://krasnogorsk.cian.ru/rent/flat/285334650/,Москва,rent,flat,6,9,1,32.0,40000,0,д. Глухово, Романовская,11,
+42,ID 12726077,homeowner,https://krasnogorsk.cian.ru/rent/flat/279583876/,Москва,rent,flat,15,17,1,51.0,55000,0,,бульвар Красногорский,14,Пенягино
+43,ПОЙМА24 РУ,real_estate_agent,https://krasnogorsk.cian.ru/rent/flat/278387066/,Москва,rent,flat,6,25,1,40.0,62000,0,,бульвар Красногорский,24,Пенягино
+44,ID 15261307,homeowner,https://krasnogorsk.cian.ru/rent/flat/271403774/,Москва,rent,flat,3,5,1,17.4,40500,0,,Вокзальная ,16,Пенягино
+45,ID 42380279,realtor,https://krasnogorsk.cian.ru/rent/flat/270180247/,Москва,rent,flat,18,25,1,56.0,65000,0,, Жуковского,19,Пенягино
+46,Ирада Кадиева,realtor,https://krasnogorsk.cian.ru/rent/flat/258361412/,Москва,rent,flat,11,26,1,27.0,50000,0,, Большая Воскресенская,1,Пенягино
+47,ID 8929,realtor,https://krasnogorsk.cian.ru/rent/flat/252565390/,Москва,rent,flat,3,9,1,36.6,30000,0,пос. Ильинское-Усово, Заповедная,2,
+48,Дмитрий Саченко,realtor,https://krasnogorsk.cian.ru/rent/flat/234400931/,Москва,rent,flat,6,7,1,44.0,45000,0,д. Глухово, Рублевское Предместье,30,
+49,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://krasnogorsk.cian.ru/rent/flat/307129647/,Москва,rent,flat,11,25,1,40.0,35000,0,,бульвар Космонавтов,1,Опалиха
+50,Алёна Храпина,realtor,https://krasnogorsk.cian.ru/rent/flat/279944613/,Москва,rent,flat,5,5,2,44.3,45000,0,,Вокзальная ,8,Пенягино
+51,Юрий Исаков,realtor,https://krasnogorsk.cian.ru/rent/flat/307465305/,Москва,rent,flat,1,4,1,21.0,40000,0,, Пришвина,13,Опалиха
+52,ID 111991307,homeowner,https://krasnogorsk.cian.ru/rent/flat/299809846/,Москва,rent,flat,7,8,1,32.2,45000,0,д. Сабурово, Парковая,3,

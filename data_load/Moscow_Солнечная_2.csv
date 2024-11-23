@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,ID 46989435,realtor,https://www.cian.ru/rent/flat/307687938/,Москва,rent,flat,4,22,2,74.0,55000,0,Солнцево,Производственная ,4к2,Солнечная
+1,ID 121514881,homeowner,https://www.cian.ru/rent/flat/307635165/,Москва,rent,flat,16,17,2,51.3,75000,0,Солнцево, Богданова,14К1,Солнечная
+2,RENT_BAND,real_estate_agent,https://www.cian.ru/rent/flat/307552406/,Москва,rent,flat,2,16,2,37.0,60000,0,Солнцево, Юлиана Семенова,8к1,Солнечная
+3,ID 78433703,homeowner,https://www.cian.ru/rent/flat/307427278/,Москва,rent,flat,8,22,2,59.0,110000,0,Солнцево, Авиаторов,1,Солнечная
+4,Алла Хорошилова,realtor,https://www.cian.ru/rent/flat/307425703/,Москва,rent,flat,5,17,2,65.0,85000,0,Солнцево, Богданова,14К1,Солнечная
+5,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307387371/,Москва,rent,flat,8,33,2,63.0,110000,0,Солнцево, Авиаторов,1,Солнечная
+6,ID 25890959,homeowner,https://www.cian.ru/rent/flat/307265332/,Москва,rent,flat,12,16,2,53.5,70000,0,Солнцево, Авиаторов,6К1,Солнечная
+7,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/306788865/,Москва,rent,flat,10,11,2,53.0,88000,0,Солнцево, Главмосстроя,14,Солнечная
+8,ID 206948,homeowner,https://www.cian.ru/rent/flat/306716123/,Москва,rent,flat,10,11,2,53.0,89000,0,Солнцево, Главмосстроя,14,Солнечная
+9,Анна Игнатьева,realtor,https://www.cian.ru/rent/flat/306063822/,Москва,rent,flat,3,9,2,45.0,66000,0,Солнцево,Солнцевский проспект,30,Солнечная
+10,Сити Недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/305747985/,Москва,rent,flat,4,5,2,48.0,55000,0,Ново-Переделкино, 6-я Лазенки,8,Солнечная
+11,ID 25794523,homeowner,https://www.cian.ru/rent/flat/304691902/,Москва,rent,flat,4,4,2,41.0,60000,0,Солнцево,Наро-Фоминская ,15,Солнечная
+12,ID 263272,unknown,https://www.cian.ru/rent/flat/299844325/,Москва,rent,flat,7,19,2,39.0,70000,0,Солнцево, Юлиана Семенова,8к2,Солнечная
+13,Дворянское гнездо,real_estate_agent,https://www.cian.ru/rent/flat/307614600/,Москва,rent,flat,7,15,1,43.0,70000,0,, Татьянин Парк,14к1,Говорово
+14,ID 1313,realtor,https://www.cian.ru/rent/flat/307553526/,Москва,rent,flat,7,17,2,57.7,60000,0,Раменки, Раменки,7К1,Раменки
+15,Chase R.E.S.,real_estate_agent,https://www.cian.ru/rent/flat/307079692/,Москва,rent,flat,7,16,2,37.0,70000,0,,,5с3,Румянцево
+16,Марина Пескова,realtor,https://www.cian.ru/rent/flat/307500038/,Москва,rent,flat,5,17,1,40.0,44000,0,Ново-Переделкино,Боровское шоссе,30,Новопеределкино
+17,Ольга Петрова,realtor,https://www.cian.ru/rent/flat/277957336/,Москва,rent,flat,10,24,1,45.0,65000,0,Солнцево,Боровское шоссе,2к5,Говорово
+18,ID 92569743,homeowner,https://www.cian.ru/rent/flat/307585469/,Москва,rent,flat,6,13,3,60.0,60000,0,, Летчика Грицевца,,Пыхтино
+19,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307091907/,Москва,rent,flat,5,16,2,53.0,65000,0,Тропарево-Никулино,Никулинская ,23К3,Озёрная
+20,ID 48286785,realtor,https://www.cian.ru/rent/flat/307590051/,Москва,rent,flat,15,18,2,51.0,78000,0,, Красулинская,20,Филатов Луг
+21,ID 10481092,realtor,https://www.cian.ru/rent/flat/270887111/,Москва,rent,flat,12,17,1,32.0,55000,0,Ново-Переделкино,Чоботовская ,2к1,Новопеределкино
+22,Оксана Ерофеева,realtor,https://www.cian.ru/rent/flat/307651903/,Москва,rent,flat,12,24,1,37.0,70000,0,Солнцево,Производственная ,10к2,Солнечная
+23,ID 176308,realtor,https://www.cian.ru/rent/flat/307479963/,Москва,rent,flat,3,17,3,80.0,70000,0,Солнцево, Богданова,10к2,Солнечная
+24,ID 77811520,homeowner,https://www.cian.ru/rent/flat/301386726/,Москва,rent,flat,15,22,1,38.0,60000,0,Ново-Переделкино,Боровское шоссе,33,Новопеределкино

@@ -1,0 +1,53 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Алексей Мальцев,realtor,https://www.cian.ru/rent/flat/307720051/,Москва,rent,flat,5,5,2,45.0,70000,0,Тимирязевский,Тимирязевская ,20К2,Гражданская
+1,GardenGoldRealty,real_estate_agent,https://www.cian.ru/rent/flat/307708138/,Москва,rent,flat,8,16,2,51.0,100000,0,Савеловский,Башиловская ,23К3,Гражданская
+2,Новый дом,real_estate_agent,https://www.cian.ru/rent/flat/307705773/,Москва,rent,flat,2,12,2,50.0,78000,0,Тимирязевский,Тимирязевская ,17А,Гражданская
+3,ID 102783120,homeowner,https://www.cian.ru/rent/flat/307680502/,Москва,rent,flat,3,14,2,53.0,85000,0,Савеловский,4-й Вятский переулок,18К2,Гражданская
+4,Самолет Плюс,real_estate_agent,https://www.cian.ru/rent/flat/307677206/,Москва,rent,flat,5,5,2,43.4,60000,0,Тимирязевский,Астрадамская ,7А,Гражданская
+5,Тимур Гарипов,realtor,https://www.cian.ru/rent/flat/307651110/,Москва,rent,flat,1,5,2,46.0,70000,0,Тимирязевский,Астрадамский проезд,1,Гражданская
+6,Las Vegas,real_estate_agent,https://www.cian.ru/rent/flat/307632890/,Москва,rent,flat,3,25,2,40.0,120000,0,Савеловский, Юннатов,4кБ,Гражданская
+7,RENT_BAND,real_estate_agent,https://www.cian.ru/rent/flat/307629650/,Москва,rent,flat,5,12,2,75.0,130000,0,Савеловский,4-й Вятский переулок,18К4,Гражданская
+8,ID 11672329,realtor,https://www.cian.ru/rent/flat/307608189/,Москва,rent,flat,9,14,2,48.0,160000,0,Савеловский, Юннатов,4кА,Гражданская
+9,Ольга Постникова,realtor,https://www.cian.ru/rent/flat/307606039/,Москва,rent,flat,4,6,2,56.0,100000,0,Аэропорт,Ленинградский проспект,58,Гражданская
+10,Юлия Лапина,realtor,https://www.cian.ru/rent/flat/307575782/,Москва,rent,flat,1,5,2,44.0,75000,0,Тимирязевский,Астрадамская ,5А,Гражданская
+11,ID 327703,realtor,https://www.cian.ru/rent/flat/307562860/,Москва,rent,flat,11,14,2,64.0,85000,0,Савеловский,4-й Вятский переулок,18К2,Гражданская
+12,ID 6679,realtor,https://www.cian.ru/rent/flat/307531416/,Москва,rent,flat,5,9,2,60.0,70000,0,Тимирязевский,Астрадамская ,4,Гражданская
+13,Парус,real_estate_agent,https://www.cian.ru/rent/flat/307523018/,Москва,rent,flat,3,5,2,43.0,75000,0,Аэропорт,Планетная ,38,Гражданская
+14,Сергей Аверьянов,realtor,https://www.cian.ru/rent/flat/307458504/,Москва,rent,flat,5,8,2,58.0,75000,0,Аэропорт, Степана Супруна,12К1,Гражданская
+15,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307446991/,Москва,rent,flat,8,16,2,51.0,95000,0,Савеловский,Башиловская ,23К3,Гражданская
+16,Суламит-НГС,real_estate_agent,https://www.cian.ru/rent/flat/307303201/,Москва,rent,flat,1,5,2,43.0,75000,0,Тимирязевский,Астрадамская ,5А,Гражданская
+17,Егор Егоров,realtor,https://www.cian.ru/rent/flat/307295979/,Москва,rent,flat,4,9,2,57.0,90000,0,Аэропорт,Планетная ,47к1,Гражданская
+18,Виталий Никифоров,realtor,https://www.cian.ru/rent/flat/307200740/,Москва,rent,flat,5,5,2,42.7,75000,0,Аэропорт,Планетная ,40,Гражданская
+19,Миэль. Офис на Войковской,real_estate_agent,https://www.cian.ru/rent/flat/307155792/,Москва,rent,flat,10,12,2,45.6,65000,0,Савеловский, Юннатов,14,Гражданская
+20,Этажи Москва,real_estate_agent,https://www.cian.ru/rent/flat/307086802/,Москва,rent,flat,5,5,2,43.1,70000,0,Аэропорт,Красноармейская ,32,Гражданская
+21,МИЭЛЬ,real_estate_agent,https://www.cian.ru/rent/flat/306908303/,Москва,rent,flat,3,25,2,68.5,160000,0,Савеловский, Юннатов,4кГ,Гражданская
+22,Игорь Довгань,realtor,https://www.cian.ru/rent/flat/306880005/,Москва,rent,flat,12,14,2,69.0,85000,0,Савеловский,4-й Вятский переулок,18К2,Гражданская
+23,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/306879759/,Москва,rent,flat,3,10,2,63.0,115000,0,Тимирязевский,Дмитровское шоссе,3К1,Гражданская
+24,ID 113840859,homeowner,https://www.cian.ru/rent/flat/306667863/,Москва,rent,flat,3,10,2,63.0,115000,0,Тимирязевский,Дмитровское шоссе,3К1,Гражданская
+25,Анастасия Сергеева,realtor,https://www.cian.ru/rent/flat/306545815/,Москва,rent,flat,3,9,2,50.0,75000,0,Тимирязевский, Костякова,17К1,Гражданская
+26,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/306400154/,Москва,rent,flat,8,16,2,51.0,95000,0,Савеловский,Башиловская ,23К3,Гражданская
+27,ID 3926,realtor,https://www.cian.ru/rent/flat/306180149/,Москва,rent,flat,1,5,2,44.0,70000,0,Аэропорт,1-й Амбулаторный проезд,5К1,Гражданская
+28,ID 11242446,unknown,https://www.cian.ru/rent/flat/305649608/,Москва,rent,flat,6,25,2,57.0,150000,0,Савеловский, Юннатов,4кБ,Гражданская
+29,ID 95248183,unknown,https://www.cian.ru/rent/flat/297726149/,Москва,rent,flat,3,5,2,43.0,78000,0,Аэропорт,Планетная ,38,Гражданская
+30,ID 25425826,homeowner,https://www.cian.ru/rent/flat/288179324/,Москва,rent,flat,3,9,2,41.0,79000,0,Аэропорт,Красноармейская ,9,Гражданская
+31,ГОРОБМЕН,real_estate_agent,https://www.cian.ru/rent/flat/270243367/,Москва,rent,flat,2,8,2,42.0,110000,0,Аэропорт,Красноармейская ,7,Гражданская
+32,ID 467657,real_estate_agent,https://www.cian.ru/rent/flat/193102986/,Москва,rent,flat,25,34,2,80.0,140000,0,Аэропорт,Кочновский проезд,4к2,Гражданская
+33,ID 504,unknown,https://www.cian.ru/rent/flat/152812529/,Москва,rent,flat,3,9,2,64.0,95000,0,Аэропорт, 8 Марта,13,Гражданская
+34,ID 4480,realtor,https://www.cian.ru/rent/flat/306637947/,Москва,rent,flat,1,8,2,52.0,55000,0,Аэропорт, Усиевича,1,Аэропорт
+35,Сергей Андросов,realtor,https://www.cian.ru/rent/flat/307449940/,Москва,rent,flat,9,9,2,46.0,65000,0,Сокол,Песчаный переулок,8,Панфиловская
+36,Сергей Зилотов,realtor,https://www.cian.ru/rent/flat/307564321/,Москва,rent,flat,1,5,2,45.0,63000,0,Савеловский, 1-я Бебеля,3,Петровский Парк
+37,ID 57245889,homeowner,https://www.cian.ru/rent/flat/304065965/,Москва,rent,flat,6,14,2,53.0,78000,0,Беговой,Беговая ,6К2,Беговая
+38,ID 100465345,homeowner,https://www.cian.ru/rent/flat/307552263/,Москва,rent,flat,3,41,3,82.0,150000,0,Хорошевский,Ленинградский проспект,37/6,Аэропорт
+39,ID 78552985,homeowner,https://www.cian.ru/rent/flat/298283218/,Москва,rent,flat,8,9,2,45.0,69000,0,Сокол,Песчаный переулок,20К1,Панфиловская
+40,I AM ESTATE,real_estate_agent,https://www.cian.ru/rent/flat/307637562/,Москва,rent,flat,2,5,3,75.0,85000,0,Тимирязевский,Астрадамская ,1К3,Гражданская
+41,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/306679176/,Москва,rent,flat,8,10,2,38.0,80000,0,Савеловский,Петровско-Разумовский проезд,5,Петровский Парк
+42,ID 61405844,homeowner,https://www.cian.ru/rent/flat/307471937/,Москва,rent,flat,5,14,2,56.0,95000,0,Марьина роща,Октябрьская ,37,Марьина Роща
+43,MagAppArt,real_estate_agent,https://www.cian.ru/rent/flat/155763993/,Москва,rent,flat,3,5,2,55.0,80000,0,Аэропорт,Малый Коптевский проезд,4,Красный Балтиец
+44,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307541386/,Москва,rent,flat,8,9,2,42.0,69000,0,Сокол,Песчаный переулок,20К1,Панфиловская
+45,ID 50705217,homeowner,https://www.cian.ru/rent/flat/307322711/,Москва,rent,flat,12,12,1,35.2,85000,0,Тимирязевский, Вучетича,19,Гражданская
+46,МИЭЛЬ,real_estate_agent,https://www.cian.ru/rent/flat/307609956/,Москва,rent,flat,9,11,2,56.0,80000,0,Беговой,Беговая ,7,Беговая
+47,Ольга Вайсблат,realtor,https://www.cian.ru/rent/flat/307657343/,Москва,rent,flat,8,8,2,60.7,72000,0,Хорошевский, Зорге,14к3,Зорге
+48,ПИК-Аренда,real_estate_agent,https://www.cian.ru/rent/flat/306179899/,Москва,rent,flat,9,14,1,43.1,99900,0,Беговой,Верхняя ,6,Белорусская
+49,Иван Музалевский,realtor,https://www.cian.ru/rent/flat/302123949/,Москва,rent,flat,3,5,2,40.9,62000,0,Коптево, Приорова,22,Красный Балтиец
+50,Этажи Москва,real_estate_agent,https://www.cian.ru/rent/flat/306786492/,Москва,rent,flat,3,17,2,42.0,100000,0,Беговой,Ленинградский проспект,35С2,Петровский Парк
+51,Михаил Маркаров,realtor,https://www.cian.ru/rent/flat/307151736/,Москва,rent,flat,3,5,2,45.0,67000,0,Щукино,3-й Волоколамский проезд,10К2,Панфиловская

@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,ID 1723,realtor,https://www.cian.ru/rent/flat/307661096/,Москва,rent,flat,7,9,1,31.0,80000,0,Арбат,Смоленская ,10,Киевская
+1,Александра Крупская,realtor,https://www.cian.ru/rent/flat/307589751/,Москва,rent,flat,5,8,1,34.0,60000,0,Раменки, Пудовкина,3,Киевская
+2,Анжелла Рыжкова,realtor,https://www.cian.ru/rent/flat/307505467/,Москва,rent,flat,9,9,1,35.0,120000,0,Хамовники, Плющиха,42,Киевская
+3,Ирина Кухтина,realtor,https://www.cian.ru/rent/flat/307359742/,Москва,rent,flat,6,9,1,38.0,90000,0,Дорогомилово,Большая Дорогомиловская ,16,Киевская
+4,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/306732424/,Москва,rent,flat,4,10,1,50.0,200000,0,Дорогомилово,Кутузовский проспект,12,Киевская
+5,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/306065056/,Москва,rent,flat,6,9,1,38.0,90000,0,Дорогомилово,Кутузовский проспект,9К1,Киевская
+6,ID 100088734,homeowner,https://www.cian.ru/rent/flat/305669677/,Москва,rent,flat,4,5,1,32.0,160000,0,Хамовники, Плющиха,18,Киевская
+7,ID 165532,realtor,https://www.cian.ru/rent/flat/305491967/,Москва,rent,flat,4,9,1,45.0,99000,0,Хамовники, Плющиха,42,Киевская
+8,Мой Дом - отделение Добрынинское,real_estate_agent,https://www.cian.ru/rent/flat/307414036/,Москва,rent,flat,4,6,2,54.0,90000,0,Дорогомилово,Кутузовский проспект,24,Москва-Сити
+9,Олег Кочнев,realtor,https://www.cian.ru/rent/flat/306897340/,Москва,rent,flat,3,12,2,53.0,145000,0,Хамовники,Большая Пироговская ,53-55,Спортивная
+10,Maroom,real_estate_agent,https://www.cian.ru/rent/flat/307062999/,Москва,rent,flat,8,14,1,35.5,88000,0,Хамовники,Малая Пироговская ,27К1,Спортивная
+11,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307537332/,Москва,rent,flat,2,4,1,35.0,110000,0,Тверской,Малый Гнездниковский переулок,10,Тверская
+12,ID 23956980,realtor,https://www.cian.ru/rent/flat/307625261/,Москва,rent,flat,1,5,1,33.0,65000,0,Якиманка,2-й Добрынинский переулок,5/9,Добрынинская
+13,Вартан Вартанян,realtor,https://www.cian.ru/rent/flat/307525401/,Москва,rent,flat,12,12,2,49.0,100000,0,Арбат,Староконюшенный переулок,30,Кропоткинская
+14,ID 16276255,unknown,https://www.cian.ru/rent/flat/307538535/,Москва,rent,flat,3,4,1,45.0,128000,0,Басманный,Старосадский переулок,10С1,Китай-город
+15,ID 24419,real_estate_agent,https://www.cian.ru/rent/flat/307470965/,Москва,rent,flat,4,8,2,46.0,150000,0,Хамовники,переулок Сивцев Вражек,15/25,Кропоткинская
+16,Диана Товт,realtor,https://www.cian.ru/rent/flat/306948289/,Москва,rent,flat,8,8,2,60.1,100000,0,Дорогомилово,Кутузовский проспект,33,Кутузовская
+17,Надежда  Новикова,realtor,https://www.cian.ru/rent/flat/307606878/,Москва,rent,flat,4,7,1,36.0,105000,0,Пресненский, Красная Пресня,9,Краснопресненская
+18,ID 104761392,homeowner,https://www.cian.ru/rent/flat/289350318/,Москва,rent,flat,4,5,2,31.0,95000,0,Пресненский,Мантулинская ,20,Улица 1905 года
+19,ID 44635371,homeowner,https://www.cian.ru/rent/flat/293542836/,Москва,rent,flat,3,8,2,57.0,140000,0,Хамовники, Хамовнический Вал,28,Спортивная
+20,Игорь Марин,realtor,https://www.cian.ru/rent/flat/294415811/,Москва,rent,flat,6,10,2,72.0,95000,0,Дорогомилово,набережная Тараса Шевченко,3К3,Киевская
+21,Эльмар Бабаев,realtor,https://www.cian.ru/rent/flat/296307057/,Москва,rent,flat,2,5,2,60.0,73000,0,Пресненский,2-й Красногвардейский проезд,6В,Москва-Сити
+22,Этажи Москва,real_estate_agent,https://www.cian.ru/rent/flat/307115734/,Москва,rent,flat,7,24,1,33.8,95000,0,Арбат, Новый Арбат,6,Арбатская
+23,ID 20606879,realtor,https://www.cian.ru/rent/flat/307609475/,Москва,rent,flat,4,10,2,45.0,120000,0,Арбат,1-й Смоленский переулок,24,Киевская
+24,Дипломат,real_estate_agent,https://www.cian.ru/rent/flat/307131445/,Москва,rent,flat,6,6,2,52.0,130000,0,Пресненский,Большой Патриарший переулок,10,Маяковская

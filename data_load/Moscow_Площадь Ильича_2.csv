@@ -1,0 +1,54 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Паскаль,real_estate_agent,https://www.cian.ru/rent/flat/307740635/,Москва,rent,flat,8,8,2,62.0,95000,0,Таганский,Нижегородская ,32С15,Площадь Ильича
+1,ID 429227,realtor,https://www.cian.ru/rent/flat/307738622/,Москва,rent,flat,3,6,2,60.0,110000,0,Таганский, Талалихина,2/1К6,Площадь Ильича
+2,ID 11266169,homeowner,https://www.cian.ru/rent/flat/307728046/,Москва,rent,flat,6,13,2,60.2,150000,0,Лефортово,проезд Шелихова,3,Площадь Ильича
+3,Евгений Лаблюк,realtor,https://www.cian.ru/rent/flat/307727008/,Москва,rent,flat,19,25,2,66.0,135000,0,Таганский,Новорогожская ,20,Площадь Ильича
+4,Марина Кор,realtor,https://www.cian.ru/rent/flat/307724297/,Москва,rent,flat,16,25,2,67.0,120000,0,Таганский,Новорогожская ,28,Площадь Ильича
+5,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307703130/,Москва,rent,flat,6,13,2,61.0,150000,0,Лефортово,проезд Шелихова,3,Площадь Ильича
+6,Ярослав Бибиков,realtor,https://www.cian.ru/rent/flat/307701641/,Москва,rent,flat,6,13,2,60.5,150000,0,Лефортово,проезд Шелихова,3,Площадь Ильича
+7,YEVA Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307683026/,Москва,rent,flat,6,16,2,50.0,150000,0,Лефортово,Золоторожский проезд,3,Площадь Ильича
+8,BOND недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/307677240/,Москва,rent,flat,6,13,2,60.0,150000,0,Лефортово,проезд Шелихова,3,Площадь Ильича
+9,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307671286/,Москва,rent,flat,6,13,2,60.5,150000,0,Лефортово,проезд Шелихова,3,Площадь Ильича
+10,Мой Дом - отделение Добрынинское,real_estate_agent,https://www.cian.ru/rent/flat/307666825/,Москва,rent,flat,10,24,2,60.0,75000,0,Лефортово,проезд Шелихова,9к1,Площадь Ильича
+11,Центр Недвижимости плюс,real_estate_agent,https://www.cian.ru/rent/flat/307662918/,Москва,rent,flat,5,17,2,60.0,100000,0,Лефортово,проезд Шелихова,9к1,Площадь Ильича
+12,Светлана Кириллова,realtor,https://www.cian.ru/rent/flat/307638387/,Москва,rent,flat,12,16,2,70.3,145000,0,Лефортово,Золоторожский проезд,3,Площадь Ильича
+13,Владимир Щучкин,realtor,https://www.cian.ru/rent/flat/307636243/,Москва,rent,flat,5,12,2,50.9,100000,0,Таганский,Библиотечная ,6,Площадь Ильича
+14,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307582405/,Москва,rent,flat,8,13,2,58.0,150000,0,Лефортово,шоссе Энтузиастов,3к2,Площадь Ильича
+15,ID 11356763,realtor,https://www.cian.ru/rent/flat/307575113/,Москва,rent,flat,10,16,2,51.0,75000,0,Лефортово,Самокатная ,6К1,Площадь Ильича
+16,Las Vegas,real_estate_agent,https://www.cian.ru/rent/flat/307567076/,Москва,rent,flat,5,12,2,58.0,143000,0,Таганский,Большая Андроньевская ,20,Площадь Ильича
+17,Александр Афанасьев,realtor,https://www.cian.ru/rent/flat/307545415/,Москва,rent,flat,12,17,2,51.6,75000,0,Таганский,Международная ,34,Площадь Ильича
+18,ID 13257923,unknown,https://www.cian.ru/rent/flat/307500456/,Москва,rent,flat,10,16,2,55.0,85000,0,Лефортово,Волочаевская ,10,Площадь Ильича
+19,YU HOME,real_estate_agent,https://www.cian.ru/rent/flat/307479587/,Москва,rent,flat,10,16,2,52.0,85000,0,Лефортово,Волочаевская ,18,Площадь Ильича
+20,Азбука Жилья,real_estate_agent,https://www.cian.ru/rent/flat/307458903/,Москва,rent,flat,4,7,2,49.0,85000,0,Таганский, Талалихина,6-8/2С3,Площадь Ильича
+21,Гранд Плюс,real_estate_agent,https://www.cian.ru/rent/flat/307450875/,Москва,rent,flat,5,17,2,57.9,163000,0,Лефортово,проезд Шелихова,3,Площадь Ильича
+22,Мария Гладкевич,realtor,https://www.cian.ru/rent/flat/307446565/,Москва,rent,flat,8,14,2,41.0,100000,0,Лефортово,проезд Шелихова,3,Площадь Ильича
+23,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307414062/,Москва,rent,flat,5,17,2,59.0,100000,0,Лефортово,проезд Шелихова,9к1,Площадь Ильича
+24,EstateLiga,real_estate_agent,https://www.cian.ru/rent/flat/307386838/,Москва,rent,flat,2,8,2,70.0,140000,0,Лефортово,шоссе Энтузиастов,1к1,Площадь Ильича
+25,ЛИДЕРЛЭНД,real_estate_agent,https://www.cian.ru/rent/flat/307361680/,Москва,rent,flat,7,17,2,58.0,80000,0,Таганский,Рабочая ,37,Площадь Ильича
+26,Квартирный центр,real_estate_agent,https://www.cian.ru/rent/flat/307304135/,Москва,rent,flat,22,26,2,60.0,106000,0,Лефортово,проезд Шелихова,9к1,Площадь Ильича
+27,НейроДВИЖимость,real_estate_agent,https://www.cian.ru/rent/flat/307191404/,Москва,rent,flat,1,9,2,47.0,80000,0,Таганский,Николоямская ,43К4,Площадь Ильича
+28,Владис,real_estate_agent,https://www.cian.ru/rent/flat/307154266/,Москва,rent,flat,7,14,2,48.0,110000,0,Лефортово,шоссе Энтузиастов,3к2,Площадь Ильича
+29,ДБЭСТ,real_estate_agent,https://www.cian.ru/rent/flat/307083690/,Москва,rent,flat,11,20,2,75.0,200000,0,Таганский, Талалихина,8,Площадь Ильича
+30,ID 1122400,realtor,https://www.cian.ru/rent/flat/306977879/,Москва,rent,flat,15,21,2,52.0,145000,0,Лефортово, Крузенштерна,6,Площадь Ильича
+31,Град-эстейт,real_estate_agent,https://www.cian.ru/rent/flat/306940774/,Москва,rent,flat,10,17,2,57.7,80000,0,Лефортово,проезд Шелихова,9к1,Площадь Ильича
+32,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/306063821/,Москва,rent,flat,10,16,2,52.0,85000,0,Лефортово,Волочаевская ,18,Площадь Ильича
+33,Penny Lane Moscow,real_estate_agent,https://www.cian.ru/rent/flat/306060892/,Москва,rent,flat,2,6,2,70.0,269000,0,Таганский, Станиславского,11,Площадь Ильича
+34,Павел Минеев,realtor,https://www.cian.ru/rent/flat/305862928/,Москва,rent,flat,5,6,2,64.6,90000,0,Таганский,Абельмановская ,3,Площадь Ильича
+35,Любовь Черемисина,realtor,https://www.cian.ru/rent/flat/305811486/,Москва,rent,flat,12,12,2,50.0,140000,0,Лефортово,шоссе Энтузиастов,1к2,Площадь Ильича
+36,OXE CAPITAL - Элитная Недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/304069901/,Москва,rent,flat,2,6,2,70.0,257000,0,Таганский, Станиславского,11,Площадь Ильича
+37,Selenahome,real_estate_agent,https://www.cian.ru/rent/flat/303882171/,Москва,rent,flat,2,6,2,70.0,278760,0,Таганский, Станиславского,11,Площадь Ильича
+38,Point Estate Город,real_estate_agent,https://www.cian.ru/rent/flat/303871888/,Москва,rent,flat,2,6,2,70.0,278760,0,Таганский, Станиславского,11,Площадь Ильича
+39,ID 19016049,homeowner,https://www.cian.ru/rent/flat/300769792/,Москва,rent,flat,3,14,2,63.0,85000,0,Лефортово,Шепелюгинская ,16А,Площадь Ильича
+40,Кирилл Гапов,realtor,https://www.cian.ru/rent/flat/300464902/,Москва,rent,flat,3,6,2,61.1,170000,0,Таганский, Станиславского,11,Площадь Ильича
+41,ID 101151122,unknown,https://www.cian.ru/rent/flat/297187196/,Москва,rent,flat,12,17,2,53.0,55000,0,Таганский,переулок Ковров,26С1,Площадь Ильича
+42,NF Group - ex-Knight Frank,real_estate_agent,https://www.cian.ru/rent/flat/295708906/,Москва,rent,flat,2,6,2,70.0,278586,0,Таганский, Станиславского,11,Площадь Ильича
+43,Delight Realty,real_estate_agent,https://www.cian.ru/rent/flat/293656411/,Москва,rent,flat,2,6,2,70.0,278760,0,Таганский, Станиславского,11,Площадь Ильича
+44,Trust Realty,real_estate_agent,https://www.cian.ru/rent/flat/289425687/,Москва,rent,flat,2,6,2,73.0,278760,0,Таганский, Станиславского,11,Площадь Ильича
+45,Intermark Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/288377682/,Москва,rent,flat,2,6,2,70.0,278760,0,Таганский, Станиславского,11,Площадь Ильича
+46,Chase R.E.S.,real_estate_agent,https://www.cian.ru/rent/flat/284803831/,Москва,rent,flat,2,5,2,70.0,278760,0,Таганский, Станиславского,11,Площадь Ильича
+47,ID 13342354,unknown,https://www.cian.ru/rent/flat/279975439/,Москва,rent,flat,10,14,2,58.0,150000,0,Лефортово,шоссе Энтузиастов,3к2,Площадь Ильича
+48,ID 62510879,realtor,https://www.cian.ru/rent/flat/273123954/,Москва,rent,flat,4,14,2,40.0,57000,0,Таганский,Брошевский переулок,4,Площадь Ильича
+49,Ариэл,real_estate_agent,https://www.cian.ru/rent/flat/263096068/,Москва,rent,flat,2,14,2,54.0,110000,0,Лефортово,шоссе Энтузиастов,3к2,Площадь Ильича
+50,АКРУС-сити,real_estate_agent,https://www.cian.ru/rent/flat/307295604/,Москва,rent,flat,8,8,2,58.0,60000,0,Южнопортовый,Новоостаповская ,6,Дубровка
+51,ID 85745033,homeowner,https://www.cian.ru/rent/flat/270709183/,Москва,rent,flat,13,16,2,50.9,50000,0,Нижегородский,Смирновская ,5,Калитники
+52,Юлия Паниотова,realtor,https://www.cian.ru/rent/flat/292701750/,Москва,rent,flat,5,8,3,90.5,155000,0,Таганский,Котельническая набережная,25к2,Таганская

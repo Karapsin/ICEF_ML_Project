@@ -1,0 +1,29 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Адельфа,real_estate_agent,https://www.cian.ru/rent/flat/307721245/,Москва,rent,flat,3,15,2,53.0,85000,0,Савеловский,4-й Вятский переулок,18К2,Дмитровская
+1,Алексей Мальцев,realtor,https://www.cian.ru/rent/flat/307720051/,Москва,rent,flat,5,5,2,45.0,75000,0,Тимирязевский,Тимирязевская ,20К2,Дмитровская
+2,Игорь Кристев,realtor,https://www.cian.ru/rent/flat/307716758/,Москва,rent,flat,20,49,2,66.0,150000,0,Бутырский,Новодмитровская ,2к7,Дмитровская
+3,GardenGoldRealty,real_estate_agent,https://www.cian.ru/rent/flat/307708138/,Москва,rent,flat,8,16,2,51.0,100000,0,Савеловский,Башиловская ,23К3,Дмитровская
+4,Новый дом,real_estate_agent,https://www.cian.ru/rent/flat/307705773/,Москва,rent,flat,2,12,2,50.0,78000,0,Тимирязевский,Тимирязевская ,17А,Дмитровская
+5,ID 102783120,homeowner,https://www.cian.ru/rent/flat/307680502/,Москва,rent,flat,3,14,2,53.0,85000,0,Савеловский,4-й Вятский переулок,18К2,Дмитровская
+6,Самолет Плюс,real_estate_agent,https://www.cian.ru/rent/flat/307677206/,Москва,rent,flat,5,5,2,43.4,60000,0,Тимирязевский,Астрадамская ,7А,Дмитровская
+7,CENTURY 21 RnB Estate,real_estate_agent,https://www.cian.ru/rent/flat/307659484/,Москва,rent,flat,4,5,2,54.0,100000,0,Савеловский, Юннатов,17К2,Дмитровская
+8,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307651324/,Москва,rent,flat,4,5,2,54.0,100000,0,Савеловский, Юннатов,17К2,Дмитровская
+9,Тимур Гарипов,realtor,https://www.cian.ru/rent/flat/307651110/,Москва,rent,flat,1,5,2,46.0,70000,0,Тимирязевский,Астрадамский проезд,1,Дмитровская
+10,RENT_BAND,real_estate_agent,https://www.cian.ru/rent/flat/307629650/,Москва,rent,flat,5,12,2,75.0,130000,0,Савеловский,4-й Вятский переулок,18К4,Дмитровская
+11,Юлия Лапина,realtor,https://www.cian.ru/rent/flat/307575782/,Москва,rent,flat,1,5,2,44.0,75000,0,Тимирязевский,Астрадамская ,5А,Дмитровская
+12,ID 327703,realtor,https://www.cian.ru/rent/flat/307562860/,Москва,rent,flat,11,14,2,64.0,85000,0,Савеловский,4-й Вятский переулок,18К2,Дмитровская
+13,ID 6679,realtor,https://www.cian.ru/rent/flat/307531416/,Москва,rent,flat,5,9,2,60.0,70000,0,Тимирязевский,Астрадамская ,4,Дмитровская
+14,Las Vegas,real_estate_agent,https://www.cian.ru/rent/flat/307521231/,Москва,rent,flat,52,58,2,45.0,130000,0,Тимирязевский,Дмитровский проезд,1,Дмитровская
+15,Ольга Черняева,realtor,https://www.cian.ru/rent/flat/307475534/,Москва,rent,flat,25,47,2,55.0,160000,0,Бутырский,Новодмитровская ,2к5,Дмитровская
+16,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307446991/,Москва,rent,flat,8,16,2,51.0,95000,0,Савеловский,Башиловская ,23К3,Дмитровская
+17,Сергей Музыченко,realtor,https://www.cian.ru/rent/flat/307402489/,Москва,rent,flat,21,27,2,90.0,170000,0,Тимирязевский,Дмитровское шоссе,13,Дмитровская
+18,ID 107281301,real_estate_agent,https://www.cian.ru/rent/flat/307397803/,Москва,rent,flat,26,49,2,65.0,140000,0,Бутырский,Новодмитровская ,2к7,Дмитровская
+19,ID 33907539,realtor,https://www.cian.ru/rent/flat/307307337/,Москва,rent,flat,34,38,2,40.0,130000,0,Бутырский,Новодмитровская ,2к1А,Дмитровская
+20,Суламит-НГС,real_estate_agent,https://www.cian.ru/rent/flat/307303201/,Москва,rent,flat,1,5,2,43.0,75000,0,Тимирязевский,Астрадамская ,5А,Дмитровская
+21,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307250162/,Москва,rent,flat,38,59,2,66.0,191000,0,Тимирязевский,Дмитровский проезд,1,Дмитровская
+22,Миэль. Офис на Войковской,real_estate_agent,https://www.cian.ru/rent/flat/307155792/,Москва,rent,flat,10,12,2,45.6,65000,0,Савеловский, Юннатов,14,Дмитровская
+23,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307128072/,Москва,rent,flat,17,58,2,65.0,220000,0,Тимирязевский,Дмитровский проезд,1,Дмитровская
+24,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307124613/,Москва,rent,flat,19,20,2,62.0,170000,0,Бутырский,Новодмитровская ,2к4,Дмитровская
+25,ID 56884653,homeowner,https://www.cian.ru/rent/flat/307087122/,Москва,rent,flat,19,20,2,61.0,170000,0,Бутырский,Новодмитровская ,2к4,Дмитровская
+26,Vmestate,real_estate_agent,https://www.cian.ru/rent/flat/306974311/,Москва,rent,flat,7,9,2,45.0,75000,0,Савеловский,4-й Вятский переулок,23,Дмитровская
+27,ID 114981397,homeowner,https://www.cian.ru/rent/flat/306912451/,Москва,rent,flat,1,5,2,48.0,70000,0,Бутырский,проезд Добролюбова,5А,Дмитровская

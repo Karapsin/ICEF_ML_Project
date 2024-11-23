@@ -1,0 +1,30 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Андрей Степнов,realtor,https://www.cian.ru/rent/flat/307743399/,Москва,rent,flat,15,17,1,36.5,36000,0,,проезд Чечерский,126,Улица Горчакова
+1,Ирина Кострикина,realtor,https://www.cian.ru/rent/flat/307737184/,Москва,rent,flat,3,13,1,41.0,45000,0,Южное Бутово,проезд Чечерский,56к1,Улица Горчакова
+2,Елена Соколова,realtor,https://www.cian.ru/rent/flat/307726923/,Москва,rent,flat,2,14,1,37.8,55000,0,Южное Бутово,Бартеневская ,49,Улица Горчакова
+3,АВАНГАРД,real_estate_agent,https://www.cian.ru/rent/flat/307712652/,Москва,rent,flat,1,3,1,40.0,35000,0,,,88,Улица Горчакова
+4,Юлия Куликова,realtor,https://www.cian.ru/rent/flat/307700152/,Москва,rent,flat,2,12,1,39.0,50000,0,Южное Бутово,проезд Чечерский,24к1,Улица Горчакова
+5,ID 99096924,unknown,https://www.cian.ru/rent/flat/307676173/,Москва,rent,flat,6,6,1,41.0,50000,0,Южное Бутово,проезд Чечерский,4,Улица Горчакова
+6,Павел Шмарин,realtor,https://www.cian.ru/rent/flat/307661523/,Москва,rent,flat,13,18,1,34.0,55000,0,, Александры Монаховой,90к5,Улица Горчакова
+7,Анна Проскурина,realtor,https://www.cian.ru/rent/flat/307650221/,Москва,rent,flat,5,10,1,35.0,45000,0,Южное Бутово,Южнобутовская ,25К1,Улица Горчакова
+8,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307634073/,Москва,rent,flat,6,24,1,20.0,55000,0,Южное Бутово,Бартеневская ,18к2,Улица Горчакова
+9,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307618571/,Москва,rent,flat,15,18,1,35.0,65000,0,, Александры Монаховой,89к1,Улица Горчакова
+10,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307606898/,Москва,rent,flat,6,23,1,20.0,55000,0,Южное Бутово,Бартеневская ,18к2,Улица Горчакова
+11,7 ключей,real_estate_agent,https://www.cian.ru/rent/flat/307574925/,Москва,rent,flat,11,17,1,40.0,65000,0,Южное Бутово,бульвар Адмирала Ушакова,18,Улица Горчакова
+12,Хозяин Сервис,real_estate_agent,https://www.cian.ru/rent/flat/307570034/,Москва,rent,flat,13,17,1,42.0,40000,0,,проезд Чечерский,136,Улица Горчакова
+13,ID 54163777,unknown,https://www.cian.ru/rent/flat/307252162/,Москва,rent,flat,12,18,1,36.0,65000,0,, Александры Монаховой,89к1,Улица Горчакова
+14,ID 79840960,unknown,https://www.cian.ru/rent/flat/307248050/,Москва,rent,flat,5,9,1,42.0,65000,0,Южное Бутово, Адмирала Лазарева,38,Улица Горчакова
+15,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307232114/,Москва,rent,flat,5,16,1,32.0,52500,0,,проспект Куприна,30к9,Улица Горчакова
+16,EMPIRE HOME,real_estate_agent,https://www.cian.ru/rent/flat/307094361/,Москва,rent,flat,1,9,1,41.1,50000,0,,проспект Куприна,32к1,Улица Горчакова
+17,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/306972778/,Москва,rent,flat,11,17,1,39.0,43000,0,,проезд Чечерский,126к1,Улица Горчакова
+18,Домклик Аренда,real_estate_agent,https://www.cian.ru/rent/flat/306941363/,Москва,rent,flat,1,4,1,36.1,62000,0,, Потаповская Роща,4к1,Улица Горчакова
+19,ID 25799325,realtor,https://www.cian.ru/rent/flat/306561878/,Москва,rent,flat,1,3,1,19.0,45000,0,Южное Бутово,проезд Чечерский,вл5А,Улица Горчакова
+20,Ольга Власова,realtor,https://www.cian.ru/rent/flat/305834612/,Москва,rent,flat,3,12,1,35.8,55000,0,Южное Бутово,Южнобутовская ,101,Улица Горчакова
+21,ЭКСПРЕСС Недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/302342336/,Москва,rent,flat,2,9,1,40.0,40000,0,Южное Бутово,Южнобутовская ,84К1,Улица Горчакова
+22,Евгений Тогобицкий,realtor,https://www.cian.ru/rent/flat/301953108/,Москва,rent,flat,3,12,1,38.0,50000,0,Южное Бутово,Южнобутовская ,101,Улица Горчакова
+23,ID 99994280,homeowner,https://www.cian.ru/rent/flat/284704425/,Москва,rent,flat,13,24,1,40.2,62000,0,Южное Бутово, Адмирала Лазарева,63к2,Улица Горчакова
+24,Светлана Шор,realtor,https://www.cian.ru/rent/flat/283220322/,Москва,rent,flat,2,17,1,38.0,47000,0,Южное Бутово,Веневская ,7,Улица Горчакова
+25,ID 12872704,realtor,https://www.cian.ru/rent/flat/225612123/,Москва,rent,flat,3,14,1,40.0,47000,0,Южное Бутово, Академика Понтрягина,11,Улица Горчакова
+26,ID 13505910,homeowner,https://www.cian.ru/rent/flat/304649780/,Москва,rent,flat,7,9,1,33.0,50000,0,Ясенево,Голубинская ,25К2,Ясенево
+27,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307664781/,Москва,rent,flat,10,17,1,39.0,35000,0,Северное Бутово,бульвар Дмитрия Донского,9К3,Бульвар Дмитрия Донского
+28,Тимур Илалов,realtor,https://www.cian.ru/rent/flat/307595360/,Москва,rent,flat,6,17,1,30.0,50000,0,, Эдварда Грига,16к1,Потапово

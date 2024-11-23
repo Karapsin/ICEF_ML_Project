@@ -1,0 +1,29 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Анна Романова,realtor,https://www.cian.ru/rent/flat/307713324/,Москва,rent,flat,1,9,2,45.0,60000,0,Вешняки, Старый Гай,1К3,Новогиреево
+1,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307706968/,Москва,rent,flat,11,17,2,65.0,65000,0,Новокосино,Салтыковская ,39,Новогиреево
+2,ID 99570436,unknown,https://www.cian.ru/rent/flat/307706804/,Москва,rent,flat,13,14,2,50.0,65000,0,Новокосино,Суздальская ,12К5,Новогиреево
+3,Егор Россихин,realtor,https://reutov.cian.ru/rent/flat/307706720/,Москва,rent,flat,25,25,2,70.0,60000,0,, Некрасова,17,Новогиреево
+4,ID 10892603,realtor,https://www.cian.ru/rent/flat/307703146/,Москва,rent,flat,5,9,2,47.0,55000,0,Ивановское, Сталеваров,12К2,Новогиреево
+5,Артем Косяков,realtor,https://www.cian.ru/rent/flat/307660458/,Москва,rent,flat,1,5,2,44.7,50000,0,Перово,Зеленый проспект,55,Новогиреево
+6,Горизонт,real_estate_agent,https://www.cian.ru/rent/flat/307652537/,Москва,rent,flat,6,9,2,46.0,60000,0,Ивановское,Напольный проезд,12,Новогиреево
+7,ID 69271061,unknown,https://www.cian.ru/rent/flat/307652098/,Москва,rent,flat,16,16,2,55.0,65000,0,Ивановское,Саянская ,4,Новогиреево
+8,Столичный Проспект,real_estate_agent,https://www.cian.ru/rent/flat/307644089/,Москва,rent,flat,1,9,2,46.0,62000,0,Вешняки,Вешняковская ,27К1,Новогиреево
+9,ID 118024453,homeowner,https://www.cian.ru/rent/flat/307640512/,Москва,rent,flat,2,16,2,54.0,43000,0,Ивановское,Малый Купавенский проезд,3,Новогиреево
+10,i-deal,real_estate_agent,https://www.cian.ru/rent/flat/307636594/,Москва,rent,flat,4,12,2,45.0,54000,0,Новогиреево,Союзный проспект,9К2,Новогиреево
+11,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307627735/,Москва,rent,flat,7,9,2,47.0,80000,0,Новогиреево,Свободный проспект,37/18,Новогиреево
+12,ID 4826,realtor,https://www.cian.ru/rent/flat/307626740/,Москва,rent,flat,12,14,2,38.0,60000,0,Новогиреево,Фрязевская ,15К1,Новогиреево
+13,Андрей Иванов,realtor,https://www.cian.ru/rent/flat/307625055/,Москва,rent,flat,9,14,2,50.0,45000,0,Вешняки,Кетчерская ,2К3,Новогиреево
+14,ID 82493089,unknown,https://www.cian.ru/rent/flat/307622198/,Москва,rent,flat,7,9,2,43.0,60000,0,Новогиреево,Зеленый проспект,60/35,Новогиреево
+15,Про Жильё,real_estate_agent,https://reutov.cian.ru/rent/flat/307612475/,Москва,rent,flat,5,17,2,60.0,75000,0,,Молодежная ,1,Новогиреево
+16,ЦАН,real_estate_agent,https://reutov.cian.ru/rent/flat/307606042/,Москва,rent,flat,5,17,2,57.0,75000,0,,Молодежная ,1,Новогиреево
+17,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307604715/,Москва,rent,flat,5,12,2,60.0,85000,0,Новогиреево,Перовская ,66к6,Новогиреево
+18,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307604617/,Москва,rent,flat,7,16,2,62.0,85000,0,Новогиреево,Перовская ,66к6,Новогиреево
+19,For COMFORT,real_estate_agent,https://www.cian.ru/rent/flat/307604167/,Москва,rent,flat,7,12,2,64.0,85000,0,Новогиреево,Перовская ,66к6,Новогиреево
+20,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307602528/,Москва,rent,flat,7,16,2,65.0,80000,0,Новогиреево,Перовская ,66к6,Новогиреево
+21,ID 16191691,realtor,https://reutov.cian.ru/rent/flat/307602065/,Москва,rent,flat,3,5,2,43.9,70000,0,,Комсомольская ,13,Новогиреево
+22,Юрий Иванов,realtor,https://www.cian.ru/rent/flat/307587904/,Москва,rent,flat,16,16,2,55.0,56000,0,Ивановское, Чечулина,6,Новогиреево
+23,Екатерина Овсянникова,realtor,https://www.cian.ru/rent/flat/307548329/,Москва,rent,flat,5,5,2,42.0,60000,0,Перово, Металлургов,46К1,Новогиреево
+24,Activ Realty,real_estate_agent,https://www.cian.ru/rent/flat/307548002/,Москва,rent,flat,3,12,2,52.5,70000,0,Ивановское,Челябинская ,3,Новогиреево
+25,ЕГСН Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307540033/,Москва,rent,flat,8,9,2,45.0,75000,0,Новогиреево,Зеленый проспект,64,Новогиреево
+26,Елена Матвеева,realtor,https://www.cian.ru/rent/flat/307507930/,Москва,rent,flat,1,9,2,52.0,55000,0,Вешняки, Старый Гай,10,Новогиреево
+27,ID 88729001,realtor,https://www.cian.ru/rent/flat/307493234/,Москва,rent,flat,2,5,2,45.0,55000,0,Ивановское,Зеленый проспект,93,Новогиреево

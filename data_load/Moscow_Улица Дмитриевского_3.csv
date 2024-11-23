@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,5 ЗВЁЗД,real_estate_agent,https://www.cian.ru/rent/flat/307781618/,Москва,rent,flat,4,12,3,75.0,110000,0,Косино-Ухтомский,Святоозерская ,18,Улица Дмитриевского
+1,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307745619/,Москва,rent,flat,2,22,3,80.0,75000,0,Некрасовка, Недорубова,7,Улица Дмитриевского
+2,Метрика,real_estate_agent,https://www.cian.ru/rent/flat/307724270/,Москва,rent,flat,13,18,3,76.0,55000,0,Некрасовка, Вертолетчиков,2Ак3,Улица Дмитриевского
+3,YU HOME,real_estate_agent,https://lyubertsy.cian.ru/rent/flat/307669832/,Москва,rent,flat,2,18,3,75.0,85000,0,, Дружбы,5к2,Улица Дмитриевского
+4,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307635017/,Москва,rent,flat,2,12,3,60.0,90000,0,Косино-Ухтомский,Святоозерская ,21,Улица Дмитриевского
+5,ID 122041839,homeowner,https://www.cian.ru/rent/flat/307626769/,Москва,rent,flat,15,22,3,51.0,149000,0,Косино-Ухтомский,Салтыковская ,6/2к1,Улица Дмитриевского
+6,ID 104272,unknown,https://www.cian.ru/rent/flat/307617017/,Москва,rent,flat,17,17,3,74.0,60000,0,Некрасовка, Лавриненко,11к1,Улица Дмитриевского
+7,Capital Mars,real_estate_agent,https://lyubertsy.cian.ru/rent/flat/307614812/,Москва,rent,flat,13,25,3,90.0,90000,0,, Юности,13к1,Улица Дмитриевского
+8,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307563858/,Москва,rent,flat,8,17,3,90.0,90000,0,Некрасовка, Липчанского,10,Улица Дмитриевского
+9,Дмитрий Корольков,realtor,https://www.cian.ru/rent/flat/307483232/,Москва,rent,flat,19,25,3,58.0,55000,0,Косино-Ухтомский,Салтыковская ,6/1к7,Улица Дмитриевского
+10,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307430164/,Москва,rent,flat,2,27,3,80.0,75000,0,Некрасовка, Недорубова,7,Улица Дмитриевского
+11,EMPIRE HOME,real_estate_agent,https://www.cian.ru/rent/flat/307399422/,Москва,rent,flat,15,22,3,78.0,70000,0,Некрасовка, Липчанского,7к1,Улица Дмитриевского
+12,ID 5922,realtor,https://lyubertsy.cian.ru/rent/flat/307229619/,Москва,rent,flat,6,17,3,76.1,90000,0,, Юности,11,Улица Дмитриевского
+13,Мой Дом - отделение Добрынинское,real_estate_agent,https://www.cian.ru/rent/flat/306894439/,Москва,rent,flat,5,17,3,78.0,75000,0,Косино-Ухтомский,Салтыковская ,6/1к5,Улица Дмитриевского
+14,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/306547113/,Москва,rent,flat,2,7,3,110.0,80000,0,Новокосино, Николая Старостина,5,Улица Дмитриевского
+15,ID 105450140,homeowner,https://lyubertsy.cian.ru/rent/flat/306123737/,Москва,rent,flat,2,17,3,78.6,60000,0,, Камова,5к2,Улица Дмитриевского
+16,ID 12457074,homeowner,https://lyubertsy.cian.ru/rent/flat/285754440/,Москва,rent,flat,13,25,3,90.0,90000,0,, Юности,13к1,Улица Дмитриевского
+17,ID 107229951,homeowner,https://www.cian.ru/rent/flat/307710921/,Москва,rent,flat,8,12,2,58.6,70000,0,Косино-Ухтомский,Святоозерская ,14,Улица Дмитриевского
+18,EMPIRE HOME,real_estate_agent,https://www.cian.ru/rent/flat/307584522/,Москва,rent,flat,9,9,3,60.0,60000,0,Ясенево,проезд Карамзина,1К3,Новоясеневская
+19,ID 41040929,homeowner,https://www.cian.ru/rent/flat/303044283/,Москва,rent,flat,10,14,3,59.3,60000,0,, Стожарова,5,Крёкшино
+20,ID 20284898,unknown,https://www.cian.ru/rent/flat/307697604/,Москва,rent,flat,10,12,3,62.7,55000,0,Бирюлево Восточное,Липецкая ,24К2,Царицыно
+21,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307633783/,Москва,rent,flat,5,17,1,45.0,50000,0,Некрасовка, Ухтомского Ополчения,8,Некрасовка
+22,ID 116799242,homeowner,https://www.cian.ru/rent/flat/302412435/,Москва,rent,flat,5,17,2,54.0,55000,0,Некрасовка,Покровская ,31,Улица Дмитриевского
+23,ID 74788133,homeowner,https://www.cian.ru/rent/flat/280504992/,Москва,rent,flat,5,9,3,65.0,75000,0,Теплый Стан,Профсоюзная ,156К3,Тёплый Стан
+24,MDco,real_estate_agent,https://www.cian.ru/rent/flat/307429622/,Москва,rent,flat,1,9,3,76.0,65000,0,Зябликово,Шипиловская ,41К1,Шипиловская

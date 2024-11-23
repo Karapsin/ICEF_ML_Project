@@ -1,0 +1,57 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Яндекс Аренда,real_estate_agent,https://vidnoye.cian.ru/rent/flat/307782366/,Москва,rent,flat,7,17,1,39.0,60000,0,Дрожжино рп, Южная,25,
+1,Мария Горичева,realtor,https://vidnoye.cian.ru/rent/flat/307776441/,Москва,rent,flat,5,26,1,38.9,40000,0,Дрожжино рп,шоссе Новое,2к3,
+2,ID 608,realtor,https://www.cian.ru/rent/flat/307775692/,Москва,rent,flat,6,17,1,42.0,45000,0,Южное Бутово, Маршала Савицкого,18к1,Щербинка
+3,Сергей Макаров,realtor,https://podolsk.cian.ru/rent/flat/307740417/,Москва,rent,flat,4,6,1,37.0,35000,0,, Симферопольская,4,Щербинка
+4,ID 84946977,homeowner,https://podolsk.cian.ru/rent/flat/307740151/,Москва,rent,flat,7,17,1,38.0,32000,0,,Юбилейная ,13а,Щербинка
+5,Павел Борисов,realtor,https://podolsk.cian.ru/rent/flat/307732301/,Москва,rent,flat,3,14,1,40.0,40000,0,,бульвар Бородинский,5,Щербинка
+6,Владимир Фетискин,realtor,https://www.cian.ru/rent/flat/307727988/,Москва,rent,flat,11,17,1,29.0,30000,0,, Барышевская Роща,12,Щербинка
+7,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307724158/,Москва,rent,flat,8,22,1,40.0,40000,0,, Барышевская Роща,18,Щербинка
+8,ГОРОБМЕН,real_estate_agent,https://podolsk.cian.ru/rent/flat/307724046/,Москва,rent,flat,1,9,1,33.0,35000,0,,Огородная ,3,Щербинка
+9,YU HOME,real_estate_agent,https://podolsk.cian.ru/rent/flat/307716170/,Москва,rent,flat,2,8,1,35.0,35000,0,д. Борисовка, Рахманинова,11,
+10,Виктор Возный,realtor,https://vidnoye.cian.ru/rent/flat/307704394/,Москва,rent,flat,21,24,1,33.0,35000,0,Дрожжино рп, Южная,25,
+11,PORTAL ESTATE,real_estate_agent,https://podolsk.cian.ru/rent/flat/307697969/,Москва,rent,flat,5,5,1,34.7,30000,0,, Ватутина,26/8,Щербинка
+12,ID 15939880,unknown,https://www.cian.ru/rent/flat/307677665/,Москва,rent,flat,3,5,1,28.0,30000,0,Южное Бутово, Типографская,14,Щербинка
+13,Самолет Плюс Москва,real_estate_agent,https://www.cian.ru/rent/flat/307674664/,Москва,rent,flat,2,14,1,32.8,50000,0,, Красовского,2к2,Щербинка
+14,Домклик Аренда,real_estate_agent,https://vidnoye.cian.ru/rent/flat/307668194/,Москва,rent,flat,2,19,1,39.6,54500,0,Дрожжино рп, Южная,19,
+15,Комфорт,real_estate_agent,https://vidnoye.cian.ru/rent/flat/307658989/,Москва,rent,flat,7,14,1,43.0,36000,0,Дрожжино рп, Южная,14,
+16,Александр Киреев,realtor,https://domodedovo.cian.ru/rent/flat/307650863/,Москва,rent,flat,10,17,1,40.0,30000,0,с. Домодедово,бульвар Строителей,3,
+17,ID 275415,realtor,https://www.cian.ru/rent/flat/307647260/,Москва,rent,flat,14,14,1,40.0,40000,0,Южное Бутово, Брусилова,7,Щербинка
+18,ID 62039935,unknown,https://vidnoye.cian.ru/rent/flat/307631723/,Москва,rent,flat,25,25,1,45.0,50000,0,Дрожжино рп,шоссе Новое,3к2,
+19,ГОРОБМЕН,real_estate_agent,https://vidnoye.cian.ru/rent/flat/307614367/,Москва,rent,flat,13,17,1,42.0,35000,0,Дрожжино рп,шоссе Новое,10к2,
+20,Екатерина Рылькова,realtor,https://www.cian.ru/rent/flat/307611734/,Москва,rent,flat,2,15,1,36.0,40000,0,, Логинова,7к2,Щербинка
+21,ID 95338,realtor,https://www.cian.ru/rent/flat/307606181/,Москва,rent,flat,8,17,1,40.4,40000,0,, Барышевская Роща,24,Щербинка
+22,Дмитрий Иванов,realtor,https://www.cian.ru/rent/flat/307604653/,Москва,rent,flat,7,10,1,36.0,40000,0,, Рабочая,9,Щербинка
+23,ПИК-Аренда,real_estate_agent,https://vidnoye.cian.ru/rent/flat/307588287/,Москва,rent,flat,13,25,1,40.1,50000,0,Дрожжино рп, Южная,9к1,
+24,Татьяна Кольцова,realtor,https://www.cian.ru/rent/flat/307571618/,Москва,rent,flat,2,5,1,35.0,35000,0,,,19,Щербинка
+25,Мой Дом - отделение Добрынинское,real_estate_agent,https://www.cian.ru/rent/flat/307570719/,Москва,rent,flat,16,17,1,40.0,35000,0,Южное Бутово, Маршала Савицкого,24к1,Щербинка
+26,БЕСТ на Проспекте Мира,real_estate_agent,https://domodedovo.cian.ru/rent/flat/307561068/,Москва,rent,flat,5,18,1,35.0,32000,0,с. Домодедово, Творчества,5,
+27,ID 114331413,homeowner,https://podolsk.cian.ru/rent/flat/307550564/,Москва,rent,flat,12,17,1,47.0,60000,0,,Народная ,23,Щербинка
+28,ПИК-Аренда,real_estate_agent,https://vidnoye.cian.ru/rent/flat/307546273/,Москва,rent,flat,4,25,1,38.7,44900,0,Дрожжино рп, Южная,9к3,
+29,Евгения Сауткина,realtor,https://podolsk.cian.ru/rent/flat/307531278/,Москва,rent,flat,4,17,1,46.0,46000,0,, Большая Серпуховская,14в,Щербинка
+30,ID 19425961,unknown,https://podolsk.cian.ru/rent/flat/307523567/,Москва,rent,flat,17,17,1,45.0,50000,0,,Юбилейная ,2а,Щербинка
+31,ID 93433616,unknown,https://vidnoye.cian.ru/rent/flat/307509037/,Москва,rent,flat,3,18,1,34.0,45000,0,Дрожжино рп,шоссе Новое,4,
+32,Анна Крапивина,realtor,https://www.cian.ru/rent/flat/307508415/,Москва,rent,flat,8,17,1,43.0,38000,0,Южное Бутово, Маршала Савицкого,16,Щербинка
+33,Светлана Кожевникова,realtor,https://podolsk.cian.ru/rent/flat/307492486/,Москва,rent,flat,1,2,1,16.0,20000,0,с. Покров, Заовражная,104,
+34,ID 369978,realtor,https://vidnoye.cian.ru/rent/flat/307424339/,Москва,rent,flat,11,15,1,40.0,53000,0,Дрожжино рп, Южная,16,
+35,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307407720/,Москва,rent,flat,4,14,1,40.0,60000,0,, Логинова,1к2,Щербинка
+36,Елена Гарбалы,realtor,https://podolsk.cian.ru/rent/flat/307352793/,Москва,rent,flat,2,5,1,30.0,40000,0,, Дружбы,36,Щербинка
+37,Вячеслав Куликов,realtor,https://vidnoye.cian.ru/rent/flat/307303115/,Москва,rent,flat,3,5,1,50.0,50000,0,,,,
+38,ID 51322758,unknown,https://www.cian.ru/rent/flat/307091553/,Москва,rent,flat,12,23,1,47.3,45000,0,, Барышевская Роща,18,Щербинка
+39,ID 13027652,realtor,https://vidnoye.cian.ru/rent/flat/307052914/,Москва,rent,flat,9,19,1,42.0,38000,0,Дрожжино рп, Южная,9,
+40,ID 6984952,realtor,https://podolsk.cian.ru/rent/flat/306849628/,Москва,rent,flat,2,15,1,38.0,35000,0,,Парадный проезд,12,Щербинка
+41,ID 120943111,homeowner,https://vidnoye.cian.ru/rent/flat/306661792/,Москва,rent,flat,13,18,1,33.7,30000,0,Дрожжино рп,шоссе Новое,4,
+42,ID 121087386,homeowner,https://domodedovo.cian.ru/rent/flat/306579095/,Москва,rent,flat,11,17,1,42.0,40000,0,, Текстильщиков,31,Щербинка
+43,Александр Лебедев,realtor,https://www.cian.ru/rent/flat/306393835/,Москва,rent,flat,4,14,1,42.0,40000,0,Южное Бутово, Маршала Савицкого,20к1,Щербинка
+44,ID 102746299,homeowner,https://vidnoye.cian.ru/rent/flat/304973062/,Москва,rent,flat,12,19,1,46.0,40000,0,,,,
+45,Виктория Колотовкина,realtor,https://podolsk.cian.ru/rent/flat/303093288/,Москва,rent,flat,14,17,1,43.1,39000,0,, Барамзиной,3к1,Щербинка
+46,Александр Иванов,realtor,https://vidnoye.cian.ru/rent/flat/299064331/,Москва,rent,flat,8,25,1,38.9,40000,0,Дрожжино рп, Южная,9к3,
+47,ID 101848152,homeowner,https://vidnoye.cian.ru/rent/flat/297851580/,Москва,rent,flat,7,14,1,38.0,40000,0,Дрожжино рп,шоссе Новое,13,
+48,ID 64359180,homeowner,https://www.cian.ru/rent/flat/296927726/,Москва,rent,flat,2,17,1,33.5,50000,0,Южное Бутово,Варшавское шоссе,282к1,Щербинка
+49,ID 13049711,real_estate_agent,https://podolsk.cian.ru/rent/flat/290191524/,Москва,rent,flat,5,17,1,48.0,45000,0,,Быковская ,6/1,Щербинка
+50,ID 73226238,homeowner,https://podolsk.cian.ru/rent/flat/289402376/,Москва,rent,flat,3,17,1,44.0,44000,0,, Веллинга,11,Щербинка
+51,ID 104430285,realtor,https://podolsk.cian.ru/rent/flat/288989826/,Москва,rent,flat,4,4,1,31.0,42000,0,,Пионерская ,16,Щербинка
+52,ID 12230898,realtor,https://www.cian.ru/rent/flat/287353738/,Москва,rent,flat,4,9,1,33.0,32999,0,,шоссе Остафьевское,14к1,Щербинка
+53,Ирина  Глазунова,realtor,https://domodedovo.cian.ru/rent/flat/284589376/,Москва,rent,flat,10,18,1,40.0,35000,0,с. Домодедово,бульвар Строителей,2,
+54,Дмитрий Шлык,realtor,https://vidnoye.cian.ru/rent/flat/283727416/,Москва,rent,flat,2,26,1,36.1,50000,0,Дрожжино рп, Южная,7,
+55,ID 19629440,homeowner,https://www.cian.ru/rent/flat/282022300/,Москва,rent,flat,5,14,1,29.03,50000,0,, Логинова,7к2,Щербинка

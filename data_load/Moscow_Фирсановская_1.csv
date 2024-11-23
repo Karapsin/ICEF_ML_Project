@@ -1,0 +1,29 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,ID 13650896,realtor,https://www.cian.ru/rent/flat/307783896/,Москва,rent,flat,7,15,1,41.0,30000,0,Крюково,проспект Георгиевский,к1934,Фирсановская
+1,Ольга Степнова,realtor,https://www.cian.ru/rent/flat/307781205/,Москва,rent,flat,7,12,1,36.0,30000,0,Савёлки,Зеленоград,к710,Фирсановская
+2,Владислав Уральский,realtor,https://www.cian.ru/rent/flat/307774320/,Москва,rent,flat,9,12,1,36.0,50000,0,Крюково,Зеленоград,к2003,Фирсановская
+3,ПИК-Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307746563/,Москва,rent,flat,21,25,1,31.5,34800,0,Крюково,проспект Георгиевский,27к1,Фирсановская
+4,ID 115910187,homeowner,https://www.cian.ru/rent/flat/307727580/,Москва,rent,flat,14,19,1,46.0,40000,0,, Андреевка,31А,Фирсановская
+5,ID 488395,unknown,https://solnechnogorsk.cian.ru/rent/flat/307727044/,Москва,rent,flat,10,17,1,38.0,25000,0,Андреевка рп, Староандреевская,43к2,
+6,ФЛЭТ Зеленоград,real_estate_agent,https://www.cian.ru/rent/flat/307721674/,Москва,rent,flat,4,14,1,41.0,33000,0,Силино,Зеленоград,к1132,Фирсановская
+7,ID 16899817,unknown,https://solnechnogorsk.cian.ru/rent/flat/307713433/,Москва,rent,flat,1,4,1,40.0,38000,0,,,,
+8,Никита Тимаков,realtor,https://solnechnogorsk.cian.ru/rent/flat/307712340/,Москва,rent,flat,14,19,1,44.7,40000,0,Андреевка рп, Староандреевская,43к3,
+9,LIFE ESTATE,real_estate_agent,https://khimki.cian.ru/rent/flat/307684540/,Москва,rent,flat,9,17,1,41.0,37000,0,, Ленинградская,1,Фирсановская
+10,ID 6764026,unknown,https://www.cian.ru/rent/flat/307659046/,Москва,rent,flat,12,14,1,38.0,42000,0,Савёлки,Зеленоград,к604,Фирсановская
+11,ДОМОФОН,real_estate_agent,https://khimki.cian.ru/rent/flat/307655491/,Москва,rent,flat,2,3,1,40.0,30000,0,,Горная ,25А,Фирсановская
+12,Классика,real_estate_agent,https://solnechnogorsk.cian.ru/rent/flat/307655032/,Москва,rent,flat,6,18,1,40.0,40000,0,д. Голубое,бульвар Парковый,5,
+13,Сергей Булыгин,realtor,https://www.cian.ru/rent/flat/307654560/,Москва,rent,flat,12,14,1,38.7,35000,0,Крюково,Зеленоград,к1423,Фирсановская
+14,Артем Дроздов,realtor,https://www.cian.ru/rent/flat/307653789/,Москва,rent,flat,19,25,1,40.0,50000,0,Крюково,проспект Георгиевский,27к2,Фирсановская
+15,Татьяна Кравчук,realtor,https://solnechnogorsk.cian.ru/rent/flat/307649390/,Москва,rent,flat,9,18,1,48.4,40000,0,д. Голубое,бульвар Парковый,2к3,
+16,ID 12649685,homeowner,https://khimki.cian.ru/rent/flat/307649075/,Москва,rent,flat,7,9,1,28.0,35000,0,,,,
+17,ID 77450421,unknown,https://www.cian.ru/rent/flat/307617576/,Москва,rent,flat,21,22,1,41.0,40000,0,Силино,Зеленоград,к1005,Фирсановская
+18,Ксения Волкова,realtor,https://solnechnogorsk.cian.ru/rent/flat/307609794/,Москва,rent,flat,5,17,1,33.1,33000,0,Андреевка рп, Староандреевская,43к2,
+19,ID 77450421,unknown,https://www.cian.ru/rent/flat/307593039/,Москва,rent,flat,3,12,1,38.0,37000,0,Крюково,Зеленоград,,Фирсановская
+20,ID 17133740,realtor,https://www.cian.ru/rent/flat/307589741/,Москва,rent,flat,6,22,1,44.0,41000,0,Силино,Зеленоград,к1210,Фирсановская
+21,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://khimki.cian.ru/rent/flat/307584164/,Москва,rent,flat,9,14,1,35.0,40000,0,,,,
+22,ID 56555803,unknown,https://solnechnogorsk.cian.ru/rent/flat/307569423/,Москва,rent,flat,16,17,1,43.8,40000,0,д. Голубое,проезд Тверецкий,16к2,
+23,СТОЛИЦА Департамент недвижимости,real_estate_agent,https://www.cian.ru/rent/flat/307535822/,Москва,rent,flat,11,12,1,35.0,35000,0,Крюково,Зеленоград,к1409,Фирсановская
+24,ОХОТНЫЙ РЯД офис Тверская,real_estate_agent,https://khimki.cian.ru/rent/flat/307532809/,Москва,rent,flat,17,18,1,40.0,40000,0,,,,
+25,Анастасия Лебедева,realtor,https://solnechnogorsk.cian.ru/rent/flat/307531767/,Москва,rent,flat,11,18,1,35.7,33000,0,д. Голубое,проезд Зеленый,2,
+26,ID 8532,realtor,https://www.cian.ru/rent/flat/307515228/,Москва,rent,flat,19,25,1,32.0,45000,0,Крюково,проспект Георгиевский,27к1,Фирсановская
+27,ОГРК,real_estate_agent,https://www.cian.ru/rent/flat/307438033/,Москва,rent,flat,9,17,1,34.7,42000,0,Крюково,проспект Георгиевский,33к5,Фирсановская

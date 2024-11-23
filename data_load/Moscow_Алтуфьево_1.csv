@@ -1,0 +1,52 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,ID 91115377,realtor,https://mytishchi.cian.ru/rent/flat/307726504/,Москва,rent,flat,2,7,1,31.8,35000,0,,бульвар Тенистый,11,Алтуфьево
+1,АВАНГАРД,real_estate_agent,https://www.cian.ru/rent/flat/307721164/,Москва,rent,flat,6,16,1,38.0,40000,0,Бибирево, Лескова,17,Алтуфьево
+2,На Петровке,real_estate_agent,https://www.cian.ru/rent/flat/307715653/,Москва,rent,flat,7,16,1,36.0,55000,0,Алтуфьевский,Бибиревская ,7К2,Алтуфьево
+3,ID 61461449,homeowner,https://mytishchi.cian.ru/rent/flat/307713734/,Москва,rent,flat,15,17,1,31.0,39000,0,, Советская,3А,Алтуфьево
+4,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307704865/,Москва,rent,flat,3,9,1,35.0,60000,0,Алтуфьевский,проезд Черского,7,Алтуфьево
+5,ID 16652,realtor,https://www.cian.ru/rent/flat/307699203/,Москва,rent,flat,10,12,1,39.1,60000,0,Бибирево, Плещеева,18,Алтуфьево
+6,ID 47643263,realtor,https://www.cian.ru/rent/flat/307680098/,Москва,rent,flat,1,22,1,40.0,55000,0,Бибирево,Алтуфьевское шоссе,92,Алтуфьево
+7,ID 65681094,homeowner,https://mytishchi.cian.ru/rent/flat/307671244/,Москва,rent,flat,16,16,1,42.0,40000,0,, Сазонова,5,Алтуфьево
+8,Лабецкий Недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/307627386/,Москва,rent,flat,9,20,1,40.8,65000,0,Алтуфьевский,Бибиревская ,4А,Алтуфьево
+9,Анастасия Васильева,realtor,https://mytishchi.cian.ru/rent/flat/307602745/,Москва,rent,flat,6,6,1,30.0,37000,0,,бульвар Тенистый,3,Алтуфьево
+10,Виктория Геннадьевна Иванова,realtor,https://www.cian.ru/rent/flat/307585102/,Москва,rent,flat,1,12,1,39.0,70000,0,Бибирево,Мурановская ,21А,Алтуфьево
+11,ID 121837992,homeowner,https://mytishchi.cian.ru/rent/flat/307528014/,Москва,rent,flat,17,22,1,37.2,50000,0,Датский квартал ЖК, Полковника Романова,5,
+12,Корона,real_estate_agent,https://www.cian.ru/rent/flat/307502664/,Москва,rent,flat,14,16,1,37.0,55000,0,Лианозово,Череповецкая ,22,Алтуфьево
+13,ID 80263326,unknown,https://mytishchi.cian.ru/rent/flat/307495800/,Москва,rent,flat,3,7,1,32.3,33000,0,,бульвар Тенистый,6,Алтуфьево
+14,ПЕРСОНА,real_estate_agent,https://www.cian.ru/rent/flat/307464604/,Москва,rent,flat,10,22,1,40.0,60000,0,Бибирево,Алтуфьевское шоссе,92,Алтуфьево
+15,МИЭЛЬ,real_estate_agent,https://www.cian.ru/rent/flat/307385602/,Москва,rent,flat,1,16,1,36.0,47000,0,Бибирево,Белозерская ,17,Алтуфьево
+16,НейроДВИЖимость,real_estate_agent,https://mytishchi.cian.ru/rent/flat/307369190/,Москва,rent,flat,1,10,1,41.0,30000,0,д. Пирогово, Ильинского,7,
+17,Столичный Проспект,real_estate_agent,https://www.cian.ru/rent/flat/307336824/,Москва,rent,flat,8,12,1,42.0,45000,0,Лианозово,Абрамцевская ,18,Алтуфьево
+18,ID 20840374,homeowner,https://www.cian.ru/rent/flat/307268272/,Москва,rent,flat,1,9,1,39.0,65000,0,Бибирево, Коненкова,11В,Алтуфьево
+19,Татьяна Берестовская,realtor,https://www.cian.ru/rent/flat/307234925/,Москва,rent,flat,2,9,1,37.0,50000,0,Бибирево, Лескова,25,Алтуфьево
+20,ID 31430355,realtor,https://mytishchi.cian.ru/rent/flat/307228973/,Москва,rent,flat,8,10,1,40.0,37000,0,д. Пирогово, Ильинского,4к2,
+21,Александра Игнатьева,realtor,https://www.cian.ru/rent/flat/306962745/,Москва,rent,flat,6,8,1,38.0,75000,0,Бибирево, Корнейчука,27,Алтуфьево
+22,Александра  Демчук,realtor,https://mytishchi.cian.ru/rent/flat/306557498/,Москва,rent,flat,9,17,1,34.0,16000,0,, Советская,3А,Алтуфьево
+23,ID 60173454,realtor,https://www.cian.ru/rent/flat/306501314/,Москва,rent,flat,3,16,1,38.0,56000,0,Бибирево,Мелиховская ,4,Алтуфьево
+24,Евгений Тогобицкий,realtor,https://mytishchi.cian.ru/rent/flat/306494413/,Москва,rent,flat,3,10,1,30.0,35000,0,д. Пирогово, Ильинского,6,
+25,ID 43609576,unknown,https://mytishchi.cian.ru/rent/flat/306474217/,Москва,rent,flat,2,4,1,51.1,35000,0,д. Болтино, Баздырева,13,
+26,ID 11431813,realtor,https://mytishchi.cian.ru/rent/flat/301510604/,Москва,rent,flat,6,6,1,39.0,50000,0,,Осташковское шоссе,22к5,Алтуфьево
+27,Надежда Исаева,realtor,https://mytishchi.cian.ru/rent/flat/301113205/,Москва,rent,flat,4,7,1,38.0,42000,0,, Красная Слобода,13,Алтуфьево
+28,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://mytishchi.cian.ru/rent/flat/300226582/,Москва,rent,flat,8,9,1,50.0,50000,0,д. Пирогово, Ильинского,7,
+29,ID 7291,realtor,https://mytishchi.cian.ru/rent/flat/291367282/,Москва,rent,flat,1,7,1,36.2,40000,0,,Осташковское шоссе,22к1,Алтуфьево
+30,ID 534817,homeowner,https://mytishchi.cian.ru/rent/flat/277994273/,Москва,rent,flat,9,9,1,30.0,30000,0,д. Пирогово, Ильинского,9,
+31,ID 20180,realtor,https://www.cian.ru/rent/flat/249865417/,Москва,rent,flat,4,14,1,35.0,55000,0,Бибирево, Корнейчука,22,Алтуфьево
+32,ID 864,realtor,https://www.cian.ru/rent/flat/241759044/,Москва,rent,flat,5,12,1,39.0,40000,0,Лианозово,Новгородская ,34,Алтуфьево
+33,Инна Николаева,realtor,https://mytishchi.cian.ru/rent/flat/188981548/,Москва,rent,flat,4,7,1,40.0,40000,0,,Осташковское шоссе,22к1,Алтуфьево
+34,ID 106149920,unknown,https://mytishchi.cian.ru/rent/flat/307531436/,Москва,rent,flat,2,7,1,24.0,29990,0,,бульвар Тенистый,9,Медведково
+35,ИНГРУПП,real_estate_agent,https://mytishchi.cian.ru/rent/flat/307342203/,Москва,rent,flat,2,5,2,42.0,45000,0,,Новомытищинский проспект,80к5,Медведково
+36,Квартирный центр,real_estate_agent,https://mytishchi.cian.ru/rent/flat/296486871/,Москва,rent,flat,7,9,1,34.0,36000,0,,Олимпийский проспект,4,Медведково
+37,ID 13128969,unknown,https://korolev.cian.ru/rent/flat/307350356/,Москва,rent,flat,12,18,1,41.0,45000,0,,Советская ,47к4,Медведково
+38,ID 17350858,realtor,https://mytishchi.cian.ru/rent/flat/307506678/,Москва,rent,flat,8,25,1,42.0,40000,0,, Борисовка,28,Медведково
+39,Дмитрий Корольков,realtor,https://mytishchi.cian.ru/rent/flat/307438041/,Москва,rent,flat,6,9,1,32.0,35000,0,, Терешковой,21к2,Медведково
+40,Гермес Реалти,real_estate_agent,https://mytishchi.cian.ru/rent/flat/295028104/,Москва,rent,flat,4,12,1,30.0,35000,0,,переулок 1-й Стрелковый,1,Медведково
+41,Лиана Анкоси,realtor,https://mytishchi.cian.ru/rent/flat/286365696/,Москва,rent,flat,10,18,2,60.0,48000,0,,проспект Астрахова,2,Медведково
+42,ID 47015079,homeowner,https://mytishchi.cian.ru/rent/flat/295544679/,Москва,rent,flat,5,5,-1,19.0,5000,0,, Мира,13/11,Медведково
+43,ID 46088222,homeowner,https://mytishchi.cian.ru/rent/flat/300769848/,Москва,rent,flat,14,18,1,37.0,40000,0,,проспект Астрахова,14,Медведково
+44,ID 121976236,homeowner,https://mytishchi.cian.ru/rent/flat/307543510/,Москва,rent,flat,15,18,1,54.8,50000,0,,Летная ,21,Медведково
+45,ID 13716008,realtor,https://mytishchi.cian.ru/rent/flat/307351052/,Москва,rent,flat,15,18,1,30.0,40000,0,, Кедрина,1,Медведково
+46,ID 24871561,homeowner,https://mytishchi.cian.ru/rent/flat/307551625/,Москва,rent,flat,12,20,2,45.0,45000,0,,переулок 1-й Стрелковый,1,Медведково
+47,Ю-ТЕРРА,real_estate_agent,https://mytishchi.cian.ru/rent/flat/307183708/,Москва,rent,flat,17,17,1,25.1,35000,0,, Стрельбище Динамо,10,Бабушкинская
+48,ID 2287060,realtor,https://mytishchi.cian.ru/rent/flat/307519350/,Москва,rent,flat,1,10,2,43.0,38000,0,пос. Мебельной Фабрики, Рассветная,3,
+49,ID 94867959,unknown,https://mytishchi.cian.ru/rent/flat/297642731/,Москва,rent,flat,17,17,2,33.0,45000,0,,переулок 1-й Стрелковый,1,Медведково
+50,ID 12741349,realtor,https://ivanteyevka.cian.ru/rent/flat/306858182/,Москва,rent,flat,1,10,1,42.5,28000,0,пос. Челюскинский, Садовая,25Б,

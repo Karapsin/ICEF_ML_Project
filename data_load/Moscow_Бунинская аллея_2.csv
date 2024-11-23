@@ -1,0 +1,82 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Марина Никифорова,realtor,https://www.cian.ru/rent/flat/307727600/,Москва,rent,flat,14,17,2,50.0,70000,0,, Липовый Парк,10к3,Бунинская аллея
+1,Егор Россихин,realtor,https://www.cian.ru/rent/flat/307706368/,Москва,rent,flat,7,17,2,60.0,55000,0,, Александры Монаховой,101,Бунинская аллея
+2,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307703950/,Москва,rent,flat,16,18,2,50.0,55000,0,, Александры Монаховой,92к2,Бунинская аллея
+3,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307701622/,Москва,rent,flat,14,17,2,42.0,65000,0,,проспект Куприна,24к3,Бунинская аллея
+4,ID 87578192,unknown,https://www.cian.ru/rent/flat/307679841/,Москва,rent,flat,7,18,2,54.4,80000,0,, Александры Монаховой,89к1,Бунинская аллея
+5,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307678534/,Москва,rent,flat,9,18,2,70.0,72000,0,, Александры Монаховой,92к2,Бунинская аллея
+6,ID 122118308,homeowner,https://www.cian.ru/rent/flat/307676057/,Москва,rent,flat,7,19,2,70.0,72000,0,, Липовый Парк,10к3,Бунинская аллея
+7,Владис,real_estate_agent,https://www.cian.ru/rent/flat/307674143/,Москва,rent,flat,8,10,2,70.0,75000,0,Южное Бутово, Академика Семенова,3,Бунинская аллея
+8,ID 24523,realtor,https://www.cian.ru/rent/flat/307668682/,Москва,rent,flat,2,10,2,54.0,65000,0,Южное Бутово, Адмирала Лазарева,74,Бунинская аллея
+9,Циан х ПИК-Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307665467/,Москва,rent,flat,13,14,2,39.0,60700,0,, Потаповская Роща,20к1,Бунинская аллея
+10,ID 117928964,homeowner,https://www.cian.ru/rent/flat/307662040/,Москва,rent,flat,14,18,2,42.5,50000,0,,проспект Куприна,18к2,Бунинская аллея
+11,ID 91075892,homeowner,https://www.cian.ru/rent/flat/307661225/,Москва,rent,flat,4,14,2,57.6,55000,0,,проспект Куприна,30к1,Бунинская аллея
+12,ИскИн,real_estate_agent,https://www.cian.ru/rent/flat/307655778/,Москва,rent,flat,15,18,2,40.0,65000,0,, Александры Монаховой,89к1,Бунинская аллея
+13,Качанова и партнеры,real_estate_agent,https://www.cian.ru/rent/flat/307651121/,Москва,rent,flat,18,22,2,56.2,80000,0,Южное Бутово, Академика Понтрягина,11к1,Бунинская аллея
+14,Татьяна Хакимзанова,realtor,https://www.cian.ru/rent/flat/307638725/,Москва,rent,flat,4,16,2,56.0,80000,0,, Потаповская Роща,20к1,Бунинская аллея
+15,ПИК-Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307632938/,Москва,rent,flat,13,17,2,32.0,55000,0,, Александры Монаховой,85к1,Бунинская аллея
+16,ID 12935,realtor,https://www.cian.ru/rent/flat/307630784/,Москва,rent,flat,6,15,2,56.0,55000,0,, Логинова,3,Бунинская аллея
+17,Лидия Скороходова,realtor,https://www.cian.ru/rent/flat/307628356/,Москва,rent,flat,4,12,2,53.0,50000,0,Южное Бутово,проезд Чечерский,104,Бунинская аллея
+18,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307618980/,Москва,rent,flat,9,13,2,50.0,70000,0,, Липовый Парк,8к1,Бунинская аллея
+19,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307578733/,Москва,rent,flat,12,17,2,58.0,75000,0,Южное Бутово, Кадырова,8К3,Бунинская аллея
+20,WHITE BROKER Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307578129/,Москва,rent,flat,12,17,2,53.0,75000,0,Южное Бутово, Кадырова,8К3,Бунинская аллея
+21,DOORS AGENCY,real_estate_agent,https://www.cian.ru/rent/flat/307576851/,Москва,rent,flat,15,17,2,32.0,65000,0,,проспект Куприна,18к2,Бунинская аллея
+22,ID 294792,unknown,https://www.cian.ru/rent/flat/307569949/,Москва,rent,flat,2,10,2,57.7,65000,0,Южное Бутово,Южнобутовская ,56,Бунинская аллея
+23,Наталья Широкова,realtor,https://www.cian.ru/rent/flat/307567577/,Москва,rent,flat,4,17,2,52.0,65000,0,, Александры Монаховой,89к1,Бунинская аллея
+24,ID 118822362,homeowner,https://podolsk.cian.ru/rent/flat/307555780/,Москва,rent,flat,5,5,2,56.0,30000,0,,,48,
+25,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307549659/,Москва,rent,flat,9,17,2,55.0,75000,0,, Александры Монаховой,84к1,Бунинская аллея
+26,Макспол Парк Культуры,real_estate_agent,https://www.cian.ru/rent/flat/307525224/,Москва,rent,flat,14,17,2,36.0,65000,0,, Александры Монаховой,89к1,Бунинская аллея
+27,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307524790/,Москва,rent,flat,2,17,2,66.0,71000,0,, Липовый Парк,10к4,Бунинская аллея
+28,EMPIRE HOME,real_estate_agent,https://www.cian.ru/rent/flat/307510318/,Москва,rent,flat,11,17,2,32.0,63000,0,,проспект Куприна,18к2,Бунинская аллея
+29,Светлана Лушкина,realtor,https://www.cian.ru/rent/flat/307509897/,Москва,rent,flat,6,17,2,52.3,120000,0,, Александры Монаховой,87к4,Бунинская аллея
+30,Андрей Иванов,realtor,https://www.cian.ru/rent/flat/307485852/,Москва,rent,flat,2,15,2,35.0,45000,0,, Логинова,5к1,Бунинская аллея
+31,Иван Заугаров,realtor,https://www.cian.ru/rent/flat/307475593/,Москва,rent,flat,8,14,2,55.0,60000,0,Южное Бутово, Адмирала Руднева,12,Бунинская аллея
+32,ID 118375392,homeowner,https://www.cian.ru/rent/flat/307461032/,Москва,rent,flat,17,18,2,65.0,60000,0,,,5,Бунинская аллея
+33,Парус,real_estate_agent,https://www.cian.ru/rent/flat/307459489/,Москва,rent,flat,9,16,2,46.0,90000,0,, Потаповская Роща,20к1,Бунинская аллея
+34,ID 264,realtor,https://www.cian.ru/rent/flat/307396824/,Москва,rent,flat,10,10,2,58.0,60000,0,,проезд Чечерский,128к1,Бунинская аллея
+35,Мой Дом - отделение Добрынинское,real_estate_agent,https://www.cian.ru/rent/flat/307385119/,Москва,rent,flat,2,6,2,96.1,75000,0,Южное Бутово,Южнобутовская ,91,Бунинская аллея
+36,Маргарита Медведева,realtor,https://www.cian.ru/rent/flat/307361898/,Москва,rent,flat,7,18,2,54.9,70000,0,, Александры Монаховой,92к3,Бунинская аллея
+37,Светлана Жалпиева,realtor,https://www.cian.ru/rent/flat/307339094/,Москва,rent,flat,9,17,2,60.0,80000,0,, Александры Монаховой,103,Бунинская аллея
+38,ID 370585,realtor,https://www.cian.ru/rent/flat/307310153/,Москва,rent,flat,9,10,2,56.0,58000,0,Южное Бутово, Адмирала Лазарева,74,Бунинская аллея
+39,ID 101369502,homeowner,https://www.cian.ru/rent/flat/307275296/,Москва,rent,flat,8,17,2,50.0,75000,0,, Александры Монаховой,87к5,Бунинская аллея
+40,Монолит,real_estate_agent,https://podolsk.cian.ru/rent/flat/307265592/,Москва,rent,flat,5,5,2,55.0,30000,0,,,48,
+41,РЕСКОР,real_estate_agent,https://www.cian.ru/rent/flat/307264725/,Москва,rent,flat,14,19,2,66.0,70000,0,, Липовый Парк,10к3,Бунинская аллея
+42,EMPIRE HOME,real_estate_agent,https://www.cian.ru/rent/flat/307164996/,Москва,rent,flat,4,14,2,55.0,50000,0,, Красовского,2к3,Бунинская аллея
+43,ID 83823455,homeowner,https://www.cian.ru/rent/flat/307157094/,Москва,rent,flat,4,14,2,45.0,55000,0,, Логинова,1к2,Бунинская аллея
+44,ID 41650714,homeowner,https://www.cian.ru/rent/flat/307152443/,Москва,rent,flat,9,16,2,46.0,90000,0,, Потаповская Роща,20к1,Бунинская аллея
+45,Максим Шлык,realtor,https://www.cian.ru/rent/flat/307128613/,Москва,rent,flat,8,9,2,55.0,53000,0,,,28,Бунинская аллея
+46,ID 212836,unknown,https://www.cian.ru/rent/flat/307109435/,Москва,rent,flat,14,17,2,51.0,45000,0,, Юбилейная,18,Бунинская аллея
+47,Виталий Чаус,realtor,https://www.cian.ru/rent/flat/307065399/,Москва,rent,flat,9,14,2,57.7,53000,0,, Кварцевая,5к4,Бунинская аллея
+48,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307062947/,Москва,rent,flat,6,12,2,71.0,52500,0,, Гореловская,3,Бунинская аллея
+49,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307061564/,Москва,rent,flat,8,14,2,70.0,70000,0,Южное Бутово, Академика Семенова,3,Бунинская аллея
+50,ID 80875427,homeowner,https://www.cian.ru/rent/flat/306911382/,Москва,rent,flat,8,17,2,50.0,75000,0,, Александры Монаховой,87к5,Бунинская аллея
+51,ПИК-Аренда,real_estate_agent,https://www.cian.ru/rent/flat/306847161/,Москва,rent,flat,4,17,2,50.0,75000,0,, Александры Монаховой,87к6,Бунинская аллея
+52,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/306846002/,Москва,rent,flat,3,3,2,42.0,57000,0,Южное Бутово,д. Щербинка,10,Бунинская аллея
+53,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/306821709/,Москва,rent,flat,6,12,2,71.0,50000,0,, Гореловская,3,Бунинская аллея
+54,ID 91217103,unknown,https://www.cian.ru/rent/flat/306558850/,Москва,rent,flat,3,20,2,60.0,60000,0,,,4,Бунинская аллея
+55,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/306497900/,Москва,rent,flat,9,14,2,58.0,69000,0,,проезд Чечерский,128к2,Бунинская аллея
+56,Артем Суганов,realtor,https://www.cian.ru/rent/flat/306496979/,Москва,rent,flat,3,5,2,46.0,35000,0,, Авиаторов,7,Бунинская аллея
+57,ID 478645,realtor,https://www.cian.ru/rent/flat/306418002/,Москва,rent,flat,5,9,2,65.0,65000,0,,,39,Бунинская аллея
+58,ID 110270463,homeowner,https://www.cian.ru/rent/flat/306279130/,Москва,rent,flat,2,3,2,85.0,70000,0,,,55,Бунинская аллея
+59,Игорь Кудрявцев,realtor,https://www.cian.ru/rent/flat/306134393/,Москва,rent,flat,12,17,2,39.0,45000,0,, Красовского,2к2,Бунинская аллея
+60,ID 260853,realtor,https://www.cian.ru/rent/flat/306105322/,Москва,rent,flat,10,15,2,37.0,45000,0,, Уточкина,5к2,Бунинская аллея
+61,ID 120560889,homeowner,https://www.cian.ru/rent/flat/306087660/,Москва,rent,flat,6,12,2,71.0,50000,0,, Гореловская,3,Бунинская аллея
+62,Елена Кульпина,realtor,https://www.cian.ru/rent/flat/306010009/,Москва,rent,flat,11,16,2,62.0,80000,0,, Потаповская Роща,24к2,Бунинская аллея
+63,ID 12450439,homeowner,https://www.cian.ru/rent/flat/305916426/,Москва,rent,flat,8,9,2,60.0,58000,0,,,28,Бунинская аллея
+64,ID 118823122,homeowner,https://www.cian.ru/rent/flat/304394698/,Москва,rent,flat,10,17,2,51.0,75000,0,,проспект Куприна,18к1,Бунинская аллея
+65,ID 450563,unknown,https://www.cian.ru/rent/flat/299517702/,Москва,rent,flat,8,16,2,39.0,59000,0,, Потаповская Роща,20к1,Бунинская аллея
+66,ID 24506165,homeowner,https://www.cian.ru/rent/flat/299034199/,Москва,rent,flat,5,14,2,60.0,65000,0,, Кварцевая,5к4,Бунинская аллея
+67,Альянс-Недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/296083965/,Москва,rent,flat,10,17,2,54.0,60000,0,, Барышевская Роща,2,Бунинская аллея
+68,ID 12255747,realtor,https://www.cian.ru/rent/flat/294092260/,Москва,rent,flat,17,24,2,70.0,90000,0,Южное Бутово, Адмирала Лазарева,63к1,Бунинская аллея
+69,ID 41991431,homeowner,https://www.cian.ru/rent/flat/287821513/,Москва,rent,flat,3,14,2,45.0,70000,0,, Потаповская Роща,20к1,Бунинская аллея
+70,ID 96314889,homeowner,https://www.cian.ru/rent/flat/285698012/,Москва,rent,flat,8,21,2,35.0,65000,0,, Александры Монаховой,87к1,Бунинская аллея
+71,Светлана Жалпиева,realtor,https://www.cian.ru/rent/flat/268195550/,Москва,rent,flat,3,17,2,60.0,60000,0,, Александры Монаховой,105к2,Бунинская аллея
+72,ID 84730158,homeowner,https://www.cian.ru/rent/flat/268056712/,Москва,rent,flat,10,14,2,56.0,65000,0,,шоссе Остафьевское,14к1,Бунинская аллея
+73,ID 476058,realtor,https://www.cian.ru/rent/flat/243014474/,Москва,rent,flat,12,14,2,62.0,39000,0,, Александры Монаховой,103,Бунинская аллея
+74,Галина Рогожина,realtor,https://www.cian.ru/rent/flat/155673569/,Москва,rent,flat,10,24,2,62.0,43000,0,Южное Бутово, Брусилова,37к1,Бунинская аллея
+75,ID 41040929,homeowner,https://www.cian.ru/rent/flat/303044283/,Москва,rent,flat,10,14,3,59.3,60000,0,, Стожарова,5,Крёкшино
+76,Марина Белова,realtor,https://www.cian.ru/rent/flat/306402356/,Москва,rent,flat,9,9,2,36.0,50000,0,, Усадебный Парк,3,Филатов Луг
+77,ID 287994,unknown,https://www.cian.ru/rent/flat/304543825/,Москва,rent,flat,3,3,2,42.0,45000,0,, Березовая,11к1,Филатов Луг
+78,Самолет плюс Троицк,real_estate_agent,https://www.cian.ru/rent/flat/307273441/,Москва,rent,flat,4,14,2,70.0,65000,0,, Александры Монаховой,5к2,Ольховая
+79,ID 99408691,homeowner,https://www.cian.ru/rent/flat/306423482/,Москва,rent,flat,8,14,2,36.6,48000,0,, Стожарова,11,Санино
+80,ПИК-Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307007810/,Москва,rent,flat,12,17,2,50.8,54900,0,Южное Бутово,Варшавское шоссе,282к1,Бульвар Дмитрия Донского

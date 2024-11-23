@@ -1,0 +1,30 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,МОСКВА СИТИ,real_estate_agent,https://www.cian.ru/rent/flat/307744760/,Москва,rent,flat,5,8,3,160.0,1000000,0,Хамовники,переулок Хилков,1,Октябрьская
+1,Las Vegas,real_estate_agent,https://www.cian.ru/rent/flat/307722137/,Москва,rent,flat,10,10,3,220.0,750000,0,Якиманка, Малая Полянка,2,Октябрьская
+2,Intermark Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307658521/,Москва,rent,flat,2,7,3,98.0,500000,0,Якиманка,2-й Спасоналивковский переулок,6,Октябрьская
+3,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307547692/,Москва,rent,flat,6,18,3,91.0,295000,0,Якиманка, Шаболовка,23к5,Октябрьская
+4,ID 103720664,homeowner,https://www.cian.ru/rent/flat/307506157/,Москва,rent,flat,6,18,3,91.0,295000,0,Якиманка, Шаболовка,23к5,Октябрьская
+5,Delight Realty,real_estate_agent,https://www.cian.ru/rent/flat/307460135/,Москва,rent,flat,10,21,3,131.0,250000,0,Якиманка, Шаболовка,23к4,Октябрьская
+6,Парус,real_estate_agent,https://www.cian.ru/rent/flat/307458786/,Москва,rent,flat,16,20,3,138.0,250000,0,Якиманка, Шаболовка,23к2,Октябрьская
+7,My Hoyse,real_estate_agent,https://www.cian.ru/rent/flat/307455769/,Москва,rent,flat,17,18,3,130.0,250000,0,Якиманка, Шаболовка,10,Октябрьская
+8,Las Vegas,real_estate_agent,https://www.cian.ru/rent/flat/307363709/,Москва,rent,flat,9,15,3,67.0,180000,0,Замоскворечье,Мытная ,7с2,Октябрьская
+9,ИП Шакарян Э.А.,real_estate_agent,https://www.cian.ru/rent/flat/307337202/,Москва,rent,flat,7,7,3,58.0,170000,0,Замоскворечье,Люсиновская ,37,Октябрьская
+10,ENEstate,real_estate_agent,https://www.cian.ru/rent/flat/307318766/,Москва,rent,flat,7,12,3,55.0,260000,0,Якиманка, Большая Якиманка,32,Октябрьская
+11,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307084874/,Москва,rent,flat,9,21,3,125.0,220000,0,Якиманка, Шаболовка,23,Октябрьская
+12,МОСКВА СИТИ,real_estate_agent,https://www.cian.ru/rent/flat/307040729/,Москва,rent,flat,4,8,3,234.0,1000000,0,Хамовники,переулок Хилков,1,Октябрьская
+13,Penny Lane Moscow,real_estate_agent,https://www.cian.ru/rent/flat/306781910/,Москва,rent,flat,3,14,3,120.0,395000,0,Замоскворечье,Мытная ,7с1,Октябрьская
+14,Alfa Forum Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/306778572/,Москва,rent,flat,4,18,3,105.0,180000,0,Якиманка, Шаболовка,10к1,Октябрьская
+15,NF Group - ex-Knight Frank,real_estate_agent,https://www.cian.ru/rent/flat/306547190/,Москва,rent,flat,7,7,3,211.1,550000,0,Якиманка,2-й Казачий переулок,4С1,Октябрьская
+16,Monumental Group,real_estate_agent,https://www.cian.ru/rent/flat/306498702/,Москва,rent,flat,6,23,3,78.0,270000,0,Якиманка,Мытная ,40к1,Октябрьская
+17,Whitewill Аренда,real_estate_agent,https://www.cian.ru/rent/flat/306110276/,Москва,rent,flat,5,8,3,156.0,1000000,0,Хамовники,переулок Хилков,1,Октябрьская
+18,Penny Lane Moscow,real_estate_agent,https://www.cian.ru/rent/flat/306061280/,Москва,rent,flat,5,8,3,156.0,1000000,0,Хамовники,переулок Хилков,1,Октябрьская
+19,Slava Realty,real_estate_agent,https://www.cian.ru/rent/flat/305915368/,Москва,rent,flat,16,20,3,138.0,330000,0,Якиманка, Шаболовка,23к2,Октябрьская
+20,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/305842266/,Москва,rent,flat,5,8,3,156.0,1000000,0,Хамовники,переулок Хилков,1,Октябрьская
+21,Intermark Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/305740359/,Москва,rent,flat,7,8,3,211.0,550000,0,Якиманка,2-й Казачий переулок,4С1,Октябрьская
+22,ХофХаус,real_estate_agent,https://www.cian.ru/rent/flat/305325422/,Москва,rent,flat,4,9,3,82.0,300000,0,Даниловский,Хавская ,9,Октябрьская
+23,Римма Бахтигаряева,realtor,https://www.cian.ru/rent/flat/296642928/,Москва,rent,flat,2,21,3,106.0,180000,0,Якиманка, Шаболовка,23к3,Октябрьская
+24,ID 93290972,unknown,https://www.cian.ru/rent/flat/290338736/,Москва,rent,flat,7,7,3,75.0,125000,0,Донской,Донская ,28,Октябрьская
+25,ID 12803638,realtor,https://www.cian.ru/rent/flat/288454108/,Москва,rent,flat,7,8,3,235.0,950000,0,Хамовники,переулок Хилков,1,Октябрьская
+26,Intermark Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307521524/,Москва,rent,flat,14,16,3,88.0,200000,0,Хамовники,Малый Власьевский переулок,3к1,Кропоткинская
+27,Easy Estate,real_estate_agent,https://www.cian.ru/rent/flat/307387142/,Москва,rent,flat,4,5,3,150.0,200000,0,Хамовники,Лопухинский переулок,1АС2,Кропоткинская
+28,HOUSE MALL - Городская недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/281836793/,Москва,rent,flat,7,12,3,110.0,300000,0,Якиманка, Серафимовича,2,Боровицкая

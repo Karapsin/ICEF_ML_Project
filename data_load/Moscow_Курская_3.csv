@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307755546/,Москва,rent,flat,2,8,3,75.0,120000,0,Басманный, Земляной Вал,24/32,Курская
+1,GardenGoldRealty,real_estate_agent,https://www.cian.ru/rent/flat/307657252/,Москва,rent,flat,4,11,3,62.0,220000,0,Басманный,Старая Басманная ,10С5,Курская
+2,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307605499/,Москва,rent,flat,8,12,3,60.0,250000,0,Басманный, Казакова,7,Курская
+3,Whitewill Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307492779/,Москва,rent,flat,8,11,3,55.0,280000,0,Басманный, Казакова,7,Курская
+4,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307491563/,Москва,rent,flat,4,11,3,65.0,220000,0,Басманный, Казакова,7,Курская
+5,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307255493/,Москва,rent,flat,2,10,3,100.0,270000,0,Таганский,Наставнический переулок,3,Курская
+6,Бест офис на Таганской,real_estate_agent,https://www.cian.ru/rent/flat/307127730/,Москва,rent,flat,2,10,3,100.0,270000,0,Таганский,Наставнический переулок,3,Курская
+7,ID 36706777,real_estate_agent,https://www.cian.ru/rent/flat/307041346/,Москва,rent,flat,2,8,3,75.0,120000,0,Басманный, Земляной Вал,24/32,Курская
+8,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/306971481/,Москва,rent,flat,4,11,3,62.0,210000,0,Басманный, Казакова,7,Курская
+9,ID 170359,unknown,https://www.cian.ru/rent/flat/306797025/,Москва,rent,flat,3,3,3,64.0,120000,0,Басманный,Гороховский переулок,4к5с7,Курская
+10,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/306608129/,Москва,rent,flat,5,7,3,138.0,375000,0,Басманный,переулок Лялин,19К1,Курская
+11,Point Estate Город,real_estate_agent,https://www.cian.ru/rent/flat/306592286/,Москва,rent,flat,5,7,3,138.0,375000,0,Басманный,переулок Лялин,19К1,Курская
+12,Trust Realty,real_estate_agent,https://www.cian.ru/rent/flat/306573129/,Москва,rent,flat,5,7,3,138.0,375000,0,Басманный,переулок Лялин,19К1,Курская
+13,Олеся Аляева,realtor,https://www.cian.ru/rent/flat/306331839/,Москва,rent,flat,4,10,3,152.0,350000,0,Таганский,Наставнический переулок,3,Курская
+14,Александр Гойда,realtor,https://www.cian.ru/rent/flat/296599916/,Москва,rent,flat,5,7,3,92.0,130000,0,Басманный, Земляной Вал,3/1С7,Курская
+15,ID 44589587,homeowner,https://www.cian.ru/rent/flat/294730002/,Москва,rent,flat,5,8,3,89.0,250000,0,Басманный, Земляной Вал,18-22С2,Курская
+16,City Towers,official_representative,https://www.cian.ru/rent/flat/293078695/,Москва,rent,flat,5,11,3,72.0,230000,0,Басманный, Казакова,7,Курская
+17,Алексей Комиссаров,realtor,https://www.cian.ru/rent/flat/283377416/,Москва,rent,flat,6,11,3,55.0,170000,0,Басманный, Казакова,7,Курская
+18,Intermark Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307521524/,Москва,rent,flat,14,16,3,88.0,200000,0,Хамовники,Малый Власьевский переулок,3к1,Кропоткинская
+19,HOUSE MALL - Городская недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/281836793/,Москва,rent,flat,7,12,3,110.0,300000,0,Якиманка, Серафимовича,2,Боровицкая
+20,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/303632194/,Москва,rent,flat,5,5,3,65.2,130000,0,Замоскворечье,Пятницкая ,28,Третьяковская
+21,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307126701/,Москва,rent,flat,21,24,2,67.0,160000,0,Таганский,Котельническая набережная,1/15кБ,Китай-город
+22,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307399457/,Москва,rent,flat,3,11,4,164.0,230000,0,Пресненский,Большой Тишинский переулок,38С1,Улица 1905 года
+23,Intermark Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307435339/,Москва,rent,flat,8,18,2,70.0,240000,0,Красносельский,Басманный переулок,5,Комсомольская
+24,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307344850/,Москва,rent,flat,3,3,3,62.0,143000,0,Мещанский,переулок Пушкарев,20/17,Сухаревская

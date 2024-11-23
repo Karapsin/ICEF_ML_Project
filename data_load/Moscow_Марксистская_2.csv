@@ -1,0 +1,49 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Константин Галочкин,realtor,https://www.cian.ru/rent/flat/307684835/,Москва,rent,flat,3,9,2,45.0,140000,0,Таганский,Воронцовская ,26,Марксистская
+1,ID 91503116,homeowner,https://www.cian.ru/rent/flat/307669783/,Москва,rent,flat,17,33,2,65.1,250000,0,Таганский,Котельническая набережная,1/15кБ,Марксистская
+2,ID 64272358,homeowner,https://www.cian.ru/rent/flat/307662656/,Москва,rent,flat,17,33,2,65.1,250000,0,Таганский,Котельническая набережная,1/15кБ,Марксистская
+3,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307661972/,Москва,rent,flat,17,52,2,70.0,250000,0,Таганский,Котельническая набережная,1/15кБ,Марксистская
+4,Юлия Литвинова,realtor,https://www.cian.ru/rent/flat/307633305/,Москва,rent,flat,2,14,2,42.0,80000,0,Таганский,Николоямский переулок,3АК4,Марксистская
+5,Ирина Абакумова,realtor,https://www.cian.ru/rent/flat/307614674/,Москва,rent,flat,7,13,2,71.0,130000,0,Таганский,Котельническая набережная,1/15кА,Марксистская
+6,Las Vegas,real_estate_agent,https://www.cian.ru/rent/flat/307567076/,Москва,rent,flat,5,12,2,58.0,143000,0,Таганский,Большая Андроньевская ,20,Марксистская
+7,НейроДВИЖимость,real_estate_agent,https://www.cian.ru/rent/flat/307191404/,Москва,rent,flat,1,9,2,47.0,80000,0,Таганский,Николоямская ,43К4,Марксистская
+8,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307126701/,Москва,rent,flat,21,24,2,67.0,160000,0,Таганский,Котельническая набережная,1/15кБ,Марксистская
+9,Зоя Варфоломеева,realtor,https://www.cian.ru/rent/flat/307055936/,Москва,rent,flat,5,8,2,60.0,109990,0,Таганский,Абельмановская ,7,Марксистская
+10,Елена Совенко,realtor,https://www.cian.ru/rent/flat/306908584/,Москва,rent,flat,5,15,2,57.0,99900,0,Таганский, Гвоздева,5,Марксистская
+11,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/306895391/,Москва,rent,flat,2,7,2,70.0,180000,0,Таганский,Гончарная ,5,Марксистская
+12,Dream City,real_estate_agent,https://www.cian.ru/rent/flat/306247996/,Москва,rent,flat,5,18,2,55.0,150000,0,Таганский,Марксистская ,1к1,Марксистская
+13,Penny Lane Moscow,real_estate_agent,https://www.cian.ru/rent/flat/306060892/,Москва,rent,flat,2,6,2,70.0,269000,0,Таганский, Станиславского,11,Марксистская
+14,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/305857515/,Москва,rent,flat,6,13,2,60.0,155000,0,Таганский,Котельническая набережная,1/15кА,Марксистская
+15,Гуля Лебедь,realtor,https://www.cian.ru/rent/flat/305597544/,Москва,rent,flat,5,7,2,59.6,300000,0,Таганский, Земляной Вал,52/16С1,Марксистская
+16,ID 165532,realtor,https://www.cian.ru/rent/flat/305493194/,Москва,rent,flat,12,33,2,65.4,150000,0,Таганский,Котельническая набережная,1/15кБ,Марксистская
+17,ID 109016720,homeowner,https://www.cian.ru/rent/flat/304735490/,Москва,rent,flat,7,9,2,65.0,140000,0,Таганский,Котельническая набережная,1/15кА,Марксистская
+18,OXE CAPITAL - Элитная Недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/304069901/,Москва,rent,flat,2,6,2,70.0,257000,0,Таганский, Станиславского,11,Марксистская
+19,Selenahome,real_estate_agent,https://www.cian.ru/rent/flat/303882171/,Москва,rent,flat,2,6,2,70.0,278760,0,Таганский, Станиславского,11,Марксистская
+20,Point Estate Город,real_estate_agent,https://www.cian.ru/rent/flat/303871888/,Москва,rent,flat,2,6,2,70.0,278760,0,Таганский, Станиславского,11,Марксистская
+21,Кирилл Гапов,realtor,https://www.cian.ru/rent/flat/300464902/,Москва,rent,flat,3,6,2,61.1,170000,0,Таганский, Станиславского,11,Марксистская
+22,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/299611672/,Москва,rent,flat,11,13,2,78.0,250000,0,Таганский,Котельническая набережная,1/15кА,Марксистская
+23,ID 7152574,unknown,https://www.cian.ru/rent/flat/298926846/,Москва,rent,flat,3,9,2,50.0,150000,0,Таганский,Волгоградский проспект,5,Марксистская
+24,Intermark Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/296475444/,Москва,rent,flat,28,34,2,164.0,800000,0,Замоскворечье,Космодамианская набережная,52С6,Марксистская
+25,NF Group - ex-Knight Frank,real_estate_agent,https://www.cian.ru/rent/flat/295708906/,Москва,rent,flat,2,6,2,70.0,278760,0,Таганский, Станиславского,11,Марксистская
+26,Delight Realty,real_estate_agent,https://www.cian.ru/rent/flat/293656411/,Москва,rent,flat,2,6,2,70.0,278760,0,Таганский, Станиславского,11,Марксистская
+27,Trust Realty,real_estate_agent,https://www.cian.ru/rent/flat/289425687/,Москва,rent,flat,2,6,2,73.0,278760,0,Таганский, Станиславского,11,Марксистская
+28,Intermark Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/288377682/,Москва,rent,flat,2,6,2,70.0,278760,0,Таганский, Станиславского,11,Марксистская
+29,Chase R.E.S.,real_estate_agent,https://www.cian.ru/rent/flat/284803831/,Москва,rent,flat,2,5,2,70.0,278760,0,Таганский, Станиславского,11,Марксистская
+30,АКРУС-сити,real_estate_agent,https://www.cian.ru/rent/flat/307295604/,Москва,rent,flat,8,8,2,58.0,60000,0,Южнопортовый,Новоостаповская ,6,Дубровка
+31,Вадим Волков,realtor,https://www.cian.ru/rent/flat/285230568/,Москва,rent,flat,6,9,2,37.0,67000,0,Тверской,Перуновский переулок,4-8,Менделеевская
+32,МЕЗОН,real_estate_agent,https://www.cian.ru/rent/flat/305008371/,Москва,rent,flat,1,12,2,95.0,300000,0,Пресненский, Спиридоновка,18,Пушкинская
+33,ID 96700697,homeowner,https://www.cian.ru/rent/flat/307235287/,Москва,rent,flat,4,8,4,104.0,800000,0,Таганский,Котельническая набережная,21,Марксистская
+34,ID 18835544,official_representative,https://www.cian.ru/rent/flat/281664247/,Москва,rent,flat,5,12,2,80.0,1200000,0,Тверской, Охотный Ряд,2,Охотный ряд
+35,Живое Поместье,real_estate_agent,https://www.cian.ru/rent/flat/307647215/,Москва,rent,flat,9,12,2,44.0,70000,0,Мещанский,Большая Переяславская ,3К1,Проспект Мира
+36,Юлия Паниотова,realtor,https://www.cian.ru/rent/flat/292701750/,Москва,rent,flat,5,8,3,90.5,155000,0,Таганский,Котельническая набережная,25к2,Марксистская
+37,ТЕРЕМГРАД,real_estate_agent,https://www.cian.ru/rent/flat/304361154/,Москва,rent,flat,5,5,2,45.0,50000,0,Метрогородок,Открытое шоссе,21К6,Бульвар Рокоссовского
+38,EMPIRE HOME,real_estate_agent,https://www.cian.ru/rent/flat/306220289/,Москва,rent,flat,9,12,2,55.0,70000,0,Сокольники,Егерская ,5К1,Сокольники
+39,АКРУС-сити,real_estate_agent,https://www.cian.ru/rent/flat/278475310/,Москва,rent,flat,10,12,3,65.0,75000,0,Басманный, Госпитальный Вал,3К5,Лефортово
+40,Whitewill Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307569351/,Москва,rent,flat,3,7,3,150.0,500000,0,Замоскворечье,Садовническая ,80,Павелецкая
+41,Delight Realty,real_estate_agent,https://www.cian.ru/rent/flat/303920048/,Москва,rent,flat,2,5,2,85.0,750000,0,Хамовники,Пречистенская набережная,43,Кропоткинская
+42,Олимп,real_estate_agent,https://www.cian.ru/rent/flat/307157147/,Москва,rent,flat,2,5,2,45.0,50000,0,Рязанский, Михайлова,32/7,Окская
+43,Александр Лебедев,realtor,https://www.cian.ru/rent/flat/307382666/,Москва,rent,flat,4,9,3,51.0,60000,0,Вешняки,Вешняковская ,33,Выхино
+44,Олег Евдокимов,realtor,https://www.cian.ru/rent/flat/307617518/,Москва,rent,flat,11,12,2,52.2,63000,0,Лефортово,Боровая ,8,Лефортово
+45,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307256806/,Москва,rent,flat,2,7,2,80.0,700000,0,Якиманка,Ордынский тупик,4А,Третьяковская
+46,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/301532610/,Москва,rent,flat,2,4,2,75.0,150000,0,Замоскворечье,Озерковский переулок,7С1,Новокузнецкая
+47,Intermark Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/306790059/,Москва,rent,flat,2,9,3,70.0,150000,0,Таганский,Подколокольный переулок,16/2С1,Китай-город

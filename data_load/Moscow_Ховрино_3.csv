@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,ID 121781223,homeowner,https://www.cian.ru/rent/flat/307700565/,Москва,rent,flat,2,20,3,50.0,70000,0,Западное Дегунино,Базовская ,15Бк1,Ховрино
+1,Александр Родненко,realtor,https://www.cian.ru/rent/flat/307547479/,Москва,rent,flat,5,12,3,65.0,90000,0,Левобережный,Прибрежный проезд,7,Ховрино
+2,EstateLiga,real_estate_agent,https://www.cian.ru/rent/flat/307496134/,Москва,rent,flat,8,20,3,115.4,200000,0,Левобережный,Ленинградское шоссе,69к2,Ховрино
+3,Яндекс Аренда,real_estate_agent,https://khimki.cian.ru/rent/flat/307412860/,Москва,rent,flat,10,23,3,85.0,93000,0,,Совхозная ,16,Ховрино
+4,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307364926/,Москва,rent,flat,2,9,3,49.0,87000,0,Ховрино,Зеленоградская ,33К3,Ховрино
+5,ГАРАНТ,real_estate_agent,https://khimki.cian.ru/rent/flat/307107678/,Москва,rent,flat,10,25,3,93.0,85000,0,,Совхозная ,18,Ховрино
+6,Алла Звоник,realtor,https://khimki.cian.ru/rent/flat/307085821/,Москва,rent,flat,7,9,3,60.0,48000,0,, Пожарского,12,Ховрино
+7,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://khimki.cian.ru/rent/flat/306881531/,Москва,rent,flat,7,9,3,60.0,48000,0,, Пожарского,12,Ховрино
+8,ID 52226169,homeowner,https://www.cian.ru/rent/flat/238938983/,Москва,rent,flat,23,24,3,75.0,99950,0,Западное Дегунино,Базовская ,15к15,Ховрино
+9,ID 121802023,homeowner,https://www.cian.ru/rent/flat/307664211/,Москва,rent,flat,9,14,3,72.0,90000,0,Строгино, Исаковского,31,Строгино
+10,ID 41040929,homeowner,https://www.cian.ru/rent/flat/303044283/,Москва,rent,flat,10,14,3,59.3,60000,0,, Стожарова,5,Крёкшино
+11,ID 107993830,homeowner,https://www.cian.ru/rent/flat/292878315/,Москва,rent,flat,5,17,2,47.0,75000,0,Левобережный,Ленинградское шоссе,108к2,Беломорская
+12,ID 33191906,unknown,https://www.cian.ru/rent/flat/307701539/,Москва,rent,flat,4,5,3,58.6,80000,0,Филевский парк,Сеславинская ,38,Филёвский парк
+13,ID 20604,real_estate_agent,https://www.cian.ru/rent/flat/307698474/,Москва,rent,flat,4,9,3,60.0,75000,0,Северное Тушино, Фомичевой,16К2,Планерная
+14,Дмитрий Павленко,realtor,https://www.cian.ru/rent/flat/307296897/,Москва,rent,flat,8,20,3,75.0,75000,0,Тимирязевский,Дмитровское шоссе,55,Петровско-Разумовская
+15,EMPIRE HOME,real_estate_agent,https://www.cian.ru/rent/flat/307627833/,Москва,rent,flat,2,9,3,58.0,68000,0,Покровское-Стрешнево,Врачебный проезд,10К1,Щукинская
+16,ID 52258568,homeowner,https://www.cian.ru/rent/flat/256515936/,Москва,rent,flat,3,21,2,54.9,80000,0,Ховрино,Левобережная ,4к8,Ховрино
+17,ID 106808303,homeowner,https://www.cian.ru/rent/flat/307606053/,Москва,rent,flat,5,18,3,75.0,74000,0,Северное Медведково, Грекова,14к1,Медведково
+18,ID 100465345,homeowner,https://www.cian.ru/rent/flat/307552263/,Москва,rent,flat,3,41,3,82.0,150000,0,Хорошевский,Ленинградский проспект,37/6,Аэропорт
+19,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307057330/,Москва,rent,flat,3,12,3,61.0,70000,0,, Яворки,1к3,Кедровая
+20,EMPIRE HOME,real_estate_agent,https://www.cian.ru/rent/flat/307133419/,Москва,rent,flat,8,17,3,74.1,70000,0,Митино,переулок Ангелов,11,Пятницкое шоссе
+21,ID 106564716,homeowner,https://www.cian.ru/rent/flat/307708633/,Москва,rent,flat,14,17,3,72.4,85000,0,Восточное Дегунино,Дубнинская ,17К2,Верхние Лихоборы
+22,Central-arenda,real_estate_agent,https://www.cian.ru/rent/flat/291299261/,Москва,rent,flat,7,14,3,78.0,70000,0,Соколиная гора, 5-я Соколиной Горы,18К2,Шоссе Энтузиастов
+23,ЕГСН Аренда,real_estate_agent,https://www.cian.ru/rent/flat/306437198/,Москва,rent,flat,1,9,3,59.0,60000,0,Северное Измайлово,Сиреневый бульвар,3К5,Измайловская
+24,ID 21374,realtor,https://www.cian.ru/rent/flat/307624604/,Москва,rent,flat,5,22,3,63.0,110000,0,Головинский,Кронштадтский бульвар,9к3,Водный стадион

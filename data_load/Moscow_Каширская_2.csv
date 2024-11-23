@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307635008/,Москва,rent,flat,7,9,2,46.0,80000,0,Москворечье-Сабурово,Каширское шоссе,38,Каширская
+1,ID 13914946,unknown,https://www.cian.ru/rent/flat/307630761/,Москва,rent,flat,4,9,2,44.5,80000,0,Москворечье-Сабурово,Пролетарский проспект,6К2,Каширская
+2,Ярослав Бибиков,realtor,https://www.cian.ru/rent/flat/307509703/,Москва,rent,flat,7,17,2,60.0,89990,0,Москворечье-Сабурово, Москворечье,4К3,Каширская
+3,Ярослав Бибиков,realtor,https://www.cian.ru/rent/flat/307497393/,Москва,rent,flat,3,20,2,60.0,80000,0,Москворечье-Сабурово, Москворечье,31к1,Каширская
+4,ID 129034,unknown,https://www.cian.ru/rent/flat/307070167/,Москва,rent,flat,11,17,2,54.4,65000,0,Москворечье-Сабурово, Москворечье,4К3,Каширская
+5,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/306845996/,Москва,rent,flat,16,25,2,57.0,90000,0,Москворечье-Сабурово,Каширское шоссе,74А,Каширская
+6,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/304873238/,Москва,rent,flat,4,9,2,45.0,80000,0,Москворечье-Сабурово,Пролетарский проспект,6К2,Каширская
+7,ID 10126462,unknown,https://www.cian.ru/rent/flat/271657953/,Москва,rent,flat,7,9,2,46.0,80000,0,Москворечье-Сабурово,Каширское шоссе,38,Каширская
+8,ID 116088,realtor,https://www.cian.ru/rent/flat/307592086/,Москва,rent,flat,8,12,2,38.5,52000,0,Нагатинский затон,Затонная ,14К2,Кленовый бульвар
+9,Александр Зернов,realtor,https://www.cian.ru/rent/flat/307344568/,Москва,rent,flat,9,12,1,33.4,60000,0,Нагатинский затон,Кленовый бульвар,24,Кленовый бульвар
+10,Александр Долгов,realtor,https://www.cian.ru/rent/flat/277797504/,Москва,rent,flat,4,5,2,43.0,65000,0,Нагорный,Варшавское шоссе,52/2,Нахимовский проспект
+11,EMPIRE HOME,real_estate_agent,https://www.cian.ru/rent/flat/307434590/,Москва,rent,flat,1,9,1,40.0,60000,0,Нагатино-Садовники,Каширское шоссе,7К1,Нагорная
+12,ID 12242829,realtor,https://www.cian.ru/rent/flat/307522434/,Москва,rent,flat,4,5,2,42.9,65000,0,Зюзино, Каховка,5К1,Каховская
+13,Столичный квартал,real_estate_agent,https://www.cian.ru/rent/flat/222881563/,Москва,rent,flat,21,25,2,60.0,80000,0,Нагорный,Электролитный проезд,16к3,Нагорная
+14,ID 68476667,realtor,https://www.cian.ru/rent/flat/307344398/,Москва,rent,flat,15,22,1,35.0,60000,0,Москворечье-Сабурово,Пролетарский проспект,3,Каширская
+15,Елена Кондратенко,realtor,https://www.cian.ru/rent/flat/267379173/,Москва,rent,flat,1,9,2,37.2,65000,0,Зюзино,Болотниковская ,21К1,Каховская
+16,Татьяна  Шарыгина,realtor,https://www.cian.ru/rent/flat/307600741/,Москва,rent,flat,2,9,1,31.0,60000,0,Нагатинский затон,Затонная ,7К1,Кленовый бульвар
+17,MDco,real_estate_agent,https://www.cian.ru/rent/flat/307330257/,Москва,rent,flat,21,33,3,59.0,100000,0,Нагатино-Садовники,2-й Нагатинский проезд,2/2к1,Коломенская
+18,Estes,real_estate_agent,https://www.cian.ru/rent/flat/307391650/,Москва,rent,flat,5,17,1,37.0,75000,0,Нагатинский затон,Коломенская набережная,12,Нагатинский Затон
+19,Дмитрий Вартанов,realtor,https://www.cian.ru/rent/flat/307535480/,Москва,rent,flat,2,5,2,42.0,60000,0,Нагорный,Черноморский бульвар,5К1,Чертановская
+20,ID 122040108,homeowner,https://www.cian.ru/rent/flat/307607970/,Москва,rent,flat,3,12,1,45.0,79000,0,Нагатинский затон,Затонная ,13К2,Кленовый бульвар
+21,Олимп,real_estate_agent,https://www.cian.ru/rent/flat/267385655/,Москва,rent,flat,2,26,2,38.0,70000,0,Даниловский,Автозаводская ,23Бк2,ЗИЛ
+22,Антонио Фернандес,realtor,https://www.cian.ru/rent/flat/171594463/,Москва,rent,flat,10,12,1,35.0,70000,0,Нагатинский затон,Затонная ,14К2,Кленовый бульвар
+23,Светлана Градиштян,realtor,https://www.cian.ru/rent/flat/307207044/,Москва,rent,flat,7,17,2,52.0,70000,0,Чертаново Северное,Варшавское шоссе,124,Южная
+24,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307325013/,Москва,rent,flat,6,16,1,36.0,50000,0,Москворечье-Сабурово,Кантемировская ,22К1,Кантемировская

@@ -1,0 +1,31 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Tower Estate,real_estate_agent,https://www.cian.ru/rent/flat/307646837/,Москва,rent,flat,1,6,3,76.0,200000,0,Пресненский,Хлебный переулок,14,Арбатская
+1,Las Vegas,real_estate_agent,https://www.cian.ru/rent/flat/307632891/,Москва,rent,flat,3,6,3,71.0,200000,0,Пресненский,Никитский бульвар,12,Арбатская
+2,Михаил Иванов,realtor,https://www.cian.ru/rent/flat/307586651/,Москва,rent,flat,2,7,3,75.9,95000,0,Хамовники,переулок Сивцев Вражек,21,Арбатская
+3,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307581360/,Москва,rent,flat,12,13,3,67.0,180000,0,Пресненский, Спиридоновка,8,Арбатская
+4,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307580922/,Москва,rent,flat,12,13,3,70.0,220000,0,Пресненский, Спиридоновка,8,Арбатская
+5,ОЛИМПИК СТАР,real_estate_agent,https://www.cian.ru/rent/flat/307555235/,Москва,rent,flat,12,13,3,68.0,180000,0,Пресненский, Спиридоновка,8,Арбатская
+6,ЕРЦН,real_estate_agent,https://www.cian.ru/rent/flat/307543999/,Москва,rent,flat,3,4,3,90.0,180000,0,Арбат, Арбат,18/1С2,Арбатская
+7,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307530258/,Москва,rent,flat,12,13,3,70.0,180000,0,Пресненский, Спиридоновка,8,Арбатская
+8,Intermark Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/307521524/,Москва,rent,flat,14,16,3,88.0,200000,0,Хамовники,Малый Власьевский переулок,3к1,Арбатская
+9,Наталья Кузьмичева,realtor,https://www.cian.ru/rent/flat/307204231/,Москва,rent,flat,1,8,3,70.7,250000,0,Хамовники,переулок Сивцев Вражек,15/25,Арбатская
+10,Capital Estate,real_estate_agent,https://www.cian.ru/rent/flat/307132061/,Москва,rent,flat,3,8,3,155.0,700000,0,Арбат,Большой Афанасьевский переулок,28,Арбатская
+11,Марина Высоцкая,realtor,https://www.cian.ru/rent/flat/307111837/,Москва,rent,flat,4,24,3,70.0,165000,0,Арбат, Новый Арбат,26,Арбатская
+12,Ирина Беленькая,realtor,https://www.cian.ru/rent/flat/307103486/,Москва,rent,flat,6,10,3,90.0,150000,0,Арбат,Новинский бульвар,12,Арбатская
+13,Виктория Парфёнова,realtor,https://www.cian.ru/rent/flat/307054167/,Москва,rent,flat,24,24,3,72.0,170000,0,Арбат, Новый Арбат,22,Арбатская
+14,Домклик Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307042559/,Москва,rent,flat,3,8,3,76.7,450000,0,Пресненский,Малый Кисловский переулок,3,Арбатская
+15,Качанова и партнеры,real_estate_agent,https://www.cian.ru/rent/flat/306955458/,Москва,rent,flat,5,7,3,97.8,250000,0,Пресненский,Средний Кисловский переулок,7/10,Арбатская
+16,ID 182291,real_estate_agent,https://www.cian.ru/rent/flat/306845438/,Москва,rent,flat,5,6,3,215.0,2000000,0,Арбат,Поварская ,28С1,Арбатская
+17,ID 67821441,homeowner,https://www.cian.ru/rent/flat/306793911/,Москва,rent,flat,4,10,3,77.0,420000,0,Пресненский,Малый Кисловский переулок,3,Арбатская
+18,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/306590917/,Москва,rent,flat,2,4,3,156.0,260000,0,Арбат,Малый Каковинский переулок,1/8С1,Арбатская
+19,Дмитрий Рублев,realtor,https://www.cian.ru/rent/flat/306352110/,Москва,rent,flat,5,7,3,55.4,140000,0,Пресненский,Никитский бульвар,12,Арбатская
+20,МОСКВА СИТИ,real_estate_agent,https://www.cian.ru/rent/flat/306085275/,Москва,rent,flat,2,6,3,100.0,230000,0,Арбат, Арбат,29,Арбатская
+21,ID 18671133,homeowner,https://www.cian.ru/rent/flat/305965050/,Москва,rent,flat,4,6,3,76.4,195000,0,Арбат,Хлебный переулок,9,Арбатская
+22,Apple Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/304414486/,Москва,rent,flat,2,4,3,156.0,260000,0,Арбат,Малый Каковинский переулок,1/8С2,Арбатская
+23,Chase R.E.S.,real_estate_agent,https://www.cian.ru/rent/flat/302083777/,Москва,rent,flat,2,7,3,162.0,1700000,0,Арбат, Малая Молчановка,8С1,Арбатская
+24,ЕГСН Аренда,real_estate_agent,https://www.cian.ru/rent/flat/300570443/,Москва,rent,flat,2,4,3,156.0,260000,0,Арбат,Малый Каковинский переулок,1/8С1,Арбатская
+25,ПроАктив Реал Эстейт,real_estate_agent,https://www.cian.ru/rent/flat/299764916/,Москва,rent,flat,4,5,3,112.8,240000,0,Арбат,Гоголевский бульвар,23,Арбатская
+26,Сергей Гончарко,realtor,https://www.cian.ru/rent/flat/262853764/,Москва,rent,flat,2,5,3,100.0,220000,0,Пресненский,Мерзляковский переулок,13,Арбатская
+27,ID 24419,real_estate_agent,https://www.cian.ru/rent/flat/307470965/,Москва,rent,flat,4,8,2,46.0,150000,0,Хамовники,переулок Сивцев Вражек,15/25,Арбатская
+28,Easy Estate,real_estate_agent,https://www.cian.ru/rent/flat/307387142/,Москва,rent,flat,4,5,3,150.0,200000,0,Хамовники,Лопухинский переулок,1АС2,Кропоткинская
+29,HOUSE MALL - Городская недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/281836793/,Москва,rent,flat,7,12,3,110.0,300000,0,Якиманка, Серафимовича,2,Боровицкая

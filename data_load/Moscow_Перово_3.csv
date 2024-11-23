@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307718083/,Москва,rent,flat,3,5,3,53.0,65000,0,Рязанский, Михайлова,5,Перово
+1,ID 88393714,homeowner,https://www.cian.ru/rent/flat/307682894/,Москва,rent,flat,3,5,3,55.0,65000,0,Рязанский, Михайлова,5,Перово
+2,ID 12803,realtor,https://www.cian.ru/rent/flat/298961464/,Москва,rent,flat,10,12,3,65.0,100000,0,Перово, Аносова,3К2,Перово
+3,ID 108864075,homeowner,https://www.cian.ru/rent/flat/307725101/,Москва,rent,flat,12,14,2,39.0,57500,0,Лефортово,Солдатская ,8К1,Лефортово
+4,ID 13678041,real_estate_agent,https://www.cian.ru/rent/flat/307635729/,Москва,rent,flat,11,18,2,57.0,55000,0,Кузьминки,Волгоградский проспект,96К2,Кузьминки
+5,MOTYLEK - департамент недвижимости,real_estate_agent,https://www.cian.ru/rent/flat/307702231/,Москва,rent,flat,9,17,-1,20.0,32000,0,Москворечье-Сабурово,Кантемировская ,22К1,Кантемировская
+6,ID 91741934,homeowner,https://www.cian.ru/rent/flat/307682554/,Москва,rent,flat,4,5,2,32.0,52000,0,Царицыно,Пролетарский проспект,26К4,Кантемировская
+7,ID 50594252,homeowner,https://www.cian.ru/rent/flat/307650899/,Москва,rent,flat,6,10,2,45.0,53000,0,Выхино-Жулебино,Ташкентская ,25К1,Юго-Восточная
+8,ID 89986184,unknown,https://www.cian.ru/rent/flat/307685698/,Москва,rent,flat,8,10,2,45.0,50000,0,Выхино-Жулебино,Ташкентская ,15/22,Юго-Восточная
+9,ID 85745033,homeowner,https://www.cian.ru/rent/flat/270709183/,Москва,rent,flat,13,16,2,50.9,50000,0,Нижегородский,Смирновская ,5,Калитники
+10,ID 49985593,homeowner,https://www.cian.ru/rent/flat/236118897/,Москва,rent,flat,3,5,2,42.0,60000,0,Кузьминки,Волгоградский проспект,109К5,Кузьминки
+11,Татьяна Петрова,realtor,https://www.cian.ru/rent/flat/307726099/,Москва,rent,flat,1,9,2,38.0,50000,0,Кузьминки,Зеленодольская ,15К1,Кузьминки
+12,ID 20284898,unknown,https://www.cian.ru/rent/flat/307697604/,Москва,rent,flat,10,12,3,62.7,55000,0,Бирюлево Восточное,Липецкая ,24К2,Царицыно
+13,ID 81427696,unknown,https://www.cian.ru/rent/flat/301871495/,Москва,rent,flat,14,17,3,52.0,60000,0,, Сосенский Стан,11,Новомосковская
+14,EMPIRE HOME,real_estate_agent,https://www.cian.ru/rent/flat/307627833/,Москва,rent,flat,2,9,3,58.0,68000,0,Покровское-Стрешнево,Врачебный проезд,10К1,Щукинская
+15,ID 122177907,homeowner,https://www.cian.ru/rent/flat/307725787/,Москва,rent,flat,1,5,2,45.0,68000,0,Кузьминки, Юных Ленинцев,107К3,Кузьминки
+16,Григорий Баринов,realtor,https://www.cian.ru/rent/flat/307724413/,Москва,rent,flat,6,9,2,52.5,70000,0,Текстильщики, Юных Ленинцев,18К2,Волжская
+17,ID 116799242,homeowner,https://www.cian.ru/rent/flat/302412435/,Москва,rent,flat,5,17,2,54.0,55000,0,Некрасовка,Покровская ,31,Некрасовка
+18,ID 74788133,homeowner,https://www.cian.ru/rent/flat/280504992/,Москва,rent,flat,5,9,3,65.0,75000,0,Теплый Стан,Профсоюзная ,156К3,Тёплый Стан
+19,Мой Дом - отделение Добрынинское,real_estate_agent,https://www.cian.ru/rent/flat/307711868/,Москва,rent,flat,3,9,3,61.0,80000,0,Коньково, Генерала Антонова,5К3,Беляево
+20,ЖилКомСтрой,real_estate_agent,https://www.cian.ru/rent/flat/307440757/,Москва,rent,flat,7,9,3,72.0,75000,0,Черемушки, Цюрупы,7К1,Новые Черёмушки
+21,Михаил Мальцев,realtor,https://www.cian.ru/rent/flat/307602380/,Москва,rent,flat,9,9,2,45.0,50000,0,Новогиреево,Полимерная ,7,Кусково
+22,MOTYLEK - департамент недвижимости,real_estate_agent,https://www.cian.ru/rent/flat/307214415/,Москва,rent,flat,9,17,2,55.0,50000,0,Выхино-Жулебино,Привольная ,9К1,Лермонтовский проспект
+23,ID 478645,realtor,https://www.cian.ru/rent/flat/307387201/,Москва,rent,flat,5,5,2,42.0,48000,0,Перово, Плеханова,26К1,Перово
+24,Лариса Смородина,realtor,https://www.cian.ru/rent/flat/307706150/,Москва,rent,flat,11,16,2,51.0,55000,0,Вешняки,Косинская ,24К3,Выхино

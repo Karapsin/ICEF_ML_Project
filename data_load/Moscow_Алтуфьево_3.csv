@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,ДИАЛЬ-НЕДВИЖИМОСТЬ,real_estate_agent,https://www.cian.ru/rent/flat/307776763/,Москва,rent,flat,4,12,3,62.8,70000,0,Бибирево,Белозерская ,1А,Алтуфьево
+1,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307744672/,Москва,rent,flat,4,22,3,75.0,65000,0,Алтуфьевский,Инженерная ,8А,Алтуфьево
+2,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307738173/,Москва,rent,flat,5,16,3,66.0,90000,0,Бибирево, Плещеева,13,Алтуфьево
+3,ID 16814580,unknown,https://www.cian.ru/rent/flat/307722892/,Москва,rent,flat,5,16,3,64.1,90000,0,Бибирево, Плещеева,13,Алтуфьево
+4,Парус,real_estate_agent,https://www.cian.ru/rent/flat/307702918/,Москва,rent,flat,9,20,3,70.0,85000,0,Лианозово,Новгородская ,5к1,Алтуфьево
+5,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307677960/,Москва,rent,flat,10,12,3,65.0,100000,0,Алтуфьевский,Алтуфьевское шоссе,58А,Алтуфьево
+6,Наталья Шеле,realtor,https://www.cian.ru/rent/flat/307636816/,Москва,rent,flat,4,12,3,61.4,90000,0,Алтуфьевский,Бибиревская ,17В,Алтуфьево
+7,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307622862/,Москва,rent,flat,10,12,3,66.0,100000,0,Алтуфьевский,Алтуфьевское шоссе,58А,Алтуфьево
+8,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307614133/,Москва,rent,flat,10,12,3,65.0,100000,0,Алтуфьевский,Алтуфьевское шоссе,58А,Алтуфьево
+9,ID 106286471,homeowner,https://www.cian.ru/rent/flat/307604777/,Москва,rent,flat,10,12,3,65.0,100000,0,Алтуфьевский,Алтуфьевское шоссе,58А,Алтуфьево
+10,My Hoyse,real_estate_agent,https://mytishchi.cian.ru/rent/flat/307483563/,Москва,rent,flat,1,9,3,97.0,73000,0,д. Пирогово, Ильинского,7,
+11,Паскаль,real_estate_agent,https://www.cian.ru/rent/flat/307471061/,Москва,rent,flat,5,9,3,53.0,68000,0,Лианозово,Угличская ,6К2,Алтуфьево
+12,АВАНГАРД,real_estate_agent,https://www.cian.ru/rent/flat/307436321/,Москва,rent,flat,10,17,3,75.0,95000,0,Лианозово,Новгородская ,5,Алтуфьево
+13,ID 89919508,unknown,https://mytishchi.cian.ru/rent/flat/307412407/,Москва,rent,flat,7,10,3,61.0,65000,0,д. Пирогово, Ильинского,6к1,
+14,Тимур Сарвари,realtor,https://www.cian.ru/rent/flat/307387536/,Москва,rent,flat,9,16,3,74.0,95000,0,Бибирево,Шенкурский проезд,11,Алтуфьево
+15,ID 78097854,homeowner,https://mytishchi.cian.ru/rent/flat/307360749/,Москва,rent,flat,4,10,3,100.0,70000,0,д. Пирогово, Сурикова,1,
+16,Циан х ПИК-Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307358638/,Москва,rent,flat,3,9,3,60.4,70000,0,Бибирево, Корнейчука,47,Алтуфьево
+17,Градомиръ,real_estate_agent,https://mytishchi.cian.ru/rent/flat/307300816/,Москва,rent,flat,12,17,3,65.0,44000,0,, Советская,2А,Алтуфьево
+18,Марина Акритиди,realtor,https://mytishchi.cian.ru/rent/flat/307095902/,Москва,rent,flat,6,10,3,59.4,70000,0,д. Пирогово, Ильинского,6,
+19,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/306607727/,Москва,rent,flat,13,14,3,78.0,105000,0,Алтуфьевский,Костромская ,6К2,Алтуфьево
+20,ID 2087,realtor,https://mytishchi.cian.ru/rent/flat/306297407/,Москва,rent,flat,3,3,3,90.0,65000,0,пос. Вешки, Северная,4,
+21,ID 18116154,realtor,https://www.cian.ru/rent/flat/306188636/,Москва,rent,flat,5,12,3,64.0,75000,0,Бибирево, Пришвина,11,Алтуфьево
+22,ID 50976835,homeowner,https://mytishchi.cian.ru/rent/flat/305812909/,Москва,rent,flat,4,6,3,75.0,90000,0,, Красная Слобода,7,Алтуфьево
+23,Дмитрий Неводов,realtor,https://www.cian.ru/rent/flat/285680060/,Москва,rent,flat,17,22,3,80.0,85000,0,Бибирево,Алтуфьевское шоссе,100,Алтуфьево
+24,Дмитрий Павленко,realtor,https://www.cian.ru/rent/flat/307296897/,Москва,rent,flat,8,20,3,75.0,75000,0,Тимирязевский,Дмитровское шоссе,55,Петровско-Разумовская

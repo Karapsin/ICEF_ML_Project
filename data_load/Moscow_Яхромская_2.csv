@@ -1,0 +1,29 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307756587/,Москва,rent,flat,10,32,2,74.0,90000,0,Восточное Дегунино,Дубнинская ,40АК3,Яхромская
+1,Виктория Геннадьевна Иванова,realtor,https://www.cian.ru/rent/flat/307743846/,Москва,rent,flat,8,9,2,40.0,80000,0,Дмитровский,Дмитровское шоссе,131К2,Яхромская
+2,ИП Патынская Л. В.,real_estate_agent,https://www.cian.ru/rent/flat/307738235/,Москва,rent,flat,6,9,2,45.0,50000,0,Восточное Дегунино, 800-летия Москвы,11К7,Яхромская
+3,ID 114895679,homeowner,https://www.cian.ru/rent/flat/307723717/,Москва,rent,flat,10,32,2,74.0,90000,0,Восточное Дегунино,Дубнинская ,40АК3,Яхромская
+4,Татьяна Викентьева,realtor,https://www.cian.ru/rent/flat/307686238/,Москва,rent,flat,3,12,2,47.0,65000,0,Восточное Дегунино,Дубнинская ,20К1,Яхромская
+5,Наталья Голушкина,realtor,https://www.cian.ru/rent/flat/307684832/,Москва,rent,flat,8,14,2,60.0,90000,0,Дмитровский,Ангарская ,67К2,Яхромская
+6,EMPIRE HOME,real_estate_agent,https://www.cian.ru/rent/flat/307652775/,Москва,rent,flat,2,15,2,53.0,55000,0,Западное Дегунино,Дегунинская ,20к1,Яхромская
+7,For COMFORT,real_estate_agent,https://www.cian.ru/rent/flat/307650335/,Москва,rent,flat,10,32,2,76.0,90000,0,Восточное Дегунино,Дубнинская ,40АК3,Яхромская
+8,Ксения Матвеева,realtor,https://www.cian.ru/rent/flat/307633684/,Москва,rent,flat,8,14,2,54.0,65000,0,Восточное Дегунино, 800-летия Москвы,11,Яхромская
+9,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307564035/,Москва,rent,flat,10,32,2,75.0,90000,0,Восточное Дегунино,Дубнинская ,40АК3,Яхромская
+10,ID 470745,unknown,https://www.cian.ru/rent/flat/307548108/,Москва,rent,flat,16,22,2,53.0,70000,0,Бескудниковский,Рогачевский переулок,4к1,Яхромская
+11,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307538143/,Москва,rent,flat,3,23,2,62.0,100000,0,Бескудниковский,Бескудниковский бульвар,52к1,Яхромская
+12,Елена Сударева,realtor,https://www.cian.ru/rent/flat/307509988/,Москва,rent,flat,5,12,2,45.0,70000,0,Западное Дегунино,Дегунинская ,15,Яхромская
+13,ID 80815118,unknown,https://www.cian.ru/rent/flat/307492803/,Москва,rent,flat,2,12,2,44.7,75000,0,Дмитровский,Клязьминская ,4,Яхромская
+14,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307252052/,Москва,rent,flat,23,24,2,60.0,100000,0,Бескудниковский,Дмитровское шоссе,94К1,Яхромская
+15,Алла Киха,realtor,https://www.cian.ru/rent/flat/307244677/,Москва,rent,flat,10,12,2,43.7,60000,0,Западное Дегунино,Талдомская ,15,Яхромская
+16,EstateLiga,real_estate_agent,https://www.cian.ru/rent/flat/307107751/,Москва,rent,flat,12,16,2,65.0,110000,0,Дмитровский,Лобненская ,13к4,Яхромская
+17,EXPERT,real_estate_agent,https://www.cian.ru/rent/flat/307070586/,Москва,rent,flat,7,10,2,39.0,80000,0,Дмитровский,Дмитровское шоссе,107Б,Яхромская
+18,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/306958573/,Москва,rent,flat,32,33,2,57.0,87000,0,Дмитровский,Лобненская ,13к4,Яхромская
+19,Мой Дом - отделение Добрынинское,real_estate_agent,https://www.cian.ru/rent/flat/306658650/,Москва,rent,flat,2,5,2,42.0,56000,0,Дмитровский,Коровинское шоссе,24К2,Яхромская
+20,ID 78602217,homeowner,https://www.cian.ru/rent/flat/306313803/,Москва,rent,flat,11,17,2,64.0,80000,0,Бескудниковский,Селигерская ,18к4,Яхромская
+21,ID 72062540,homeowner,https://www.cian.ru/rent/flat/305300085/,Москва,rent,flat,18,22,2,53.0,106000,0,Бескудниковский,Рогачевский переулок,4к1,Яхромская
+22,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/304955507/,Москва,rent,flat,15,17,2,60.0,118000,0,Бескудниковский,Бескудниковский проезд,4к2,Яхромская
+23,ID 112665552,homeowner,https://www.cian.ru/rent/flat/304900156/,Москва,rent,flat,8,19,2,51.0,110000,0,Бескудниковский,Дмитровское шоссе,86к6,Яхромская
+24,ID 23945235,homeowner,https://www.cian.ru/rent/flat/301087690/,Москва,rent,flat,3,9,2,44.0,70000,0,Восточное Дегунино, 800-летия Москвы,11К7,Яхромская
+25,ID 14539552,homeowner,https://www.cian.ru/rent/flat/298821734/,Москва,rent,flat,15,17,2,60.3,118000,0,Бескудниковский,Бескудниковский проезд,4к2,Яхромская
+26,ID 111074352,homeowner,https://www.cian.ru/rent/flat/296872434/,Москва,rent,flat,6,14,2,60.0,120000,0,Дмитровский,Яхромская ,6,Яхромская
+27,ID 88754687,unknown,https://www.cian.ru/rent/flat/294417797/,Москва,rent,flat,5,9,2,46.0,53000,0,Дмитровский,Учинская ,1А,Яхромская

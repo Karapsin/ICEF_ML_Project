@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307808511/,Москва,rent,flat,31,32,3,70.0,120000,0,Бутырский, Руставели,14,Останкино
+1,ID 84252293,unknown,https://www.cian.ru/rent/flat/307728024/,Москва,rent,flat,1,5,3,58.5,75000,0,Марфино,Ботаническая ,5,Останкино
+2,СЕДЬМОЕ НЕБО,real_estate_agent,https://www.cian.ru/rent/flat/307684321/,Москва,rent,flat,8,22,3,76.0,130000,0,Марфино, Кашенкин Луг,6к2,Останкино
+3,Евгений Петровский,realtor,https://www.cian.ru/rent/flat/307455771/,Москва,rent,flat,7,14,3,74.1,100000,0,Марфино, Академика Комарова,1,Останкино
+4,ID 489769,realtor,https://www.cian.ru/rent/flat/306758261/,Москва,rent,flat,7,17,3,78.0,85000,0,Марфино,Большая Марфинская ,1к2,Останкино
+5,Новый дом,real_estate_agent,https://www.cian.ru/rent/flat/307705773/,Москва,rent,flat,2,12,2,50.0,78000,0,Тимирязевский,Тимирязевская ,17А,Дмитровская
+6,Дарья Румянцева,realtor,https://www.cian.ru/rent/flat/307632693/,Москва,rent,flat,2,5,3,68.0,110000,0,Савеловский,1-я Хуторская ,2К2,Дмитровская
+7,СТОЛИЦА Департамент недвижимости,real_estate_agent,https://www.cian.ru/rent/flat/307454901/,Москва,rent,flat,5,12,2,48.0,60000,0,Марьина роща, 4-я Марьиной рощи,6,Марьина Роща
+8,Дмитрий Павленко,realtor,https://www.cian.ru/rent/flat/307296897/,Москва,rent,flat,8,20,3,75.0,75000,0,Тимирязевский,Дмитровское шоссе,55,Петровско-Разумовская
+9,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307673409/,Москва,rent,flat,3,5,2,50.0,77000,0,Марьина роща,Анненская ,1,Марьина Роща
+10,Антон Осмелкин,realtor,https://www.cian.ru/rent/flat/307530536/,Москва,rent,flat,4,9,3,60.0,70000,0,Отрадное, Бестужевых,17Б,Отрадное
+11,АКРУС-сити,real_estate_agent,https://www.cian.ru/rent/flat/278475310/,Москва,rent,flat,10,12,3,65.0,75000,0,Басманный, Госпитальный Вал,3К5,Лефортово
+12,ID 121154463,homeowner,https://www.cian.ru/rent/flat/306816695/,Москва,rent,flat,5,5,3,54.9,89000,0,Аэропорт,Авиационный переулок,4,Аэропорт
+13,ID 234792,real_estate_agent,https://www.cian.ru/rent/flat/307679785/,Москва,rent,flat,12,22,3,76.4,85000,0,Алексеевский,Маломосковская ,21К1,ВДНХ
+14,Марина Сидорова,realtor,https://www.cian.ru/rent/flat/291838999/,Москва,rent,flat,3,5,3,60.0,80000,0,Соколиная гора, Семеновский Вал,10К2,Семёновская
+15,RainbowEstate,real_estate_agent,https://www.cian.ru/rent/flat/292589883/,Москва,rent,flat,3,9,3,70.0,100000,0,Беговой,Ленинградский проспект,1,Белорусская
+16,СТОЛИЦА Департамент недвижимости,real_estate_agent,https://www.cian.ru/rent/flat/307674470/,Москва,rent,flat,7,20,3,50.0,95000,0,Останкинский,Березовая аллея,19к4,Ботанический сад
+17,Ольга Глотова,realtor,https://www.cian.ru/rent/flat/307080678/,Москва,rent,flat,7,12,2,39.0,70000,0,Алексеевский,Новоалексеевская ,4К1,Алексеевская
+18,ID 73889857,unknown,https://www.cian.ru/rent/flat/292475847/,Москва,rent,flat,9,9,2,46.0,70000,0,Савеловский,Башиловская ,3К1,Савёловская
+19,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307491690/,Москва,rent,flat,8,17,2,63.0,78000,0,Алексеевский,3-я Мытищинская ,3к2,Алексеевская
+20,ПИК-Аренда,real_estate_agent,https://www.cian.ru/rent/flat/306949620/,Москва,rent,flat,1,12,3,60.0,80000,0,Останкинский, Годовикова,1К2,Алексеевская
+21,Central-arenda,real_estate_agent,https://www.cian.ru/rent/flat/291299261/,Москва,rent,flat,7,14,3,78.0,70000,0,Соколиная гора, 5-я Соколиной Горы,18К2,Шоссе Энтузиастов
+22,Сергей Желтаков,realtor,https://www.cian.ru/rent/flat/307679453/,Москва,rent,flat,2,14,2,40.0,70000,0,Мещанский,Большая Переяславская ,6К1,Площадь трёх вокзалов
+23,Алексей Мальцев,realtor,https://www.cian.ru/rent/flat/307720051/,Москва,rent,flat,5,5,2,45.0,65000,0,Тимирязевский,Тимирязевская ,20К2,Тимирязевская
+24,МИЭЛЬ,real_estate_agent,https://www.cian.ru/rent/flat/307406047/,Москва,rent,flat,8,9,2,44.2,75000,0,Мещанский,Орлово-Давыдовский переулок,3,Проспект Мира

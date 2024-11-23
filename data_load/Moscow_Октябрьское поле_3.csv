@@ -1,0 +1,29 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,АRbroker,real_estate_agent,https://www.cian.ru/rent/flat/307775782/,Москва,rent,flat,3,15,3,65.0,135000,0,Хорошево-Мневники,3-я Хорошевская ,21к1,Октябрьское поле
+1,Lucky Realty,real_estate_agent,https://www.cian.ru/rent/flat/307775282/,Москва,rent,flat,20,38,3,100.0,330000,0,Щукино,Авиационная ,77к2,Октябрьское поле
+2,ДОМ.РФ Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307773679/,Москва,rent,flat,14,24,3,66.0,142900,0,Щукино, Берзарина,30А,Октябрьское поле
+3,Яндекс Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307745124/,Москва,rent,flat,10,16,3,76.0,172500,0,Щукино, Маршала Василевского,9К4,Октябрьское поле
+4,KAIF,real_estate_agent,https://www.cian.ru/rent/flat/307741328/,Москва,rent,flat,9,27,3,130.0,245000,0,Щукино, Маршала Соколовского,5,Октябрьское поле
+5,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307740418/,Москва,rent,flat,8,22,3,55.0,110000,0,Хорошево-Мневники,3-я Хорошевская ,17А,Октябрьское поле
+6,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307729208/,Москва,rent,flat,14,22,3,60.0,150000,0,Хорошево-Мневники,3-я Хорошевская ,17А,Октябрьское поле
+7,Leto Estate,real_estate_agent,https://www.cian.ru/rent/flat/307682431/,Москва,rent,flat,11,49,3,167.0,260000,0,Щукино,Авиационная ,79К1,Октябрьское поле
+8,ID 12558566,realtor,https://www.cian.ru/rent/flat/307680676/,Москва,rent,flat,17,22,3,60.0,140000,0,Щукино, Берзарина,30А,Октябрьское поле
+9,ID 29530819,homeowner,https://www.cian.ru/rent/flat/307676030/,Москва,rent,flat,9,23,3,127.5,245000,0,Щукино, Маршала Соколовского,5,Октябрьское поле
+10,Валерия Архипова,realtor,https://www.cian.ru/rent/flat/307639923/,Москва,rent,flat,20,31,3,100.0,330000,0,Щукино,Авиационная ,77к2,Октябрьское поле
+11,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307635062/,Москва,rent,flat,20,31,3,110.0,330000,0,Щукино,Авиационная ,77к2,Октябрьское поле
+12,Las Vegas,real_estate_agent,https://www.cian.ru/rent/flat/307632887/,Москва,rent,flat,2,9,3,60.0,250000,0,Хорошево-Мневники, Маршала Тухачевского,23К1,Октябрьское поле
+13,Алексей Дроздов,realtor,https://www.cian.ru/rent/flat/307608068/,Москва,rent,flat,5,11,3,150.0,250000,0,Хорошевский, Куусинена,21А,Октябрьское поле
+14,KAIF,real_estate_agent,https://www.cian.ru/rent/flat/307587771/,Москва,rent,flat,20,31,3,100.0,330000,0,Щукино,Авиационная ,77к2,Октябрьское поле
+15,ID 121972133,homeowner,https://www.cian.ru/rent/flat/307538913/,Москва,rent,flat,5,23,3,125.0,270000,0,Щукино, Расплетина,22к2,Октябрьское поле
+16,AGORA,real_estate_agent,https://www.cian.ru/rent/flat/307522693/,Москва,rent,flat,3,9,3,60.0,80000,0,Строгино, Исаковского,12К2,Октябрьское поле
+17,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307403911/,Москва,rent,flat,11,22,3,80.0,120000,0,Щукино, Маршала Василевского,17,Октябрьское поле
+18,My Hoyse,real_estate_agent,https://www.cian.ru/rent/flat/307322561/,Москва,rent,flat,8,26,3,132.0,200000,0,Хорошево-Мневники, Народного Ополчения,33,Октябрьское поле
+19,My Hoyse,real_estate_agent,https://www.cian.ru/rent/flat/307318961/,Москва,rent,flat,8,32,3,170.0,300000,0,Щукино,Авиационная ,77,Октябрьское поле
+20,Андрей Смирнов,realtor,https://www.cian.ru/rent/flat/307306708/,Москва,rent,flat,21,38,3,130.0,400000,0,Щукино,Авиационная ,77к2,Октябрьское поле
+21,ID 56232267,unknown,https://www.cian.ru/rent/flat/307206548/,Москва,rent,flat,15,34,3,60.0,85000,0,Щукино,Авиационная ,66,Октябрьское поле
+22,Славянка - офис Северо-Запад,real_estate_agent,https://www.cian.ru/rent/flat/307203398/,Москва,rent,flat,8,28,3,120.0,270000,0,Щукино,Авиационная ,79,Октябрьское поле
+23,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307056144/,Москва,rent,flat,3,9,3,60.0,80000,0,Строгино, Исаковского,12К2,Октябрьское поле
+24,Самолет плюс Москва,real_estate_agent,https://www.cian.ru/rent/flat/306980392/,Москва,rent,flat,8,16,3,72.8,120000,0,Хорошево-Мневники, Народного Ополчения,28К1,Октябрьское поле
+25,Смарт Реалти,real_estate_agent,https://www.cian.ru/rent/flat/306784725/,Москва,rent,flat,6,32,3,110.0,250000,0,Щукино, Расплетина,21,Октябрьское поле
+26,ИП Самарская М. И.,real_estate_agent,https://www.cian.ru/rent/flat/306561672/,Москва,rent,flat,4,24,3,144.72,280000,0,Щукино, Маршала Бирюзова,32К1,Октябрьское поле
+27,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/306554219/,Москва,rent,flat,2,12,3,67.0,95000,0,Хорошево-Мневники, Маршала Тухачевского,19,Октябрьское поле

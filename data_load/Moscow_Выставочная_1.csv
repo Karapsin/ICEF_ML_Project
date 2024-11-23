@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Елена Булаткина,realtor,https://www.cian.ru/rent/flat/307723689/,Москва,rent,flat,6,8,1,65.0,160000,0,Дорогомилово,Кутузовский проспект,31,Москва-Сити
+1,Vertex,real_estate_agent,https://www.cian.ru/rent/flat/307677312/,Москва,rent,flat,7,10,1,37.0,110000,0,Дорогомилово,Кутузовский проспект,22,Москва-Сити
+2,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/307669049/,Москва,rent,flat,9,12,1,37.0,110000,0,Дорогомилово,Кутузовский проспект,22к2,Москва-Сити
+3,Ольга Липай,realtor,https://www.cian.ru/rent/flat/307581707/,Москва,rent,flat,12,20,1,45.0,160000,0,Пресненский,2-я Черногрязская ,6к3,Москва-Сити
+4,ID 866911,unknown,https://www.cian.ru/rent/flat/307471577/,Москва,rent,flat,5,5,1,38.0,110000,0,Дорогомилово, Дунаевского,4,Москва-Сити
+5,RENT_BAND,real_estate_agent,https://www.cian.ru/rent/flat/307387289/,Москва,rent,flat,9,13,1,40.0,110000,0,Дорогомилово,Кутузовский проспект,22к2,Москва-Сити
+6,Ирина Кухтина,realtor,https://www.cian.ru/rent/flat/307359742/,Москва,rent,flat,6,9,1,38.0,90000,0,Дорогомилово,Большая Дорогомиловская ,16,Москва-Сити
+7,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/306732424/,Москва,rent,flat,4,10,1,50.0,200000,0,Дорогомилово,Кутузовский проспект,12,Москва-Сити
+8,Эльмира Эмирова,realtor,https://www.cian.ru/rent/flat/306366685/,Москва,rent,flat,58,75,1,90.0,410000,0,Пресненский,1-й Красногвардейский проезд,15,Москва-Сити
+9,Эльмира Эмирова,realtor,https://www.cian.ru/rent/flat/306366682/,Москва,rent,flat,49,75,1,88.6,380000,0,Пресненский,1-й Красногвардейский проезд,15,Москва-Сити
+10,Эльмира Эмирова,realtor,https://www.cian.ru/rent/flat/306366679/,Москва,rent,flat,46,75,1,88.0,380000,0,Пресненский,1-й Красногвардейский проезд,15,Москва-Сити
+11,Эльмира Эмирова,realtor,https://www.cian.ru/rent/flat/306366675/,Москва,rent,flat,42,75,1,77.5,370000,0,Пресненский,1-й Красногвардейский проезд,15,Москва-Сити
+12,Эльмира Эмирова,realtor,https://www.cian.ru/rent/flat/306365229/,Москва,rent,flat,42,75,1,80.0,370000,0,Пресненский,1-й Красногвардейский проезд,15,Москва-Сити
+13,ИНКОМ-Недвижимость. Аренда,real_estate_agent,https://www.cian.ru/rent/flat/306065056/,Москва,rent,flat,6,9,1,38.0,90000,0,Дорогомилово,Кутузовский проспект,9К1,Москва-Сити
+14,ID 97248749,realtor,https://www.cian.ru/rent/flat/304788546/,Москва,rent,flat,10,13,1,36.5,150000,0,Дорогомилово,Кутузовский проспект,22к2,Москва-Сити
+15,Светлана Софейкова,realtor,https://www.cian.ru/rent/flat/299465383/,Москва,rent,flat,10,12,1,31.0,80000,0,Дорогомилово,Кутузовский проспект,25,Москва-Сити
+16,ID 22653,real_estate_agent,https://www.cian.ru/rent/flat/298940924/,Москва,rent,flat,12,70,1,51.0,230000,0,Пресненский,Краснопресненская набережная,14Ак2,Москва-Сити
+17,Intermark Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/290518215/,Москва,rent,flat,42,75,1,45.0,210000,0,Пресненский,1-й Красногвардейский проезд,15,Москва-Сити
+18,Intermark Real Estate,real_estate_agent,https://www.cian.ru/rent/flat/289034173/,Москва,rent,flat,46,75,1,102.0,350000,0,Пресненский,1-й Красногвардейский проезд,15,Москва-Сити
+19,Роман Дыбин,realtor,https://www.cian.ru/rent/flat/286768014/,Москва,rent,flat,9,12,1,37.0,110000,0,Дорогомилово,Кутузовский проспект,22к2,Москва-Сити
+20,Мой Дом - отделение Добрынинское,real_estate_agent,https://www.cian.ru/rent/flat/307414036/,Москва,rent,flat,4,6,2,54.0,90000,0,Дорогомилово,Кутузовский проспект,24,Москва-Сити
+21,capital city,real_estate_agent,https://www.cian.ru/rent/flat/307312578/,Москва,rent,flat,67,95,2,92.0,270000,0,Пресненский,набережная Пресненская,12,Деловой центр
+22,Вартан Вартанян,realtor,https://www.cian.ru/rent/flat/307525401/,Москва,rent,flat,12,12,2,49.0,100000,0,Арбат,Староконюшенный переулок,30,Кропоткинская
+23,Urban Heights Moscow City,real_estate_agent,https://www.cian.ru/rent/flat/304625299/,Москва,rent,flat,80,95,2,65.0,230000,0,Пресненский,набережная Пресненская,12,Деловой центр
+24,ID 24419,real_estate_agent,https://www.cian.ru/rent/flat/307470965/,Москва,rent,flat,4,8,2,46.0,150000,0,Хамовники,переулок Сивцев Вражек,15/25,Кропоткинская

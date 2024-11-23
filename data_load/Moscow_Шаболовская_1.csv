@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Суламит-НГС,real_estate_agent,https://www.cian.ru/rent/flat/307741291/,Москва,rent,flat,2,9,1,33.0,70000,0,Даниловский, Шаболовка,63К1,Шаболовская
+1,Горизонт,real_estate_agent,https://www.cian.ru/rent/flat/307698976/,Москва,rent,flat,2,14,1,40.0,75000,0,Якиманка, Шаболовка,16К1,Шаболовская
+2,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307676686/,Москва,rent,flat,4,4,1,26.0,110000,0,Даниловский,2-я Рощинская ,10,Шаболовская
+3,ПАРТНЕР,real_estate_agent,https://www.cian.ru/rent/flat/307661928/,Москва,rent,flat,2,9,1,35.0,80000,0,Донской, Орджоникидзе,6/9,Шаболовская
+4,Михаил Мальцев,realtor,https://www.cian.ru/rent/flat/307347237/,Москва,rent,flat,7,9,1,33.5,75000,0,Якиманка, Шаболовка,25К1,Шаболовская
+5,Realtme,real_estate_agent,https://www.cian.ru/rent/flat/307133071/,Москва,rent,flat,6,11,1,35.0,90000,0,Донской,Духовской переулок,19,Шаболовская
+6,ГОРОБМЕН,real_estate_agent,https://www.cian.ru/rent/flat/306974566/,Москва,rent,flat,7,9,1,40.0,120000,0,Даниловский, Шухова,17К1,Шаболовская
+7,Матвей Макуров,realtor,https://www.cian.ru/rent/flat/306796427/,Москва,rent,flat,8,9,1,32.0,75000,0,Донской, Шаболовка,32,Шаболовская
+8,ID 56546610,unknown,https://www.cian.ru/rent/flat/306790271/,Москва,rent,flat,6,9,1,40.0,110000,0,Донской,4-й Верхний Михайловский проезд,1,Шаболовская
+9,Delta estate,real_estate_agent,https://www.cian.ru/rent/flat/306780448/,Москва,rent,flat,2,2,1,33.0,115000,0,Даниловский,Холодильный переулок,2,Шаболовская
+10,EMPIRE HOME,real_estate_agent,https://www.cian.ru/rent/flat/305729980/,Москва,rent,flat,4,5,1,35.0,80000,0,Даниловский,Духовской переулок,20кБ,Шаболовская
+11,Элитный Дом,real_estate_agent,https://www.cian.ru/rent/flat/299402503/,Москва,rent,flat,12,16,1,61.0,119999,0,Даниловский, Серпуховский Вал,21к1,Шаболовская
+12,ID 79857974,homeowner,https://www.cian.ru/rent/flat/284814483/,Москва,rent,flat,8,11,1,31.0,120000,0,Донской,Духовской переулок,19с2,Шаболовская
+13,ID 21445372,homeowner,https://www.cian.ru/rent/flat/266227681/,Москва,rent,flat,5,12,1,37.0,130000,0,Даниловский,Холодильный переулок,4,Шаболовская
+14,ID 59357,realtor,https://www.cian.ru/rent/flat/245447371/,Москва,rent,flat,6,16,1,41.0,80000,0,Даниловский,Большая Тульская ,2,Шаболовская
+15,ID 53162893,realtor,https://www.cian.ru/rent/flat/240605830/,Москва,rent,flat,5,9,1,32.5,66000,0,Якиманка,Донская ,17,Шаболовская
+16,Оксана Серафимова,realtor,https://www.cian.ru/rent/flat/224186630/,Москва,rent,flat,6,16,1,43.0,80000,0,Донской, Орджоникидзе,14,Шаболовская
+17,Андрей Вокин,realtor,https://www.cian.ru/rent/flat/307647164/,Москва,rent,flat,7,8,1,35.0,65000,0,Хамовники,Новодевичий проезд,4,Спортивная
+18,ID 23956980,realtor,https://www.cian.ru/rent/flat/307625261/,Москва,rent,flat,1,5,1,33.0,65000,0,Якиманка,2-й Добрынинский переулок,5/9,Добрынинская
+19,ID 8220,realtor,https://www.cian.ru/rent/flat/307541251/,Москва,rent,flat,2,14,1,39.0,60000,0,Замоскворечье,Люсиновская ,12,Серпуховская
+20,Геннадий Гаина,realtor,https://www.cian.ru/rent/flat/251289983/,Москва,rent,flat,3,9,1,38.0,60000,0,Гагаринский, Вавилова,54К2,Академическая
+21,Maroom,real_estate_agent,https://www.cian.ru/rent/flat/307062999/,Москва,rent,flat,8,14,1,35.5,88000,0,Хамовники,Малая Пироговская ,27К1,Спортивная
+22,Олег Акулов,realtor,https://www.cian.ru/rent/flat/307528085/,Москва,rent,flat,1,17,1,40.0,70000,0,Академический, Дмитрия Ульянова,28К2,Академическая
+23,ID 20510,real_estate_agent,https://www.cian.ru/rent/flat/191432213/,Москва,rent,flat,5,16,1,40.0,60000,0,Академический, Кедрова,3,Академическая
+24,ID 69392442,homeowner,https://www.cian.ru/rent/flat/251955241/,Москва,rent,flat,6,8,1,40.0,80000,0,Басманный, Земляной Вал,39/1С1,Чкаловская

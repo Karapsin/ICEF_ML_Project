@@ -1,0 +1,57 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Светлана Бабко,realtor,https://www.cian.ru/rent/flat/307741969/,Москва,rent,flat,4,10,3,87.0,160000,0,Дорогомилово,Кутузовский проспект,22,Деловой центр
+1,SKOLKOVO НЕДВИЖИМОСТЬ,real_estate_agent,https://www.cian.ru/rent/flat/307723651/,Москва,rent,flat,35,70,3,125.0,700000,0,Пресненский,1-й Красногвардейский проезд,22с2,Деловой центр
+2,Smart Estate Brokerage,real_estate_agent,https://www.cian.ru/rent/flat/307708740/,Москва,rent,flat,76,97,3,160.0,550000,0,Пресненский,набережная Пресненская,12,Деловой центр
+3,Smart Estate Brokerage,real_estate_agent,https://www.cian.ru/rent/flat/307677279/,Москва,rent,flat,33,78,3,68.0,400000,0,Пресненский,1-й Красногвардейский проезд,22с2,Деловой центр
+4,Юлия Снежная,realtor,https://www.cian.ru/rent/flat/307651299/,Москва,rent,flat,48,78,3,92.0,550000,0,Пресненский,1-й Красногвардейский проезд,22с2,Деловой центр
+5,Smart Estate Brokerage,real_estate_agent,https://www.cian.ru/rent/flat/307630617/,Москва,rent,flat,69,78,3,134.0,450000,0,Пресненский,1-й Красногвардейский проезд,22с2,Деловой центр
+6,MOSCOW CITY LAB,real_estate_agent,https://www.cian.ru/rent/flat/307492275/,Москва,rent,flat,35,78,3,120.0,699999,0,Пресненский,1-й Красногвардейский проезд,22с2,Деловой центр
+7,Парус,real_estate_agent,https://www.cian.ru/rent/flat/307457306/,Москва,rent,flat,66,85,3,194.0,820000,0,Пресненский,1-й Красногвардейский проезд,21с2,Деловой центр
+8,МОСКВА СИТИ,real_estate_agent,https://www.cian.ru/rent/flat/307426471/,Москва,rent,flat,44,75,3,145.0,450000,0,Пресненский,1-й Красногвардейский проезд,15,Деловой центр
+9,Эльмира Эмирова,realtor,https://www.cian.ru/rent/flat/307387621/,Москва,rent,flat,31,68,3,80.0,450000,0,Пресненский,1-й Красногвардейский проезд,22с1,Деловой центр
+10,Юлия Снежная,realtor,https://www.cian.ru/rent/flat/307338219/,Москва,rent,flat,34,75,3,200.0,700000,0,Пресненский,набережная Пресненская,8с1,Деловой центр
+11,capital city,real_estate_agent,https://www.cian.ru/rent/flat/307320710/,Москва,rent,flat,68,85,3,196.0,400000,0,Пресненский,1-й Красногвардейский проезд,21с2,Деловой центр
+12,capital city,real_estate_agent,https://www.cian.ru/rent/flat/307320053/,Москва,rent,flat,60,75,3,235.0,400000,0,Пресненский,набережная Пресненская,8с1,Деловой центр
+13,capital city,real_estate_agent,https://www.cian.ru/rent/flat/307315544/,Москва,rent,flat,49,78,3,134.0,400000,0,Пресненский,1-й Красногвардейский проезд,22с2,Деловой центр
+14,capital city,real_estate_agent,https://www.cian.ru/rent/flat/307314749/,Москва,rent,flat,57,78,3,103.0,300000,0,Пресненский,1-й Красногвардейский проезд,22с2,Деловой центр
+15,OXE CAPITAL - Элитная Недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/307270507/,Москва,rent,flat,60,73,3,150.0,1000000,0,Пресненский,набережная Пресненская,8с1,Деловой центр
+16,AEON CITY ESTATE,real_estate_agent,https://www.cian.ru/rent/flat/307252416/,Москва,rent,flat,71,95,3,186.7,750000,0,Пресненский,набережная Пресненская,12,Деловой центр
+17,Максим Забежайлов,realtor,https://www.cian.ru/rent/flat/307244561/,Москва,rent,flat,25,78,3,95.0,550000,0,Пресненский,1-й Красногвардейский проезд,22с2,Деловой центр
+18,NF Group - ex-Knight Frank,real_estate_agent,https://www.cian.ru/rent/flat/306977775/,Москва,rent,flat,33,65,3,190.0,700000,0,Пресненский,набережная Пресненская,8с1,Деловой центр
+19,Penny Lane Moscow,real_estate_agent,https://www.cian.ru/rent/flat/306967951/,Москва,rent,flat,33,36,3,187.0,700000,0,Пресненский,набережная Пресненская,8с1,Деловой центр
+20,THE MOSCOW CITY,real_estate_agent,https://www.cian.ru/rent/flat/306952692/,Москва,rent,flat,33,62,3,187.0,700000,0,Пресненский,набережная Пресненская,8с1,Деловой центр
+21,BOYKOV Company,real_estate_agent,https://www.cian.ru/rent/flat/306778678/,Москва,rent,flat,44,85,3,168.0,550000,0,Пресненский,1-й Красногвардейский проезд,21с2,Деловой центр
+22,ЦДВ Инвест,real_estate_agent,https://www.cian.ru/rent/flat/306762848/,Москва,rent,flat,4,10,3,71.0,220000,0,Дорогомилово,Кутузовский проспект,24,Деловой центр
+23,THE MOSCOW CITY,real_estate_agent,https://www.cian.ru/rent/flat/306752671/,Москва,rent,flat,50,85,3,170.0,550000,0,Пресненский,1-й Красногвардейский проезд,21с2,Деловой центр
+24,Антон Черников,realtor,https://www.cian.ru/rent/flat/306734389/,Москва,rent,flat,50,78,3,117.5,450000,0,Пресненский,1-й Красногвардейский проезд,22с2,Деловой центр
+25,Delight Realty,real_estate_agent,https://www.cian.ru/rent/flat/306672200/,Москва,rent,flat,8,67,3,102.0,450000,0,Пресненский,Краснопресненская набережная,14Ак2,Деловой центр
+26,МОСКВА СИТИ,real_estate_agent,https://www.cian.ru/rent/flat/306278265/,Москва,rent,flat,7,78,3,94.9,380000,0,Пресненский,1-й Красногвардейский проезд,22с2,Деловой центр
+27,Native Home,real_estate_agent,https://www.cian.ru/rent/flat/306276607/,Москва,rent,flat,66,85,3,194.0,750000,0,Пресненский,1-й Красногвардейский проезд,21с2,Деловой центр
+28,MC REALTY,real_estate_agent,https://www.cian.ru/rent/flat/306223368/,Москва,rent,flat,43,85,3,160.0,550000,0,Пресненский,1-й Красногвардейский проезд,21с1,Деловой центр
+29,МОСКВА СИТИ,real_estate_agent,https://www.cian.ru/rent/flat/306202606/,Москва,rent,flat,44,78,3,100.0,400000,0,Пресненский,1-й Красногвардейский проезд,22с2,Деловой центр
+30,МОСКВА СИТИ,real_estate_agent,https://www.cian.ru/rent/flat/306181524/,Москва,rent,flat,63,78,3,102.0,400000,0,Пресненский,1-й Красногвардейский проезд,22с2,Деловой центр
+31,MC REALTY,real_estate_agent,https://www.cian.ru/rent/flat/306177706/,Москва,rent,flat,53,85,3,190.0,650000,0,Пресненский,1-й Красногвардейский проезд,21с1,Деловой центр
+32,МОСКВА СИТИ,real_estate_agent,https://www.cian.ru/rent/flat/306158217/,Москва,rent,flat,41,78,3,124.0,500000,0,Пресненский,1-й Красногвардейский проезд,22с2,Деловой центр
+33,SKOLKOVO НЕДВИЖИМОСТЬ,real_estate_agent,https://www.cian.ru/rent/flat/306147023/,Москва,rent,flat,66,85,3,194.0,819990,0,Пресненский,1-й Красногвардейский проезд,21с2,Деловой центр
+34,Penny Lane Moscow,real_estate_agent,https://www.cian.ru/rent/flat/306061141/,Москва,rent,flat,23,75,3,183.0,700000,0,Пресненский,набережная Пресненская,8с1,Деловой центр
+35,SKOLKOVO НЕДВИЖИМОСТЬ,real_estate_agent,https://www.cian.ru/rent/flat/306024739/,Москва,rent,flat,33,67,3,186.0,700000,0,Пресненский,набережная Пресненская,8с1,Деловой центр
+36,SKOLKOVO НЕДВИЖИМОСТЬ,real_estate_agent,https://www.cian.ru/rent/flat/306022122/,Москва,rent,flat,65,76,3,190.0,650000,0,Пресненский,набережная Пресненская,8с1,Деловой центр
+37,МОСКВА СИТИ,real_estate_agent,https://www.cian.ru/rent/flat/305907051/,Москва,rent,flat,37,78,3,90.0,320000,0,Пресненский,1-й Красногвардейский проезд,22с2,Деловой центр
+38,МОСКВА СИТИ,real_estate_agent,https://www.cian.ru/rent/flat/305645279/,Москва,rent,flat,33,78,3,100.0,400000,0,Пресненский,1-й Красногвардейский проезд,22с2,Деловой центр
+39,МОСКВА СИТИ,real_estate_agent,https://www.cian.ru/rent/flat/305645072/,Москва,rent,flat,30,78,3,95.0,380000,0,Пресненский,1-й Красногвардейский проезд,22с2,Деловой центр
+40,МОСКВА СИТИ,real_estate_agent,https://www.cian.ru/rent/flat/305642565/,Москва,rent,flat,60,78,3,142.5,550000,0,Пресненский,1-й Красногвардейский проезд,22с2,Деловой центр
+41,МОСКВА СИТИ,real_estate_agent,https://www.cian.ru/rent/flat/305642090/,Москва,rent,flat,27,75,3,198.0,570000,0,Пресненский,набережная Пресненская,8с1,Деловой центр
+42,МОСКВА СИТИ,real_estate_agent,https://www.cian.ru/rent/flat/305637123/,Москва,rent,flat,33,78,3,120.0,450000,0,Пресненский,1-й Красногвардейский проезд,22с2,Деловой центр
+43,МОСКВА СИТИ,real_estate_agent,https://www.cian.ru/rent/flat/305628742/,Москва,rent,flat,39,78,3,95.0,400000,0,Пресненский,1-й Красногвардейский проезд,22с2,Деловой центр
+44,МОСКВА СИТИ,real_estate_agent,https://www.cian.ru/rent/flat/305603780/,Москва,rent,flat,43,78,3,110.0,450000,0,Пресненский,1-й Красногвардейский проезд,22с2,Деловой центр
+45,BOYKOV Company,real_estate_agent,https://www.cian.ru/rent/flat/305566122/,Москва,rent,flat,45,75,3,120.0,520000,0,Пресненский,1-й Красногвардейский проезд,15,Деловой центр
+46,Алла Шмелева,realtor,https://www.cian.ru/rent/flat/305523005/,Москва,rent,flat,8,15,3,105.0,450000,0,Пресненский,Мантулинская ,9к2,Деловой центр
+47,Stapler Estate,real_estate_agent,https://www.cian.ru/rent/flat/305506515/,Москва,rent,flat,38,75,3,225.0,550000,0,Пресненский,набережная Пресненская,8с1,Деловой центр
+48,МОСКВА СИТИ,real_estate_agent,https://www.cian.ru/rent/flat/305006822/,Москва,rent,flat,49,78,3,124.0,520000,0,Пресненский,1-й Красногвардейский проезд,22с2,Деловой центр
+49,МОСКВА СИТИ,real_estate_agent,https://www.cian.ru/rent/flat/304723472/,Москва,rent,flat,14,78,3,96.0,380000,0,Пресненский,1-й Красногвардейский проезд,22с2,Деловой центр
+50,Urban Heights Moscow City,real_estate_agent,https://www.cian.ru/rent/flat/304647696/,Москва,rent,flat,45,75,3,186.0,430000,0,Пресненский,набережная Пресненская,8с1,Деловой центр
+51,Urban Heights Moscow City,real_estate_agent,https://www.cian.ru/rent/flat/304647353/,Москва,rent,flat,60,85,3,191.0,370000,0,Пресненский,1-й Красногвардейский проезд,21с1,Деловой центр
+52,Urban Heights Moscow City,real_estate_agent,https://www.cian.ru/rent/flat/304647020/,Москва,rent,flat,39,78,3,120.0,320000,0,Пресненский,1-й Красногвардейский проезд,22с2,Деловой центр
+53,Urban Heights Moscow City,real_estate_agent,https://www.cian.ru/rent/flat/304646986/,Москва,rent,flat,55,75,3,220.0,510000,0,Пресненский,набережная Пресненская,8с1,Деловой центр
+54,Urban Heights Moscow City,real_estate_agent,https://www.cian.ru/rent/flat/304645699/,Москва,rent,flat,71,95,3,189.0,360000,0,Пресненский,набережная Пресненская,12,Деловой центр
+55,Urban Heights Moscow City,real_estate_agent,https://www.cian.ru/rent/flat/304644561/,Москва,rent,flat,38,78,3,90.6,390000,0,Пресненский,1-й Красногвардейский проезд,22с2,Деловой центр

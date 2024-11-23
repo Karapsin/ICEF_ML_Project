@@ -1,0 +1,26 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307610807/,Москва,rent,flat,13,23,2,40.0,80000,0,Текстильщики,1-й Грайвороновский проезд,13к1,Новохохловская
+1,BARSANDKEY,real_estate_agent,https://www.cian.ru/rent/flat/307524612/,Москва,rent,flat,7,12,2,46.0,75000,0,Нижегородский,Боенский проезд,2,Новохохловская
+2,АРН-сервис,real_estate_agent,https://www.cian.ru/rent/flat/307403780/,Москва,rent,flat,8,24,2,63.0,100000,0,Нижегородский,Новохохловская ,15к1,Новохохловская
+3,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307363733/,Москва,rent,flat,13,23,2,37.0,80000,0,Текстильщики,1-й Грайвороновский проезд,13к1,Новохохловская
+4,ID 56710737,realtor,https://www.cian.ru/rent/flat/306828949/,Москва,rent,flat,16,33,2,42.0,85000,0,Нижегородский,Новохохловская ,15к2,Новохохловская
+5,Дмитрий Попов,realtor,https://www.cian.ru/rent/flat/306526858/,Москва,rent,flat,30,33,2,53.4,90000,0,Нижегородский,Новохохловская ,15к1,Новохохловская
+6,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/306009333/,Москва,rent,flat,7,12,2,46.0,75000,0,Нижегородский,Боенский проезд,2,Новохохловская
+7,СТОЛИЦА Департамент недвижимости,real_estate_agent,https://www.cian.ru/rent/flat/307576555/,Москва,rent,flat,4,5,2,46.0,80000,0,Тверской,Новосущевская ,14,Достоевская
+8,Анастасия Васильева,realtor,https://www.cian.ru/rent/flat/307470781/,Москва,rent,flat,30,32,2,54.0,100000,0,Нижегородский,Газгольдерная ,10,Нижегородская
+9,Павел Пинек,realtor,https://www.cian.ru/rent/flat/307448334/,Москва,rent,flat,13,26,2,60.0,85000,0,Соколиная гора,Вольная ,28/4к2,Соколиная гора
+10,Елена Закора,realtor,https://www.cian.ru/rent/flat/307525375/,Москва,rent,flat,4,5,2,45.0,75000,0,Даниловский,Автозаводская ,23К7,ЗИЛ
+11,АЛЬФА,real_estate_agent,https://www.cian.ru/rent/flat/306989893/,Москва,rent,flat,15,26,2,42.0,90000,0,Лефортово,Красноказарменная ,15к2,Авиамоторная
+12,Олимп,real_estate_agent,https://www.cian.ru/rent/flat/267385655/,Москва,rent,flat,2,26,2,38.0,70000,0,Даниловский,Автозаводская ,23Бк2,ЗИЛ
+13,СТОЛИЦА Департамент недвижимости,real_estate_agent,https://www.cian.ru/rent/flat/307261388/,Москва,rent,flat,8,8,2,45.0,100000,0,Даниловский,Дербеневская набережная,11А,Крестьянская застава
+14,ID 643783,unknown,https://www.cian.ru/rent/flat/307574111/,Москва,rent,flat,7,10,1,35.7,85000,0,Лефортово,Красноказарменная ,14Ак6,Авиамоторная
+15,Про Жильё,real_estate_agent,https://www.cian.ru/rent/flat/307628673/,Москва,rent,flat,2,10,1,35.0,72000,0,Лефортово, Золоторожский Вал,8,Серп и Молот
+16,ЦАН,real_estate_agent,https://www.cian.ru/rent/flat/307609332/,Москва,rent,flat,24,32,2,46.0,90000,0,Нижегородский,Перовское шоссе,2к2,Нижегородская
+17,Александр Ваймугин,realtor,https://www.cian.ru/rent/flat/307668320/,Москва,rent,flat,26,30,2,45.0,80000,0,Богородское,бульвар Маршала Рокоссовского,6к1,Бульвар Рокоссовского
+18,ID 61574921,homeowner,https://www.cian.ru/rent/flat/307583505/,Москва,rent,flat,9,21,1,36.0,77000,0,Текстильщики,1-й Грайвороновский проезд,13к1,Новохохловская
+19,White House,real_estate_agent,https://www.cian.ru/rent/flat/269766940/,Москва,rent,flat,20,25,1,40.0,74999,0,Лефортово,Красноказарменная ,14Ак6,Авиамоторная
+20,Юлия Литвинова,realtor,https://www.cian.ru/rent/flat/307633305/,Москва,rent,flat,2,14,2,42.0,80000,0,Таганский,Николоямский переулок,3АК4,Таганская
+21,ПИК-Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307527838/,Москва,rent,flat,6,7,1,36.3,90000,0,Таганский,Нижегородская ,32С3,Калитники
+22,Мой Дом - отделение Добрынинское,real_estate_agent,https://www.cian.ru/rent/flat/307666825/,Москва,rent,flat,10,24,2,60.0,75000,0,Лефортово,проезд Шелихова,9к1,Серп и Молот
+23,ПИК-Аренда,real_estate_agent,https://www.cian.ru/rent/flat/307590877/,Москва,rent,flat,28,33,1,19.9,57700,0,Нижегородский,Новохохловская ,15к3,Новохохловская
+24,TheBest,real_estate_agent,https://www.cian.ru/rent/flat/307651345/,Москва,rent,flat,8,30,1,38.0,85000,0,Южнопортовый,Волгоградский проспект,32/3к4,Угрешская

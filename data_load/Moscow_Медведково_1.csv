@@ -1,0 +1,57 @@
+,author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,district,street,house_number,underground
+0,Павел Васин,realtor,https://www.cian.ru/rent/flat/307740149/,Москва,rent,flat,4,9,1,35.0,35000,0,Лосиноостровский,Челюскинская ,10К1,Медведково
+1,Илья Чумаков,realtor,https://korolev.cian.ru/rent/flat/307738244/,Москва,rent,flat,2,4,1,35.0,27000,0,, Горького,79к12,Медведково
+2,Олег Гевак,realtor,https://korolev.cian.ru/rent/flat/307728859/,Москва,rent,flat,9,19,1,42.9,45000,0,, Декабристов,8,Медведково
+3,Сергей Комбаров,realtor,https://www.cian.ru/rent/flat/307726968/,Москва,rent,flat,6,19,1,29.0,50000,0,Северное Медведково,Широкая ,30,Медведково
+4,ID 91115377,realtor,https://mytishchi.cian.ru/rent/flat/307726504/,Москва,rent,flat,2,7,1,31.8,35000,0,,бульвар Тенистый,11,Медведково
+5,ID 106243903,homeowner,https://mytishchi.cian.ru/rent/flat/307724397/,Москва,rent,flat,9,17,1,32.5,45000,0,, Стрельбище Динамо,10,Медведково
+6,Яндекс Аренда,real_estate_agent,https://mytishchi.cian.ru/rent/flat/307723404/,Москва,rent,flat,14,17,1,35.0,46000,0,, Стрельбище Динамо,10,Медведково
+7,MOTYLEK - департамент недвижимости,real_estate_agent,https://www.cian.ru/rent/flat/307722891/,Москва,rent,flat,1,18,1,38.0,50000,0,Северное Медведково,Полярная ,42К1,Медведково
+8,Про Жильё,real_estate_agent,https://mytishchi.cian.ru/rent/flat/307722507/,Москва,rent,flat,6,17,1,35.0,45000,0,, Борисовка,8А,Медведково
+9,Наталия Никишева,realtor,https://korolev.cian.ru/rent/flat/307722432/,Москва,rent,flat,3,10,1,42.0,28000,0,, Горького,16к1,Медведково
+10,АВАНГАРД,real_estate_agent,https://www.cian.ru/rent/flat/307721164/,Москва,rent,flat,6,16,1,38.0,42000,0,Бибирево, Лескова,17,Медведково
+11,Горизонт,real_estate_agent,https://korolev.cian.ru/rent/flat/307718586/,Москва,rent,flat,2,5,1,36.0,30000,0,,Садовая ,10А,Медведково
+12,ID 61461449,homeowner,https://mytishchi.cian.ru/rent/flat/307713734/,Москва,rent,flat,15,17,1,31.0,38000,0,, Советская,3А,Медведково
+13,ID 84672,realtor,https://korolev.cian.ru/rent/flat/307712832/,Москва,rent,flat,15,16,1,36.0,35000,0,,Пионерская ,10Ак3,Медведково
+14,Агентство Решения Жилищных Вопросов,real_estate_agent,https://mytishchi.cian.ru/rent/flat/307709528/,Москва,rent,flat,11,17,1,32.0,44000,0,,переулок 1-й Стрелковый,1,Медведково
+15,ID 27634,realtor,https://www.cian.ru/rent/flat/307709211/,Москва,rent,flat,9,9,1,35.0,55000,0,Северное Медведково,проезд Шокальского,34,Медведково
+16,GardenGoldRealty,real_estate_agent,https://www.cian.ru/rent/flat/307708132/,Москва,rent,flat,6,9,1,35.0,50000,0,Бибирево, Корнейчука,46,Медведково
+17,ПАРТНЕР,real_estate_agent,https://www.cian.ru/rent/flat/307706860/,Москва,rent,flat,10,12,1,40.0,65000,0,Южное Медведково, Молодцова,1А,Медведково
+18,Ирина Лискина,realtor,https://www.cian.ru/rent/flat/307705403/,Москва,rent,flat,30,33,1,41.0,75000,0,Южное Медведково,Полярная ,25к2,Медведково
+19,ID 16652,realtor,https://www.cian.ru/rent/flat/307699203/,Москва,rent,flat,10,12,1,39.1,60000,0,Бибирево, Плещеева,18,Медведково
+20,Ирина Коврова,realtor,https://korolev.cian.ru/rent/flat/307695784/,Москва,rent,flat,4,5,1,31.0,40000,0,, Болдырева,8,Медведково
+21,Ольга Титова,realtor,https://www.cian.ru/rent/flat/307693638/,Москва,rent,flat,8,17,1,35.0,80000,0,Северное Медведково, Грекова,5,Медведково
+22,Golden Key,real_estate_agent,https://www.cian.ru/rent/flat/307686646/,Москва,rent,flat,1,4,1,33.0,45000,0,Бабушкинский, Менжинского,15К2,Медведково
+23,Сергей Комбаров,realtor,https://korolev.cian.ru/rent/flat/307686166/,Москва,rent,flat,4,9,1,35.0,30000,0,,проспект Королева,24,Медведково
+24,ID 98253909,homeowner,https://mytishchi.cian.ru/rent/flat/307684252/,Москва,rent,flat,8,17,1,34.0,45000,0,, Стрельбище Динамо,10,Медведково
+25,Дом+,real_estate_agent,https://mytishchi.cian.ru/rent/flat/307683057/,Москва,rent,flat,12,17,1,31.0,40000,0,,переулок 1-й Стрелковый,3,Медведково
+26,НАСЛЕДИЕ,real_estate_agent,https://mytishchi.cian.ru/rent/flat/307680893/,Москва,rent,flat,4,18,1,38.0,43000,0,, Воронина,14,Медведково
+27,АПРИОРИ ЭСТЕЙТ,real_estate_agent,https://mytishchi.cian.ru/rent/flat/307679757/,Москва,rent,flat,3,17,1,46.0,53000,0,, Воровского,1,Медведково
+28,ID 122024776,homeowner,https://mytishchi.cian.ru/rent/flat/307593971/,Москва,rent,flat,3,9,1,36.2,45000,0,, Мира,35,Медведково
+29,ПИК-Аренда,real_estate_agent,https://mytishchi.cian.ru/rent/flat/307592833/,Москва,rent,flat,6,25,1,41.0,43500,0,, Борисовка,28А,Медведково
+30,Сити Недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/307578645/,Москва,rent,flat,1,3,1,32.0,30000,0,Ярославский, Егора Абакумова,3,Медведково
+31,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307569395/,Москва,rent,flat,6,8,1,30.0,65000,0,Лосиноостровский, Коминтерна,15,Медведково
+32,ID 1325,realtor,https://www.cian.ru/rent/flat/307551274/,Москва,rent,flat,6,17,1,40.8,60000,0,Южное Медведково,проезд Дежнева,22к4,Медведково
+33,ID 72952063,unknown,https://www.cian.ru/rent/flat/307545547/,Москва,rent,flat,1,16,1,36.0,47990,0,Южное Медведково,Заповедная ,28,Медведково
+34,ID 121837992,homeowner,https://mytishchi.cian.ru/rent/flat/307528014/,Москва,rent,flat,17,22,1,37.2,50000,0,Датский квартал ЖК, Полковника Романова,5,
+35,Цитадель,real_estate_agent,https://mytishchi.cian.ru/rent/flat/307523072/,Москва,rent,flat,15,17,1,30.2,44000,0,, Стрельбище Динамо,10,Медведково
+36,Юлиан Королев,realtor,https://korolev.cian.ru/rent/flat/307521967/,Москва,rent,flat,2,5,1,39.4,40000,0,,Бурковский проезд,56к3,Медведково
+37,ID 17350858,realtor,https://mytishchi.cian.ru/rent/flat/307506678/,Москва,rent,flat,8,25,1,42.0,40000,0,, Борисовка,28,Медведково
+38,Александр Богданов,realtor,https://www.cian.ru/rent/flat/307506069/,Москва,rent,flat,14,14,1,38.0,59000,0,Северное Медведково,проезд Шокальского,37К1,Медведково
+39,ID 85724987,unknown,https://www.cian.ru/rent/flat/307505448/,Москва,rent,flat,14,14,1,38.0,57000,0,Северное Медведково,проезд Шокальского,37К1,Медведково
+40,ID 436642,unknown,https://mytishchi.cian.ru/rent/flat/307505394/,Москва,rent,flat,16,16,1,42.0,38000,0,,Олимпийский проспект,36к1,Медведково
+41,ID 12660486,unknown,https://korolev.cian.ru/rent/flat/307502467/,Москва,rent,flat,14,26,1,47.0,40000,0,, Гагарина,12/14,Медведково
+42,Яндекс Аренда,real_estate_agent,https://korolev.cian.ru/rent/flat/307496830/,Москва,rent,flat,23,25,1,52.0,47500,0,, Ленина,27,Медведково
+43,ID 80263326,unknown,https://mytishchi.cian.ru/rent/flat/307495800/,Москва,rent,flat,3,7,1,32.3,33000,0,,бульвар Тенистый,6,Медведково
+44,ID 49045523,real_estate_agent,https://mytishchi.cian.ru/rent/flat/307486602/,Москва,rent,flat,5,9,1,45.0,55000,0,,Летная ,21/2,Медведково
+45,ID 49045523,real_estate_agent,https://mytishchi.cian.ru/rent/flat/307486312/,Москва,rent,flat,6,9,1,39.0,40000,0,,Олимпийский проспект,4,Медведково
+46,Наталья Ашурова,realtor,https://www.cian.ru/rent/flat/307485539/,Москва,rent,flat,4,5,1,22.0,42000,0,Ярославский, Егора Абакумова,2,Медведково
+47,Capital Mars,real_estate_agent,https://www.cian.ru/rent/flat/307476867/,Москва,rent,flat,13,16,1,35.0,60000,0,Южное Медведково, Молодцова,1В,Медведково
+48,ID 286282,realtor,https://mytishchi.cian.ru/rent/flat/307462805/,Москва,rent,flat,4,25,1,46.0,47000,0,, Борисовка,28А,Медведково
+49,Три Ступени,real_estate_agent,https://korolev.cian.ru/rent/flat/307461629/,Москва,rent,flat,1,2,1,30.0,30000,0,,Станционная ,59,Медведково
+50,Дмитрий Корольков,realtor,https://mytishchi.cian.ru/rent/flat/307438041/,Москва,rent,flat,6,9,1,32.0,35000,0,, Терешковой,21к2,Медведково
+51,Абсолют Капитал Недвижимость,real_estate_agent,https://mytishchi.cian.ru/rent/flat/307430961/,Москва,rent,flat,7,17,1,32.0,40000,0,, Стрельбище Динамо,10,Медведково
+52,Дмитрий Ловецкий,realtor,https://mytishchi.cian.ru/rent/flat/307411854/,Москва,rent,flat,3,5,1,32.0,33000,0,,Новомытищинский проспект,80к7,Медведково
+53,Юлия Качесова,realtor,https://mytishchi.cian.ru/rent/flat/307407511/,Москва,rent,flat,3,17,1,30.8,40000,0,, Стрельбище Динамо,10,Медведково
+54,Абсолют Капитал Недвижимость,real_estate_agent,https://www.cian.ru/rent/flat/307396155/,Москва,rent,flat,2,17,1,40.0,60000,0,Северное Медведково, Молодцова,6,Медведково
+55,Абсолют Капитал Недвижимость,real_estate_agent,https://mytishchi.cian.ru/rent/flat/307394530/,Москва,rent,flat,8,10,1,47.0,45000,0,,Институтская ,19к1,Медведково

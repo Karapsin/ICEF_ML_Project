@@ -86,8 +86,8 @@ def dist_points(point1, point2):
 
 def dist_multipoint(point, multipoint, min_start = float('inf')):
     min_distance = min_start
-    for sinlge_point in multipoint.geoms:
-        current_dist = dist_points(point, sinlge_point)
+    for single_point in multipoint.geoms:
+        current_dist = dist_points(point, single_point)
         min_distance = min(min_distance, current_dist)
 
     return min_distance
@@ -137,7 +137,7 @@ def closest_dist_geo_obj(point, geo_obj):
 # 6) within 10km and 15 km
 
 #if get_area_features = True:
-#returns areas of objects following the same principle as above (in m^2)
+#returns areas of objects following the same principle as above (in km^2)
 def get_geo_features(point,
                      geo_obj_series,
                      key,
@@ -150,8 +150,9 @@ def get_geo_features(point,
         output.append(int((distances < dist).sum() - output[i - 1]))
 
     if get_area_features:
+        geo_obj_series = geo_obj_series.to_crs(epsg=32637)
         def get_total_area_within_reach(dist_df, reach):
-            return dist_df[dist_df['distances'] < reach]['areas'].sum()
+            return (dist_df[dist_df['distances'] < reach]['areas'].sum())/(10**6)
 
         dist_df = pd.DataFrame({"distances": distances,
                                 "areas": geo_obj_series.apply(lambda x: x.area)
@@ -160,7 +161,7 @@ def get_geo_features(point,
         output.append(get_total_area_within_reach(dist_df, 0.5))
 
         for i, dist in enumerate([1, 3, 5, 10, 15], len(output)):
-            output.append((get_total_area_within_reach(dist_df, 0.5) - output[i - 1]))
+            output.append((get_total_area_within_reach(dist_df, dist) - output[i - 1]))
 
     return output
 
@@ -176,7 +177,8 @@ def get_geo_features_df(points_df,
 
     if get_area_features:
         columns.extend(list(map(lambda x: prefix + '_' +'area_' + x,
-                                ['closest_km', 'less500m', '0.5-1km', '1-3km', '3-5km', '5-10km', '10-15km'])))
+                                ['less500m', '0.5-1km', '1-3km', '3-5km', '5-10km', '10-15km'])))
+        geo_obj_series
 
     features_df = pd.DataFrame(columns = columns)
     for i, single_point in enumerate(points_df[points_col]):
@@ -201,5 +203,39 @@ def get_geo_features_df(points_df,
     print("finished")
     return features_df
 
+
+#transforms str col from data.mos.ru to the correct format
+#string -> dict -> polygon/multipolygon
+#example: parse_str_to_polygon(df['geoData'])
+from shapely.wkt import loads
+def parse_str_to_polygon(input_series):
+
+    if input_series[0][:14] == '{coordinates=[':
+        return (input_series
+                   .apply(lambda x: x
+                                    .replace("=", ":")
+                                    .replace("coordinates", "'coordinates'")
+                                    .replace("type:", "'type':'")
+                                    .replace("}", "'}"))
+                   .apply(lambda x: shape(eval(x)))
+                )
+    else:
+        return input_series.apply(lambda x: loads(x))
+
+def create_gdf(df,
+               col_to_geometry = 'geoData',
+               drop_orig_geo_col = True,
+               to_fix_geo_obj = True
+    ):
+    if to_fix_geo_obj:
+        df[col_to_geometry] = df[col_to_geometry].apply(lambda x: fix_geo_obj(x))
+
+    gdf = gpd.GeoDataFrame(df, geometry=df[col_to_geometry])
+    gdf.set_crs("epsg:4326", allow_override=True, inplace=True)
+
+    if drop_orig_geo_col:
+        gdf = gdf.drop(col_to_geometry, axis = 1)
+
+    return gdf
 
 

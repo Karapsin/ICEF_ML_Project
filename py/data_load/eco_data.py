@@ -57,5 +57,10 @@ df['obj_type'] = np.where(check_series(["полигон тбо"]), "dump",
                  np.where(check_series(["котельн"]), "boiler", "factory"
                  ))))
 
+from shapely.wkt import loads
+df['centr_dist'] = df['geoData'].apply(lambda x: loads(x)).apply(lambda x: closest_dist_geo_obj(Point((55.755787, 37.617764)), x)/1000)
+df = df.query("centr_dist < 50")
+
+
 df.to_csv("csv//csv_to_split//eco.csv", index = False)
 df.to_excel("xlsx//eco.xlsx", index = False)

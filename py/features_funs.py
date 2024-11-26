@@ -157,8 +157,6 @@ def create_gdf(df,
     return gdf
 
 
-
-#quite messy, sorry
 from shapely.wkt import loads
 def process_coords_file(file_name, points_df):
     if file_name.replace(".csv", "") + '_features.csv' in os.listdir('csv//finished_geo_features'):

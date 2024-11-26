@@ -116,9 +116,18 @@ def move_to_end(col):
 
 move_to_end('is_duplicated')
 move_to_end('other_flats_at_this_coords')
+df = df[df['price'] <= df['price'].quantile(0.95)]
+df = pd.get_dummies(df_remaining, columns = ["author_type", 'rooms'], drop_first = False)
 
-(pd.get_dummies(df, columns = ["author_type", 'rooms'], drop_first = False)
- .to_csv("csv//data_for_modelling.csv", index = False)
-)
 
 df.to_csv("csv//data_for_report.csv", index = False)
+
+holdout = df.sample(n = 1000, random_state = 228)
+df_remaining = df.drop(holdout.index)
+
+
+df_remaining.to_csv("csv//data_for_modelling.csv", index = False)
+holdout.to_csv("csv//holdout.csv", index = False)
+
+
+

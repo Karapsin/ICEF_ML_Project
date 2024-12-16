@@ -45,6 +45,10 @@ with ThreadPoolExecutor(max_workers = 4) as executor:
 df['center_dist'] = df['geometry'].apply(lambda x: closest_dist_geo_obj(Point((55.755787, 37.617764)), x)/1000)
 df['other_flats_at_this_coords'] = df['coords'].duplicated(keep=False).astype(int)
 
+#this feature shows how many locations with different flats are nearby
+#we are calculating it separately for the modelling and holdout samples
+#to prevent info leak
+#here it is calculated for the whole sample (for reporting purposes)
 if 'report_sample.csv' not in os.listdir('csv//other_flats_features'):
     (get_geo_features_df(points_df,
                                            'geometry',
@@ -129,7 +133,6 @@ df = df.drop(list(filter(lambda x: '5-10km' in x or '10-15km' in x, df.columns))
 df.to_csv("csv//data_for_report.csv")
 
 other_flats_cols = ['coords',
-                    'other_flats_closest_km',
                     'other_flats_less500m',
                     'other_flats_0.5-1km',
                     'other_flats_1-3km',
@@ -149,16 +152,44 @@ other_flats_cols = ['coords',
 
 #holdout and model_df
 holdout = df.sample(n = 1000, random_state = 228)
+
+#we are using report sample file
+#since now, when the holdout sample is attached
+#we basically have the initial sample
+(holdout
+ .merge(pd.read_csv("csv//other_flats_features//report_sample.csv", usecols = other_flats_cols),
+         on = 'coords',
+         how = 'left'
+  )
+ .drop(['coords', 'geometry'], axis = 1)
+ .drop_duplicates()
+ .to_csv("csv//holdout.csv", index = False)
+ )
+
+#to prevent info leaking we are limiting search
+#(only coords from df_remaining are included)
 df_remaining = df.drop(holdout.index)
+if 'model_sample.csv' not in os.listdir('csv//other_flats_features'):
+    coords_set = set(df_remaining['geometry'])
+    points_filtered = points_df.query("geometry.isin(@coords_set)").reset_index()
+    (get_geo_features_df(points_filtered,
+                        'geometry',
+                        'coords',
+                        'other_flats',
+                         points_filtered['geometry']
+                       )
+     .to_csv("csv//other_flats_features//model_sample.csv",
+             index = False
+      )
+     )
 
 
-
-
-
-
-
-df_remaining.to_csv("csv//data_for_modelling.csv", index = False)
-holdout.to_csv("csv//holdout.csv", index = False)
-
-
-
+(df_remaining
+ .merge(pd.read_csv("csv//other_flats_features//model_sample.csv", usecols = other_flats_cols),
+         on = 'coords',
+         how = 'left'
+  )
+ .drop(['coords', 'geometry'], axis = 1)
+ .drop_duplicates()
+ .to_csv("csv//data_for_modelling.csv", index = False)
+ )

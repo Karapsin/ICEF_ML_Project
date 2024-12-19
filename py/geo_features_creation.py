@@ -145,7 +145,7 @@ other_flats_cols = ['coords',
          on = 'coords',
          how = 'left'
   )
- .drop(['coords', 'geometry'], axis = 1)
+ .drop(['geometry'], axis = 1)
  .drop_duplicates()
  .to_csv("csv//data_for_report.csv", index = False)
  )
@@ -161,7 +161,7 @@ holdout = df.sample(n = 1000, random_state = 228)
          on = 'coords',
          how = 'left'
   )
- .drop(['coords', 'geometry'], axis = 1)
+ .drop(['geometry'], axis = 1)
  .drop_duplicates()
  .to_csv("csv//holdout.csv", index = False)
  )
@@ -189,7 +189,7 @@ if 'model_sample.csv' not in os.listdir('csv//other_flats_features'):
          on = 'coords',
          how = 'left'
   )
- .drop(['coords', 'geometry'], axis = 1)
+ .drop(['geometry'], axis = 1)
  .drop_duplicates()
  .to_csv("csv//data_for_modelling.csv", index = False)
  )

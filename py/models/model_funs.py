@@ -1,4 +1,5 @@
 from model_utils import *
+from model_classes import *
 
 def get_PCA_groups(X, patterns):
     """
@@ -22,7 +23,8 @@ def get_model_pipeline(X,
                        poly_features = None,
                        standartize = False,
                        pca_groups = None, 
-                       feature_selection = (None, None)
+                       feature_selection = (None, None),
+                       return_preproc = False
     ):
 
     transformers = list()
@@ -31,8 +33,6 @@ def get_model_pipeline(X,
     if standartize:
         standardized_pipeline = Pipeline([('scaler', StandardScaler())])
         transformers.append(('standardize_all', standardized_pipeline, X.columns.to_list()))
-    else:
-        transformers.append(('passthrough', 'passthrough', X.columns.to_list()))
 
     # PCA 
     if pca_groups is not None: 
@@ -65,8 +65,13 @@ def get_model_pipeline(X,
             print(f"{name}: Cumulative Explained Variance: {cumulative_variance[-1]:.4f}")
 
         # Add passthrough for remaining features
-        transformers.append(('passthrough2', 'passthrough', other_features))
+        transformers.append(('passthrough_other', 'passthrough', other_features))
 
+    # Build preprocessor with initial transformers
+    if len(transformers) == 0:
+        transformers = [('passthrough', 'passthrough', X.columns.to_list())]
+
+    preprocessor = ColumnTransformer(transformers, remainder='drop')
 
     # poly Features
     if poly_features is not None:
@@ -83,16 +88,17 @@ def get_model_pipeline(X,
         # Add polynomial feature transformation as an additional operation
         extra_tuples_list.append(('poly_and_scale', poly_pipeline))
 
-    # Build preprocessor with initial transformers
-    preprocessor = ColumnTransformer(transformers, remainder='drop')
-
-    # Feature selection 
+    # feature selection 
     if feature_selection[0] is not None:
         if feature_selection[0] == 'k_best':
             extra_tuples_list.append(('select_k_best', SelectKBest(score_func = f_regression, k = feature_selection[1])))
 
-        elif feature_selection[0] == 'rfe_n':
-            model = RFE(estimator=model, n_features_to_select=feature_selection[1])
+        elif feature_selection[0] == 'n_best_fits':
+            feature_selector = NBestFeaturesSelector(model = model, n_features = feature_selection[1])
+            extra_tuples_list.append(('select_n_best', feature_selector))
+
+            model_selector = BestModelSelector(model=model, scoring='neg_mean_absolute_error')
+            extra_tuples_list.append(('select_best_model', model_selector))
 
 
     pipeline_list = [('preprocessor3', preprocessor)]
@@ -102,31 +108,4 @@ def get_model_pipeline(X,
     # final pipeline
     model_pipeline = Pipeline(pipeline_list)
 
-    return model_pipeline
-
-
-def fit_and_eval_knn_on_given_cols(X, y, col_comb):
-    print(f"checking {col_comb}")
-    model = get_model_pipeline(X[col_comb], KNeighborsRegressor(), standartize = True)
-    param_grid = {'model__n_neighbors': np.arange(10, 200),  
-                  'model__weights': ['uniform', 'distance'], 
-                  'model__algorithm': ['auto', 'ball_tree', 'kd_tree', 'brute']  
-                  }
-    
-    grid_search = GridSearchCV(model, 
-                               param_grid, 
-                               cv = 5, 
-                               scoring = 'neg_mean_absolute_error', 
-                               return_train_score = False,
-                               verbose = 1,
-                               n_jobs = 5
-                 )
-    grid_search.fit(X[col_comb], y)
-    
-    print("Best Parameters:", grid_search.best_params_)
-    print("Best MAE: {:.2f}".format(-grid_search.best_score_))
-    
-    print("")
-    print("")
-
-    return -grid_search.best_score_
+    return model_pipeline if not(return_preproc) else pipeline_list

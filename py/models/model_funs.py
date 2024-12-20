@@ -94,7 +94,10 @@ def get_model_pipeline(X,
             extra_tuples_list.append(('select_k_best', SelectKBest(score_func = f_regression, k = feature_selection[1])))
 
         elif feature_selection[0] == 'n_best_fits':
-            feature_selector = NBestFeaturesSelector(model = model, n_features = feature_selection[1])
+            if pca_groups is not None or poly_features is not None:
+                raise ValueError("Curruntly n_best_fits with pca or poly features is not implemented")
+
+            feature_selector = NBestFeaturesSelector(model = model, n_features = feature_selection[1], names_array = X.columns)
             extra_tuples_list.append(('select_n_best', feature_selector))
 
             model_selector = BestModelSelector(model=model, scoring='neg_mean_absolute_error')
